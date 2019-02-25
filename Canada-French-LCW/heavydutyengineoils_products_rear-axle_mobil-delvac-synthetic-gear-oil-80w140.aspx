@@ -250,16 +250,16 @@ DANA SHAES 256<br>
                                             <td width="" height="" class="standard">Viscosité, ASTM D 445</td><td width="" height="" class="standard">&nbsp;</td>
                                         </tr>
                                         <tr>
-                                            <td width="" height="" class="standard">cSt à 40 ºC</td><td width="" height="" class="standard">310</td>
+                                            <td width="" height="" class="standard">cSt à 40 ºC</td><td width="" height="" class="standard">244</td>
                                         </tr>
                                         <tr>
-                                            <td width="" height="" class="standard">cSt à 100 ºC</td><td width="" height="" class="standard">31.2</td>
+                                            <td width="" height="" class="standard">cSt à 100 ºC</td><td width="" height="" class="standard">27.9</td>
                                         </tr>
                                         <tr>
-                                            <td width="" height="" class="standard">Index de viscosité, ASTM D 2270</td><td width="" height="" class="standard">139</td>
+                                            <td width="" height="" class="standard">Index de viscosité, ASTM D 2270</td><td width="" height="" class="standard">150</td>
                                         </tr>
                                         <tr>
-                                            <td width="" height="" class="standard">Point d&rsquo;écoulement, ºC, ASTM D 97</td><td width="" height="" class="standard">-36</td>
+                                            <td width="" height="" class="standard">Point d&rsquo;écoulement, ºC, ASTM D 97</td><td width="" height="" class="standard">-47</td>
                                         </tr>
                                         <tr>
                                             <td width="" height="" class="standard">Point d&rsquo;éclair, ºC, ASTM D 92</td><td width="" height="" class="standard">210</td>

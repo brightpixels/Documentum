@@ -97,7 +97,7 @@
                     <script type="text/javascript">quickEditForm('0915881d81f0fa6f', '/Content',false,'../forms/LCWProductDetails','','825px','750px','Product Detail Overview','','pencil.gif','200px');</script><!-- googleon: all -->
                     <div id="topSec">
                         <div style="float:left" id="flash">
-                            <img xmlns="" src="http://lubes.mobil.ca/Canada-English-LCW/Images/Mobil_Delvac_1_Trans_Fluid_40_1gal_front_120x150px.jpg" height="150" width="120"> </div>
+                            <img xmlns="" src="http://lubes.mobil.com/Canada-English-LCW/Images/Mobil_Delvac_1_Trans_Fluid_40_1gal_front_120x150px.jpg" height="150" width="120"> </div>
                         <h1>Mobil Delvac&trade; 1 Transmission Fluid 40&nbsp;&nbsp;</h1>
                         <p xmlns="">Mobil Delvac&trade; 1 Transmission Fluid 40 is a fully synthetic, manual transmission lubricant approved by Eaton against the PS-386 specification and engineered to meet the most demanding extended drain and OEM warranty requirements. It is recommended for year-round lubrication of manual transmissions in light to severe duty on- and off-highway equipment operating in a wide range of environments. Designed to provide maximum protection and extended operating life to heavy duty transmissions, Mobil Delvac 1 Transmission Fluid 40 provides outstanding high-temperature performance, oxidation stability, wear protection, and corrosion control.</p>
                     </div>

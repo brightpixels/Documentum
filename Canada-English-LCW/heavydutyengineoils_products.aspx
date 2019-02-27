@@ -76,7 +76,7 @@
 
                         <h1 xmlns="">Mobil Delvac&trade; Products</h1>
 
-                        <p xmlns="">Mobil&trade; has specialised in heavy-duty lubricants for over 80 years.&nbsp;Mobil Delvac meets and often exceeds, the needs of today&rsquo;s Original Equipment Manufacturers (OEM) and Commercial Vehicle (CV) professionals and is chosen by several of the world&rsquo;s leading and largest heavy-duty truck engine builders for factory fill and service fill. Indeed, Mobil Delvac is chosen by&nbsp;many of the&nbsp;world&rsquo;s largest&nbsp;truck engine builders. You can therefore be sure there is a lubricant to meet the needs of your vehicle whatever your operating conditions. Browse the <a title="" target="_blank" onclick="trackClick(this);" href="http://lubes.mobil.ca/Canada-English-LCW/heavydutyengineoils_mobil-delvac_bumper-to-bumper.aspx" class="">Bumper to Bumper Guide</a>
+                        <p xmlns="">Mobil&trade; has specialised in heavy-duty lubricants for over 80 years.&nbsp;Mobil Delvac meets and often exceeds, the needs of today&rsquo;s Original Equipment Manufacturers (OEM) and Commercial Vehicle (CV) professionals and is chosen by several of the world&rsquo;s leading and largest heavy-duty truck engine builders for factory fill and service fill. Indeed, Mobil Delvac is chosen by&nbsp;many of the&nbsp;world&rsquo;s largest&nbsp;truck engine builders. You can therefore be sure there is a lubricant to meet the needs of your vehicle whatever your operating conditions. Browse the <a title="" target="_blank" onclick="trackClick(this);" href="http://lubes.mobil.com/Canada-English-LCW/heavydutyengineoils_mobil-delvac_bumper-to-bumper.aspx" class="">Bumper to Bumper Guide</a>
                         </p> </div>
             <div id="subfeatureCallouts">
                     <div style="background-image:url(/Shared-Images-LCW/callout_224x135_map_gbl.jpg);" class="callout top">
@@ -103,7 +103,7 @@ distributor in your area</p>
                             <div class="frame01BR clrfix">
                                 <div style="padding-right: 55px;" class="content">
                                     <h2>
-                                        <a xmlns="" title="This link will open a new window." target="_blank" onclick="trackClick(this);" href="http://lubes.mobil.ca/Canada-English-LCW/heavydutyengineoils_ck4-or-fa4.aspx">CK4 or FA4?<span></span></a>
+                                        <a xmlns="" title="This link will open a new window." target="_blank" onclick="trackClick(this);" href="http://lubes.mobil.com/Canada-English-LCW/heavydutyengineoils_ck4-or-fa4.aspx">CK4 or FA4?<span></span></a>
                                     </h2>
                                     <p xmlns="">Recommendations can vary<br>
 between OEMs, so we&rsquo;ve <br>
@@ -180,11 +180,11 @@ contains the information.</p>
                         <div class="subfeature csingle cright">
                             <div xmlns="" class="headerbar">
                                 <h3>
-                                    <a title="This link will open a new window." target="_blank" onclick="trackClick(this);" href="http://lubes.mobil.ca/Canada-English-LCW/heavydutyengineoils_mobil-delvac_bumper-to-bumper.aspx">Bumper to bumper product guide<span></span></a>
+                                    <a title="This link will open a new window." target="_blank" onclick="trackClick(this);" href="http://lubes.mobil.com/Canada-English-LCW/heavydutyengineoils_mobil-delvac_bumper-to-bumper.aspx">Bumper to bumper product guide<span></span></a>
                                 </h3>
                             </div>
                             <div xmlns="" class="padding">
-                                <div class="img60 left"><a href="http://lubes.mobil.ca/Canada-English-LCW/heavydutyengineoils_mobil-delvac_bumper-to-bumper.aspx" title="Bumper to bumper product guide" target="_blank" onclick="trackClick(this);"><img title="Rear Axle" src="../Canada-English-LCW/Images/bumper_to_bumper.png" longdesc="" class="floatimgleft" border="0" alt="Rear Axle"></a></div>
+                                <div class="img60 left"><a href="http://lubes.mobil.com/Canada-English-LCW/heavydutyengineoils_mobil-delvac_bumper-to-bumper.aspx" title="Bumper to bumper product guide" target="_blank" onclick="trackClick(this);"><img title="Rear Axle" src="../Canada-English-LCW/Images/bumper_to_bumper.png" longdesc="" class="floatimgleft" border="0" alt="Rear Axle"></a></div>
                                 <p>See how Mobil Delvac&trade; can help extend the life of your heavy-duty equipment.</p>
                             </div>
                         </div>

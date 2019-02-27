@@ -118,7 +118,7 @@
                     </div>
                     <div class="related">
                         <div style="float:left">
-                            <a xmlns="" target="_self" onclick="trackClick(this);" href="../Canada-English-LCW/heavydutyengineoils_products_mobiltrans-hd-50.aspx"><img width="60" title="Mobiltrans AST 50" src="http://lubes.mobil.ca/Canada-English-LCW/Images/Mobiltrans_HD_50_5gal_pail_front_2015_60x60px.jpg" longdesc="" height="60" border="0" alt="Mobiltrans AST 50"></a> </div>
+                            <a xmlns="" target="_self" onclick="trackClick(this);" href="../Canada-English-LCW/heavydutyengineoils_products_mobiltrans-hd-50.aspx"><img width="60" title="Mobiltrans AST 50" src="http://lubes.mobil.com/Canada-English-LCW/Images/Mobiltrans_HD_50_5gal_pail_front_2015_60x60px.jpg" longdesc="" height="60" border="0" alt="Mobiltrans AST 50"></a> </div>
                         <h2>
                             <a title="" target="_self" href="/Canada-English-LCW/heavydutyengineoils_products_mobiltrans-hd-50.aspx">Mobiltrans&trade; HD 50</a>
                         </h2>

@@ -81,24 +81,24 @@
                             <script type="text/javascript">quickEditForm("0915881d80dff73e", "/Content/SLeftColumn/Section",true,"../forms/LCWLandingColumns","20px","820px","700px","Left Landing Page Column","","pencil.gif","");</script>
                             <div xmlns="" class="headerbar">
                                 <h3>
-                                    <a title="This link will open a new window." target="_blank" onclick="trackClick(this);" href="https://portal.exxonmobil.com/login/login.aspx">DNet<span></span></a>
+                                    <a title="This link will open a new window." target="_blank" onclick="trackClick(this);" href="https://dnet.mobil.com/de/">DNet<span></span></a>
                                 </h3>
                             </div>
                             <div class="padding">
-                                <div class="img60 left"><a href="https://portal.exxonmobil.com/login/login.aspx" title="DNet" target="_blank" onclick="trackClick(this);"><img title="D-Net" src="../Shared-Images-LCW/teaser_60x60_euro-truck_eame.jpg" longdesc="" class="floatimgleft" border="0" alt="D-Net"></a></div>
-                                <p>DNet unterst&uuml;tzt registrierte Mobil&trade; Vertragsh&auml;ndler im Vertrieb von Mobil Markenprodukten. Klicken Sie hier, um zu <a title="" target="_blank" onclick="trackClick(this);" href="https://portal.exxonmobil.com/login/login.aspx" class="">DNet</a> zu gelangen.</p>
+                                <div class="img60 left"><a href="https://dnet.mobil.com/de/" title="DNet" target="_blank" onclick="trackClick(this);"><img title="D-Net" src="../Shared-Images-LCW/teaser_60x60_euro-truck_eame.jpg" longdesc="" class="floatimgleft" border="0" alt="D-Net"></a></div>
+                                <p>DNet unterst&uuml;tzt registrierte Mobil&trade; Vertragsh&auml;ndler im Vertrieb von Mobil Markenprodukten. Klicken Sie hier, um zu <a title="" target="_blank" onclick="trackClick(this);" href="https://dnet.mobil.com/de/" class="">DNet</a> zu gelangen.</p>
                             </div>
                         </div>
                         <div class="subfeature csingle cright">
                             <script type="text/javascript">quickEditForm("0915881d80dff73e", "/Content/SRightColumn/Section",true,"../forms/LCWLandingColumns","20px","820px","700px","Right Landing Page Column","","pencil.gif","");</script>
                             <div xmlns="" class="headerbar">
                                 <h3>
-                                    <a title="" target="_self" onclick="trackClick(this);" href="../Germany-German-LCW/contactus_contact.aspx?CountryCode=DE&Language=German">Sie m&ouml;chten sich registrieren?<span></span></a>
+                                    <a title="" target="_self" onclick="trackClick(this);" href="https://www.mobil.com/contact-us?lang=de-DE">Sie m&ouml;chten sich registrieren?<span></span></a>
                                 </h3>
                             </div>
                             <div class="padding">
-                                <div class="img60 left"><a href="../Germany-German-LCW/contactus_contact.aspx?CountryCode=DE&amp;Language=German" title="Sie m&ouml;chten sich registrieren?" target="_self" onclick="trackClick(this);"><img title="Sie m&ouml;chten sich registrieren?" src="../Shared-Images-LCW/teaser_60x60_customer-support_gbl.jpg" longdesc="" class="floatimgleft" border="0" alt="Sie m&ouml;chten sich registrieren?"></a></div>
-                                <p>Sie sind noch kein registrierter Nutzer? Dann verpassen Sie viele Vorteile! Wenden Sie sich an Ihren <a title="" target="" onclick="trackClick(this);" href="/Germany-German-LCW/contactus_contact.aspx?CountryCode=DE&Language=German" class="">Ansprechpartner bei ExxonMobil</a>.</p>
+                                <div class="img60 left"><a href="https://www.mobil.com/contact-us?lang=de-DE" title="Sie m&ouml;chten sich registrieren?" target="_self" onclick="trackClick(this);"><img title="Sie m&ouml;chten sich registrieren?" src="../Shared-Images-LCW/teaser_60x60_customer-support_gbl.jpg" longdesc="" class="floatimgleft" border="0" alt="Sie m&ouml;chten sich registrieren?"></a></div>
+                                <p>Sie sind noch kein registrierter Nutzer? Dann verpassen Sie viele Vorteile! Wenden Sie sich an Ihren <a title="" target="" onclick="trackClick(this);" href="https://www.mobil.com/contact-us?lang=de-DE" class="">Ansprechpartner bei ExxonMobil</a>.</p>
                             </div>
                         </div>
                     </div>
@@ -111,7 +111,7 @@
                             </div>
                             <div class="padding">
                                 <div class="img60 left"><a href="http://www.signumoilanalysis.com/" title="Signum &Ouml;lanalyse" target="_blank" onclick="trackClick(this);"><img title="Signum" src="../Shared-Images-LCW/teaser_60x60_signum-oil-pour_gbl.jpg" longdesc="" class="floatimgleft" border="0" alt="Signum"></a></div>
-                                <p>Das online gest&uuml;tzte Signum &Ouml;l-Analyse-Programm bietet die Erkenntnisse, die sie ben&ouml;tigen, um den Zustand ihrer Schmierstoffe und Anlagen in Ihrem Unternehmen besser zu verstehen. Klicken Sie hier, um zur <a title="" target="" onclick="trackClick(this);" href="http://www.signumoilanalysis.com/" class="">Signum<sup>SM </sup>&Ouml;lanalyse </a>zu gelangen, oder loggen Sie sich als registrierter Nutzer <a title="" target="" onclick="trackClick(this);" href="http://www.signumoilanalysis.com/" class="">hier</a> ein.</p>
+                                <p>Das online gest&uuml;tzte Signum &Ouml;l-Analyse-Programm bietet die Erkenntnisse, die sie ben&ouml;tigen, um den Zustand ihrer Schmierstoffe und Anlagen in Ihrem Unternehmen besser zu verstehen. Klicken Sie hier, um zur <a title="" target="" onclick="trackClick(this);" href="http://www.signumoilanalysis.com/" class="">Signum<sup>SM </sup>&Ouml;lanalyse </a>zu gelangen, oder loggen Sie sich als registrierter Nutzer <a title="" target="" onclick="trackClick(this);" href="https://ucld.us/Account/Login.aspx?brand=xom" class="">hier</a> ein.</p>
                             </div>
                         </div>
                         <div class="subfeature csingle cright">
@@ -131,12 +131,12 @@ Schweiz - 0800 561 576</p>
                         <div class="subfeature csingle cleft">
                             <div xmlns="" class="headerbar">
                                 <h3>
-                                    <a title="This link will open a new window." target="_blank" onclick="trackClick(this);" href="http://portal.exxonmobil.com/">Bereits registrierte Partner<span></span></a>
+                                    <a title="This link will open a new window." target="_blank" onclick="trackClick(this);" href="https://dnet.mobil.com/de/">Bereits registrierte Partner<span></span></a>
                                 </h3>
                             </div>
                             <div class="padding">
-                                <div class="img60 left"><a href="http://portal.exxonmobil.com/" title="Bereits registrierte Partner" target="_blank" onclick="trackClick(this);"><img title="Bereits registrierte Partner" src="../Shared-Images-LCW/teaser_60x60_group-of-people_eame.jpg" longdesc="" class="floatimgleft" border="0" alt="Bereits registrierte Partner"></a></div>
-                                <p>Wenn Sie bereits registrierter Kunde oder Lieferant von ExxonMobil sind, k&ouml;nnen Sie hier auf Ihr individuelles Portal zugreifen.</p>
+                                <div class="img60 left"><a href="https://dnet.mobil.com/de/" title="Bereits registrierte Partner" target="_blank" onclick="trackClick(this);"><img title="Bereits registrierte Partner" src="../Shared-Images-LCW/teaser_60x60_group-of-people_eame.jpg" longdesc="" class="floatimgleft" border="0" alt="Bereits registrierte Partner"></a></div>
+                                <p>Wenn Sie bereits registrierter Kunde oder Lieferant von ExxonMobil sind, k&ouml;nnen <a title="" target="" onclick="trackClick(this);" href="https://dnet.mobil.com/de/" class="">Sie hier</a> auf Ihr individuelles Portal zugreifen.</p>
                             </div>
                         </div>
                     </div>

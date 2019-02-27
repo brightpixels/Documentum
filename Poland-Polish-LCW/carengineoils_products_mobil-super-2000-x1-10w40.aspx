@@ -201,8 +201,7 @@
                                     <p xmlns="">
                                         <strong>Mobil Super 2000 X1 spe&#322;nia lub przewy&#380;sza nast&#281;puj&#261;ce wymagania: 10W-40 <br>
 
-                                        </strong>ACEA A3/B3&nbsp; <br>
-API SL <br>
+                                        </strong>API SL <br>
 AAE (STO 003) Group B5</p>
 
                                     <p xmlns="">

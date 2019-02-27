@@ -166,10 +166,6 @@
                                 </div>
                                 <div style="width:415px; white-space:normal; padding-top:10px;display:none " class="divTabContent" id="Specs Content">
                                     <p xmlns="">
-                                        <strong>Mobil Super 3000 Formula P 0W-30 uppfyller eller överträffar kraven enligt:&nbsp;</strong>&nbsp; <br>
-ACEA C2</p>
-
-                                    <p xmlns="">
                                         <br>
 
                                         <strong>Mobil Super 3000 Formula P 0W-30 har följande tillverkares godkännanden:&nbsp;&nbsp;</strong> 

@@ -83,11 +83,11 @@
                         <div class="subfeature csingle cleft"><!-- googleoff: all -->
                             <script type="text/javascript">quickEditForm("0915881d81325bd0", "/Content/SLeftColumn/Section",true,"../forms/LCWLandingColumns","20px","820px","700px","Left Landing Page Column","","pencil.gif","");</script><!-- googleon: all --><div xmlns="" class="headerbar">
                                 <h3>
-                                    <a title="This link will open a new window." target="_blank" onclick="trackClick(this);" href="https://portal.exxonmobil.com/login/login.aspx">DNet<span></span></a>
+                                    <a title="This link will open a new window." target="_blank" onclick="trackClick(this);" href="https://dnet.mobil.com/tr/">DNet<span></span></a>
                                 </h3>
                             </div>
                             <div xmlns="" class="padding">
-                                <div class="img60 left"><a href="https://portal.exxonmobil.com/login/login.aspx" title="DNet" target="_blank" onclick="trackClick(this);"><img title="DNet" src="../Shared-Images-LCW/teaser_60x60_euro-truck_eame.jpg" longdesc="" class="floatimgleft" border="0" alt="DNet"></a></div>
+                                <div class="img60 left"><a href="https://dnet.mobil.com/tr/" title="DNet" target="_blank" onclick="trackClick(this);"><img title="DNet" src="../Shared-Images-LCW/teaser_60x60_euro-truck_eame.jpg" longdesc="" class="floatimgleft" border="0" alt="DNet"></a></div>
                                 <p>ExxonMobil Distribütörlerinin ExxonMobil markal&#305; ürünleri ba&#351;ar&#305;l&#305; bir biçimde pazarlamak için ihtiyaç duyduklar&#305;n&#305; bulabilecekleri yerdir. <br>
 DNet&lsquo;e eri&#351;im için buraya t&#305;klay&#305;n.</p>
                             </div>
@@ -100,7 +100,7 @@ DNet&lsquo;e eri&#351;im için buraya t&#305;klay&#305;n.</p>
                             </div>
                             <div xmlns="" class="padding">
                                 <div class="img60 left"><a href="http://www.signumoilanalysis.com/" title="Signum ya&#287; analizi" target="_blank" onclick="trackClick(this);"><img title="Signum ya&#287; analizi" src="../Shared-Images-LCW/teaser_60x60_signum-oil-pour_gbl.jpg" longdesc="" class="floatimgleft" border="0" alt="Signum ya&#287; analizi"></a></div>
-                                <p>Signum<sup>SM</sup> gibi en son teknoloji ürünü kullan&#305;lm&#305;&#351; ya&#287; analiz programlar&#305;m&#305;z, ya&#287;lar&#305;n&#305;z&#305;n ve ekipman&#305;n&#305;z&#305;n durumunu daha iyi anlayabilmeniz için ihtiyac&#305;n&#305;z olan görü&#351;leri sunmaktad&#305;r. <a title="" target="" onclick="trackClick(this);" href="http://www.signumoilanalysis.com/" class="">Signum ya&#287; analizi</a> ba&#287;lant&#305;s&#305;na eri&#351;im için buraya t&#305;klay&#305;n; mevcut kullan&#305;c&#305;lar buradan da <a title="" target="_blank" onclick="trackClick(this);" href="https://portal.exxonmobil.com/" class="">oturum açabilirler</a>.</p>
+                                <p>Signum<sup>SM</sup> gibi en son teknoloji ürünü kullan&#305;lm&#305;&#351; ya&#287; analiz programlar&#305;m&#305;z, ya&#287;lar&#305;n&#305;z&#305;n ve ekipman&#305;n&#305;z&#305;n durumunu daha iyi anlayabilmeniz için ihtiyac&#305;n&#305;z olan görü&#351;leri sunmaktad&#305;r. <a title="" target="" onclick="trackClick(this);" href="http://www.signumoilanalysis.com/" class="">Signum ya&#287; analizi</a> ba&#287;lant&#305;s&#305;na eri&#351;im için buraya t&#305;klay&#305;n; mevcut kullan&#305;c&#305;lar buradan da <a title="" target="_blank" onclick="trackClick(this);" href="https://ucld.us/Account/Login.aspx?brand=xom" class="">oturum açabilirler</a>.</p>
                             </div>
                         </div>
                     </div>
@@ -108,23 +108,23 @@ DNet&lsquo;e eri&#351;im için buraya t&#305;klay&#305;n.</p>
                         <div class="subfeature csingle cleft">
                             <div xmlns="" class="headerbar">
                                 <h3>
-                                    <a title="This link will open a new window." target="_blank" onclick="trackClick(this);" href="http://portal.exxonmobil.com/">önceden kay&#305;tl&#305; ortaklar<span></span></a>
+                                    <a title="This link will open a new window." target="_blank" onclick="trackClick(this);" href="https://dnet.mobil.com/tr/">önceden kay&#305;tl&#305; ortaklar<span></span></a>
                                 </h3>
                             </div>
                             <div xmlns="" class="padding">
-                                <div class="img60 left"><a href="http://portal.exxonmobil.com/" title="önceden kay&#305;tl&#305; ortaklar" target="_blank" onclick="trackClick(this);"><img title="Önceden kay&#305;tl&#305; ortaklar" src="../Shared-Images-LCW/teaser_60x60_group-of-people_eame.jpg" longdesc="" class="floatimgleft" border="0" alt="Önceden kay&#305;tl&#305; ortaklar"></a></div>
+                                <div class="img60 left"><a href="https://dnet.mobil.com/tr/" title="önceden kay&#305;tl&#305; ortaklar" target="_blank" onclick="trackClick(this);"><img title="Önceden kay&#305;tl&#305; ortaklar" src="../Shared-Images-LCW/teaser_60x60_group-of-people_eame.jpg" longdesc="" class="floatimgleft" border="0" alt="Önceden kay&#305;tl&#305; ortaklar"></a></div>
                                 <p>ExxonMobil&lsquo;in önceden kay&#305;tl&#305; bir mü&#351;terisi veya tedarikçisiyseniz, ki&#351;iselle&#351;tirilmi&#351; portal ba&#287;lant&#305;n&#305;za eri&#351;ebilirsiniz.</p>
                             </div>
                         </div>
                         <div class="subfeature csingle cright">
                             <div xmlns="" class="headerbar">
                                 <h3>
-                                    <a title="" target="_self" onclick="trackClick(this);" href="http://www.mobil.com/contact-us?lang=tr-TR">kay&#305;t olmak m&#305; istiyorsunuz?<span></span></a>
+                                    <a title="" target="_self" onclick="trackClick(this);" href="https://www.mobil.com/contact-us?lang=tr-TR">kay&#305;t olmak m&#305; istiyorsunuz?<span></span></a>
                                 </h3>
                             </div>
                             <div xmlns="" class="padding">
-                                <div class="img60 left"><a href="http://www.mobil.com/contact-us?lang=tr-TR" title="kay&#305;t olmak m&#305; istiyorsunuz?" target="_self" onclick="trackClick(this);"><img title="kay&#305;t olmak m&#305; istiyorsunuz?" src="../Shared-Images-LCW/teaser_60x60_customer-support_gbl.jpg" longdesc="" class="floatimgleft" border="0" alt="kay&#305;t olmak m&#305; istiyorsunuz?"></a></div>
-                                <p>Kay&#305;tl&#305; kullan&#305;c&#305; de&#287;il misiniz? O zaman birçok önemli bilgiyi kaç&#305;r&#305;yorsunuz! &#350;irketinizin <a title="" target="" onclick="trackClick(this);" href="http://www.mobil.com/contact-us?lang=tr-TR" class="">ana irtibat</a> ki&#351;isinden sizi hemen bugün kaydetmesini isteyin.</p>
+                                <div class="img60 left"><a href="https://www.mobil.com/contact-us?lang=tr-TR" title="kay&#305;t olmak m&#305; istiyorsunuz?" target="_self" onclick="trackClick(this);"><img title="kay&#305;t olmak m&#305; istiyorsunuz?" src="../Shared-Images-LCW/teaser_60x60_customer-support_gbl.jpg" longdesc="" class="floatimgleft" border="0" alt="kay&#305;t olmak m&#305; istiyorsunuz?"></a></div>
+                                <p>Kay&#305;tl&#305; kullan&#305;c&#305; de&#287;il misiniz? O zaman birçok önemli bilgiyi kaç&#305;r&#305;yorsunuz! &#350;irketinizin <a title="" target="" onclick="trackClick(this);" href="https://www.mobil.com/contact-us?lang=tr-TR" class="">ana irtibat</a> ki&#351;isinden sizi hemen bugün kaydetmesini isteyin.</p>
                             </div>
                         </div>
                     </div>

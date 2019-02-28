@@ -1,0 +1,712 @@
+/* ====================================================================================================================
+	Function:  CSS tweaks for use in displaying pages only in IE6 and IE7.
+	
+	Created:  Fall 2009 - for LCW Template Refresh Project (ExxonMobil IT)
+
+	Updated: July 26, 2010 - Brian D. Elley (EMIT)
+		Added .imageViewerWrap style to fix following problem:
+			Article page, related media section.  Bottom of box was being cropped in IE6.
+	Updated: August 5th 2010 by DA
+		Added .home .layoutrow to fix third column issue
+	Updated: August 20, 2010 - BDE
+		Added #globalNav clear:none to offset clear:right in LCW_xom.css.  
+		Change #globalNav width from 55% to 90%.
+		Utility nav bar was moving to the middle of the page on FireFox and Chrome on smaller text sizes.
+	Updated: September 9, 2010 - BDE
+		Changed font size on prod. detail tab label from 1.1em to 1.0em to enable German text to stay on 1 line.  
+==================================================================================================================== */
+#searchCntrNoLangSelect {
+	MARGIN-TOP: 39px
+}
+#container {
+	WIDTH: 914px
+}
+.clrfix {
+	DISPLAY: inline-block
+}
+* HTML .clrfix {
+	HEIGHT: 1%
+}
+.clrfix {
+	DISPLAY: block
+}
+.contentWrapper {
+	DISPLAY: inline-block
+}
+* HTML .contentWrapper {
+	HEIGHT: 1%
+}
+.contentWrapper {
+	DISPLAY: block
+}
+.contentWrapper {
+	ZOOM: 1
+}
+#mainPanel .clrboth {
+	LINE-HEIGHT: 1%; CLEAR: left; FONT-SIZE: 1%
+}
+.endHoverDefContainer {
+	LINE-HEIGHT: 1%; CLEAR: left; FONT-SIZE: 1%
+}
+INPUT.middleSubmitBtn {
+	CURSOR: hand
+}
+#mainContent HR {
+	MARGIN: -5px 0px
+}
+.subnav LI A {
+	ZOOM: 1
+}
+.callwhiteBR .callwhitepad .content {
+	ZOOM: 1
+}
+.callblueBR .callbluepad .content {
+	ZOOM: 1
+}
+#mainPanel {
+	ZOOM: 1
+}
+#sideBar {
+	ZOOM: 1
+}
+#mainContent {
+	ZOOM: 1
+}
+* HTML #sideBar {
+	OVERFLOW: visible
+}
+* HTML #toolbar {
+	OVERFLOW: visible
+}
+* HTML #mainContent {
+	OVERFLOW: visible
+}
+* HTML .item {
+	OVERFLOW: visible
+}
+* HTML A.hoverdef {
+	ZOOM: 1
+}
+A.hoverdef {
+	MARGIN-BOTTOM: -0.4em
+}
+.nosubfeatures DIV#mainFeature {
+	MIN-HEIGHT: 170px
+}
+* HTML .nosubfeatures .featureRow DIV#mainFeature {
+	ZOOM: 1; HEIGHT: 201px
+}
+.nosubfeatures .featureRow DIV#mainFeatureFlash {
+	MARGIN: 0px 0px -8px -0.7%; WIDTH: 101.5%
+}
+.home .featureRow #mainFeatureFlash {
+	ZOOM: 1
+}
+#mainFeatureHeightSet {
+	ZOOM: 1
+}
+#subFeatureHeightSet {
+	ZOOM: 1
+}
+#mainFeatureHeightCheck {
+	ZOOM: 1
+}
+#subFeatureHeightCheck {
+	ZOOM: 1
+}
+.home .frame01BR .frame01pad {
+	ZOOM: 1
+}
+* HTML #globalHeader {
+	MARGIN-TOP: 1px
+}
+* HTML #navPanel {
+	HEIGHT: 67px
+}
+* HTML .home .frame01BL {
+	HEIGHT: 195px
+}
+* HTML .home .frame01BR {
+	HEIGHT: 195px
+}
+.layoutRow { FLOAT: }
+
+.tabRow {
+	WIDTH: auto; FLOAT: none
+}
+.linkindex {
+	WIDTH: auto; FLOAT: none
+}
+.countryListing {
+	WIDTH: auto; FLOAT: none
+}
+.countryListing {
+	PADDING-BOTTOM: 15px
+}
+#container A B {
+	COLOR: #1a4a7a
+}
+#container A STRONG {
+	COLOR: #1a4a7a
+}
+#container A I {
+	COLOR: #1a4a7a
+}
+#container A EM {
+	COLOR: #1a4a7a
+}
+#container A:visited B {
+	COLOR: #2e4b68
+}
+#container A:visited STRONG {
+	COLOR: #2e4b68
+}
+#container A:visited I {
+	COLOR: #2e4b68
+}
+#container A:visited EM {
+	COLOR: #2e4b68
+}
+.headerbar H3 A {
+	ZOOM: 1
+}
+.subfeature TABLE {
+	WIDTH: 100%
+}
+.cdouble .item UL {
+	FLOAT: left
+}
+* HTML .home .callout .content {
+	HEIGHT: 100px
+}
+.cdouble .itemgroup {
+	ZOOM: 1
+}
+.cdouble .item {
+	ZOOM: 1
+}
+.cdouble .item .padding {
+	ZOOM: 1
+}
+.csingle .item {
+	ZOOM: 1
+}
+.csingle .item .padding {
+	ZOOM: 1
+}
+.padTop20 {
+	ZOOM: 1; CLEAR: both
+}
+.mc3column DIV.item {
+	MARGIN-RIGHT: 15px
+}
+#mainContent UL.sidelinks LI {
+	ZOOM: 1
+}
+* HTML .formHolder LABEL {
+	HEIGHT: 1.5em
+}
+* HTML .formHolder INPUT {
+	HEIGHT: 1.5em
+}
+* HTML .formHolder SELECT {
+	HEIGHT: 1.5em
+}
+* HTML .fieldHolder {
+	HEIGHT: 3em
+}
+* HTML .contactus .fieldHolder {
+	OVERFLOW: visible
+}
+.formHolder INPUT.text {
+	WIDTH: 220px
+}
+.search #mainContent .padding {
+	ZOOM: 1
+}
+.search #mainContent .url {
+	ZOOM: 1; WORD-WRAP: break-word
+}
+* HTML .search .fieldHolder {
+	HEIGHT: 3em
+}
+.graph1bar {
+	MARGIN-RIGHT: -10px
+}
+.psmain #mainPanel .formHolder .fieldHolder {
+	PADDING-BOTTOM: 30px
+}
+.psmain #mainPanel .formHolder .fieldGroup .fieldHolder {
+	PADDING-BOTTOM: 15px
+}
+* HTML .advert .linebox {
+	HEIGHT: 278px
+}
+#mainPanel .formHolder INPUT.middleSubmitBtn {
+	HEIGHT: 18px
+}
+#mainContent .formHolder .button {
+	WIDTH: 12em
+}
+#mainContent .formHolder DIV.right {
+	MARGIN-LEFT: 150px
+}
+.list .itemgroup {
+	FLOAT: none
+}
+.list .mc1column .item {
+	FLOAT: none
+}
+.psresult .itemgroup {
+	FLOAT: none; CLEAR: left
+}
+* HTML .psresult .item {
+	HEIGHT: 60px
+}
+.search #mainPanel .clrboth {
+	LINE-HEIGHT: 100%; CLEAR: left; FONT-SIZE: 100%
+}
+
+@media Print    
+{
+DIV#container #mainContent DIV.item H3 A IMG {
+	POSITION: relative; TOP: -1.5em
+}
+
+}
+
+
+/* 
+.home #mainFeature { zoom:1; }
+.landing div#mainFeature { margin-bottom:30px; } */
+
+
+* html .home .frame01BL, * html .home .frame01BR { height:195px; }
+
+.tabRow, .linkindex, .countryListing { float:none; width:auto; }
+.countryListing { padding-bottom:15px; }
+
+.subfeature table { 
+	width:77%; 		/* all browsers see this rule */
+	w\idth:100%;	/* all browsers EXCEPT IE 5.5 see this one - 5.5 keeps value above */
+	}
+/* IMAGE VIEWER CODE */
+/**
+ * This <div> element is wrapped by jCarousel around the list
+ * and has the classname "jcarousel-container".
+ */
+.jcarousel-list li a,
+.jcarousel-item a{
+	/* We set the width/height explicitly. No width/height causes infinite loops. */
+	display:block;
+	margin-right:0px;
+	margin-left:0px;
+	margin-top:3px;
+	margin-bottom:3px;
+}
+
+/**
+ * The buttons are added dynamically by jCarousel before
+ * the <ul> list (inside the <div> described above) and
+ * have the classnames "jcarousel-next" and "jcarousel-prev".
+ */
+
+
+
+.jcarousel-skin-tango .jcarousel-item {
+    width: 83px;
+	height: 56px;
+}
+
+.jcarousel-skin-tango .jcarousel-item-horizontal {
+    margin-right: 10px;
+	margin-left: 0px;
+}
+
+.jcarousel-skin-tango .jcarousel-item-placeholder {
+    background: #fff;
+    color: #000;
+}
+
+/**
+ *  Horizontal Buttons
+ */
+.jcarousel-skin-tango .jcarousel-next-horizontal {
+    position: absolute;
+    top: 35px;
+    right: 10px;
+    width: 11px;
+    height: 13px;
+    cursor: pointer;
+    background: transparent url(LCW_Images/Corporate/next-horizontal.gif) no-repeat 0 0;
+}
+
+
+.jcarousel-skin-tango .jcarousel-prev-horizontal {
+	position: absolute;
+	top: 35px;
+	left: -15px;
+	width: 11px;
+	height: 13px;
+	cursor: pointer;
+	background-color: transparent;
+	background-image: url(LCW_Images/Corporate/prev-horizontal.gif);
+	background-repeat: no-repeat;
+	background-position: 0 0;
+}
+
+.jcarousel-skin-tango .jcarousel-prev-horizontal:hover {
+    background-position: -10px 0;
+}
+
+.jcarousel-skin-tango .jcarousel-prev-horizontal:active {
+    background-position: -20px 0;
+}
+
+.jcarousel-skin-tango .jcarousel-prev-disabled-horizontal,
+.jcarousel-skin-tango .jcarousel-prev-disabled-horizontal:hover,
+.jcarousel-skin-tango .jcarousel-prev-disabled-horizontal:active {
+    cursor: default;
+    background-position: -31px 0;
+}
+
+.selectedimagecaption {
+	margin-top: 10px;
+	margin-right: 10px;
+	margin-bottom: 0px;
+	margin-left: 15px;
+	vertical-align:middle;
+}
+a.selectedimage {
+	border: 3px solid #06C;
+	margin:-3px;
+	background-position:-3px 0px;
+	display:block;
+	position:relative;
+	top:-3px;
+}
+#globalLanguage
+{
+float:right;
+margin-right:2px !important;
+margin-top:-16px !important;
+width:44%;
+position:relative;
+}
+
+.SingleContent H3.nolink {
+	width:270px;
+}
+
+.SingleContent H3 a {
+	width:270px;
+}
+
+.DoubleContent H3.nolink {
+	width:270px;
+}
+
+.DoubleContent H3 a {
+	width:270px;
+}
+
+div .ccenter .SingleContent {
+ margin-left:2px;
+}
+
+div .ccenter .DoubleContent {
+ margin-left:11px;
+}
+
+div.ccenter {
+float:left;
+margin-left:7px;
+}
+
+
+
+.SingleContentTop {
+color:#4D4D4D;
+font-size:1.1em;
+height:126px;
+margin-left:20px;
+margin-top:-132px;
+position:relative;
+width:272px;
+}
+
+.SingleContent h4{
+margin-top:3px;
+}
+
+.home #mainPanel .csingle .img90 {
+margin-bottom:3px;
+margin-right: 8px;
+padding-top:4px;
+width:90px;
+}
+
+#toolbar_wide {
+float:right;
+width:220px;
+margin-right:-1.6em;
+padding-left:0px;
+padding-right:14px;
+position:relative;
+display:inline;
+
+}
+#toolbar_wide .related {
+clear:left;
+padding-right:0px !important;
+padding-left:0px !important;
+margin-left:0px !important;
+padding-top: 20px;
+}
+
+#toolbar_wide  .related_Title {
+padding-left:	30px;
+margin-top:		-48px;
+position:		relative;
+}
+
+#toolbar_wide  .related_Title p {
+font-weight:	bold;
+font-size:		1.2em;
+color:			rgb(88,88,88);
+}
+
+#mainPanel
+{
+margin-right:0px;
+}
+
+#globalNav {
+	clear:			none;	/* BDE 8/20/2010: Added to stabilize location of utility nav bar on text size changes. */
+	margin-right:	8px;
+	width:			90%;	/* BDE 8/20/2010: Changed from 55% to stabilize location of utility nav bar on text size changes. */
+}
+
+#qt
+{
+margin-left:-10px;
+margin-right:-6px;
+}
+
+#logo
+{
+	margin-top:0px;
+}
+
+#toolbar_wide .related img 
+{
+margin:0;
+margin-left:0px;
+/*margin-left:0px;*/
+}
+
+.relatedContent p
+{
+margin-right:10px;
+}
+
+.colflash
+{
+padding-top:1px;
+padding-bottom:5px;
+}
+
+.bottomFlash {
+margin-top:-1px;
+}
+
+#mainContent_thin {
+margin:0 220px 0 200px;
+padding:0 15px 25px;
+height:100%;
+}
+
+
+#mainContent_thin #divTabs {
+background-color:transparent;
+float:left;
+margin-bottom:-3px;
+line-height:normal;
+width:445px;
+z-index:100;
+position:relative;
+height:100%
+}
+
+#mainContent_thin #divTabs ul {
+margin:0;
+padding:0;
+padding-bottom:-10px;
+margin-bottom:-10px;
+margin-top:20px;
+list-style-type:none;
+}
+
+
+#mainContent_thin #divTabs li {
+background:transparent url(LCW_Images/Tabs/right_off.gif) no-repeat scroll right top;
+color:#FFFFFF;
+float:left;
+line-height:9pt;
+list-style-type:none;
+margin:0;
+padding:0;
+text-decoration:none;
+}
+
+#mainContent_thin #divTabs .current {
+background-image:url(LCW_Images/Tabs/right_on.gif);
+color:#4D4D4D;
+}
+
+#mainContent_thin #divTabs .highlight{
+background-image:url(LCW_Images/Tabs/right_on.gif);
+color:#4D4D4D;
+}
+
+#mainContent_thin #divTabs a {
+background:transparent url(LCW_Images/Tabs/left_off.gif) no-repeat scroll left top;
+color:White;
+display:block;
+font-size:1.0em;				/* BDE 9/9/10: Changed from 1.1em for Product Detail Tab label.  */
+font-weight:bold;
+list-style-image:none;
+list-style-position:outside;
+list-style-type:none;
+padding:6px 15px;
+text-decoration:none;
+}
+
+#mainContent_thin #divTabs a:hover {
+background-image: transparent url(LCW_Images/Tabs/right_on.gif);
+overflow:hidden;
+color:#4d4d4d;
+font-size:1.0em;				/* BDE 9/9/10: Changed from 1.1em for Product Detail Tab label.  */
+font-weight:bold;
+text-decoration:none;
+}
+
+#mainContent_thin #divTabs .current a {
+background-image:url(LCW_Images/Tabs/left_on.gif);
+color:#4D4D4D;
+font-size:1.0em;				/* BDE 9/9/10: Changed from 1.1em for Product Detail Tab label.  */
+font-weight:bold;
+text-decoration:none;
+}
+
+.midBorder {
+background-color:#FFFFFF;
+background-repeat:repeat-x;
+width:435px;
+z-index:-1;
+padding-top:-20px;
+overflow:hidden;
+}
+
+#tabNav td
+{
+background-color:#FFFFFF;
+margin-bottom:-20px;
+background-repeat:repeat-x;
+}
+
+.leftUpperImg
+{
+	margin-top:-10x;
+	vertical-align:top;
+	position:relative;
+	z-index:100;
+}
+
+#globalFooter{
+display:block;
+width:100%;
+height:100%;
+position:relative;
+}
+
+.home .featureRow #subfeatureCallouts .content
+{
+margin-top:40px;
+}
+
+#toolbar_wide .related .relatedContent p
+{
+padding-left:5px;
+}
+
+.home .featureRow #subfeatureCallouts .top
+{
+padding-top:0px;
+}
+
+#navPanel{
+margin-bottom:-15px;
+padding-bottom:0px;
+}
+
+#navTitle {
+margin-top:-15px;
+}
+
+#tabsLowerLeft img{
+vertical-align: top;
+}
+
+#tabsLowerRight img{
+vertical-align: top;
+}
+
+#share {
+padding:0;
+}
+
+#globalHeader {
+background-color:#FFFFFF;
+border:0 solid;
+color:#333333;
+margin:0 0px 10px 0px;
+padding:0 0px 0 14px;
+width:100%;
+}
+#search                 { float:right; clear:right; margin-top:10px; border:0px solid;margin-right:7px;}
+
+.ccenter .TextContent {
+margin-left:10px;
+}
+.quizQuestionBox label {
+float:left;
+margin-left:2px;
+margin-top:2px;
+}
+.quizQuestionBox input {
+float:left;
+margin-top:0px;
+}
+
+#topSec {
+min-height:140px;
+height:auto !important;
+height:140px;
+}
+
+td.rightBorder img {
+	margin-top:-10x;
+	vertical-align:top;
+	position:relative;
+	z-index:100;
+}
+
+.home .featureRow #subfeatureCallouts { margin:-3em 0 3px 0; width:100%; float:none; }
+
+/*#search                 { float:right; clear:right; margin-top:10px; border:0px solid; width:317px; }
+.home #search                 { float:right; clear:right; margin-top:10px; border:0px solid; width:auto; }*/
+
+.imageViewerWrap {  /* BDE 7/26/2010: Article page, related media section.  Bottom of box was being cropped in IE6.  */
+	overflow: 			visible;
+}

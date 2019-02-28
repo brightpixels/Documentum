@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<regions>
+  <region>
+    <regionname>美洲</regionname>
+    <regioncode>AM</regioncode>
+  </region>
+  <region>
+    <regionname>亚洲</regionname>
+    <regioncode>AP</regioncode>
+  </region>
+  <region>
+    <regionname>欧洲，非洲，中东</regionname>
+    <regioncode>EAME</regioncode>
+  </region>
+</regions>

@@ -1,0 +1,337 @@
+body {
+    padding: 25px 30px;
+}
+
+.fuel-cost-calc,
+.fuel-cost-calc * {
+    box-sizing: border-box;
+    color: #333;
+    font-family: Arial, Helvetica, Sans-Serif;
+    font-size: 1em;
+    line-height: 1em;
+}
+
+.fuel-cost-calc {
+    border: 1px solid #e7e7e7;
+    color: #000;
+    text-align: center;
+    margin-top: 80px;
+}
+
+.fuel-cost-calc fieldset {
+    margin: 0;
+    padding: 0 20px;
+    border: 0;
+    overflow: hidden;
+}
+
+.fuel-cost-calc__title {
+    margin: 28px 20px;
+    font-size: 28px !important;
+    font-weight: normal;
+    line-height: 1.2;
+}
+
+.fuel-cost-calc__form-row {
+    color: #666;
+    font-size: 14px;
+    line-height: 1.1;
+    text-align: lfueft;
+}
+
+.fuel-cost-calc__form-row + .fuel-cost-calc__form-row {
+    margin-top: 30px;
+}
+
+.fuel-cost-calc__form-row_full-width {
+    clear: both;
+    text-align: center;
+}
+
+.fuel-cost-calc__form-row_full-width p {
+    margin: 0.5em 0 1em;
+    text-align: center;
+}
+
+.fuel-cost-calc__form-row label {
+    text-transform: uppercase;
+    font-size: 14px;
+}
+
+.fuel-cost-calc__form-row label b {
+    text-transform: none;
+}
+
+.fuel-cost-calc__form-row input {
+    display: block;
+    margin: 5px 0;
+    padding: 10px;
+    width: 100%;
+    background-color: #e5e5e5;
+    background-position: left center;
+    background-repeat: no-repeat;
+    border: 0;
+    border-radius: 3px;
+    font-size: 1.2em;
+    line-height: 1;
+}
+
+.fuel-cost-calc__form-row input[name="mileage"] {
+    padding-left: 47px;
+    background-image: url(../images/mileage.png);
+}
+
+.fuel-cost-calc__form-row input[name="mpg"] {
+    padding-left: 37px;
+    background-image: url(../images/mpg.png);
+}
+
+.fuel-cost-calc__form-row input[name="fuel-cost"] {
+    padding-left: 31px;
+    background-image: url(../images/fuel-cost.png);
+}
+
+.fuel-cost-calc__form-row input[type="range"] {
+    margin: 0 auto;
+    padding-top: 0;
+    padding-bottom: 0;
+    width: 100%;
+    max-width: 275px;
+    background: transparent;
+    border: 0;
+    line-height: 1;
+    outline: none;
+    -webkit-appearance: none;
+}
+
+.fuel-cost-calc__form-row input[type="range"]::-webkit-slider-thumb {
+    margin-top: -3px;
+    /* You need to specify a margin in Chrome, but in Firefox and IE it is automatic */
+    height: 20px;
+    width: 20px;
+    background: #8a8a8a;
+    border: 5px solid #3f3f3f;
+    border-radius: 100%;
+    cursor: pointer;
+    -webkit-appearance: none;
+}
+
+.fuel-cost-calc__form-row input[type="range"]::-moz-range-thumb {
+    height: 10px;
+    width: 10px;
+    background: #8a8a8a;
+    border: 5px solid #3f3f3f;
+    border-radius: 100%;
+    cursor: pointer;
+}
+
+.fuel-cost-calc__form-row input[type="range"]::-ms-thumb {
+    border: 5px solid #3f3f3f;
+    height: 10px;
+    width: 10px;
+    border-radius: 16px;
+    background: #8a8a8a;
+    cursor: pointer;
+}
+
+.fuel-cost-calc__form-row input[type="range"]::-webkit-slider-runnable-track {
+    margin-bottom: 3px;
+    width: 100%;
+    height: 14px;
+    background: #ff0000;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.fuel-cost-calc__form-row input[type="range"]::-moz-range-track {
+    width: 100%;
+    height: 14px;
+    background: #ff0000;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+input[type=range]::-ms-track {
+    margin-top: -10px;
+    margin-bottom: -11px;
+    width: 100%;
+    height: 14px;
+    background: transparent;
+    border-color: transparent;
+    border-width: 14px 0;
+    color: transparent;
+    cursor: pointer;
+    animate: 0.2s;
+}
+
+input[type=range]::-ms-fill-lower {
+    background: #ff0000;
+    border-radius: 16px;
+}
+
+input[type=range]::-ms-fill-upper {
+    background: #ff0000;
+    border-radius: 16px;
+}
+
+.fuel-cost-calc__slider-markers {
+    margin: 5px auto -1.5em !important;
+    padding: 10px !important;
+    max-width: 267px;
+    text-align: justify;
+}
+
+.fuel-cost-calc__slider-markers:after {
+    content: "";
+    display: inline-block;
+    width: 100%;
+    height: 0;
+    line-height: 0;
+}
+
+.fuel-cost-calc__slider-markers li {
+    display: inline-block !important;
+}
+
+.fuel-cost-calc__slider-markers button {
+    margin: 0;
+    padding: 0;
+    background: none;
+    border: 0;
+    color: #666;
+    font-size: 18px;
+    line-height: 1;
+    outline: none;
+}
+
+.fuel-cost-calc__results {
+    max-height: 0;
+    background: #e5e5e5 url(../images/results-top.png) center top no-repeat;
+    background-size: contain;
+    transition: max-height 0.25s ease-in-out;
+}
+
+.fuel-cost-calc__results.fuel-cost-calc__results_showing {
+    max-height: 300px;
+}
+
+.fuel-cost-calc__results-wrapper {
+    padding-top: 35px;
+}
+
+.fuel-cost-calc__results__saving {
+    margin-bottom: 0;
+    color: #666;
+    font-size: 1.6em;
+    line-height: 1;
+}
+
+.fuel-cost-calc__results__saving span {
+    text-transform: uppercase;
+}
+
+.fuel-cost-calc__results__saving strong {
+    display: block;
+    color: #ff0000;
+    font-size: 3em;
+    font-weight: normal;
+    line-height: 1.2;
+}
+
+.fuel-cost-calc__disclaimer {
+    clear: both;
+    margin: 0 auto;
+    padding: 20px 0;
+    max-width: 400px;
+    color: #666;
+    font-size: 10px !important;
+    line-height: 1.1;
+}
+
+@media (min-width: 690px) {
+    .fuel-cost-calc fieldset {
+        padding: 0 35px;
+    }
+    .fuel-cost-calc__title {
+        margin-right: 35px;
+        margin-left: 35px;
+    }
+    .fuel-cost-calc__form-row:not(.fuel-cost-calc__form-row_full-width) {
+        float: left;
+        width: calc(33.3333% - 28px);
+    }
+    .fuel-cost-calc__form-row + .fuel-cost-calc__form-row:not(.fuel-cost-calc__form-row_full-width) {
+        margin-top: 0;
+        margin-left: 40px;
+    }
+    .fuel-cost-calc__form-row_full-width {
+        padding-top: 30px;
+    }
+    .fuel-cost-calc__results-wrapper {
+        padding-top: 40px;
+    }
+    .fuel-cost-calc__results__saving strong {
+        font-size: 3em;
+    }
+    .fuel-cost-calc__disclaimer {
+        font-size: 1em;
+    }
+}
+
+@media (min-width: 960px) {
+    .fuel-cost-calc__results-wrapper {
+        padding-top: 60px;
+    }
+}
+
+@media (min-width: 1400px) {
+    .fuel-cost-calc__results-wrapper {
+        padding-top: 80px;
+    }
+}
+
+
+/*Localisation styling*/
+
+/*poland*/
+
+#fuels-pl .fuel-cost-calc__form-row input[name="fuel-cost"] {
+    background-image: url(../images/polish-symbol.png);
+}
+/*sweden*/
+#fuels-se .fuel-cost-calc__form-row input[name="fuel-cost"] {
+    background-image: url(../images/swedish-symbol.png);
+}
+/*
+/*norway*/
+#fuels-no .fuel-cost-calc__form-row input[name="fuel-cost"] {
+    background-image: url(../images/norway-symbol.png);
+}
+/*finland*/
+#fuels-fi .fuel-cost-calc__form-row input[name="fuel-cost"] {
+    background-image: url(../images/euro-symbol2.png);
+}
+/*german*/
+#fuels-de .fuel-cost-calc__form-row input[name="fuel-cost"] {
+    background-image: url(../images/euro-symbol2.png);
+}
+/*turkey*/
+#fuels-tr .fuel-cost-calc__form-row input[name="fuel-cost"] {
+    background-image: url(../images/turkish-currency-symbol.png);
+}
+/*Italy*/
+#fuels-it .fuel-cost-calc__form-row input[name="fuel-cost"] {
+    background-image: url(../images/euro-symbol2.png);
+}
+/*france*/
+#fuels-fr .fuel-cost-calc__form-row input[name="fuel-cost"] {
+    background-image: url(../images/euro-symbol2.png);
+}
+/*benelux-france*/
+#fuels-be-fr .fuel-cost-calc__form-row input[name="fuel-cost"] {
+    background-image: url(../images/euro-symbol2.png);
+}
+/*benelux-dutch*/
+#fuels-be-du .fuel-cost-calc__form-row input[name="fuel-cost"] {
+    background-image: url(../images/euro-symbol2.png);
+}

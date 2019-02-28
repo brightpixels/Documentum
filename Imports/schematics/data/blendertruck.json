@@ -1,0 +1,653 @@
+{
+  "lang": {
+    "fullscreen":                 "Fullscreen",
+    "exitFullscreen":             "Exit Fullscreen",
+    "visit":                      "Visit",
+    "equipment":                  "Equipment",
+    "viewDetails":                "View Details",
+    "dontShowMeThisMessageAgain": "Don't show me this message again",
+    "directions":                 "Click on a red hotspot in the schematic or on an item in the Equipment menu to see corresponding lubricant information. To view more of the schematic, click and drag with your mouse or use the arrow keys on your keyboard.",
+    "continue":                   "Continue",
+    "pds":                        "PDS",
+    "whereToBuy":                 "Where To Buy",
+    "productInformation":         "Product Information",
+    "benefits":                   "Benefits",
+    "refineYourSearchWithLooble": "Refine Your Search With Looble",
+    "products":                   "Products",
+    "back":                       "Back",
+    "equipmentType":              "Equipment Type",
+    "getMoreInfo":                "Get More Info",
+    "productDataSheets":          "Product Data Sheets",
+    "downloadSellSheet":          "Download Sell Sheet",
+    "emailPageLink":              "Email Page Link",
+    "findADistributor":           "Find a Distributor",
+    "components":                 "Components",
+    "touchModeQuestion":          "It appears you’re using a touch-enabled device. Would you prefer to use the touch-optimized interface?",
+    "yesUseTheTouchVersion":      "Yes, use the touch version",
+    "no":                         "No"
+  },
+  "schematic": {
+    "name":"Blender Truck",
+    "tileset":"blendertruck",
+    "minZoom": 1,
+    "maxZoom": 5,
+    "components":[
+        {
+          "id":1,
+          "name":"Coolant",
+          "imageURL":"",
+          "x":45,
+          "y":-131,
+          "subcomponents":[
+            {
+              "id":1,
+              "name":"Coolant",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":1,
+                  "name":"Mobil Delvac™ Extended Life Coolant/Antifreeze",
+                  "type": "conventional",
+                  "information": "Ethylene glycol base coolant designed for wet sleeve liner cavitation and corrosion protection of all cooling system metals in all types of heavy-duty diesel, gasoline and natural gas engines, including stationary engine applications and marine cooling systems",
+                  "benefits": "Long service life: 1,000,000 miles of on-road use (8 years or 20,000 hours of off-highway use); eliminates costs of SCAs, test strips and manpower required to test the coolant and add SCAs; provides outstanding long-term elastomer compatibility.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/NAXXENCVLMOMobil_Delvac_Extended_Life_Coolant.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "https://mobildelvac.com/en/coolant-and-antifreeze/mobil-delvac-extended-life-coolant-antifreeze#Details"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":2,
+          "name":"Coolant",
+          "imageURL":"",
+          "x":102,
+          "y":-121,
+          "subcomponents":[
+            {
+              "id":2,
+              "name":"Coolant",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":1,
+                  "name":"Mobil Delvac™ Extended Life Coolant/Antifreeze",
+                  "type": "conventional",
+                  "information": "Ethylene glycol base coolant designed for wet sleeve liner cavitation and corrosion protection of all cooling system metals in all types of heavy-duty diesel, gasoline and natural gas engines, including stationary engine applications and marine cooling systems",
+                  "benefits": "Long service life: 1,000,000 miles of on-road use (8 years or 20,000 hours of off-highway use); eliminates costs of SCAs, test strips and manpower required to test the coolant and add SCAs; provides outstanding long-term elastomer compatibility.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/NAXXENCVLMOMobil_Delvac_Extended_Life_Coolant.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "https://mobildelvac.com/en/coolant-and-antifreeze/mobil-delvac-extended-life-coolant-antifreeze#Details"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":3,
+          "name":"Coolant",
+          "imageURL":"",
+          "x":145,
+          "y":-125,
+          "subcomponents":[
+            {
+              "id":3,
+              "name":"Coolant",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":1,
+                  "name":"Mobil Delvac™ Extended Life Coolant/Antifreeze",
+                  "type": "conventional",
+                  "information": "Ethylene glycol base coolant designed for wet sleeve liner cavitation and corrosion protection of all cooling system metals in all types of heavy-duty diesel, gasoline and natural gas engines, including stationary engine applications and marine cooling systems",
+                  "benefits": "Long service life: 1,000,000 miles of on-road use (8 years or 20,000 hours of off-highway use); eliminates costs of SCAs, test strips and manpower required to test the coolant and add SCAs; provides outstanding long-term elastomer compatibility.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/NAXXENCVLMOMobil_Delvac_Extended_Life_Coolant.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "https://mobildelvac.com/en/coolant-and-antifreeze/mobil-delvac-extended-life-coolant-antifreeze#Details"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":4,
+          "name":"Engine",
+          "imageURL":"blendertruck/engine.png",
+          "x":40,
+          "y":-131,
+          "subcomponents":[
+            {
+              "id":4,
+              "name":"Engine",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":2,
+                  "name":"Mobil Delvac 1™ ESP 5W-40",
+                  "type": "synthetic",
+                  "information": "Fully synthetic, supreme-performance heavy-duty diesel engine oil for modern diesel engines operating in severe applications",
+                  "benefits": "Helps extend engine life while providing long drain capability and potential fuel economy; reduced low-temperature sludge build-up and high temperature deposits; reduced engine scuffing and bore polishing; maintains viscosity in severe, high-temperature service.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/NAXXENCVLMOMobil_Delvac_1_ESP_5W-40.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "https://mobildelvac.com/en/motor-oils/mobil-delvac-1/mobil-delvac-1-esp#5W-40"
+                },
+                {
+                  "id":3,
+                  "name":"Mobil Delvac™ 1300 Super 15W-40",
+                  "type": "conventional",
+                  "information": "Extra-high-performance diesel engine oil designed for high-output, low-emission engines including those with Exhaust Gas Recirculation (EGR) and Aftertreatment Systems with Diesel Particulate Filters (DPFs) and Diesel Oxidation Catalysts (DOCs)",
+                  "benefits": "Reduced low-temperature sludge build-up and high-temperature deposits; improved soot handling and extended drain intervals; reduced oil consumption and wear protection; maintains viscosity in severe, high-temperature service.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/NAUSENCVLMOMobil_Delvac_1300_Super.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "https://mobildelvac.com/en/motor-oils/mobil-delvac/mobil-delvac-1300-super#15W-40"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":5,
+          "name":"Engine",
+          "imageURL":"blendertruck/engine.png",
+          "x":124,
+          "y":-116,
+          "subcomponents":[
+            {
+              "id":5,
+              "name":"Engine",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":2,
+                  "name":"Mobil Delvac 1™ ESP 5W-40",
+                  "type": "synthetic",
+                  "information": "Fully synthetic, supreme-performance heavy-duty diesel engine oil for modern diesel engines operating in severe applications",
+                  "benefits": "Helps extend engine life while providing long drain capability and potential fuel economy; reduced low-temperature sludge build-up and high temperature deposits; reduced engine scuffing and bore polishing; maintains viscosity in severe, high-temperature service.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/NAXXENCVLMOMobil_Delvac_1_ESP_5W-40.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "https://mobildelvac.com/en/motor-oils/mobil-delvac-1/mobil-delvac-1-esp#5W-40"
+                },
+                {
+                  "id":3,
+                  "name":"Mobil Delvac™ 1300 Super 15W-40",
+                  "type": "conventional",
+                  "information": "Extra-high-performance diesel engine oil designed for high-output, low-emission engines including those with Exhaust Gas Recirculation (EGR) and Aftertreatment Systems with Diesel Particulate Filters (DPFs) and Diesel Oxidation Catalysts (DOCs)",
+                  "benefits": "Reduced low-temperature sludge build-up and high-temperature deposits; improved soot handling and extended drain intervals; reduced oil consumption and wear protection; maintains viscosity in severe, high-temperature service.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/NAUSENCVLMOMobil_Delvac_1300_Super.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "https://mobildelvac.com/en/motor-oils/mobil-delvac/mobil-delvac-1300-super#15W-40"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":6,
+          "name":"Engine",
+          "imageURL":"blendertruck/engine.png",
+          "x":155,
+          "y":-130,
+          "subcomponents":[
+            {
+              "id":6,
+              "name":"Engine",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":2,
+                  "name":"Mobil Delvac 1™ ESP 5W-40",
+                  "type": "synthetic",
+                  "information": "Fully synthetic, supreme-performance heavy-duty diesel engine oil for modern diesel engines operating in severe applications",
+                  "benefits": "Helps extend engine life while providing long drain capability and potential fuel economy; reduced low-temperature sludge build-up and high temperature deposits; reduced engine scuffing and bore polishing; maintains viscosity in severe, high-temperature service.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/NAXXENCVLMOMobil_Delvac_1_ESP_5W-40.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "https://mobildelvac.com/en/motor-oils/mobil-delvac-1/mobil-delvac-1-esp#5W-40"
+                },
+                {
+                  "id":3,
+                  "name":"Mobil Delvac™ 1300 Super 15W-40",
+                  "type": "conventional",
+                  "information": "Extra-high-performance diesel engine oil designed for high-output, low-emission engines including those with Exhaust Gas Recirculation (EGR) and Aftertreatment Systems with Diesel Particulate Filters (DPFs) and Diesel Oxidation Catalysts (DOCs)",
+                  "benefits": "Reduced low-temperature sludge build-up and high-temperature deposits; improved soot handling and extended drain intervals; reduced oil consumption and wear protection; maintains viscosity in severe, high-temperature service.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/NAUSENCVLMOMobil_Delvac_1300_Super.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "https://mobildelvac.com/en/motor-oils/mobil-delvac/mobil-delvac-1300-super#15W-40"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":7,
+          "name":"Transmission",
+          "imageURL":"blendertruck/transmission.png",
+          "x":59,
+          "y":-149,
+          "subcomponents":[
+            {
+              "id":7,
+              "name":"Transmission",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":4,
+                  "name":"Mobil Delvac™ Synthetic Transmission Fluid 50",
+                  "type": "synthetic",
+                  "information": "Fully synthetic, manual transmission fluid recommended for year-round lubrication of manual transmissions in light to severe duty on- and off-highway equipment operating in a wide range of environments",
+                  "benefits": "Extends transmission life and reduces cost of operation; long seal life, extended drain and service intervals; protects and extends the life of synchronizers; minimizes wear during severe operation.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/NAXXENCVLMOMobil_Delvac_Synthetic_Transmission_Fluid_50.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "https://mobildelvac.com/en/automatic-transmission-fluids/mobil-delvac-synthetic-transmission-fluid-50"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":8,
+          "name":"Hydraulic Tank",
+          "imageURL":"blendertruck/hydraulic-tank.png",
+          "x":120,
+          "y":-110,
+          "subcomponents":[
+            {
+              "id":8,
+              "name":"Hydraulic Tank",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":5,
+                  "name":"Mobil SHC™ 525",
+                  "type": "synthetic",
+                  "information": "Advanced-technology hydraulic oils designed for extended service in high-pressure, high-temperature vane, piston and gear pump applications",
+                  "benefits": "Helps extend service intervals; cleaner system and reduce close-tolerance valve sticking compared to conventional products; helps improve filterability and helps reduce wear of components; helps to protect equipment at cold startup and high operating temperatures.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_SHC_500.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-shc_mobil-shc-500-series.aspx"
+                },
+                {
+                  "id":6,
+                  "name":"Mobil DTE 10 Excel™ 46",
+                  "type": "conventional",
+                  "information": "Premium performance antiwear hydraulic oil engineered for wide temperature range applications",
+                  "benefits": "Helps keep hydraulic systems clean by preventing valve sticking; controls contamination and provides wear protection to help improve equipment reliability and life compared to ExxonMobil’s standard hydraulic fluids, which can reduce both maintenance costs and product disposal costs; shear stability-enabling oil to maintain system efficiency and equipment protection at both high and low temperatures.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_DTE_10_Excel.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-dte-10-excel-series.aspx"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":9,
+          "name":"Differential and Wheel Hubs",
+          "imageURL":"blendertruck/differential.png",
+          "x":114,
+          "y":-146,
+          "subcomponents":[
+            {
+              "id":9,
+              "name":"Differential and Wheel Hubs",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":7,
+                  "name":"Mobil Delvac™ Synthetic Gear Oil 75W-90",
+                  "type": "synthetic",
+                  "information": "Synthetic oil designed for use in heavy-duty drivetrains that require gear lubricants with relatively high viscosity and excellent load-carrying capability and where extreme pressures and shock loading are expected",
+                  "benefits": "Extended gear and bearing life due to minimal deposits; longer seal life; increased load-carrying capability; reduced maintenance costs and longer equipment life; retains viscosity and film strength under severe operating conditions to prevent wear.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/NAXXENCVLMOMobil_Delvac_Synthetic_Gear_Oil_75W-90_80W-140.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "https://mobildelvac.com/en/ancillary-products/mobil-delvac-synthetic-gear-oil#75W-90"
+                },
+                {
+                  "id":8,
+                  "name":"Mobilube™ HD Plus 80W-90",
+                  "type": "conventional",
+                  "information": "Extra-high-performance commercial gear lubricant engineered for heavy-duty commercial transmissions, axles and final drives where extreme pressures and shock loading are expected",
+                  "benefits": "Extended gear and bearing life due to minimal deposits and longer seal life; increased load carrying capability and reduced operating costs; reduced wear and longer component life.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/NAUSENCVLMOMobilubeHDPlus80W-90_85W-140.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "https://mobiloil.com/en/gear-lubricants/mobilube-hd-plus"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":10,
+          "name":"Differential and Wheel Hubs",
+          "imageURL":"blendertruck/differential.png",
+          "x":197,
+          "y":-146,
+          "subcomponents":[
+            {
+              "id":10,
+              "name":"Differential and Wheel Hubs",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":7,
+                  "name":"Mobil Delvac™ Synthetic Gear Oil 75W-90",
+                  "type": "synthetic",
+                  "information": "Synthetic oil designed for use in heavy-duty drivetrains that require gear lubricants with relatively high viscosity and excellent load-carrying capability and where extreme pressures and shock loading are expected",
+                  "benefits": "Extended gear and bearing life due to minimal deposits; longer seal life; increased load-carrying capability; reduced maintenance costs and longer equipment life; retains viscosity and film strength under severe operating conditions to prevent wear.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/NAXXENCVLMOMobil_Delvac_Synthetic_Gear_Oil_75W-90_80W-140.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "https://mobildelvac.com/en/ancillary-products/mobil-delvac-synthetic-gear-oil#75W-90"
+                },
+                {
+                  "id":8,
+                  "name":"Mobilube™ HD Plus 80W-90",
+                  "type": "conventional",
+                  "information": "Extra-high-performance commercial gear lubricant engineered for heavy-duty commercial transmissions, axles and final drives where extreme pressures and shock loading are expected",
+                  "benefits": "Extended gear and bearing life due to minimal deposits and longer seal life; increased load carrying capability and reduced operating costs; reduced wear and longer component life.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/NAUSENCVLMOMobilubeHDPlus80W-90_85W-140.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "https://mobiloil.com/en/gear-lubricants/mobilube-hd-plus"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":11,
+          "name":"Differential and Wheel Hubs",
+          "imageURL":"blendertruck/differential.png",
+          "x":214,
+          "y":-146,
+          "subcomponents":[
+            {
+              "id":11,
+              "name":"Differential and Wheel Hubs",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":7,
+                  "name":"Mobil Delvac™ Synthetic Gear Oil 75W-90",
+                  "type": "synthetic",
+                  "information": "Synthetic oil designed for use in heavy-duty drivetrains that require gear lubricants with relatively high viscosity and excellent load-carrying capability and where extreme pressures and shock loading are expected",
+                  "benefits": "Extended gear and bearing life due to minimal deposits; longer seal life; increased load-carrying capability; reduced maintenance costs and longer equipment life; retains viscosity and film strength under severe operating conditions to prevent wear.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/NAXXENCVLMOMobil_Delvac_Synthetic_Gear_Oil_75W-90_80W-140.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "https://mobildelvac.com/en/ancillary-products/mobil-delvac-synthetic-gear-oil#75W-90"
+                },
+                {
+                  "id":8,
+                  "name":"Mobilube™ HD Plus 80W-90",
+                  "type": "conventional",
+                  "information": "Extra-high-performance commercial gear lubricant engineered for heavy-duty commercial transmissions, axles and final drives where extreme pressures and shock loading are expected",
+                  "benefits": "Extended gear and bearing life due to minimal deposits and longer seal life; increased load carrying capability and reduced operating costs; reduced wear and longer component life.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/NAUSENCVLMOMobilubeHDPlus80W-90_85W-140.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "https://mobiloil.com/en/gear-lubricants/mobilube-hd-plus"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":12,
+          "name":"Discharge Pump Speed Reducer",
+          "imageURL":"blendertruck/discharge-pump-reducer.png",
+          "x":170,
+          "y":-128,
+          "subcomponents":[
+            {
+              "id":12,
+              "name":"Discharge Pump Speed Reducer",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":4,
+                  "name":"Mobil Delvac™ Synthetic Transmission Fluid 50",
+                  "type": "synthetic",
+                  "information": "Fully synthetic, manual transmission fluid recommended for year-round lubrication of manual transmissions in light to severe duty on- and off-highway equipment operating in a wide range of environments",
+                  "benefits": "Extends transmission life and reduces cost of operation; long seal life, extended drain and service intervals; protects and extends the life of synchronizers; minimizes wear during severe operation.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/NAXXENCVLMOMobil_Delvac_Synthetic_Transmission_Fluid_50.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "https://mobildelvac.com/en/automatic-transmission-fluids/mobil-delvac-synthetic-transmission-fluid-50"
+                },
+                {
+                  "id":9,
+                  "name":"Mobil SHC™ 630",
+                  "type": "synthetic",
+                  "information": "Next-generation optimum-performance synthetic circulating and gear oils",
+                  "benefits": "Low traction and high viscosity index combine to significantly reduce power consumption — and energy costs — compared with mineral oils; reduced consumption can translate to overall reduction of CO2; long oil life, helps reduce maintenance costs; helps minimize deposits to enable trouble-free operation and long filter life; maintains viscosity and film thickness at high temperatures.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_SHC_600_Series.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-shc_mobil-shc-600-series.aspx"
+                },
+                {
+                  "id":10,
+                  "name":"Mobiltrans™ HD 50",
+                  "type": "conventional",
+                  "information": "Extra-high-performance transmission and drivetrain lubricants engineered to meet the rigorous specifications required by CAT TO-4",
+                  "benefits": "Helps maximize clutch life; increased levels of antiwear and load carrying capability help extend component life; helps control brake chatter; excellent thermal and oxidation stability for long oil life; very good low temperature pumpability, which helps to maximize lubrication at low startup temperatures.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/NAUSENCVLMOMobiltransHDSeries.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                },
+                {
+                  "id":11,
+                  "name":"Mobiltrans™ AST",
+                  "type": "conventional",
+                  "information": "Extra-high-performance drivetrain lubricant engineered to meet or exceed the requirements of Caterpillar&#x27;s new TO-4M performance specifications for off-highway transmissions, drivetrains, and hydraulic systems",
+                  "benefits": "Optimum clutch friction retention and slippage control, excellent anti-chatter brake performance, and extended clutch/brake life; greater wear protection, extended component life, and reduced cost of operation; longer seal life, extended drain, and service intervals.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENCVLMOMobiltrans_AST.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobil.ca/canada-english-lcw/heavydutyengineoils_products_mobiltrans-ast-30.aspx"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":13,
+          "name":"Suction Pump Drive",
+          "imageURL":"blendertruck/suction-pump-drive.png",
+          "x":133,
+          "y":-126,
+          "subcomponents":[
+            {
+              "id":13,
+              "name":"Suction Pump Drive",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":4,
+                  "name":"Mobil Delvac™ Synthetic Transmission Fluid 50",
+                  "type": "synthetic",
+                  "information": "Fully synthetic, manual transmission fluid recommended for year-round lubrication of manual transmissions in light to severe duty on- and off-highway equipment operating in a wide range of environments",
+                  "benefits": "Extends transmission life and reduces cost of operation; long seal life, extended drain and service intervals; protects and extends the life of synchronizers; minimizes wear during severe operation.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/NAXXENCVLMOMobil_Delvac_Synthetic_Transmission_Fluid_50.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "https://mobildelvac.com/en/automatic-transmission-fluids/mobil-delvac-synthetic-transmission-fluid-50"
+                },
+                {
+                  "id":9,
+                  "name":"Mobil SHC™ 630",
+                  "type": "synthetic",
+                  "information": "Next-generation optimum-performance synthetic circulating and gear oils",
+                  "benefits": "Low traction and high viscosity index combine to significantly reduce power consumption — and energy costs — compared with mineral oils; reduced consumption can translate to overall reduction of CO2; long oil life, helps reduce maintenance costs; helps minimize deposits to enable trouble-free operation and long filter life; maintains viscosity and film thickness at high temperatures.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_SHC_600_Series.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-shc_mobil-shc-600-series.aspx"
+                },
+                {
+                  "id":10,
+                  "name":"Mobiltrans™ HD 50",
+                  "type": "conventional",
+                  "information": "Extra-high-performance transmission and drivetrain lubricants engineered to meet the rigorous specifications required by CAT TO-4",
+                  "benefits": "Helps maximize clutch life; increased levels of antiwear and load carrying capability help extend component life; helps control brake chatter; excellent thermal and oxidation stability for long oil life; very good low temperature pumpability, which helps to maximize lubrication at low startup temperatures.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/NAUSENCVLMOMobiltransHDSeries.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                },
+                {
+                  "id":11,
+                  "name":"Mobiltrans™ AST",
+                  "type": "conventional",
+                  "information": "Extra-high-performance drivetrain lubricant engineered to meet or exceed the requirements of Caterpillar&#x27;s new TO-4M performance specifications for off-highway transmissions, drivetrains, and hydraulic systems",
+                  "benefits": "Optimum clutch friction retention and slippage control, excellent anti-chatter brake performance, and extended clutch/brake life; greater wear protection, extended component life, and reduced cost of operation; longer seal life, extended drain, and service intervals.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENCVLMOMobiltrans_AST.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobil.ca/canada-english-lcw/heavydutyengineoils_products_mobiltrans-ast-30.aspx"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":14,
+          "name":"Suction Pump",
+          "imageURL":"blendertruck/suction-pump.png",
+          "x":166,
+          "y":-143,
+          "subcomponents":[
+            {
+              "id":14,
+              "name":"Suction Pump",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":12,
+                  "name":"Mobil SHC™ 600 Series",
+                  "type": "synthetic",
+                  "information": "Next-generation circulating and gear oils recommended for use in over 1,800 applications by more than 500 major equipment builders",
+                  "benefits": "Low traction and high viscosity index combine to significantly reduce power consumption — and energy costs — compared with mineral oils; reduced consumption can translate to overall reduction of CO2, helping meet emissions regulations; long oil life helps reduce maintenance costs; helps minimize deposits to enable trouble-free operation and long filter life.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_SHC_600_Series.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-shc_mobil-shc-600-series.aspx"
+                },
+                {
+                  "id":13,
+                  "name":"Mobil DTE™ Oil Named Series",
+                  "type": "conventional",
+                  "information": "Premium-performance circulating lubricants designed for steam and hydro turbine sets and other systems where long lubricant service life is required",
+                  "benefits": "Long oil charge life in circulation systems and reduced oil replacement costs; improved operating efficiency; avoids pump cavitation, noisy and erratic operation; very good antiwear protection and long-term protection against rust and corrosion help promote longer equipment life, reduced maintenance and downtime.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_DTE_Named.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.exxonmobil.com/MarineLubes-En/products_auxiliary-machinery_circulating-and-gear-oils_mobil-dte-named-series.aspx"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":15,
+          "name":"Blender (Auger) Bearings",
+          "imageURL":"blendertruck/blender-bearings.png",
+          "x":236,
+          "y":-139,
+          "subcomponents":[
+            {
+              "id":15,
+              "name":"Blender (Auger) Bearings",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":14,
+                  "name":"Mobilith SHC™ 460",
+                  "type": "synthetic",
+                  "information": "NLGI 1.5 Grade / ISO VG 460 extreme pressure grease recommended for tough industrial and marine applications that require bearing protection under heavy loads at low-to-moderate speeds and in applications where water resistance is a critical factor",
+                  "benefits": "Retains excellent grease performance in hostile aqueous environments; extended service life with longer intervals between relubrication and improved bearing life; reduced downtime and maintenance costs because of reduced wear, rust and corrosion.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENGRSMOMobilith_SHC.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_greases_mobilith-shc-grease-series.aspx"
+                },
+                {
+                  "id":15,
+                  "name":"Mobilith SHC™ 1500",
+                  "type": "synthetic",
+                  "information": "NLGI Grade / ISO VG 1500 grease intended for use in plain and rolling element bearings operating at extremely slow speeds, under heavy loads and high temperatures",
+                  "benefits": "Very effective in prolonging bearing life in a severe roll press application; excellent performance in rotary kiln roller bearings and in slag transfer rail car bearings; reduced downtime and maintenance costs because of reduced wear, rust and corrosion.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENGRSMOMobilith_SHC.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_greases_mobilith-shc-grease-series.aspx"
+                },
+                {
+                  "id":16,
+                  "name":"Mobilgrease XHP™ 462",
+                  "type": "conventional",
+                  "information": "Extended-service lithium complex greases intended for a wide variety of applications in severe operating conditions, including industrial, automotive, construction and marine sectors",
+                  "benefits": "Excellent adhesion and cohesion properties; high drop point helps provide extended relubrication intervals; resistance to water contamination aids in improving equipment reliability; excellent grease tenacity helps reduce leakage and extend relubrication intervals to help reduce maintenance requirements.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENGRSMOMobilgrease_XHP_460.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_greases_mobilgrease-xhp-460-series.aspx"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":16,
+          "name":"General Purpose Grease",
+          "imageURL":"blendertruck/general-purpose.png",
+          "x":128,
+          "y":-90,
+          "subcomponents":[
+            {
+              "id":16,
+              "name":"General Purpose Grease",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":17,
+                  "name":"Mobilith SHC™ 220",
+                  "type": "synthetic",
+                  "information": "Multi-purpose, NLGI 2 extreme pressure grease recommended for heavy-duty automotive and industrial applications",
+                  "benefits": "Wide application of temperature ranges with excellent protection at high temperatures and low torque; easy startup at low temperatures; reduced downtime and maintenance costs because of reduced wear, rust and corrosion, and extended service life with longer intervals between relubrication to help improve bearing life.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENGRSMOMobilith_SHC.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_greases_mobilith-shc-grease-series.aspx"
+                },
+                {
+                  "id":14,
+                  "name":"Mobilith SHC™ 460",
+                  "type": "synthetic",
+                  "information": "NLGI 1.5 Grade / ISO VG 460 extreme pressure grease recommended for tough industrial and marine applications that require bearing protection under heavy loads at low-to-moderate speeds and in applications where water resistance is a critical factor",
+                  "benefits": "Retains excellent grease performance in hostile aqueous environments; extended service life with longer intervals between relubrication and improved bearing life; reduced downtime and maintenance costs because of reduced wear, rust and corrosion.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENGRSMOMobilith_SHC.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_greases_mobilith-shc-grease-series.aspx"
+                },
+                {
+                  "id":16,
+                  "name":"Mobilgrease XHP™ 462",
+                  "type": "conventional",
+                  "information": "Extended-service lithium complex greases intended for a wide variety of applications in severe operating conditions, including industrial, automotive, construction and marine sectors",
+                  "benefits": "Excellent adhesion and cohesion properties; high drop point helps provide extended relubrication intervals; resistance to water contamination aids in improving equipment reliability; excellent grease tenacity helps reduce leakage and extend relubrication intervals to help reduce maintenance requirements.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENGRSMOMobilgrease_XHP_460.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_greases_mobilgrease-xhp-460-series.aspx"
+                },
+                {
+                  "id":18,
+                  "name":"Mobilgrease XHP™ 222",
+                  "type": "conventional",
+                  "information": "Recommended by ExxonMobil for industrial and marine applications, chassis components and farm equipment because its sticky formulation stays in applications longer",
+                  "benefits": "Helps assure proper lubrication and protection even in the most severe water exposure conditions; excellent grease tenacity helps reduce leakage and extend relubrication intervals for reduced maintenance requirements; provides protection of lubricated parts even in hostile aqueous environments; helps extend grease life and enhance bearing protection in high temperature applications, which helps to reduce maintenance and replacement costs.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENGRSMOMobilgrease_XHP_220.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_greases_mobilgrease-xhp.aspx"
+                },
+                {
+                  "id":19,
+                  "name":"Mobilgrease XHP™ 322 Mine",
+                  "type": "conventional",
+                  "information": "NLGI 2 Grade premium lithium complex grease for use as a general purpose chassis lube",
+                  "benefits": "Offers superb equipment protection and potential equipment life extension even in severe operating conditions; provides optimum equipment protection in high sliding mechanisms and with extended relubrication intervals; ensures proper lubrication and protection even in hostile work environments, and provides excellent low temperature pumpability and startup performance.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENGRSMOMobilgrease_XHP_Mine_Series.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_greases_mobilgrease-xhp-320-mine-series.aspx"
+                }
+              ]
+            }
+          ]
+        }
+    ]
+  }
+}

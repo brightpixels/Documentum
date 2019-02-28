@@ -1,0 +1,341 @@
+{
+  "lang": {
+    "fullscreen":                 "Fullscreen",
+    "exitFullscreen":             "Exit Fullscreen",
+    "visit":                      "Visit",
+    "equipment":                  "Equipment",
+    "viewDetails":                "View Details",
+    "dontShowMeThisMessageAgain": "Don't show me this message again",
+    "directions":                 "Click on a red hotspot in the schematic or on an item in the Equipment menu to see corresponding lubricant information. To view more of the schematic, click and drag with your mouse or use the arrow keys on your keyboard.",
+    "continue":                   "Continue",
+    "pds":                        "PDS",
+    "whereToBuy":                 "Where To Buy",
+    "productInformation":         "Product Information",
+    "benefits":                   "Benefits",
+    "refineYourSearchWithLooble": "Refine Your Search With Looble",
+    "products":                   "Products",
+    "back":                       "Back",
+    "equipmentType":              "Equipment Type",
+    "getMoreInfo":                "Get More Info",
+    "productDataSheets":          "Product Data Sheets",
+    "downloadSellSheet":          "Download Sell Sheet",
+    "emailPageLink":              "Email Page Link",
+    "findADistributor":           "Find a Distributor",
+    "components":                 "Components",
+    "touchModeQuestion":          "It appears you’re using a touch-enabled device. Would you prefer to use the touch-optimized interface?",
+    "yesUseTheTouchVersion":      "Yes, use the touch version",
+    "no":                         "No"
+  },
+  "schematic": {
+    "name":"Wind Turbine",
+    "tileset":"wind",
+    "minZoom": 1,
+    "maxZoom": 3,
+    "components":[
+        {
+          "id":65,
+          "name":"Generator",
+          "imageURL":"wind/gen.png",
+          "x":157,
+          "y":-124,
+          "subcomponents":[
+            {
+              "id":167,
+              "name":"Generator",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":80,
+                  "name":"Mobilith SHC™ 100",
+                  "type": "synthetic",
+                  "information": "Synthetic greases for lubrication of generator bearings",
+                  "benefits": "Improved flexibility in geographic placement of wind turbines; excellent wear protection of components; easy start-up at low temperature; helps maximize re-greasing interval, which can help reduce service costs.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENGRSMOMobilith_SHC.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_greases_mobilith-shc-grease-series.aspx"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":66,
+          "name":"Gear Box",
+          "imageURL":"wind/gearBox.png",
+          "x":128,
+          "y":-121,
+          "subcomponents":[
+            {
+              "id":168,
+              "name":"Gear Box",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":81,
+                  "name":"Mobilgear™ SHC XMP 320",
+                  "type": "synthetic",
+                  "information": "Synthetic gear oil for the main gearbox",
+                  "benefits": "Protection from micro-pitting fatigue wear and resistance to scuffing helps improve equipment productivity and extend oil life versus our conventional oils, and can reduce unscheduled downtime and maintenance; longer gear and bearing life under high-stress operating conditions.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobilgear_SHC_XMP.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                },
+                {
+                  "id":82,
+                  "name":"Mobil SHC™ Gear 320 WT",
+                  "type":"synthetic",
+                  "information":"Advanced synthetic gear oil for the main gear box",
+                  "benefits":"Helps maximize gear and bearing life even under extremes of load, speed and temperature. Superb protection from micropitting and scuffing. Long oil and equipment life help limit maintenance downtime. Excellent performance at high and low temperatures and in wet conditions.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_SHC_Gear_320_WT.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":67,
+          "name":"Main Shaft Bearing",
+          "imageURL":"wind/mainShaft.png",
+          "x":67,
+          "y":-113,
+          "subcomponents":[
+            {
+              "id":169,
+              "name":"Main Shaft Bearing",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":82,
+                  "name":"Mobil SHC™ Grease 460 WT",
+                  "type": "synthetic",
+                  "information": "Synthetic greases for lubrication of main, pitch and yaw bearings",
+                  "benefits": "Helps improve flexibility in geographic placement of wind turbines; excellent wear protection of components; easy start-up at low temperature; helps maximize re-greasing interval, which can help reduce service costs.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENGRSMOMobil_SHC_Grease_460_WT.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-shc_mobil-shc-gear-series.aspx"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":68,
+          "name":"Pitch Gear",
+          "imageURL":"wind/pitchGears.png",
+          "x":56,
+          "y":-102,
+          "subcomponents":[
+            {
+              "id":170,
+              "name":"Pitch Gear",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":83,
+                  "name":"Mobil SHC™ Gear Series",
+                  "type": "synthetic",
+                  "information": "Synthetic gear oil",
+                  "benefits": "Outstanding load-carrying and anti-wear properties for improved equipment reliability and life; can replace grease in some applications; high viscosity index and low traction properties help improve equipment energy efficiency in many gear drives compared with conventional reference oils.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_SHC_Gear_Series.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-shc_mobil-shc-gear-series.aspx"
+                },
+                {
+                  "id":84,
+                  "name":"Mobil SHC™ 600 Series",
+                  "type": "synthetic",
+                  "information": "Synthetic gear, bearing and circulating oil",
+                  "benefits": "Helps improve equipment productivity due to potential for reduced unscheduled downtime and maintenance; long gear and bearing life under high-stress operating conditions; helps extend oil life; by reducing friction, helps improve energy efficiency compared with mineral oils.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_SHC_600.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-shc_mobil-shc-600-series.aspx"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":69,
+          "name":"Pitch Bearing",
+          "imageURL":"wind/pitchBearings.png",
+          "x":44,
+          "y":-101,
+          "subcomponents":[
+            {
+              "id":171,
+              "name":"Pitch Bearing",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":82,
+                  "name":"Mobil SHC™ Grease 460 WT",
+                  "type": "synthetic",
+                  "information": "Synthetic greases for lubrication of main, pitch and yaw bearings",
+                  "benefits": "Helps improve flexibility in geographic placement of wind turbines; excellent wear protection of components; easy start-up at low temperature; helps maximize re-greasing interval, which can help reduce service costs.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENGRSMOMobil_SHC_Grease_460_WT.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-shc_mobil-shc-gear-series.aspx"
+                },
+                {
+                  "id":83,
+                  "name":"Mobil SHC™ Grease 102 WT",
+                  "type": "synthetic",
+                  "information": "Synthetic grease for wind turbine applications requiring a lubricant for extreme low temperatures",
+                  "benefits": "Provides outstanding bearing protection under heavy loads at low to moderate speeds and in applications where water resistance is a critical factor.  Provides long service life and relubrication intervals, along with enhanced bearing life. Delivers reliable lubrication of bearings using centralized grease systems or grease dispensers even at extremely low temperatures.",
+                  "pdsURL": "",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-shc_mobil-shc-gear-series.aspx"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":70,
+          "name":"Yaw Gear",
+          "imageURL":"wind/yawGear.png",
+          "x":102,
+          "y":-143,
+          "subcomponents":[
+            {
+              "id":172,
+              "name":"Yaw Gear",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":83,
+                  "name":"Mobil SHC™ Gear Series",
+                  "type": "synthetic",
+                  "information": "Synthetic gear oil",
+                  "benefits": "Outstanding load-carrying and anti-wear properties for improved equipment reliability and life; can replace grease in some applications; high viscosity index and low traction properties help improve equipment energy efficiency in many gear drives compared with conventional reference oils.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_SHC_Gear_Series.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-shc_mobil-shc-gear-series.aspx"
+                },
+                {
+                  "id":84,
+                  "name":"Mobil SHC™ 600 Series",
+                  "type": "synthetic",
+                  "information": "Synthetic gear, bearing and circulating oil",
+                  "benefits": "Helps improve equipment productivity due to potential for reduced unscheduled downtime and maintenance; long gear and bearing life under high-stress operating conditions; helps extend oil life; by reducing friction, helps improve energy efficiency compared with mineral oils.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_SHC_600.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-shc_mobil-shc-600-series.aspx"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":71,
+          "name":"Yaw Bearing",
+          "imageURL":"wind/yawBearings.png",
+          "x":92,
+          "y":-148,
+          "subcomponents":[
+            {
+              "id":173,
+              "name":"Yaw Bearing",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":82,
+                  "name":"Mobil SHC™ Grease 460 WT",
+                  "type": "synthetic",
+                  "information": "Synthetic greases for lubrication of main, pitch and yaw bearings",
+                  "benefits": "Helps improve flexibility in geographic placement of wind turbines; excellent wear protection of components; easy start-up at low temperature; helps maximize re-greasing interval, which can help reduce service costs.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENGRSMOMobil_SHC_Grease_460_WT.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-shc_mobil-shc-gear-series.aspx"
+                },
+                {
+                  "id":83,
+                  "name":"Mobil SHC™ Grease 102 WT",
+                  "type": "synthetic",
+                  "information": "Synthetic grease for wind turbine applications requiring a lubricant for extreme low temperatures",
+                  "benefits": "Provides outstanding bearing protection under heavy loads at low to moderate speeds and in applications where water resistance is a critical factor.  Provides long service life and relubrication intervals, along with enhanced bearing life. Delivers reliable lubrication of bearings using centralized grease systems or grease dispensers even at extremely low temperatures.",
+                  "pdsURL": "",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-shc_mobil-shc-gear-series.aspx"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":72,
+          "name":"Hydraulic System",
+          "imageURL":"wind/hydraulicSystem.png",
+          "x":123,
+          "y":-155,
+          "subcomponents":[
+            {
+              "id":174,
+              "name":"Hydraulic System",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":85,
+                  "name":"Mobil SHC™ 524",
+                  "type": "synthetic",
+                  "information": "Synthetic hydraulic oil",
+                  "benefits": "Ideally suited for high-pressure and tight-clearance hydraulic systems; helps improve cleanliness and long life for components (pumps and valves); helps extend oil and filter life",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_SHC_500.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-shc_mobil-shc-500-series.aspx"
+                },
+                {
+                  "id":86,
+                  "name":"Mobil DTE 10 Excel™ 32",
+                  "type": "conventional",
+                  "information": "Premium high viscosity index hydraulic oil",
+                  "benefits": "Designed to operate over a wide temerature rangewhile helping to protect critical components; helps maintain excellent system cleanliness over optimized drain intervals.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_DTE_10_Excel.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-dte-10-excel-series.aspx"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":73,
+          "name":"Open Gear",
+          "imageURL":"wind/openGear.png",
+          "x":111,
+          "y":-143,
+          "subcomponents":[
+            {
+              "id":175,
+              "name":"Open Gear",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":87,
+                  "name":"Mobilgear OGL™ 007 (non-synthetic)",
+                  "type": "conventional",
+                  "information": "Non-synthetic, non-diluent lubricant for open gears",
+                  "benefits": "Excellent gear wear protection; low component replacement and maintenance costs; absence of lead, nitrate and solvent helps reduce environmental impact.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/EUXXENINDMOMobilgearOGL007_009_461.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                },
+                {
+                  "id":88,
+                  "name":"Mobilgear OGL Series 461",
+                  "type": "conventional",
+                  "information": "Semi-fluid grease for large, slow- to medium-speed heavily loaded gears",
+                  "benefits": "Outstanding load-carrying and antiwear properties help enhance equipment life and reliability, minimizing maintenance downtime and costs. Strong adhesion helps limit fling-off even under extreme conditions. Absence of solvent helps minimize impact on the environment.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/EUXXENINDMOMobilgearOGL007_009_461.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                }
+              ]
+            }
+          ]
+        }
+    ]
+  }
+}

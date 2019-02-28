@@ -1,0 +1,49 @@
+{
+	"css": "css/widget-infographic.css",
+	"locale": {
+		"objective": "Objective"
+	},
+	"infographics": {
+		"1": {
+			"images": [
+				{ "id": "engine", "class": "fallback", "src": "img/us/graphic1.png" }
+			],
+			"text": "Extended engine <br>overhaul intervals <br>beyond <a href=\"#infographic-results\" class=\"nav-to--link\">21,000 hours</a>"
+		},
+		"2": {
+			"images": [
+				{ "id": "barrel", "class": "fallback", "src": "img/us/graphic2.png" }
+			],
+			"text": "Increased drain intervals <br>by more than <a href=\"#infographic-results\" class=\"nav-to--link\">100%</a>, from <br>less than 250 hours"
+		},
+		"3": {
+			"images": [
+				{ "id": "value", "class": "fallback", "src": "img/us/graphic3.png" }
+			],
+			"text": "Nearly <a href=\"#infographic-results\" class=\"nav-to--link\">$1.2 million</a> in <br>production value <br>savings generated"
+		}
+	},
+	"details": {
+		"situation": {
+			"title": "Situation",
+			"text": [
+				"Chantilly Crushed Stone, a Northern Virginia aggregate quarry, relies on two Caterpillar 777D haul trucks to each haul more than 60 loads per day from its quarry pit, at 85 tons per load.",
+				"Previously, Chantilly Crushed Stone overhauled its haul truck engines at 12,000 hours, while struggling to maintain oil drain intervals of 250 hours. It was interested in both extending oil drains and engine overhaul intervals and contacted ExxonMobil engineers to help determine viable options."
+			]
+		},
+		"recommendation": {
+			"title": "Recommendation",
+			"text": [
+			"After thorough investigation and analysis, ExxonMobil engineers recommended using Mobil Delvac™ 1300 Super 15W-40 , an expertly formulated diesel engine oil that delivers outstanding performance and helps extend engine life in some of the most severe off-highway applications. In addition, ExxonMobil engineers also recommended implementing routine Signum<sup>SM</sup> Oil Analysis (part of Mobil Serv) to monitor engine condition and optimize engine oil drain intervals."
+			]
+		},
+		"results": {
+			"title": "Results",
+			"text": [
+				"Using Mobil Delvac™ 1300 Super 15W-40 and implementing routine Signum Oil Analysis (part of Mobil Serv) has helped Chantilly Crushed Stone increase drain intervals by more than 100%, from less than 250 hours to 500 hours.",
+				"Chantilly Crushed Stone has also extended its engine overhaul intervals beyond 21,000 hours.",
+				"Chantilly Crushed Stone’s excellent maintenance and reliability initiatives have helped to avoid two engine overhauls on each of their 777D engines, allowing for increased production and minimal downtime, helping to generate nearly $1.2 million in production value savings."
+			]
+		}
+	}
+}

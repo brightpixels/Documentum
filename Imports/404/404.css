@@ -1,0 +1,213 @@
+@charset "utf-8";
+body {
+	margin: 0px;
+	padding: 0px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+#content {
+	display: block;
+	width: 915px;
+	margin: auto;
+}
+#header {
+	clear: both;
+	float: left;
+	padding-top: 25px;
+	width: 100%;
+	padding-bottom: 13px;
+}
+.p {
+	border: 1px solid #C1E0F4;
+	font-size: 1em;
+	vertical-align: middle;
+	padding: 2px;
+	margin-right: 10px;
+}
+#search {
+	vertical-align: middle;
+}
+#utility {
+	float: right;
+	text-align: right;
+	padding-right: 13px;
+	font-size: 0.7em;
+	width: auto;
+}
+#logo {
+	float: left;
+	padding-left: 13px;
+}
+#nav {
+	display: block;
+	clear: both;
+	background-image: url(/imports/404/navTopBackground.jpg);
+	background-repeat: no-repeat;
+	background-position: right top;
+}
+#bodyContent {
+	clear: both;
+	display: block;
+	margin-bottom: 10px;
+}
+#navBar {
+	background-image: url(/imports/404/navTopBackgroundBlue.jpg);
+	display: block;
+	height: 20px;
+	background-repeat: repeat-x;
+	background-position: left top;
+	font-size: 13px;
+	font-weight: bold;
+	text-decoration: none;
+	border: 2px solid #FFF;
+}
+#navBar a {
+	color: #FFF;
+	float: left;
+	clear: none;
+	padding-right: 5px;
+	padding-left: 5px;
+	height: 20px;
+	vertical-align: middle;
+	padding-top: 2px;
+	text-decoration: none;
+}
+#navBar a:link, #navBar a:visited {
+	margin-right: 1px;
+	margin-left: 1px;
+}
+#navBar a:hover, #navBar a:active, a.active:link {
+	background-image: url(/imports/404/navTopBackgroundBlueActive.jpg);
+	background-repeat: repeat-x;
+	background-position: left top;
+	border-right-width: 1px;
+	border-left-width: 1px;
+	border-right-style: solid;
+	border-left-style: solid;
+	border-right-color: #FFF;
+	border-left-color: #FFF;
+	margin: 0px;
+}
+#nav .navTopCorner {
+	height: 12px;
+	width: 100%;
+	background-image: url(/imports/404/navTopLeftCorner.jpg);
+	background-repeat: no-repeat;
+	background-position: left top;
+}
+#nav #subHeading {
+	background-image: url(/imports/404/navBottomBackground.jpg);
+	background-repeat: no-repeat;
+	background-position: right bottom;
+	margin: 0px;
+	padding: 0px;
+}
+#nav #subHeading h1 {
+	font-size: 20px;
+	color: #336699;
+	background-image: url(/imports/404/navBottomLeftCorner.jpg);
+	background-position: left bottom;
+	background-repeat: no-repeat;
+	margin: 0px;
+	padding-top: 10px;
+	padding-right: 0px;
+	padding-bottom: 20px;
+	padding-left: 20px;
+}
+.moleBk {
+	background-image: url(/imports/404/backgroundMolecule.jpg);
+	background-repeat: no-repeat;
+	background-position: right top;
+}
+#bodyContent .textAdLeft {
+	padding-top: 50px;
+	padding-right: 50%;
+	padding-left: 20px;
+	font-size: .9em;
+	line-height: 2em;
+	padding-bottom: 50px;
+}
+#bodyContent .text404 {
+	padding-top: 50px;
+	padding-left: 20px;
+	font-size: .9em;
+	line-height: 2em;
+	padding-bottom: 50px;
+}
+input {
+	vertical-align: middle;
+}
+#utility #search {
+	margin: 0px;
+	padding: 0px;
+}
+#utility a {
+	font-weight: bold;
+	margin: 0px;
+	display: inline-block;
+	padding: 6px;
+}
+#utility a:link, #utility a:visited {
+	font-weight: bold;
+	margin: 0px;
+	display: inline-block;
+	padding: 6px;
+	color: #666;
+	text-decoration: none;
+}
+#utility a:hover, #utility a:active {
+	font-weight: bold;
+	margin: 0px;
+	display: inline-block;
+	padding: 6px;
+	color: #003366;
+	text-decoration: underline;
+}
+form {
+	margin: 0px;
+	padding: 0px;
+}
+#globalFooter {
+	border-top:1px solid #f0f0f0;
+	margin:0;
+	padding:20px 0 0 0;
+	text-align:center;
+	font-size:.85em;
+}
+#globalFooter a {
+	color:#666;
+	text-decoration: none;
+}
+.footerNav {
+	text-align:center;
+	padding:10px 0 0 0;
+}
+.footerNav li {
+	display:inline;
+	padding:0 12px 0 8px;
+	border-right:dashed #999 1px;
+	line-height:1.6em;
+}
+#globalFooter .logo li {
+	border-right:none 0;
+	padding-right:0;
+}
+#globalFooter .logo img {
+	padding-right:12px;
+}
+.noBorderR {
+	border-right:none 0 !important
+}
+.noBorderL {
+	border-left:none 0 !important
+}
+.borderR {
+	border-right:dashed #999 1px !important
+}
+.borderL {
+	border-left:dashed #999 1px !important
+}
+#globalFooter ul {
+	margin: 0px;
+	padding: 0px;
+	font-size: .8em;
+}

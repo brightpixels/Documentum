@@ -1,0 +1,47 @@
+{
+	"css": "css/widget-infographic.css",
+	"locale": {
+		"objective": "Objectif"
+	},
+	"infographics": {
+		"1": {
+			"images": [ 
+				{ "id": "engine", "class": "fallback", "src": "img/fr/van-wijk/graphic1.png" }
+			],
+			"text": " diminutions de la consommation de carburant allant de <a href=\"#infographic-results\" class=\"nav-to--link\">1,29%</a> à <a href=\"#infographic-results\" class=\"nav-to--link\">4,09%</a> "
+		},
+		"2": {
+			"images": [ 
+				{ "id": "barrel", "class": "fallback", "src": "img/fr/van-wijk/graphic2.png" }
+			],
+			"text": "d’économisés annuellement <a href=\"#infographic-results\" class=\"nav-to--link\">115 000 € </a> annuellement."
+		},
+		"3": {
+			"images": [ 
+				{ "id": "value", "class": "fallback" , "src": "img/fr/van-wijk/graphic3.png" }
+			],
+			"text": "réduction des émissions de CO<sub>2</sub> de <a href=\"#infographic-results\" class=\"nav-to--link\">265 tonnes</a> par an."
+		}
+	},
+	"details": {
+		"situation": { 
+			"title": "Contexte et objectifs", 
+			"text": [				
+				"E. Van Wijk Logistic B.V. est une entreprise de transport basée aux Pays-Bas qui exploite une flotte de plus de 300 camions. La société Den Hartog, distributeur officiel des lubrifiants Mobil™, a proposé à ce transporteur des solutions techniques pour réduire les consommations de carburant et ainsi minimiser les émissions de CO<sub>2</sub>. Il s’agissait de démontrer que l’utilisation de l’huile moteur entièrement synthétique Mobil Delvac 1 LE 5W-30 permettrait de diminuer la consommation de carburant des camions par rapport à celle constatée avec l’utilisation d’une huile moteur SAE 10W-30 concurrente."
+			]
+		},
+		"recommendation": { 
+			"title": "Recommandations et solutions", 
+			"text": [
+				"Le paramètre le plus important pour générer des économies de carburant grâce aux lubrifiants est le maintien de la viscosité en service. Une viscosité optimum dans les différents régimes d’utilisation des moteurs permet de réduire les frottements et donc les consommations de carburant. Cependant, la viscosité peut augmenter dans le temps. Les particules de suies, divers contaminants ainsi que les phénomènes d’oxydation peuvent entraîner un épaississement de l’huile qui peut nuire aux économies de carburant et compromettre la protection du moteur. Ainsi, un lubrifiant moteur conçu pour favoriser les économies de carburant doit être également formulé pour lutter contre les phénomènes d’oxydation et d’épaississement de l’huile."
+			]
+		},
+		"results": { 
+			"title": "Résultats et gains", 
+			"text": [				
+				"Le suivi régulier des consommations de carburant de 3 camions test DAF utilisant l’huile moteur synthétique Mobil Delvac 1 LE 5W-30 a démontré des diminutions de la consommation de carburant allant de 1,29 % à 4,09</strong> % par rapport à celle constatée avant ce changement. Il n’y avait pas de différence significative des conditions d’exploitation entre ces 2 périodes. En plus d’une protection exceptionnelle lors de la phase critique des démarrages et d’un allongement potentiel de la durée de vie des moteurs, l’huile Mobil Delvac 1 LE 5W-30 favorise également la baisse des consommations de carburant. Ainsi, ce test a permis de démontrer que ce transporteur néerlandais pourrait économiser 115 000 € par an et diminuer ses émissions de  CO<sub>2</sub> de 265 tonnes par an*</strong> si l’huile synthétique Mobil Delvac 1 LE 5W-30 était adoptée sur l’ensemble de sa flotte de camions.",
+				"*Economies calculées selon les hypothèses d’une distance totale parcourue annuelle de 13 millions de km, d’une consommation annuelle de 4 millions de litres de carburant, d’un prix du."
+			]
+		}
+	}
+}

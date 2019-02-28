@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<regions>
+  <region>
+    <regionname>Америка</regionname>
+    <regioncode>AM</regioncode>
+  </region>
+  <region>
+    <regionname>Азия</regionname>
+    <regioncode>AP</regioncode>
+  </region>
+  <region>
+    <regionname>Европа, Африка, Ближний Восток</regionname>
+    <regioncode>EAME</regioncode>
+  </region>
+</regions>

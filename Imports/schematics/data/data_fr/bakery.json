@@ -1,0 +1,1020 @@
+{
+  "lang": {
+    "fullscreen":                 "Plein écran",
+    "exitFullscreen":             "Quitter le mode “Plein écran”",
+    "visit":                      "Démarrer la visite",
+    "equipment":                  "Equipement",
+    "viewDetails":                "Voir les détails",
+    "dontShowMeThisMessageAgain": "Ne plus afficher ce message",
+    "directions":                 "Cliquez sur un point rouge dans le schéma ou sur l’un des items contenus dans le menu « Equipement » pour découvrir les informations relatives au lubrifiant Mobil™ correspondant. Pour parcourir l’ensemble du schéma, cliquez et déplacez la souris ou utilisez les flèches de déplacement situées sur votre clavier d’ordinateur.",
+    "continue":                   "Continuer",
+    "pds":                        "Fiche technique produit (FTP)",
+    "whereToBuy":                 "Où acheter ?",
+    "productInformation":         "Description du produit",
+    "benefits":                   "Avantages",
+    "refineYourSearchWithLooble": "Affiner votre recherche avec le guide de sélection Looble℠",
+    "products":                   "Produits",
+    "back":                       "Retour",
+    "equipmentType":              "Type d’équipement",
+    "getMoreInfo":                "Pour avoir plus d’informations",
+    "productDataSheets":          "Fiches techniques produits (FTP)",
+    "downloadSellSheet":          "Télécharger ce document",
+    "emailPageLink":              "Lien pour envoyer un message électronique",
+    "findADistributor":           "Trouver un Distributeur",
+    "components":                 "Composants",
+    "touchModeQuestion":          "Il apparaît que vous êtes en train d’utiliser une tablette ou un appareil à touches tactiles. Souhaitez-vous utiliser une interface tactile optimisée ?",
+    "yesUseTheTouchVersion":      "Oui, je préfère utiliser la version tactile",
+    "no":                         "Non"
+  },
+  
+  "schematic": {
+    "name":"Boulangerie industrielle",
+    "tileset":"bakery",
+    "minZoom": 1,
+    "maxZoom": 4,
+    "components":[
+        {
+          "id":74,
+          "name":"Convoyeur / Soufflante",
+          "imageURL":"bakery/conveyingBlower.png",
+          "x":81,
+          "y":-91,
+          "subcomponents":[
+            {
+              "id":176,
+              "name":"Circuits hydrauliques",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":88,
+                  "name":"Mobil SHC Cibus™ 32, 46, 68",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huiles synthétiques hautes performances destinées notamment aux applications hydrauliques.  Les Mobil SHC Cibus™ ont été spécialement conçues pour apporter une protection exceptionnelle aux équipements rencontrés dans l’industrie agro-alimentaire, y compris les secteurs de la production de boissons et des emballages utilisés dans cette filière.",
+                  "benefits": "Longue durée de vie des charges d’huile en service. Large plage de températures d’utilisation. Les Mobil SHC Cibus™ sont fabriquées dans des installations certifiées ISO 22000, qui satisfont également les exigences de la norme ISO 21469.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_SHC_Cibus.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-shc_mobil-shc-cibus-series.aspx"
+                }
+              ]
+            },
+            {
+              "id":177,
+              "name":"Réducteurs",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":89,
+                  "name":"Mobil SHC Cibus™ 150, 220, 320, 460",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huiles synthétiques hautes performances pour engrenages et réducteurs industriels. Ces lubrifiants sont spécifiquement conçus pour des applications dans l’industrie agro-alimentaire, y compris le secteur des boissons et les industries fabricant des emballages pour l’industrie agro-alimentaire.",
+                  "benefits": "Economies d’énergie potentielles, par rapport aux huiles minérales. Excellente protection des équipements. Très large plage de températures d’utilisation. Ces lubrifiants sont fabriqués dans des installations certifiées selon la norme ISO 22000 et qui satisfont également les exigences de la norme ISO 21469.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_SHC_Cibus.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/France/products_mobil-shc_mobil-shc-cibus-series.aspx"
+                },
+                {
+                  "id":90,
+                  "name":"Mobil Glygoyle™ 220, 320, 460",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huiles synthétiques hautes performances formulées à base de Poly-Alkylène-Glycol (PAG). Elles sont notamment destinées à la lubrification de certains réducteurs et engrenages de type roue et vis, paliers, roulements et autres compresseurs",
+                  "benefits": "Excellentes propriétés EP (Extrême - Pression) et protection exceptionnelle contre l’usure des équipements critiques. Protection élevée contre le micro – pitting, pour les réducteurs qui y sont sensibles. Protection efficace contre la rouille et la corrosion en service. Grande résistance au moussage. Excellent pouvoir lubrifiant du fait de leur nature entièrement synthétique. Faible coefficient de traction, ce qui favorise les gains d’efficacité énergétique, les économies d’énergie potentielles et la baisse des températures de service des équipements. Grande résistance à l’oxydation et excellente stabilité thermique, d’où une formation réduite de boues et de dépôts.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_Glygoyle.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                }
+              ]
+            },
+            {
+              "id":178,
+              "name":"Roulements",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":91,
+                  "name":"Mobil SHC Polyrex™",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Graisses synthétiques hautes performances, enregistrées NSF H1, pour utilisation possible en cas de risque de contact fortuit avec les aliments.",
+                  "benefits": "Graisses adaptées à la lubrification des applications fonctionnant à des températures très élevées. Grande durée de vie en service. Protection exceptionnelle contre l'usure, la rouille et la corrosion, d'où une grande longévité des organes lubrifiés. Très large plage de températures d’utilisation. Possibilité d’allonger les intervalles de regraissage. Graisses enregistrées NSF H1, pour utilisation possible sur des applications  où il existe un risque de contact alimentaire fortuit.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRGRSMOMobil_SHC_Polyrex_Series.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-shc_mobil-shc-polyrex-series.aspx"
+                },
+                {
+                  "id":92,
+                  "name":"Mobilgrease™ FM",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Graisses minérales multi-usages destinées à la lubrification des roulements rencontrés dans l’industrie agro-alimentaire (roulements de convoyeurs par exemple).",
+                  "benefits": "Graisses adaptées à la lubrification des applications fonctionnant à des températures très élevées. Grande durée de vie en service. Protection exceptionnelle contre l'usure, la rouille et la corrosion, d'où une grande longévité des organes lubrifiés. Très large plage de températures d’utilisation. Possibilité d’allonger les intervalles de regraissage. Graisses enregistrées NSF H1, pour utilisation possible sur des applications  où il existe un risque de contact alimentaire fortuit.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRGRSMOMobilgrease_FM_101_FM_222.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":75,
+          "name":"Chariot élévateur",
+          "imageURL":"bakery/forkLiftTruck.png",
+          "x":72,
+          "y":-118,
+          "subcomponents":[
+            {
+              "id":179,
+              "name":"Circuits hydrauliques",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":88,
+                  "name":"Mobil SHC Cibus™ 32, 46, 68",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huiles synthétiques hautes performances destinées notamment aux applications hydrauliques.  Les Mobil SHC Cibus™ ont été spécialement conçues pour apporter une protection exceptionnelle aux équipements rencontrés dans l’industrie agro-alimentaire, y compris les secteurs de la production de boissons et des emballages utilisés dans cette filière.",
+                  "benefits": "Longue durée de vie des charges d’huile en service. Large plage de températures d’utilisation. Les Mobil SHC Cibus™ sont fabriquées dans des installations certifiées ISO 22000, qui satisfont également les exigences de la norme ISO 21469.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_SHC_Cibus.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-shc_mobil-shc-cibus-series.aspx"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":76,
+          "name":"Emballage / Conditionnement",
+          "imageURL":"bakery/packaging.png",
+          "x":60,
+          "y":-153,
+          "subcomponents":[
+            {
+              "id":180,
+              "name":"Circuits hydrauliques",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":88,
+                  "name":"Mobil SHC Cibus™ 32, 46, 68",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huiles synthétiques hautes performances destinées notamment aux applications hydrauliques.  Les Mobil SHC Cibus™ ont été spécialement conçues pour apporter une protection exceptionnelle aux équipements rencontrés dans l’industrie agro-alimentaire, y compris les secteurs de la production de boissons et des emballages utilisés dans cette filière.",
+                  "benefits": "Longue durée de vie des charges d’huile en service. Large plage de températures d’utilisation. Les Mobil SHC Cibus™ sont fabriquées dans des installations certifiées ISO 22000, qui satisfont également les exigences de la norme ISO 21469.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_SHC_Cibus.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-shc_mobil-shc-cibus-series.aspx"
+                }
+              ]
+            },
+            {
+              "id":181,
+              "name":"Réducteurs",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":89,
+                  "name":"Mobil SHC Cibus™ 150, 220, 320, 460",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huiles synthétiques hautes performances pour engrenages et réducteurs industriels. Ces lubrifiants sont spécifiquement conçus pour des applications dans l’industrie agro-alimentaire, y compris le secteur des boissons et les industries fabricant des emballages pour l’industrie agro-alimentaire.",
+                  "benefits": "Economies d’énergie potentielles, par rapport aux huiles minérales. Excellente protection des équipements. Très large plage de températures d’utilisation. Ces lubrifiants sont fabriqués dans des installations certifiées selon la norme ISO 22000 et qui satisfont également les exigences de la norme ISO 21469.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_SHC_Cibus.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-shc_mobil-shc-cibus-series.aspx"
+                },
+                {
+                  "id":90,
+                  "name":"Mobil Glygoyle™ 220, 320, 460",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huiles synthétiques hautes performances formulées à base de Poly-Alkylène-Glycol (PAG). Elles sont notamment destinées à la lubrification de certains réducteurs et engrenages de type roue et vis, paliers, roulements et autres compresseurs",
+                  "benefits": "Excellentes propriétés EP (Extrême - Pression) et protection exceptionnelle contre l’usure des équipements critiques. Protection élevée contre le micro – pitting, pour les réducteurs qui y sont sensibles. Protection efficace contre la rouille et la corrosion en service. Grande résistance au moussage. Excellent pouvoir lubrifiant du fait de leur nature entièrement synthétique. Faible coefficient de traction, ce qui favorise les gains d’efficacité énergétique, les économies d’énergie potentielles et la baisse des températures de service des équipements. Grande résistance à l’oxydation et excellente stabilité thermique, d’où une formation réduite de boues et de dépôts.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_Glygoyle.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                }
+              ]
+            },
+            {
+              "id":182,
+              "name":"Roulements",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":91,
+                  "name":"Mobil SHC Polyrex™",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Graisses synthétiques hautes performances, enregistrées NSF H1, pour utilisation possible en cas de risque de contact fortuit avec les aliments.",
+                  "benefits": "Graisses adaptées à la lubrification des applications fonctionnant à des températures très élevées. Grande durée de vie en service. Protection exceptionnelle contre l'usure, la rouille et la corrosion, d'où une grande longévité des organes lubrifiés. Très large plage de températures d’utilisation. Possibilité d’allonger les intervalles de regraissage. Graisses enregistrées NSF H1, pour utilisation possible sur des applications  où il existe un risque de contact alimentaire fortuit.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRGRSMOMobil_SHC_Polyrex_Series.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-shc_mobil-shc-polyrex-series.aspx"
+                },
+                {
+                  "id":92,
+                  "name":"Mobilgrease™ FM",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Graisses minérales multi-usages destinées à la lubrification des roulements rencontrés dans l’industrie agro-alimentaire (roulements de convoyeurs par exemple).",
+                  "benefits": "Graisses adaptées à la lubrification des applications fonctionnant à des températures très élevées. Grande durée de vie en service. Protection exceptionnelle contre l'usure, la rouille et la corrosion, d'où une grande longévité des organes lubrifiés. Très large plage de températures d’utilisation. Possibilité d’allonger les intervalles de regraissage. Graisses enregistrées NSF H1, pour utilisation possible sur des applications  où il existe un risque de contact alimentaire fortuit.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRGRSMOMobilgrease_FM_101_FM_222.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":77,
+          "name":"Convoyeur",
+          "imageURL":"bakery/conveyor3.png",
+          "x":52,
+          "y":-180,
+          "subcomponents":[
+            {
+              "id":183,
+              "name":"Réducteurs",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":89,
+                  "name":"Mobil SHC Cibus™ 150, 220, 320, 460",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huiles synthétiques hautes performances pour engrenages et réducteurs industriels. Ces lubrifiants sont spécifiquement conçus pour des applications dans l’industrie agro-alimentaire, y compris le secteur des boissons et les industries fabricant des emballages pour l’industrie agro-alimentaire.",
+                  "benefits": "Economies d’énergie potentielles, par rapport aux huiles minérales. Excellente protection des équipements. Très large plage de températures d’utilisation. Ces lubrifiants sont fabriqués dans des installations certifiées selon la norme ISO 22000 et qui satisfont également les exigences de la norme ISO 21469.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_SHC_Cibus.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-shc_mobil-shc-cibus-series.aspx"
+                },
+                {
+                  "id":90,
+                  "name":"Mobil Glygoyle™ 220, 320, 460",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huiles synthétiques hautes performances formulées à base de Poly-Alkylène-Glycol (PAG). Elles sont notamment destinées à la lubrification de certains réducteurs et engrenages de type roue et vis, paliers, roulements et autres compresseurs",
+                  "benefits": "Excellentes propriétés EP (Extrême - Pression) et protection exceptionnelle contre l’usure des équipements critiques. Protection élevée contre le micro – pitting, pour les réducteurs qui y sont sensibles. Protection efficace contre la rouille et la corrosion en service. Grande résistance au moussage. Excellent pouvoir lubrifiant du fait de leur nature entièrement synthétique. Faible coefficient de traction, ce qui favorise les gains d’efficacité énergétique, les économies d’énergie potentielles et la baisse des températures de service des équipements. Grande résistance à l’oxydation et excellente stabilité thermique, d’où une formation réduite de boues et de dépôts.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_Glygoyle.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                }
+              ]
+            },
+            {
+              "id":184,
+              "name":"Roulements",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":91,
+                  "name":"Mobil SHC Polyrex™",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Graisses synthétiques hautes performances, enregistrées NSF H1, pour utilisation possible en cas de risque de contact fortuit avec les aliments.",
+                  "benefits": "Graisses adaptées à la lubrification des applications fonctionnant à des températures très élevées. Grande durée de vie en service. Protection exceptionnelle contre l'usure, la rouille et la corrosion, d'où une grande longévité des organes lubrifiés. Très large plage de températures d’utilisation. Possibilité d’allonger les intervalles de regraissage. Graisses enregistrées NSF H1, pour utilisation possible sur des applications  où il existe un risque de contact alimentaire fortuit.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRGRSMOMobil_SHC_Polyrex_Series.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-shc_mobil-shc-polyrex-series.aspx"
+                },
+                {
+                  "id":92,
+                  "name":"Mobilgrease™ FM",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Graisses minérales multi-usages destinées à la lubrification des roulements rencontrés dans l’industrie agro-alimentaire (roulements de convoyeurs par exemple).",
+                  "benefits": "Excellente tolérance à l’eau et protection remarquable contre la corrosion",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRGRSMOMobilgrease_FM_101_FM_222.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":78,
+          "name":"Compresseurs d’air",
+          "imageURL":"bakery/airCompressors.png",
+          "x":21,
+          "y":-159,
+          "subcomponents":[
+            {
+              "id":185,
+              "name":"Compresseurs",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":88,
+                  "name":"Mobil SHC Cibus™ 32, 46, 68",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huiles synthétiques hautes performances destinées notamment aux applications hydrauliques.  Les Mobil SHC Cibus™ ont été spécialement conçues pour apporter une protection exceptionnelle aux équipements rencontrés dans l’industrie agro-alimentaire, y compris les secteurs de la production de boissons et des emballages utilisés dans cette filière.",
+                  "benefits": "Longue durée de vie des charges d’huile en service. Large plage de températures d’utilisation. Les Mobil SHC Cibus™ sont fabriquées dans des installations certifiées ISO 22000, qui satisfont également les exigences de la norme ISO 21469.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_SHC_Cibus.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-shc_mobil-shc-cibus-series.aspx"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":79,
+          "name":"Ventilateurs",
+          "imageURL":"bakery/ventilationFans.png",
+          "x":21,
+          "y":-169,
+          "subcomponents":[
+            {
+              "id":186,
+              "name":"Réducteurs",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":89,
+                  "name":"Mobil SHC Cibus™ 150, 220, 320, 460",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huiles synthétiques hautes performances pour engrenages et réducteurs industriels. Ces lubrifiants sont spécifiquement conçus pour des applications dans l’industrie agro-alimentaire, y compris le secteur des boissons et les industries fabricant des emballages pour l’industrie agro-alimentaire.",
+                  "benefits": "Economies d’énergie potentielles, par rapport aux huiles minérales. Excellente protection des équipements. Très large plage de températures d’utilisation. Ces lubrifiants sont fabriqués dans des installations certifiées selon la norme ISO 22000 et qui satisfont également les exigences de la norme ISO 21469.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_SHC_Cibus.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-shc_mobil-shc-cibus-series.aspx"
+                },
+                {
+                  "id":90,
+                  "name":"Mobil Glygoyle™ 220, 320, 460",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huiles synthétiques hautes performances formulées à base de Poly-Alkylène-Glycol (PAG). Elles sont notamment destinées à la lubrification de certains réducteurs et engrenages de type roue et vis, paliers, roulements et autres compresseurs",
+                  "benefits": "Excellentes propriétés EP (Extrême - Pression) et protection exceptionnelle contre l’usure des équipements critiques. Protection élevée contre le micro – pitting, pour les réducteurs qui y sont sensibles. Protection efficace contre la rouille et la corrosion en service. Grande résistance au moussage. Excellent pouvoir lubrifiant du fait de leur nature entièrement synthétique. Faible coefficient de traction, ce qui favorise les gains d’efficacité énergétique, les économies d’énergie potentielles et la baisse des températures de service des équipements. Grande résistance à l’oxydation et excellente stabilité thermique, d’où une formation réduite de boues et de dépôts.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_Glygoyle.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                }
+              ]
+            },
+            {
+              "id":187,
+              "name":"Roulements",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":91,
+                  "name":"Mobil SHC Polyrex™",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Graisses synthétiques hautes performances, enregistrées NSF H1, pour utilisation possible en cas de risque de contact fortuit avec les aliments.",
+                  "benefits": "Graisses adaptées à la lubrification des applications fonctionnant à des températures très élevées. Grande durée de vie en service. Protection exceptionnelle contre l'usure, la rouille et la corrosion, d'où une grande longévité des organes lubrifiés. Très large plage de températures d’utilisation. Possibilité d’allonger les intervalles de regraissage. Graisses enregistrées NSF H1, pour utilisation possible sur des applications  où il existe un risque de contact alimentaire fortuit.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRGRSMOMobil_SHC_Polyrex_Series.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-shc_mobil-shc-polyrex-series.aspx"
+                },
+                {
+                  "id":92,
+                  "name":"Mobilgrease™ FM",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Graisses minérales multi-usages destinées à la lubrification des roulements rencontrés dans l’industrie agro-alimentaire (roulements de convoyeurs par exemple).",
+                  "benefits": "Excellente tolérance à l’eau et protection remarquable contre la corrosion",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRGRSMOMobilgrease_FM_101_FM_222.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":80,
+          "name":"Palettisation",
+          "imageURL":"bakery/palletizer.png",
+          "x":76,
+          "y":-195,
+          "subcomponents":[
+            {
+              "id":188,
+              "name":"Circuits hydrauliques",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":88,
+                  "name":"Mobil SHC Cibus™ 32, 46, 68",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huiles synthétiques hautes performances destinées notamment aux applications hydrauliques.  Les Mobil SHC Cibus™ ont été spécialement conçues pour apporter une protection exceptionnelle aux équipements rencontrés dans l’industrie agro-alimentaire, y compris les secteurs de la production de boissons et des emballages utilisés dans cette filière.",
+                  "benefits": "Longue durée de vie des charges d’huile en service. Large plage de températures d’utilisation. Les Mobil SHC Cibus™ sont fabriquées dans des installations certifiées ISO 22000, qui satisfont également les exigences de la norme ISO 21469.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_SHC_Cibus.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-shc_mobil-shc-cibus-series.aspx"
+                }
+              ]
+            },
+            {
+              "id":189,
+              "name":"Réducteurs",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":89,
+                  "name":"Mobil SHC Cibus™ 150, 220, 320, 460",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huiles synthétiques hautes performances pour engrenages et réducteurs industriels. Ces lubrifiants sont spécifiquement conçus pour des applications dans l’industrie agro-alimentaire, y compris le secteur des boissons et les industries fabricant des emballages pour l’industrie agro-alimentaire.",
+                  "benefits": "Economies d’énergie potentielles, par rapport aux huiles minérales. Excellente protection des équipements. Très large plage de températures d’utilisation. Ces lubrifiants sont fabriqués dans des installations certifiées selon la norme ISO 22000 et qui satisfont également les exigences de la norme ISO 21469.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_SHC_Cibus.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-shc_mobil-shc-cibus-series.aspx"
+                },
+                {
+                  "id":90,
+                  "name":"Mobil Glygoyle™ 220, 320, 460",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huiles synthétiques hautes performances formulées à base de Poly-Alkylène-Glycol (PAG). Elles sont notamment destinées à la lubrification de certains réducteurs et engrenages de type roue et vis, paliers, roulements et autres compresseurs",
+                  "benefits": "Excellentes propriétés EP (Extrême - Pression) et protection exceptionnelle contre l’usure des équipements critiques. Protection élevée contre le micro – pitting, pour les réducteurs qui y sont sensibles. Protection efficace contre la rouille et la corrosion en service. Grande résistance au moussage. Excellent pouvoir lubrifiant du fait de leur nature entièrement synthétique. Faible coefficient de traction, ce qui favorise les gains d’efficacité énergétique, les économies d’énergie potentielles et la baisse des températures de service des équipements. Grande résistance à l’oxydation et excellente stabilité thermique, d’où une formation réduite de boues et de dépôts.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_Glygoyle.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                }
+              ]
+            },
+            {
+              "id":190,
+              "name":"Roulements",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":91,
+                  "name":"Mobil SHC Polyrex™",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Graisses synthétiques hautes performances, enregistrées NSF H1, pour utilisation possible en cas de risque de contact fortuit avec les aliments.",
+                  "benefits": "Graisses adaptées à la lubrification des applications fonctionnant à des températures très élevées. Grande durée de vie en service. Protection exceptionnelle contre l'usure, la rouille et la corrosion, d'où une grande longévité des organes lubrifiés. Très large plage de températures d’utilisation. Possibilité d’allonger les intervalles de regraissage. Graisses enregistrées NSF H1, pour utilisation possible sur des applications  où il existe un risque de contact alimentaire fortuit.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRGRSMOMobil_SHC_Polyrex_Series.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-shc_mobil-shc-polyrex-series.aspx"
+                },
+                {
+                  "id":92,
+                  "name":"Mobilgrease™ FM",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Graisses minérales multi-usages destinées à la lubrification des roulements rencontrés dans l’industrie agro-alimentaire (roulements de convoyeurs par exemple).",
+                  "benefits": "Excellente tolérance à l’eau et protection remarquable contre la corrosion",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRGRSMOMobilgrease_FM_101_FM_222.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                }
+              ]
+            },
+            {
+              "id":191,
+              "name":"Lubrificateurs d’air",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":93,
+                  "name":"Mobil SHC Cibus™ 32",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huiles synthétiques hautes performances destinées notamment aux applications hydrauliques.  Les Mobil SHC Cibus™ ont été spécialement conçues pour apporter une protection exceptionnelle aux équipements rencontrés dans l’industrie agro-alimentaire, y compris les secteurs de la production de boissons et des emballages utilisés dans cette filière.",
+                  "benefits": "Longue durée de vie des charges d’huile en service. Large plage de températures d’utilisation. Les Mobil SHC Cibus™ sont fabriquées dans des installations certifiées ISO 22000, qui satisfont également les exigences de la norme ISO 21469.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_SHC_Cibus.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-shc_mobil-shc-cibus-series.aspx"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":81,
+          "name":"Convoyeur",
+          "imageURL":"bakery/conveyor1.png",
+          "x":246,
+          "y":-141,
+          "subcomponents":[
+            {
+              "id":192,
+              "name":"Réducteurs",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":89,
+                  "name":"Mobil SHC Cibus™ 150, 220, 320, 460",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huiles synthétiques hautes performances pour engrenages et réducteurs industriels. Ces lubrifiants sont spécifiquement conçus pour des applications dans l’industrie agro-alimentaire, y compris le secteur des boissons et les industries fabricant des emballages pour l’industrie agro-alimentaire.",
+                  "benefits": "Economies d’énergie potentielles, par rapport aux huiles minérales. Excellente protection des équipements. Très large plage de températures d’utilisation. Ces lubrifiants sont fabriqués dans des installations certifiées selon la norme ISO 22000 et qui satisfont également les exigences de la norme ISO 21469.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_SHC_Cibus.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-shc_mobil-shc-cibus-series.aspx"
+                },
+                {
+                  "id":90,
+                  "name":"Mobil Glygoyle™ 220, 320, 460",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huiles synthétiques hautes performances formulées à base de Poly-Alkylène-Glycol (PAG). Elles sont notamment destinées à la lubrification de certains réducteurs et engrenages de type roue et vis, paliers, roulements et autres compresseurs",
+                  "benefits": "Excellentes propriétés EP (Extrême - Pression) et protection exceptionnelle contre l’usure des équipements critiques. Protection élevée contre le micro – pitting, pour les réducteurs qui y sont sensibles. Protection efficace contre la rouille et la corrosion en service. Grande résistance au moussage. Excellent pouvoir lubrifiant du fait de leur nature entièrement synthétique. Faible coefficient de traction, ce qui favorise les gains d’efficacité énergétique, les économies d’énergie potentielles et la baisse des températures de service des équipements. Grande résistance à l’oxydation et excellente stabilité thermique, d’où une formation réduite de boues et de dépôts.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_Glygoyle.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                }
+              ]
+            },
+            {
+              "id":193,
+              "name":"Roulements",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":91,
+                  "name":"Mobil SHC Polyrex™",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Graisses synthétiques hautes performances, enregistrées NSF H1, pour utilisation possible en cas de risque de contact fortuit avec les aliments.",
+                  "benefits": "Graisses adaptées à la lubrification des applications fonctionnant à des températures très élevées. Grande durée de vie en service. Protection exceptionnelle contre l'usure, la rouille et la corrosion, d'où une grande longévité des organes lubrifiés. Très large plage de températures d’utilisation. Possibilité d’allonger les intervalles de regraissage. Graisses enregistrées NSF H1, pour utilisation possible sur des applications  où il existe un risque de contact alimentaire fortuit.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRGRSMOMobil_SHC_Polyrex_Series.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-shc_mobil-shc-polyrex-series.aspx"
+                },
+                {
+                  "id":92,
+                  "name":"Mobilgrease™ FM",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Graisses minérales multi-usages destinées à la lubrification des roulements rencontrés dans l’industrie agro-alimentaire (roulements de convoyeurs par exemple).",
+                  "benefits": "Excellente tolérance à l’eau et protection remarquable contre la corrosion",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRGRSMOMobilgrease_FM_101_FM_222.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":82,
+          "name":"Convoyeur",
+          "imageURL":"bakery/conveyor2.png",
+          "x":125,
+          "y":-118,
+          "subcomponents":[
+            {
+              "id":194,
+              "name":"Dişli kutuları",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":89,
+                  "name":"Mobil SHC Cibus™ 150, 220, 320, 460",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huiles synthétiques hautes performances pour engrenages et réducteurs industriels. Ces lubrifiants sont spécifiquement conçus pour des applications dans l’industrie agro-alimentaire, y compris le secteur des boissons et les industries fabricant des emballages pour l’industrie agro-alimentaire.",
+                  "benefits": "Economies d’énergie potentielles, par rapport aux huiles minérales. Excellente protection des équipements. Très large plage de températures d’utilisation. Ces lubrifiants sont fabriqués dans des installations certifiées selon la norme ISO 22000 et qui satisfont également les exigences de la norme ISO 21469.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_SHC_Cibus.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-shc_mobil-shc-cibus-series.aspx"
+                },
+                {
+                  "id":90,
+                  "name":"Mobil Glygoyle™ 220, 320, 460",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huiles synthétiques hautes performances formulées à base de Poly-Alkylène-Glycol (PAG). Elles sont notamment destinées à la lubrification de certains réducteurs et engrenages de type roue et vis, paliers, roulements et autres compresseurs",
+                  "benefits": "Excellentes propriétés EP (Extrême - Pression) et protection exceptionnelle contre l’usure des équipements critiques. Protection élevée contre le micro – pitting, pour les réducteurs qui y sont sensibles. Protection efficace contre la rouille et la corrosion en service. Grande résistance au moussage. Excellent pouvoir lubrifiant du fait de leur nature entièrement synthétique. Faible coefficient de traction, ce qui favorise les gains d’efficacité énergétique, les économies d’énergie potentielles et la baisse des températures de service des équipements. Grande résistance à l’oxydation et excellente stabilité thermique, d’où une formation réduite de boues et de dépôts.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_Glygoyle.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                }
+              ]
+            },
+            {
+              "id":195,
+              "name":"Roulements",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":91,
+                  "name":"Mobil SHC Polyrex™",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Graisses synthétiques hautes performances, enregistrées NSF H1, pour utilisation possible en cas de risque de contact fortuit avec les aliments.",
+                  "benefits": "Graisses adaptées à la lubrification des applications fonctionnant à des températures très élevées. Grande durée de vie en service. Protection exceptionnelle contre l'usure, la rouille et la corrosion, d'où une grande longévité des organes lubrifiés. Très large plage de températures d’utilisation. Possibilité d’allonger les intervalles de regraissage. Graisses enregistrées NSF H1, pour utilisation possible sur des applications  où il existe un risque de contact alimentaire fortuit.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRGRSMOMobil_SHC_Polyrex_Series.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-shc_mobil-shc-polyrex-series.aspx"
+                },
+                {
+                  "id":92,
+                  "name":"Mobilgrease™ FM",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Graisses minérales multi-usages destinées à la lubrification des roulements rencontrés dans l’industrie agro-alimentaire (roulements de convoyeurs par exemple).",
+                  "benefits": "Excellente tolérance à l’eau et protection remarquable contre la corrosion",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRGRSMOMobilgrease_FM_101_FM_222.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":83,
+          "name":"Stockage / Entrepôt frigorifique",
+          "imageURL":"bakery/refrigerationUnits.png",
+          "x":137,
+          "y":-199,
+          "subcomponents":[
+            {
+              "id":196,
+              "name":"Compresseurs frigorifiques",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":94,
+                  "name":"Mobil Gargoyle Arctic SHC™ 200",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huiles synthétiques hautes performances destinées à la lubrification des compresseurs frigorifiques fonctionnant avec des fluides frigorigènes de type HCFC, tels que par exemple le R22.",
+                  "benefits": "Remarquable stabilité thermique et grande résistance à l’oxydation. Grande durée de vie en service des charges d‘huile. Allongement possible des intervalles de vidange. Par ailleurs, leur faible coefficient de traction est un facteur favorisant les économies d’énergie potentielles, grâce à une efficacité énergétique accrue, d’où un rendement amélioré des installations frigorifiques.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_Gargoyle_Arctic_SHC_200.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-gargoyle-arctic-shc-200-series.aspx"
+                },
+                {
+                  "id":95,
+                  "name":"Mobil Gargoyle Arctic SHC™ NH 68",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huile synthétique hautes performances, destinée à la lubrification des compresseurs frigorifiques utilisant l’ammoniac comme fluide frigorigène.",
+                  "benefits": "Excellente fluidité à basse température.  Consommation d’huile réduite.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_Gargoyle_Arctic_SHC_NH_68.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                },
+                {
+                  "id":96,
+                  "name":"Mobil EAL Arctic™",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huiles hautes performances destinées à la lubrification des compresseurs frigorifiques fonctionnant avec des fluides frigorigènes de type HFC.",
+                  "benefits": "Les Mobil EAL Arctic™ favorisent une propreté accrue au niveau de l’évaporateur, ainsi qu’une efficacité énergétique élevée des installations frigorifiques.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_EAL_Arctic.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-eal-arctic-series.aspx"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":84,
+          "name":"Mélange",
+          "imageURL":"bakery/mixing.png",
+          "x":150,
+          "y":-118,
+          "subcomponents":[
+            {
+              "id":197,
+              "name":"Circuits hydrauliques",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":89,
+                  "name":"Mobil SHC Cibus™ 150, 220, 320, 460",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huiles synthétiques hautes performances pour engrenages et réducteurs industriels. Ces lubrifiants sont spécifiquement conçus pour des applications dans l’industrie agro-alimentaire, y compris le secteur des boissons et les industries fabricant des emballages pour l’industrie agro-alimentaire.",
+                  "benefits": "Economies d’énergie potentielles, par rapport aux huiles minérales. Excellente protection des équipements. Très large plage de températures d’utilisation. Ces lubrifiants sont fabriqués dans des installations certifiées selon la norme ISO 22000 et qui satisfont également les exigences de la norme ISO 21469.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_SHC_Cibus.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-shc_mobil-shc-cibus-series.aspx"
+                },
+                {
+                  "id":90,
+                  "name":"Mobil Glygoyle™ 220, 320, 460",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huiles synthétiques hautes performances formulées à base de Poly-Alkylène-Glycol (PAG). Elles sont notamment destinées à la lubrification de certains réducteurs et engrenages de type roue et vis, paliers, roulements et autres compresseurs",
+                  "benefits": "Excellentes propriétés EP (Extrême - Pression) et protection exceptionnelle contre l’usure des équipements critiques. Protection élevée contre le micro – pitting, pour les réducteurs qui y sont sensibles. Protection efficace contre la rouille et la corrosion en service. Grande résistance au moussage. Excellent pouvoir lubrifiant du fait de leur nature entièrement synthétique. Faible coefficient de traction, ce qui favorise les gains d’efficacité énergétique, les économies d’énergie potentielles et la baisse des températures de service des équipements. Grande résistance à l’oxydation et excellente stabilité thermique, d’où une formation réduite de boues et de dépôts.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_Glygoyle.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                }
+              ]
+            },
+            {
+              "id":198,
+              "name":"Roulements",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":91,
+                  "name":"Mobil SHC Polyrex™",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Graisses synthétiques hautes performances, enregistrées NSF H1, pour utilisation possible en cas de risque de contact fortuit avec les aliments.",
+                  "benefits": "Graisses adaptées à la lubrification des applications fonctionnant à des températures très élevées. Grande durée de vie en service. Protection exceptionnelle contre l'usure, la rouille et la corrosion, d'où une grande longévité des organes lubrifiés. Très large plage de températures d’utilisation. Possibilité d’allonger les intervalles de regraissage. Graisses enregistrées NSF H1, pour utilisation possible sur des applications  où il existe un risque de contact alimentaire fortuit.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRGRSMOMobil_SHC_Polyrex_Series.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-shc_mobil-shc-polyrex-series.aspx"
+                },
+                {
+                  "id":92,
+                  "name":"Mobilgrease™ FM",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Graisses minérales multi-usages destinées à la lubrification des roulements rencontrés dans l’industrie agro-alimentaire (roulements de convoyeurs par exemple).",
+                  "benefits": "Excellente tolérance à l’eau et protection remarquable contre la corrosion",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRGRSMOMobilgrease_FM_101_FM_222.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":85,
+          "name":"Pétrin (Malaxage)",
+          "imageURL":"bakery/kneading.png",
+          "x":168,
+          "y":-118,
+          "subcomponents":[
+            {
+              "id":199,
+              "name":"Circuits hydrauliques",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":88,
+                  "name":"Mobil SHC Cibus™ 32, 46, 68",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huiles synthétiques hautes performances destinées notamment aux applications hydrauliques.  Les Mobil SHC Cibus™ ont été spécialement conçues pour apporter une protection exceptionnelle aux équipements rencontrés dans l’industrie agro-alimentaire, y compris les secteurs de la production de boissons et des emballages utilisés dans cette filière.",
+                  "benefits": "Longue durée de vie des charges d’huile en service. Large plage de températures d’utilisation. Les Mobil SHC Cibus™ sont fabriquées dans des installations certifiées ISO 22000, qui satisfont également les exigences de la norme ISO 21469.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_SHC_Cibus.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-shc_mobil-shc-cibus-series.aspx"
+                }
+              ]
+            },
+            {
+              "id":200,
+              "name":"Réducteurs",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":89,
+                  "name":"Mobil SHC Cibus™ 150, 220, 320, 460",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huiles synthétiques hautes performances pour engrenages et réducteurs industriels. Ces lubrifiants sont spécifiquement conçus pour des applications dans l’industrie agro-alimentaire, y compris le secteur des boissons et les industries fabricant des emballages pour l’industrie agro-alimentaire.",
+                  "benefits": "Economies d’énergie potentielles, par rapport aux huiles minérales. Excellente protection des équipements. Très large plage de températures d’utilisation. Ces lubrifiants sont fabriqués dans des installations certifiées selon la norme ISO 22000 et qui satisfont également les exigences de la norme ISO 21469.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_SHC_Cibus.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-shc_mobil-shc-cibus-series.aspx"
+                },
+                {
+                  "id":90,
+                  "name":"Mobil Glygoyle™ 220, 320, 460",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huiles synthétiques hautes performances formulées à base de Poly-Alkylène-Glycol (PAG). Elles sont notamment destinées à la lubrification de certains réducteurs et engrenages de type roue et vis, paliers, roulements et autres compresseurs",
+                  "benefits": "Excellentes propriétés EP (Extrême - Pression) et protection exceptionnelle contre l’usure des équipements critiques. Protection élevée contre le micro – pitting, pour les réducteurs qui y sont sensibles. Protection efficace contre la rouille et la corrosion en service. Grande résistance au moussage. Excellent pouvoir lubrifiant du fait de leur nature entièrement synthétique. Faible coefficient de traction, ce qui favorise les gains d’efficacité énergétique, les économies d’énergie potentielles et la baisse des températures de service des équipements. Grande résistance à l’oxydation et excellente stabilité thermique, d’où une formation réduite de boues et de dépôts.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_Glygoyle.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                }
+              ]
+            },
+            {
+              "id":201,
+              "name":"Roulements",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":91,
+                  "name":"Mobil SHC Polyrex™",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Graisses synthétiques hautes performances, enregistrées NSF H1, pour utilisation possible en cas de risque de contact fortuit avec les aliments.",
+                  "benefits": "Graisses adaptées à la lubrification des applications fonctionnant à des températures très élevées. Grande durée de vie en service. Protection exceptionnelle contre l'usure, la rouille et la corrosion, d'où une grande longévité des organes lubrifiés. Très large plage de températures d’utilisation. Possibilité d’allonger les intervalles de regraissage. Graisses enregistrées NSF H1, pour utilisation possible sur des applications  où il existe un risque de contact alimentaire fortuit.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRGRSMOMobil_SHC_Polyrex_Series.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-shc_mobil-shc-polyrex-series.aspx"
+                },
+                {
+                  "id":92,
+                  "name":"Mobilgrease™ FM",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Graisses minérales multi-usages destinées à la lubrification des roulements rencontrés dans l’industrie agro-alimentaire (roulements de convoyeurs par exemple).",
+                  "benefits": "Excellente tolérance à l’eau et protection remarquable contre la corrosion",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRGRSMOMobilgrease_FM_101_FM_222.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":86,
+          "name":"Chariot élévateur",
+          "imageURL":"bakery/forkLiftTruck2.png",
+          "x":182,
+          "y":-195,
+          "subcomponents":[
+            {
+              "id":202,
+              "name":"Circuits hydrauliques",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":88,
+                  "name":"Mobil SHC Cibus™ 32, 46, 68",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huiles synthétiques hautes performances destinées notamment aux applications hydrauliques.  Les Mobil SHC Cibus™ ont été spécialement conçues pour apporter une protection exceptionnelle aux équipements rencontrés dans l’industrie agro-alimentaire, y compris les secteurs de la production de boissons et des emballages utilisés dans cette filière.",
+                  "benefits": "Longue durée de vie des charges d’huile en service. Large plage de températures d’utilisation. Les Mobil SHC Cibus™ sont fabriquées dans des installations certifiées ISO 22000, qui satisfont également les exigences de la norme ISO 21469.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_SHC_Cibus.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-shc_mobil-shc-cibus-series.aspx"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":87,
+          "name":"Ligne de préparation du pain à partir de la pâte",
+          "imageURL":"bakery/doughRollLine.png",
+          "x":200,
+          "y":-118,
+          "subcomponents":[
+            {
+              "id":203,
+              "name":"Circuits hydrauliques",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":88,
+                  "name":"Mobil SHC Cibus™ 32, 46, 68",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huiles synthétiques hautes performances destinées notamment aux applications hydrauliques.  Les Mobil SHC Cibus™ ont été spécialement conçues pour apporter une protection exceptionnelle aux équipements rencontrés dans l’industrie agro-alimentaire, y compris les secteurs de la production de boissons et des emballages utilisés dans cette filière.",
+                  "benefits": "Longue durée de vie des charges d’huile en service. Large plage de températures d’utilisation. Les Mobil SHC Cibus™ sont fabriquées dans des installations certifiées ISO 22000, qui satisfont également les exigences de la norme ISO 21469.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_SHC_Cibus.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-shc_mobil-shc-cibus-series.aspx"
+                }
+              ]
+            },
+            {
+              "id":204,
+              "name":"Réducteurs",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":89,
+                  "name":"Mobil SHC Cibus™ 150, 220, 320, 460",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huiles synthétiques hautes performances pour engrenages et réducteurs industriels. Ces lubrifiants sont spécifiquement conçus pour des applications dans l’industrie agro-alimentaire, y compris le secteur des boissons et les industries fabricant des emballages pour l’industrie agro-alimentaire.",
+                  "benefits": "Economies d’énergie potentielles, par rapport aux huiles minérales. Excellente protection des équipements. Très large plage de températures d’utilisation. Ces lubrifiants sont fabriqués dans des installations certifiées selon la norme ISO 22000 et qui satisfont également les exigences de la norme ISO 21469.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_SHC_Cibus.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-shc_mobil-shc-cibus-series.aspx"
+                },
+                {
+                  "id":90,
+                  "name":"Mobil Glygoyle™ 220, 320, 460",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huiles synthétiques hautes performances formulées à base de Poly-Alkylène-Glycol (PAG). Elles sont notamment destinées à la lubrification de certains réducteurs et engrenages de type roue et vis, paliers, roulements et autres compresseurs",
+                  "benefits": "Excellentes propriétés EP (Extrême - Pression) et protection exceptionnelle contre l’usure des équipements critiques. Protection élevée contre le micro – pitting, pour les réducteurs qui y sont sensibles. Protection efficace contre la rouille et la corrosion en service. Grande résistance au moussage. Excellent pouvoir lubrifiant du fait de leur nature entièrement synthétique. Faible coefficient de traction, ce qui favorise les gains d’efficacité énergétique, les économies d’énergie potentielles et la baisse des températures de service des équipements. Grande résistance à l’oxydation et excellente stabilité thermique, d’où une formation réduite de boues et de dépôts.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_Glygoyle.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                }
+              ]
+            },
+            {
+              "id":205,
+              "name":"Roulements",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":91,
+                  "name":"Mobil SHC Polyrex™",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Graisses synthétiques hautes performances, enregistrées NSF H1, pour utilisation possible en cas de risque de contact fortuit avec les aliments.",
+                  "benefits": "Graisses adaptées à la lubrification des applications fonctionnant à des températures très élevées. Grande durée de vie en service. Protection exceptionnelle contre l'usure, la rouille et la corrosion, d'où une grande longévité des organes lubrifiés. Très large plage de températures d’utilisation. Possibilité d’allonger les intervalles de regraissage. Graisses enregistrées NSF H1, pour utilisation possible sur des applications  où il existe un risque de contact alimentaire fortuit.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRGRSMOMobil_SHC_Polyrex_Series.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-shc_mobil-shc-polyrex-series.aspx"
+                },
+                {
+                  "id":92,
+                  "name":"Mobilgrease™ FM",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Graisses minérales multi-usages destinées à la lubrification des roulements rencontrés dans l’industrie agro-alimentaire (roulements de convoyeurs par exemple).",
+                  "benefits": "Excellente tolérance à l’eau et protection remarquable contre la corrosion",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRGRSMOMobilgrease_FM_101_FM_222.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":88,
+          "name":"Convoyeur de four / Cuisson",
+          "imageURL":"bakery/bakingConveyor.png",
+          "x":133,
+          "y":-159,
+          "subcomponents":[
+            {
+              "id":206,
+              "name":"Réducteurs",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":89,
+                  "name":"Mobil SHC Cibus™ 150, 220, 320, 460",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huiles synthétiques hautes performances pour engrenages et réducteurs industriels. Ces lubrifiants sont spécifiquement conçus pour des applications dans l’industrie agro-alimentaire, y compris le secteur des boissons et les industries fabricant des emballages pour l’industrie agro-alimentaire.",
+                  "benefits": "Economies d’énergie potentielles, par rapport aux huiles minérales. Excellente protection des équipements. Très large plage de températures d’utilisation. Ces lubrifiants sont fabriqués dans des installations certifiées selon la norme ISO 22000 et qui satisfont également les exigences de la norme ISO 21469.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_SHC_Cibus.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-shc_mobil-shc-cibus-series.aspx"
+                },
+                {
+                  "id":90,
+                  "name":"Mobil Glygoyle™ 220, 320, 460",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huiles synthétiques hautes performances formulées à base de Poly-Alkylène-Glycol (PAG). Elles sont notamment destinées à la lubrification de certains réducteurs et engrenages de type roue et vis, paliers, roulements et autres compresseurs",
+                  "benefits": "Excellentes propriétés EP (Extrême - Pression) et protection exceptionnelle contre l’usure des équipements critiques. Protection élevée contre le micro – pitting, pour les réducteurs qui y sont sensibles. Protection efficace contre la rouille et la corrosion en service. Grande résistance au moussage. Excellent pouvoir lubrifiant du fait de leur nature entièrement synthétique. Faible coefficient de traction, ce qui favorise les gains d’efficacité énergétique, les économies d’énergie potentielles et la baisse des températures de service des équipements. Grande résistance à l’oxydation et excellente stabilité thermique, d’où une formation réduite de boues et de dépôts.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_Glygoyle.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                }
+              ]
+            },
+            {
+              "id":207,
+              "name":"Roulements",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":91,
+                  "name":"Mobil SHC Polyrex™",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Graisses synthétiques hautes performances, enregistrées NSF H1, pour utilisation possible en cas de risque de contact fortuit avec les aliments.",
+                  "benefits": "Graisses adaptées à la lubrification des applications fonctionnant à des températures très élevées. Grande durée de vie en service. Protection exceptionnelle contre l'usure, la rouille et la corrosion, d'où une grande longévité des organes lubrifiés. Très large plage de températures d’utilisation. Possibilité d’allonger les intervalles de regraissage. Graisses enregistrées NSF H1, pour utilisation possible sur des applications  où il existe un risque de contact alimentaire fortuit.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRGRSMOMobil_SHC_Polyrex_Series.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-shc_mobil-shc-polyrex-series.aspx"
+                },
+                {
+                  "id":92,
+                  "name":"Mobilgrease™ FM",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Graisses minérales multi-usages destinées à la lubrification des roulements rencontrés dans l’industrie agro-alimentaire (roulements de convoyeurs par exemple).",
+                  "benefits": "Excellente tolérance à l’eau et protection remarquable contre la corrosion",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRGRSMOMobilgrease_FM_101_FM_222.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":89,
+          "name":"Convoyeur",
+          "imageURL":"bakery/conveyor4.png",
+          "x":172,
+          "y":-153,
+          "subcomponents":[
+            {
+              "id":208,
+              "name":"Réducteurs",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":89,
+                  "name":"Mobil SHC Cibus™ 150, 220, 320, 460",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huiles synthétiques hautes performances pour engrenages et réducteurs industriels. Ces lubrifiants sont spécifiquement conçus pour des applications dans l’industrie agro-alimentaire, y compris le secteur des boissons et les industries fabricant des emballages pour l’industrie agro-alimentaire.",
+                  "benefits": "Economies d’énergie potentielles, par rapport aux huiles minérales. Excellente protection des équipements. Très large plage de températures d’utilisation. Ces lubrifiants sont fabriqués dans des installations certifiées selon la norme ISO 22000 et qui satisfont également les exigences de la norme ISO 21469.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_SHC_Cibus.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-shc_mobil-shc-cibus-series.aspx"
+                },
+                {
+                  "id":90,
+                  "name":"Mobil Glygoyle™ 220, 320, 460",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huiles synthétiques hautes performances formulées à base de Poly-Alkylène-Glycol (PAG). Elles sont notamment destinées à la lubrification de certains réducteurs et engrenages de type roue et vis, paliers, roulements et autres compresseurs",
+                  "benefits": "Excellentes propriétés EP (Extrême - Pression) et protection exceptionnelle contre l’usure des équipements critiques. Protection élevée contre le micro – pitting, pour les réducteurs qui y sont sensibles. Protection efficace contre la rouille et la corrosion en service. Grande résistance au moussage. Excellent pouvoir lubrifiant du fait de leur nature entièrement synthétique. Faible coefficient de traction, ce qui favorise les gains d’efficacité énergétique, les économies d’énergie potentielles et la baisse des températures de service des équipements. Grande résistance à l’oxydation et excellente stabilité thermique, d’où une formation réduite de boues et de dépôts.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_Glygoyle.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                }
+              ]
+            },
+            {
+              "id":209,
+              "name":"Roulements",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":91,
+                  "name":"Mobil SHC Polyrex™",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Graisses synthétiques hautes performances, enregistrées NSF H1, pour utilisation possible en cas de risque de contact fortuit avec les aliments.",
+                  "benefits": "Graisses adaptées à la lubrification des applications fonctionnant à des températures très élevées. Grande durée de vie en service. Protection exceptionnelle contre l'usure, la rouille et la corrosion, d'où une grande longévité des organes lubrifiés. Très large plage de températures d’utilisation. Possibilité d’allonger les intervalles de regraissage. Graisses enregistrées NSF H1, pour utilisation possible sur des applications  où il existe un risque de contact alimentaire fortuit.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRGRSMOMobil_SHC_Polyrex_Series.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-shc_mobil-shc-polyrex-series.aspx"
+                },
+                {
+                  "id":92,
+                  "name":"Mobilgrease™ FM",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Graisses minérales multi-usages destinées à la lubrification des roulements rencontrés dans l’industrie agro-alimentaire (roulements de convoyeurs par exemple).",
+                  "benefits": "Excellente tolérance à l’eau et protection remarquable contre la corrosion",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRGRSMOMobilgrease_FM_101_FM_222.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                }
+              ]
+            }
+          ]
+        }
+    ]
+  }
+}

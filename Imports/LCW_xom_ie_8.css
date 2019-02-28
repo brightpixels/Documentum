@@ -1,0 +1,35 @@
+/* ====================================================================================================================
+	Created:  		Winter 2010 - for LCW Project
+	Modified by:	Denis Dmitriyev - Initial css creation.
+	Updated: May 23rd by hgoszi - Removed margin-bottom:-10px from Search
+   ==================================================================================================================== */
+/* ====================================================================================================================
+	[[[[[  include IE 8 Specific styles  ]]]]] 
+   ==================================================================================================================== */
+
+#search { 
+float:right;
+clear:right; 
+margin-top:10px; 
+border:0px solid;
+margin-right:12px;
+}
+
+#globalNav {
+float:right;
+margin-top:6px;
+margin-right:13px;
+width:55%;
+}
+
+#logo {
+DISPLAY: block;
+FLOAT: left; 
+position: relative;
+margin-top:0px;
+}
+
+#qt {
+margin-left:25px;
+}
+

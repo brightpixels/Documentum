@@ -1,0 +1,302 @@
+{
+  "lang": {
+    "fullscreen":                 "Plein écran",
+    "exitFullscreen":             "Quitter le mode “Plein écran”",
+    "visit":                      "Démarrer la visite",
+    "equipment":                  "Equipement",
+    "viewDetails":                "Voir les détails",
+    "dontShowMeThisMessageAgain": "Ne plus afficher ce message",
+    "directions":                 "Cliquez sur un point rouge dans le schéma ou sur l’un des items contenus dans le menu « Equipement » pour découvrir les informations relatives au lubrifiant Mobil™ correspondant. Pour parcourir l’ensemble du schéma, cliquez et déplacez la souris ou utilisez les flèches de déplacement situées sur votre clavier d’ordinateur.",
+    "continue":                   "Continuer",
+    "pds":                        "Fiche technique produit (FTP)",
+    "whereToBuy":                 "Où acheter ?",
+    "productInformation":         "Description du produit",
+    "benefits":                   "Avantages",
+    "refineYourSearchWithLooble": "Affiner votre recherche avec le guide de sélection Looble℠",
+    "products":                   "Produits",
+    "back":                       "Retour",
+    "equipmentType":              "Type d’équipement",
+    "getMoreInfo":                "Pour avoir plus d’informations",
+    "productDataSheets":          "Fiches techniques produits (FTP)",
+    "downloadSellSheet":          "Télécharger ce document",
+    "emailPageLink":              "Lien pour envoyer un message électronique",
+    "findADistributor":           "Trouver un Distributeur",
+    "components":                 "Composants",
+    "touchModeQuestion":          "Il apparaît que vous êtes en train d’utiliser une tablette ou un appareil à touches tactiles. Souhaitez-vous utiliser une interface tactile optimisée ?",
+    "yesUseTheTouchVersion":      "Oui, je préfère utiliser la version tactile",
+    "no":                         "Non"
+  },
+  
+  "schematic": {
+    "name":"éolienne",
+    "tileset":"wind",
+    "minZoom": 1,
+    "maxZoom": 4,
+    "components":[
+        {
+          "id":65,
+          "name":"Générateur",
+          "imageURL":"wind/gen.png",
+          "x":82,
+          "y":-119,
+          "subcomponents":[
+            {
+              "id":167,
+              "name":"Générateur",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":80,
+                  "name":"Mobilith SHC™ 100",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Graisses synthétiques hautes performances, pour la lubrification des roulements. Leur épaississant est un savon de lithium complexe.",
+                  "benefits": "Excellente protection contre l’usure. Démarrages facilités à basse température. Les Mobilith SHC™ favorisent un allongement des intervalles de regraissage, ce qui contribue à réduire les coûts de maintenance.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRGRSMOMobilith_SHC.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/french/products_greases_mobilith-shc-grease-series.aspx"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":66,
+          "name":"Multiplicateur",
+          "imageURL":"wind/gearBox.png",
+          "x":111,
+          "y":-111,
+          "subcomponents":[
+            {
+              "id":168,
+              "name":"Réducteur",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":81,
+                  "name":"Mobil SHC™ XMP 320",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huile synthétique pour réducteur principal",
+                  "benefits": "Protection renforcée des engrenages et des roulements contre l’usure (micro-pitting, rayures, éraflures). Amélioration de la productivité due à la réduction des arrêts non programmés et à l’augmentation des périodicités entre les maintenances; Accroissement de la longévité des engrenages et des roulements même dans des conditions de fonctionnement extrêmes; Extension des intervalles de vidange",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobilgear_SHC_XMP.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":67,
+          "name":"Roulement de l’arbre principal",
+          "imageURL":"wind/mainShaft.png",
+          "x":143,
+          "y":-110,
+          "subcomponents":[
+            {
+              "id":169,
+              "name":"Roulement de l’arbre principal",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":82,
+                  "name":"Mobil SHC™ Grease 460 WT",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Graisse synthétique pour la lubrification des roulements de l’arbre principal, du système de calage des pales et du réducteur d’orientation sur les éoliennes.",
+                  "benefits": "Grande souplesse d’utilisation, sur des zones géographiques très diverses, autorisant l’installation d’éoliennes dans de nombreux pays, quelles que soient les conditions climatiques. Excellente protection des organes lubrifiés contre l’usure. Démarrages facilités à basse température. Allongement possible des intervalles de regarnissage, ce qui contribue à la réduction des coûts de maintenance.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRGRSMOMobil_SHC_Grease_460_WT.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/french/products_mobil-shc_mobil-shc-gear-series.aspx"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":68,
+          "name":"Réducteur du système de calage / orientation des pales",
+          "imageURL":"wind/pitchGears.png",
+          "x":177,
+          "y":-104,
+          "subcomponents":[
+            {
+              "id":170,
+              "name":"Réducteur du système de calage et d’orientation des pales",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":83,
+                  "name":"Mobil SHC™ Gear",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huiles synthétiques destinées à la lubrification des réducteurs et engrenages industriels, des paliers et des roulements.",
+                  "benefits": "Par rapport à des huiles minérales classiques, ces huiles contribuent à prolonger la durée de vie des réducteurs sous carters, de leurs engrenages, paliers et roulements, fonctionnant dans des conditions de service extrêmement sévères, que ce soit en termes de charges, de températures ou de vitesses de rotation. Les Mobil SHC™ Gear possèdent une très longue durée de vie en service, d’où la possibilité d’allonger les intervalles de vidange et donc de réduire les consommations d’huile. In fine, cela peut se traduire par une diminution des coûts de maintenance et par une fiabilité opérationnelle accrue à température élevée ou sur des applications soumises à une contamination par l’eau. Réduction des frottements, ce qui favorise une amélioration de l’efficacité énergétique par rapport à des huiles minérales classiques.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_SHC_Gear_Series.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/french/products_mobil-shc_mobil-shc-gear-series.aspx"
+                },
+                {
+                  "id":84,
+                  "name":"Mobil SHC™ 600 Series",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huiles synthétiques industrielles pour réducteurs, engrenages, roulements et systèmes de lubrification par circulation.",
+                  "benefits": "Les Mobil SHC™ 600 contribuent à l’amélioration de la productivité des équipements grâce à la réduction potentielle du nombre d’arrêts, imprévus ou programmés dans le cadre des opérations de maintenance. Grande durée de vie des engrenages et des roulements, même dans des conditions de fonctionnement extrêmes. Allongement possible des intervalles de vidange, grâce à la grande durée de vie en service des charges d’huile. Réduction des frottements, ce qui favorise une amélioration de l’efficacité et du rendement énergétique, par rapport aux huiles minérales.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_SHC_600_Series.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/french/products_mobil-shc_mobil-shc-600-series.aspx"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":69,
+          "name":"Roulement du système de calage et d'orientation des pales",
+          "imageURL":"wind/pitchBearings.png",
+          "x":164,
+          "y":-104,
+          "subcomponents":[
+            {
+              "id":171,
+              "name":"Roulement du système de calage et d’orientation des pales",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":82,
+                  "name":"Mobil SHC™ Grease 460 WT",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Graisse synthétique pour la lubrification des roulements de l’arbre principal, du système de calage des pales et du réducteur d’orientation sur les éoliennes.",
+                  "benefits": "Grande souplesse d’utilisation, sur des zones géographiques très diverses, autorisant l’installation d’éoliennes dans de nombreux pays, quelles que soient les conditions climatiques. Excellente protection des organes lubrifiés contre l’usure. Démarrages facilités à basse température. Allongement possible des intervalles de regarnissage, ce qui contribue à la réduction des coûts de maintenance.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRGRSMOMobil_SHC_Grease_460_WT.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/french/products_mobil-shc_mobil-shc-gear-series.aspx"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":70,
+          "name":"Réducteur d’orientation",
+          "imageURL":"wind/yawGear.png",
+          "x":114,
+          "y":-127,
+          "subcomponents":[
+            {
+              "id":172,
+              "name":"Réducteur d’orientations",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":83,
+                  "name":"Mobil SHC™ Gear",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huiles synthétiques destinées à la lubrification des réducteurs et engrenages industriels, des paliers et des roulements.",
+                  "benefits": "Par rapport à des huiles minérales classiques, ces huiles contribuent à prolonger la durée de vie des réducteurs sous carters, de leurs engrenages, paliers et roulements, fonctionnant dans des conditions de service extrêmement sévères, que ce soit en termes de charges, de températures ou de vitesses de rotation. Les Mobil SHC™ Gear possèdent une très longue durée de vie en service, d’où la possibilité d’allonger les intervalles de vidange et donc de réduire les consommations d’huile. In fine, cela peut se traduire par une diminution des coûts de maintenance et par une fiabilité opérationnelle accrue à température élevée ou sur des applications soumises à une contamination par l’eau. Réduction des frottements, ce qui favorise une amélioration de l’efficacité énergétique par rapport à des huiles minérales classiques.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_SHC_Gear_Series.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/french/products_mobil-shc_mobil-shc-gear-series.aspx"
+                },
+                {
+                  "id":84,
+                  "name":"Mobil SHC™ 600 Series",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huiles synthétiques industrielles pour réducteurs, engrenages, roulements et systèmes de lubrification par circulation.",
+                  "benefits": "Les Mobil SHC™ 600 contribuent à l’amélioration de la productivité des équipements grâce à la réduction potentielle du nombre d’arrêts, imprévus ou programmés dans le cadre des opérations de maintenance. Grande durée de vie des engrenages et des roulements, même dans des conditions de fonctionnement extrêmes. Allongement possible des intervalles de vidange, grâce à la grande durée de vie en service des charges d’huile. Réduction des frottements, ce qui favorise une amélioration de l’efficacité et du rendement énergétique, par rapport aux huiles minérales.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_SHC_600_Series.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/french/products_mobil-shc_mobil-shc-600-series.aspx"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":71,
+          "name":"Roulement du reducteur d’orientation",
+          "imageURL":"wind/yawBearings.png",
+          "x":130,
+          "y":-128,
+          "subcomponents":[
+            {
+              "id":173,
+              "name":"Roulement du reducteur d’orientation",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":82,
+                  "name":"Mobil SHC™ Grease 460 WT",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Graisse synthétique pour la lubrification des roulements de l’arbre principal, du système de calage des pales et du réducteur d’orientation sur les éoliennes.",
+                  "benefits": "Grande souplesse d’utilisation, sur des zones géographiques très diverses, autorisant l’installation d’éoliennes dans de nombreux pays, quelles que soient les conditions climatiques. Excellente protection des organes lubrifiés contre l’usure. Démarrages facilités à basse température. Allongement possible des intervalles de regarnissage, ce qui contribue à la réduction des coûts de maintenance.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRGRSMOMobil_SHC_Grease_460_WT.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/french/products_mobil-shc_mobil-shc-gear-series.aspx"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":72,
+          "name":"Systèmes hydrauliques",
+          "imageURL":"wind/hydraulicSystem.png",
+          "x":93,
+          "y":-154,
+          "subcomponents":[
+            {
+              "id":174,
+              "name":"Systèmes hydrauliques",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":85,
+                  "name":"Mobil SHC™ 524",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huile hydraulique synthétique",
+                  "benefits": "Lubrifiant spécialement formulé pour les hautes pressions et les faibles jeux de fonctionnement; Amélioration de la propreté des circuits et augmentation de la durée de vie des composants (pompes et clapets); Augmentation des intervalles de vidange et de remplacement des filtres à huile",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_SHC_500.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/french/products_mobil-shc_mobil-shc-500-series.aspx"
+                },
+                {
+                  "id":86,
+                  "name":"Mobil DTE 10 Excel™ 32",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huiles hydrauliques anti-usure dotées de hautes performances. Elles ont été spécialement développées afin de satisfaire les exigences techniques des systèmes hydrauliques modernes fonctionnant avec des pressions élevées, rencontrés sur des équipements industriels fixes ou mobiles.",
+                  "benefits": "Les huiles hydrauliques anti-usure Mobil DTE 10 Excel ne contiennent pas de zinc dans leur formulation. Elles apportent une haute protection aux pompes à pistons, à engrenages ou à palettes, tout en minimisant la formation de dépôts. Par rapport aux autres huiles hydrauliques Mobil™, les Mobil DTE 10 Excel peuvent aussi contribuer à améliorer le rendement hydraulique des circuits. Pour l’utilisateur, cela peut se traduire par une moindre consommation d’énergie ou par un rendement accru des équipements et donc, in fine, par une réduction des coûts opérationnels.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/EUXXFRINDMOMobil_DTE_10_Excel.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/french/products_mobil-dte-10-excel-series.aspx"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":73,
+          "name":"Engrenages nus",
+          "imageURL":"wind/yawBearings.png",
+          "x":119,
+          "y":-131,
+          "subcomponents":[
+            {
+              "id":175,
+              "name":"Engrenages nus",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":87,
+                  "name":"Mobilgear OGL™ 007 (minéral)",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Lubrifiant minéral sans solvant pour engrenages nus",
+                  "benefits": "Excellente protection contre l’usure; augmentation de la durée de vie des composants et réduction des coûts de maintenance; réduction de l’impact sur l’environnement",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/EUXXFRINDMOMobilgearOGL007_009_461.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                }
+              ]
+            }
+          ]
+        }
+    ]
+  }
+}

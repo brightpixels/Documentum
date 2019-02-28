@@ -1,0 +1,36 @@
+﻿/* just sample */
+body
+{
+	
+	margin:0;
+	padding:0;
+	color:#333333;
+	font-family:Arial,Helvetica,Sans-Serif;	
+	font-size: .8em;
+}
+
+.Error
+{
+	color: Red;
+	
+}
+
+.Info
+{
+	color: Blue;
+	
+}
+
+#loading
+{
+    width: 250px;
+    height: 40px;
+    background-color: #F5F5F5;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin-top: -50px;
+    margin-left: -100px;
+    text-align: center;
+    color: Black;
+}

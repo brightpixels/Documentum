@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<t:root xmlns:t="http://schemas.xom.com/2005/Localization/Text">
+  <t:namespace n="ContactUS">
+    <t:namespace n="Content">
+      <t:text n="ThankYouMesg">
+        <b>Спасибо!</b> Ваше сообщение было отправлено успешно.  Мы скоро свяжемся с Вами
+      </t:text>
+      <t:text n="ErrorMesg">
+        <p>
+          К сожалению, Ваше сообщение не было отправлено.<br />
+          Причины этому могут быть разные, такие как: проблемы с сервером или несовместимость нашей системы с вашей кодировкой символов.<br />
+          Пожалуйста, попытайтесь отправить нам электронное сообщение позже или свяжитесь с нами по телефону<br />
+          Просим извинить за затруднение.
+        </p>
+      </t:text>
+      <t:text n="PageTitle">связаться с нами</t:text>
+      <t:text n="RequiredText">Поля, обязательные для заполнения</t:text>
+      <t:text n="Region">Region</t:text>
+      <t:text n="Subject">Тема сообщения</t:text>
+      <t:text n="SelectSubject">Выбрать тему</t:text>
+      <t:text n="FName">Имя</t:text>
+      <t:text n="LName">Фамилия</t:text>
+      <t:text n="PositionTitle">Должность</t:text>
+      <t:text n="Email">Электронная почта</t:text>
+      <t:text n="Company">Компания</t:text>
+      <t:text n="Address">Адрес</t:text>
+      <t:text n="City">Город/поселок</t:text>
+      <t:text n="State">Область/край</t:text>
+      <t:text n="Country">Страна</t:text>
+      <t:text n="SelectCountry">Выберите вашу страну</t:text>
+      <t:text n="SelectRegion">Выберите свой регион</t:text>
+      <t:text n="PostalCode">Почтовый индекс</t:text>
+      <t:text n="PhoneNum">Телефон</t:text>
+      <t:text n="FaxNum">Факс (обязателен для заказов "Бюллетеня данных по безопасному обращению с материалами")</t:text>
+      <t:text n="CurrentCustomer">Вы являетесь нашим клиентом в настоящее время?</t:text>
+      <t:text n="Yes">Да</t:text>
+      <t:text n="No">Нет</t:text>
+      <t:text n="Question">Ваш заказ или вопрос</t:text>
+      <t:text n="TermCondition">Если Вы согласны с настоящими условиями и положениями, поставьте галочку ниже.</t:text>
+      <t:text n="TermLink">
+        <a href="http://www.exxonmobil.com/Global-All/Legal/TC_RU_Russian.aspx" target="_new" >Я согласен с настоящими условими и положениями.</a>
+      </t:text>
+      <t:text n="Send">Отправить</t:text>
+      <t:text n="ClearForm">Стереть</t:text>
+      <t:text n="EnterEmail">Пожалуйста, укажите Ваш электронный адрес в виде: вашеимя@имявашейкомпании.com</t:text>
+      <t:text n="SelectSubjectMesg">Пожалуйста, выберите тему Вашего электронного сообщения</t:text>
+      <t:text n="MoreSubjectMesg">Пожалуйста, нажмите -- Дополнительно -- чтобы посмотреть больше предметов</t:text>
+      <t:text n="SelectCountryMesg">Пожалуйста, выберите Вашу страну</t:text>
+      <t:text n="ValidPhone">Пожалуйста, укажите Ваш телефон в цифровом формате, без черточек, пробелов и других символов.</t:text>
+      <t:text n="ValidFax">Пожалуйста, укажите Ваш факс в цифровом формате, без черточек, пробелов и других символов.</t:text>
+      <t:text n="EnterCustomer">Пожалуйста, укажите являетесь ли Вы нашим клиентом в настоящее время или нет</t:text>
+      <t:text n="EnterQuestion">Пожалуйста, напечатайте ваше сообщение.</t:text>
+      <t:text n="CloseText">Вернуться на главную страницу</t:text>
+      <t:text n="TermsConditionsError">Please accept terms and conditions</t:text>
+      <t:text n="EmailError">
+        We are sorry, Your message has not been sent. <br />
+        There can be various reasons, such as server problems or incompatibility of our system with your character set.<br />
+        Please, try to e-mail us later or contact us by phone.<br />
+        We apologize for "
+      </t:text>
+      <t:text n="PageError">
+        Your request can not be completed at this time. Please access the "Contact Us" page from ExxonMobil home page
+      </t:text>
+      <t:text n="EmailPattern">^[_a-zA-Z0-9-]+(\.[_a-zA-Z0-9-]+)*@[a-zA-Z0-9-]+(\.[a-zA-Z0-9-]+)*(\.[a-zA-Z]{2,4})$</t:text>
+      <!--<t:text n="EmailPattern">/^([0-9a-zA-Z]([-\.\w]*[0-9a-zA-Z])*@([0-9a-zA-Z][-\w]*[0-9a-zA-Z]\.)+[a-zA-Z]{2,9})$/</t:text>-->
+      <t:text n="PhonePattern">/^(\(?\+?[0-9]*\)?)?[0-9_\- \(\)]*$/</t:text>
+      <t:text n="SelSubject">Выберите Тема</t:text>
+      <t:text n="More">дополнительный</t:text>
+    </t:namespace>
+  </t:namespace>
+</t:root>

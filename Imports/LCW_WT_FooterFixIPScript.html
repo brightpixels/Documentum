@@ -1,0 +1,42 @@
+<!-- START OF SmartSource Data Collector TAG -->
+<!-- Copyright (c) 1996-2011 Webtrends Inc.  All rights reserved. -->
+<!-- Version: 9.4.0 -->
+<!-- Tag Builder Version: 3.2  -->
+<!-- Created: 8/26/2011 9:07:12 PM -->
+<script src="/Imports/js/LCW_webtrendsFixIP.js" type="text/javascript"><!-- Stay Open --></script>
+<!-- ----------------------------------------------------------------------------------- -->
+<!-- Warning: The two script blocks below must remain inline. Moving them to an external -->
+<!-- JavaScript include file can cause serious problems with cross-domain tracking.      -->
+<!-- ----------------------------------------------------------------------------------- -->
+<script type="text/javascript">
+var _tag=new WebTrends();
+//_tag.dcsGetId();
+_tag.DCS.dcscfg=1;
+_tag.DCS.dcscip="192.168.0.1";
+</script>
+<script type="text/javascript">
+_tag.dcsCustom=function(){
+// Add custom parameters here.
+//_tag.DCSext.param_name=param_value;
+//Tagging Flash Video and Audio Player
+		if(typeof(window['so'])!="undefined"){
+			var flashID = so.getAttribute("id");
+			if(flashID == "videoHeader"){	// if video player
+				_tag.WT.clip_n = so.getVariable("videopath"); 
+				_tag.WT.clip_ev = "Video-load";
+				_tag.WT.clip_visit = "1";
+			}else if (flashID == "xommp3"){	// if audio player
+				_tag.WT.audio_n = so.getVariable("audiofile"); 
+				_tag.WT.audio_ev = "audio-load";
+				_tag.WT.audio_visit = "1";
+			}
+		}
+}
+_tag.dcsCollect();
+</script>
+<noscript>
+<!-- Ecookies
+<div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://www.sdc.exxonmobil.com/dcs7b70kq8s9linggzehtqwpi_2c9l/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=8.6.2&amp;dcssip=www.mobil.com&amp;dcscfg=1&amp;dcscip=192.168.0.1"/></div>
+-->
+</noscript>
+<!-- END OF SmartSource Data Collector TAG -->

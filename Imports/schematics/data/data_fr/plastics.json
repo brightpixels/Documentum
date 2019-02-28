@@ -1,0 +1,941 @@
+{
+  "lang": {
+    "fullscreen":                 "Plein écran",
+    "exitFullscreen":             "Quitter le mode “Plein écran”",
+    "visit":                      "Démarrer la visite",
+    "equipment":                  "Equipement",
+    "viewDetails":                "Voir les détails",
+    "dontShowMeThisMessageAgain": "Ne plus afficher ce message",
+    "directions":                 "Cliquez sur un point rouge dans le schéma ou sur l’un des items contenus dans le menu « Equipement » pour découvrir les informations relatives au lubrifiant Mobil™ correspondant. Pour parcourir l’ensemble du schéma, cliquez et déplacez la souris ou utilisez les flèches de déplacement situées sur votre clavier d’ordinateur.",
+    "continue":                   "Continuer",
+    "pds":                        "Fiche technique produit (FTP)",
+    "whereToBuy":                 "Où acheter ?",
+    "productInformation":         "Description du produit",
+    "benefits":                   "Avantages",
+    "refineYourSearchWithLooble": "Affiner votre recherche avec le guide de sélection Looble℠",
+    "products":                   "Produits",
+    "back":                       "Retour",
+    "equipmentType":              "Type d’équipement",
+    "getMoreInfo":                "Pour avoir plus d’informations",
+    "productDataSheets":          "Fiches techniques produits (FTP)",
+    "downloadSellSheet":          "Télécharger ce document",
+    "emailPageLink":              "Lien pour envoyer un message électronique",
+    "findADistributor":           "Trouver un Distributeur",
+    "components":                 "Composants",
+    "touchModeQuestion":          "Il apparaît que vous êtes en train d’utiliser une tablette ou un appareil à touches tactiles. Souhaitez-vous utiliser une interface tactile optimisée ?",
+    "yesUseTheTouchVersion":      "Oui, je préfère utiliser la version tactile",
+    "no":                         "Non"
+  },
+  
+  "schematic": {
+    "name":"Industrie Plastique",
+    "tileset":"plastics",
+    "minZoom": 1,
+    "maxZoom": 4,
+    "components":[
+        {
+          "id":276,
+          "name":"Compresseurs d’air",
+          "imageURL":"plastics/1_handlingequipment.png",
+          "x":223,
+          "y":-127,
+          "subcomponents":[
+            {
+              "id":733,
+              "name":"Compresseurs à vis",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":307,
+                  "name":"Mobil Rarus SHC™ 1020",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huiles synthétiques pour compresseurs d’air rotatifs à vis",
+                  "benefits": "Maintien de la propreté des composants. Stabilité exceptionnelle permettant de prolonger la disponibilité en service des équipements. Durée de vie importante de la charge d’huile. Formation de dépôts réduite. Favorise la réduction des coûts de maintenance. Excellentes propriétés anti-usure.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_Rarus_SHC_1020.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-shc_mobil-rarus-shc-1020-series.aspx"
+                },
+                {
+                  "id":308,
+                  "name":"Mobil SHC Cibus™ 46, 68",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Lubrifiants synthétiques hautes performances pour compresseurs d’air. Répondent aux spécifications NSF H1",
+                  "benefits": "Grande durée de vie des charges d’huile; répond aux exigences de l’industrie alimentaire",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_SHC_Cibus.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-shc_mobil-shc-cibus-series.aspx"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":277,
+          "name":"Equipements de manutention",
+          "imageURL":"plastics/2_handlingequipment.png",
+          "x":60,
+          "y":-175,
+          "subcomponents":[
+            {
+              "id":734,
+              "name":"Élévateurs",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":309,
+                  "name":"Mobil DTE 10 Excel™",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huiles hydrauliques anti-usure dotées de hautes performances. Elles ont été spécialement développées afin de satisfaire les exigences techniques des systèmes hydrauliques modernes fonctionnant avec des pressions élevées, rencontrés sur des équipements industriels fixes ou mobiles.",
+                  "benefits": "Les huiles hydrauliques anti-usure Mobil DTE 10 Excel ne contiennent pas de zinc dans leur formulation. Elles apportent une haute protection aux pompes à pistons, à engrenages ou à palettes, tout en minimisant la formation de dépôts. Par rapport aux autres huiles hydrauliques Mobil™, les Mobil DTE 10 Excel peuvent aussi contribuer à améliorer le rendement hydraulique des circuits. Pour l’utilisateur, cela peut se traduire par une moindre consommation d’énergie ou par un rendement accru des équipements et donc, in fine, par une réduction des coûts opérationnels.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/EUXXFRINDMOMobil_DTE_10_Excel.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-dte-10-excel-series.aspx"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":278,
+          "name":"Convoyeurs",
+          "imageURL":"plastics/3_handlingequipment.png",
+          "x":185,
+          "y":-172,
+          "subcomponents":[
+            {
+              "id":735,
+              "name":"Réducteurs",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":310,
+                  "name":"Mobil SHC™ 600",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huiles synthétiques industrielles pour réducteurs, engrenages, roulements et systèmes de lubrification par circulation.",
+                  "benefits": "Les Mobil SHC™ 600 contribuent à l’amélioration de la productivité des équipements grâce à la réduction potentielle du nombre d’arrêts, imprévus ou programmés dans le cadre des opérations de maintenance. Grande durée de vie des engrenages et des roulements, même dans des conditions de fonctionnement extrêmes. Allongement possible des intervalles de vidange, grâce à la grande durée de vie en service des charges d’huile. Réduction des frottements, ce qui favorise une amélioration de l’efficacité et du rendement énergétique, par rapport aux huiles minérales.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_SHC_600_Series.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-shc_mobil-shc-600-series.aspx"
+                },
+                {
+                  "id":311,
+                  "name":"Mobilgear SHC™ XMP",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huiles synthétiques dotées de propriétés EP (Extrême – Pression), pour la lubrification des réducteurs, engrenages, paliers et roulements",
+                  "benefits": "Protection renforcée des engrenages et des roulements contre l’usure (micro-pitting, rayures, éraflures). Amélioration de la productivité due à la réduction des arrêts non programmés et à l’augmentation des périodicités entre les maintenances. Accroissement de la longévité des engrenages et des roulements, même dans des conditions de fonctionnement extrêmes. Allongement possible des intervalles de vidange. Ces huiles favorisent les économies d’énergie et une fiabilité optimale des équipements qu’elles lubrifient. Par ailleurs, elles sont compatibles avec une large gamme de joints d’étanchéité rencontrés sur les réducteurs.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobilgear_SHC_XMP.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                },
+                {
+                  "id":312,
+                  "name":"Mobilgear™ 600 XP",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huiles hautes performances pour les engrenages",
+                  "benefits": "Prévient la formation de micro pitting; protection des roulements; compatibilité avec les joints d’étanchéité; amélioration potentielle des performances et de la longévité des réducteurs",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobilgear_600_XP.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobilgear-600-xp-series.aspx"
+                }
+              ]
+            },
+            {
+              "id":736,
+              "name":"Roulements",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":313,
+                  "name":"Mobilith SHC™",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Graisses synthétiques hautes performances, pour la lubrification des roulements. Leur épaississant est un savon de lithium complexe.",
+                  "benefits": "Excellente protection contre l’usure. Démarrages facilités à basse température. Les Mobilith SHC™ favorisent un allongement des intervalles de regraissage, ce qui contribue à réduire les coûts de maintenance.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRGRSMOMobilith_SHC.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_greases_mobilith-shc-grease-series.aspx"
+                },
+                {
+                  "id":314,
+                  "name":"Mobilgrease XHP™ 222",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Graisse minérale hautes performances conçue pour une large gamme d’applications industrielles",
+                  "benefits": "Excellente adhésivité; grande stabilité mécanique; tolérance à l’eau",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRGRSMOMobilgrease_XHP_220.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.exxonmobil.com/MarineLubes-En/products_auxiliary-machinery_greases_mobilgrease-xhp-222.aspx"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":279,
+          "name":"Convoyeurs",
+          "imageURL":"plastics/3_4_handlingequipment.png",
+          "x":214,
+          "y":-96,
+          "subcomponents":[
+            {
+              "id":737,
+              "name":"Réducteurs",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":310,
+                  "name":"Mobil SHC™ 600",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huiles synthétiques industrielles pour réducteurs, engrenages, roulements et systèmes de lubrification par circulation.",
+                  "benefits": "Les Mobil SHC™ 600 contribuent à l’amélioration de la productivité des équipements grâce à la réduction potentielle du nombre d’arrêts, imprévus ou programmés dans le cadre des opérations de maintenance. Grande durée de vie des engrenages et des roulements, même dans des conditions de fonctionnement extrêmes. Allongement possible des intervalles de vidange, grâce à la grande durée de vie en service des charges d’huile. Réduction des frottements, ce qui favorise une amélioration de l’efficacité et du rendement énergétique, par rapport aux huiles minérales.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_SHC_600_Series.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-shc_mobil-shc-600-series.aspx"
+                },
+                {
+                  "id":311,
+                  "name":"Mobilgear SHC™ XMP",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huiles synthétiques dotées de propriétés EP (Extrême – Pression), pour la lubrification des réducteurs, engrenages, paliers et roulements",
+                  "benefits": "Protection renforcée des engrenages et des roulements contre l’usure (micro-pitting, rayures, éraflures). Amélioration de la productivité due à la réduction des arrêts non programmés et à l’augmentation des périodicités entre les maintenances. Accroissement de la longévité des engrenages et des roulements, même dans des conditions de fonctionnement extrêmes. Allongement possible des intervalles de vidange. Ces huiles favorisent les économies d’énergie et une fiabilité optimale des équipements qu’elles lubrifient. Par ailleurs, elles sont compatibles avec une large gamme de joints d’étanchéité rencontrés sur les réducteurs.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobilgear_SHC_XMP.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                },
+                {
+                  "id":312,
+                  "name":"Mobilgear™ 600 XP",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huiles hautes performances pour les engrenages",
+                  "benefits": "Prévient la formation de micro pitting; protection des roulements; compatibilité avec les joints d’étanchéité; amélioration potentielle des performances et de la longévité des réducteurs",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobilgear_600_XP.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobilgear-600-xp-series.aspx"
+                }
+              ]
+            },
+            {
+              "id":738,
+              "name":"Roulements",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":313,
+                  "name":"Mobilith SHC™",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Graisses synthétiques hautes performances, pour la lubrification des roulements. Leur épaississant est un savon de lithium complexe.",
+                  "benefits": "Excellente protection contre l’usure. Démarrages facilités à basse température. Les Mobilith SHC™ favorisent un allongement des intervalles de regraissage, ce qui contribue à réduire les coûts de maintenance.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRGRSMOMobilith_SHC.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_greases_mobilith-shc-grease-series.aspx"
+                },
+                {
+                  "id":314,
+                  "name":"Mobilgrease XHP™ 222",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Graisse minérale hautes performances conçue pour une large gamme d’applications industrielles",
+                  "benefits": "Excellente adhésivité; grande stabilité mécanique; tolérance à l’eau",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRGRSMOMobilgrease_XHP_220.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.exxonmobil.com/MarineLubes-En/products_auxiliary-machinery_greases_mobilgrease-xhp-222.aspx"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":280,
+          "name":"Presse à injecter",
+          "imageURL":"plastics/4_plasticsinjection.png",
+          "x":163,
+          "y":-89,
+          "subcomponents":[
+            {
+              "id":739,
+              "name":"Circuit hydraulique",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":309,
+                  "name":"Mobil DTE 10 Excel™",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huiles hydrauliques anti-usure dotées de hautes performances. Elles ont été spécialement développées afin de satisfaire les exigences techniques des systèmes hydrauliques modernes fonctionnant avec des pressions élevées, rencontrés sur des équipements industriels fixes ou mobiles.",
+                  "benefits": "Les huiles hydrauliques anti-usure Mobil DTE 10 Excel ne contiennent pas de zinc dans leur formulation. Elles apportent une haute protection aux pompes à pistons, à engrenages ou à palettes, tout en minimisant la formation de dépôts. Par rapport aux autres huiles hydrauliques Mobil™, les Mobil DTE 10 Excel peuvent aussi contribuer à améliorer le rendement hydraulique des circuits. Pour l’utilisateur, cela peut se traduire par une moindre consommation d’énergie ou par un rendement accru des équipements et donc, in fine, par une réduction des coûts opérationnels.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/EUXXFRINDMOMobil_DTE_10_Excel.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-dte-10-excel-series.aspx"
+                },
+                {
+                  "id":315,
+                  "name":"Mobil DTE™ 20",
+                  "type": "Lubrifiant Minéral",
+                  "information": "FHuiles hydrauliques anti-usure, dotées de hautes performances et adaptées à une large gamme d’applications et d’équipements hydrauliques",
+                  "benefits": "Les Mobil DTE 20 aident à maintenir les systèmes hydrauliques et leurs composants en très bon état de propreté, d’où une excellente prévention des problèmes de blocage des servovalves. Réduction des risques de contamination et grande protection contre l’usure, ce qui contribue à améliorer la fiabilité et la durée de vie des équipements. Réduction des coûts liés à la maintenance et à l’élimination des huiles usagées.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_DTE_20_Series.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                }
+              ]
+            },
+            {
+              "id":740,
+              "name":"Moteur électrique",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":316,
+                  "name":"Mobilith SHC™ 100",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Graisses synthétiques hautes performances, pour la lubrification des roulements. Leur épaississant est un savon de lithium complexe.",
+                  "benefits": "Excellente protection contre l’usure. Démarrages facilités à basse température. Les Mobilith SHC™ favorisent un allongement des intervalles de regraissage, ce qui contribue à réduire les coûts de maintenance.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRGRSMOMobilith_SHC.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_greases_mobilith-shc-grease-series.aspx"
+                },
+                {
+                  "id":317,
+                  "name":"Mobil Polyrex™ EM",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Graisse minérale de haute qualité, pour la lubrification des roulements de moteurs électriques.",
+                  "benefits": "Mobil Polyrex™ EM contribue à accroître la longévité des roulements et à optimiser la fiabilité des moteurs électriques.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRGRSMOMobil_Polyrex_EM.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                }
+              ]
+            },
+            {
+              "id":741,
+              "name":"Graissage automatique (graisse)",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":313,
+                  "name":"Mobilith SHC™",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Graisses synthétiques hautes performances, pour la lubrification des roulements. Leur épaississant est un savon de lithium complexe.",
+                  "benefits": "Excellente protection contre l’usure. Démarrages facilités à basse température. Les Mobilith SHC™ favorisent un allongement des intervalles de regraissage, ce qui contribue à réduire les coûts de maintenance.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRGRSMOMobilith_SHC.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_greases_mobilith-shc-grease-series.aspx"
+                },
+                {
+                  "id":318,
+                  "name":"Mobilgrease XHP™ 220",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Graisse minérale hautes performances conçue pour une large gamme d’applications industrielles",
+                  "benefits": "Excellente adhésivité; grande stabilité mécanique; tolérance à l’eau",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRGRSMOMobilgrease_XHP_220.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_greases_mobilgrease-xhp-220-series.aspx"
+                },
+                {
+                  "id":319,
+                  "name":"Mobil SHC Polyrex™",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Graisses synthétiques hautes performances, enregistrées NSF H1, pour utilisation possible en cas de risque de contact fortuit avec les aliments.",
+                  "benefits": "Graisses adaptées à la lubrification des applications fonctionnant à des températures très élevées. Grande durée de vie en service. Protection exceptionnelle contre l'usure, la rouille et la corrosion, d'où une grande longévité des organes lubrifiés. Très large plage de températures d’utilisation. Possibilité d’allonger les intervalles de regraissage. Graisses enregistrées NSF H1, pour utilisation possible sur des applications  où il existe un risque de contact alimentaire fortuit.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRGRSMOMobil_SHC_Polyrex_Series.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-shc_mobil-shc-polyrex-series.aspx"
+                }
+              ]
+            },
+            {
+              "id":742,
+              "name":"Système de Graissage Automatique (huile)",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":320,
+                  "name":"Mobil Vactra™ Oil Numérotées",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huiles hautes performances destinées à la lubrification des glissières de machines-outils, horizontales ou verticales.",
+                  "benefits": "Excellentes propriétés de friction et de contrôle du glissement, d’où une amélioration de la précision d’usinage. Remarquable séparation avec le fluide de coupe. Protection accrue des glissières rencontrées sur les machines-outils modernes et bonne compatibilité avec une grande diversité de natures de matériaux utilisés pour le revêtement des glissières.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_Vactra_Oil_Numbered_Series.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                }
+              ]
+            },
+            {
+              "id":743,
+              "name":"Ejecteurs",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":321,
+                  "name":"Mobilith SHC™ 1500",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Graisses synthétiques hautes performances, pour la lubrification des roulements. Leur épaississant est un savon de lithium complexe.",
+                  "benefits": "Excellente protection contre l’usure. Démarrages facilités à basse température. Les Mobilith SHC™ favorisent un allongement des intervalles de regraissage, ce qui contribue à réduire les coûts de maintenance.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRGRSMOMobilith_SHC.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                }
+              ]
+            },
+            {
+              "id":744,
+              "name":"Entraînement par vis",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":310,
+                  "name":"Mobil SHC™ 600",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huiles synthétiques industrielles pour réducteurs, engrenages, roulements et systèmes de lubrification par circulation.",
+                  "benefits": "Les Mobil SHC™ 600 contribuent à l’amélioration de la productivité des équipements grâce à la réduction potentielle du nombre d’arrêts, imprévus ou programmés dans le cadre des opérations de maintenance. Grande durée de vie des engrenages et des roulements, même dans des conditions de fonctionnement extrêmes. Allongement possible des intervalles de vidange, grâce à la grande durée de vie en service des charges d’huile. Réduction des frottements, ce qui favorise une amélioration de l’efficacité et du rendement énergétique, par rapport aux huiles minérales.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_SHC_600_Series.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-shc_mobil-shc-600-series.aspx"
+                },
+                {
+                  "id":311,
+                  "name":"Mobilgear SHC™ XMP",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huiles synthétiques dotées de propriétés EP (Extrême – Pression), pour la lubrification des réducteurs, engrenages, paliers et roulements.",
+                  "benefits": "Protection renforcée des engrenages et des roulements contre l’usure (micro-pitting, rayures, éraflures). Amélioration de la productivité due à la réduction des arrêts non programmés et à l’augmentation des périodicités entre les maintenances. Accroissement de la longévité des engrenages et des roulements, même dans des conditions de fonctionnement extrêmes. Allongement possible des intervalles de vidange. Ces huiles favorisent les économies d’énergie et une fiabilité optimale des équipements qu’elles lubrifient. Par ailleurs, elles sont compatibles avec une large gamme de joints d’étanchéité rencontrés sur les réducteurs.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobilgear_SHC_XMP.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                },
+                {
+                  "id":312,
+                  "name":"Mobilgear™ 600 XP",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huiles hautes performances pour les engrenages",
+                  "benefits": "Prévient la formation de micro pitting; protection des roulements; compatibilité avec les joints d’étanchéité; amélioration potentielle des performances et de la longévité des réducteurs",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobilgear_600_XP.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobilgear-600-xp-series.aspx"
+                }
+              ]
+            },
+            {
+              "id":745,
+              "name":"Machine à Air-Powered - Air Line (huile)",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":322,
+                  "name":"Mobil Velocite™",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huiles de haute qualité destinées à la lubrification des broches de machines-outils et autres roulements tournant à très haute vitesse.",
+                  "benefits": "Protection optimale des roulements de broches de machines-outils tournant à très haute vitesse.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_Velocite_Oil_Numbered.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":281,
+          "name":"Système de fermeture à genouillère",
+          "imageURL":"plastics/5_togglemachine.png",
+          "x":104,
+          "y":-126,
+          "subcomponents":[
+            {
+              "id":746,
+              "name":"Graissage automatique",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":313,
+                  "name":"Mobilith SHC™",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Graisses synthétiques hautes performances, pour la lubrification des roulements. Leur épaississant est un savon de lithium complexe.",
+                  "benefits": "Excellente protection contre l’usure. Démarrages facilités à basse température. Les Mobilith SHC™ favorisent un allongement des intervalles de regraissage, ce qui contribue à réduire les coûts de maintenance.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRGRSMOMobilith_SHC.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_greases_mobilith-shc-grease-series.aspx"
+                },
+                {
+                  "id":318,
+                  "name":"Mobilgrease XHP™ 220",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Graisse minérale hautes performances conçue pour une large gamme d’applications industrielles",
+                  "benefits": "Excellente adhésivité; grande stabilité mécanique; tolérance à l’eau",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRGRSMOMobilgrease_XHP_220.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_greases_mobilgrease-xhp-220-series.aspx"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":282,
+          "name":"Tour de refroidissement",
+          "imageURL":"plastics/6_coolingtower.png",
+          "x":70,
+          "y":-133,
+          "subcomponents":[
+            {
+              "id":747,
+              "name":"Réducteurs",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":310,
+                  "name":"Mobil SHC™ 600",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huiles synthétiques industrielles pour réducteurs, engrenages, roulements et systèmes de lubrification par circulation.",
+                  "benefits": "Les Mobil SHC™ 600 contribuent à l’amélioration de la productivité des équipements grâce à la réduction potentielle du nombre d’arrêts, imprévus ou programmés dans le cadre des opérations de maintenance. Grande durée de vie des engrenages et des roulements, même dans des conditions de fonctionnement extrêmes. Allongement possible des intervalles de vidange, grâce à la grande durée de vie en service des charges d’huile. Réduction des frottements, ce qui favorise une amélioration de l’efficacité et du rendement énergétique, par rapport aux huiles minérales.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_SHC_600_Series.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-shc_mobil-shc-600-series.aspx"
+                },
+                {
+                  "id":311,
+                  "name":"Mobilgear SHC™ XMP",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huiles synthétiques dotées de propriétés EP (Extrême – Pression), pour la lubrification des réducteurs, engrenages, paliers et roulements.",
+                  "benefits": "Protection renforcée des engrenages et des roulements contre l’usure (micro-pitting, rayures, éraflures). Amélioration de la productivité due à la réduction des arrêts non programmés et à l’augmentation des périodicités entre les maintenances. Accroissement de la longévité des engrenages et des roulements, même dans des conditions de fonctionnement extrêmes. Allongement possible des intervalles de vidange. Ces huiles favorisent les économies d’énergie et une fiabilité optimale des équipements qu’elles lubrifient. Par ailleurs, elles sont compatibles avec une large gamme de joints d’étanchéité rencontrés sur les réducteurs.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobilgear_SHC_XMP.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                },
+                {
+                  "id":312,
+                  "name":"Mobilgear™ 600 XP",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huiles hautes performances pour les engrenages",
+                  "benefits": "Prévient la formation de micro pitting; protection des roulements; compatibilité avec les joints d’étanchéité; amélioration potentielle des performances et de la longévité des réducteurs",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobilgear_600_XP.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobilgear-600-xp-series.aspx"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":283,
+          "name":"Recyclage / Broyeur rotatif",
+          "imageURL":"plastics/7_regrinding.png",
+          "x":226,
+          "y":-80,
+          "subcomponents":[
+            {
+              "id":748,
+              "name":"Moteur électrique",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":316,
+                  "name":"Mobilith SHC™ 100",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Graisses synthétiques hautes performances, pour la lubrification des roulements. Leur épaississant est un savon de lithium complexe.",
+                  "benefits": "Excellente protection contre l’usure. Démarrages facilités à basse température. Les Mobilith SHC™ favorisent un allongement des intervalles de regraissage, ce qui contribue à réduire les coûts de maintenance.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRGRSMOMobilith_SHC.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_greases_mobilith-shc-grease-series.aspx"
+                },
+                {
+                  "id":317,
+                  "name":"Mobil Polyrex™ EM",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Graisse minérale de haute qualité, pour la lubrification des roulements de moteurs électriques.",
+                  "benefits": "Mobil Polyrex™ EM contribue à accroître la longévité des roulements et à optimiser la fiabilité des moteurs électriques.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRGRSMOMobil_Polyrex_EM.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":284,
+          "name":"Extrudeuse",
+          "imageURL":"plastics/8_extrusion.png",
+          "x":163,
+          "y":-140,
+          "subcomponents":[
+            {
+              "id":749,
+              "name":"Réducteurs",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":310,
+                  "name":"Mobil SHC™ 600",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huiles synthétiques industrielles pour réducteurs, engrenages, roulements et systèmes de lubrification par circulation.",
+                  "benefits": "Les Mobil SHC™ 600 contribuent à l’amélioration de la productivité des équipements grâce à la réduction potentielle du nombre d’arrêts, imprévus ou programmés dans le cadre des opérations de maintenance. Grande durée de vie des engrenages et des roulements, même dans des conditions de fonctionnement extrêmes. Allongement possible des intervalles de vidange, grâce à la grande durée de vie en service des charges d’huile. Réduction des frottements, ce qui favorise une amélioration de l’efficacité et du rendement énergétique, par rapport aux huiles minérales.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_SHC_600_Series.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-shc_mobil-shc-600-series.aspx"
+                },
+                {
+                  "id":311,
+                  "name":"Mobilgear SHC™ XMP",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huiles synthétiques dotées de propriétés EP (Extrême – Pression), pour la lubrification des réducteurs, engrenages, paliers et roulements.",
+                  "benefits": "Protection renforcée des engrenages et des roulements contre l’usure (micro-pitting, rayures, éraflures). Amélioration de la productivité due à la réduction des arrêts non programmés et à l’augmentation des périodicités entre les maintenances. Accroissement de la longévité des engrenages et des roulements, même dans des conditions de fonctionnement extrêmes. Allongement possible des intervalles de vidange. Ces huiles favorisent les économies d’énergie et une fiabilité optimale des équipements qu’elles lubrifient. Par ailleurs, elles sont compatibles avec une large gamme de joints d’étanchéité rencontrés sur les réducteurs.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobilgear_SHC_XMP.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                },
+                {
+                  "id":312,
+                  "name":"Mobilgear™ 600 XP",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huiles hautes performances pour les engrenages",
+                  "benefits": "Prévient la formation de micro pitting; protection des roulements; compatibilité avec les joints d’étanchéité; amélioration potentielle des performances et de la longévité des réducteurs",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobilgear_600_XP.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobilgear-600-xp-series.aspx"
+                }
+              ]
+            },
+            {
+              "id":750,
+              "name":"Moteur électrique",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":316,
+                  "name":"Mobilith SHC™ 100",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Graisses synthétiques hautes performances, pour la lubrification des roulements. Leur épaississant est un savon de lithium complexe.",
+                  "benefits": "Excellente protection contre l’usure. Démarrages facilités à basse température. Les Mobilith SHC™ favorisent un allongement des intervalles de regraissage, ce qui contribue à réduire les coûts de maintenance.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRGRSMOMobilith_SHC.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_greases_mobilith-shc-grease-series.aspx"
+                },
+                {
+                  "id":317,
+                  "name":"Mobil Polyrex™ EM",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Graisse minérale de haute qualité, pour la lubrification des roulements de moteurs électriques.",
+                  "benefits": "Mobil Polyrex™ EM contribue à accroître la longévité des roulements et à optimiser la fiabilité des moteurs électriques.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRGRSMOMobil_Polyrex_EM.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                }
+              ]
+            },
+            {
+              "id":751,
+              "name":"Roulements",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":313,
+                  "name":"Mobilith SHC™",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Graisses synthétiques hautes performances, pour la lubrification des roulements. Leur épaississant est un savon de lithium complexe.",
+                  "benefits": "Excellente protection contre l’usure. Démarrages facilités à basse température. Les Mobilith SHC™ favorisent un allongement des intervalles de regraissage, ce qui contribue à réduire les coûts de maintenance.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRGRSMOMobilith_SHC.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_greases_mobilith-shc-grease-series.aspx"
+                },
+                {
+                  "id":318,
+                  "name":"Mobilgrease XHP™ 220",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Graisse minérale hautes performances conçue pour une large gamme d’applications industrielles",
+                  "benefits": "Excellente adhésivité; grande stabilité mécanique; tolérance à l’eau",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRGRSMOMobilgrease_XHP_220.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_greases_mobilgrease-xhp-220-series.aspx"
+                }
+              ]
+            },
+            {
+              "id":752,
+              "name":"Réducteur de vis d’alimentation",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":310,
+                  "name":"Mobil SHC™ 600",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huiles synthétiques industrielles pour réducteurs, engrenages, roulements et systèmes de lubrification par circulation.",
+                  "benefits": "Les Mobil SHC™ 600 contribuent à l’amélioration de la productivité des équipements grâce à la réduction potentielle du nombre d’arrêts, imprévus ou programmés dans le cadre des opérations de maintenance. Grande durée de vie des engrenages et des roulements, même dans des conditions de fonctionnement extrêmes. Allongement possible des intervalles de vidange, grâce à la grande durée de vie en service des charges d’huile. Réduction des frottements, ce qui favorise une amélioration de l’efficacité et du rendement énergétique, par rapport aux huiles minérales.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_SHC_600_Series.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-shc_mobil-shc-600-series.aspx"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":285,
+          "name":"Cyclones / Récupération des fines",
+          "imageURL":"plastics/9_dustcollector.png",
+          "x":239,
+          "y":-152,
+          "subcomponents":[
+            {
+              "id":753,
+              "name":"Moteur électrique",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":316,
+                  "name":"Mobilith SHC™ 100",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Graisses synthétiques hautes performances, pour la lubrification des roulements. Leur épaississant est un savon de lithium complexe.",
+                  "benefits": "Excellente protection contre l’usure. Démarrages facilités à basse température. Les Mobilith SHC™ favorisent un allongement des intervalles de regraissage, ce qui contribue à réduire les coûts de maintenance.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRGRSMOMobilith_SHC.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_greases_mobilith-shc-grease-series.aspx"
+                },
+                {
+                  "id":317,
+                  "name":"Mobil Polyrex™ EM",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Graisse minérale de haute qualité, pour la lubrification des roulements de moteurs électriques.",
+                  "benefits": "Mobil Polyrex™ EM contribue à accroître la longévité des roulements et à optimiser la fiabilité des moteurs électriques.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRGRSMOMobil_Polyrex_EM.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":286,
+          "name":"Atelier maintenance",
+          "imageURL":"plastics/10_maintenance.png",
+          "x":223,
+          "y":-115,
+          "subcomponents":[
+            {
+              "id":754,
+              "name":"Atelier d'usinage",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":320,
+                  "name":"Mobil Vactra™ Oil Numérotées",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huiles hautes performances destinées à la lubrification des glissières de machines-outils, horizontales ou verticales.",
+                  "benefits": "Excellentes propriétés de friction et de contrôle du glissement, d’où une amélioration de la précision d’usinage. Remarquable séparation avec le fluide de coupe. Protection accrue des glissières rencontrées sur les machines-outils modernes et bonne compatibilité avec une grande diversité de natures de matériaux utilisés pour le revêtement des glissières.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_Vactra_Oil_Numbered_Series.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                },
+                {
+                  "id":323,
+                  "name":"Mobilmet™ 760",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huiles de coupe entières non chlorées, dotées de très hautes performances, pour des opérations d’usinage sévères.",
+                  "benefits": "Optimisation de la durée de vie de l’outil coupant et de l’état du fini de surface des pièces usinées. Grande facilité et confort d’utilisation, du fait de leur couleur claire et de leur faible tendance à former des brouillards d’huile.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobilmet_760.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/french/products_mobilmet-760-series.aspx"
+                },
+                {
+                  "id":324,
+                  "name":"Mobilmet™ 400",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huiles de coupe entières non corrosives, dotées de hautes performances, conçues pour les opérations d’usinage moyennement sévères à sévères. Grande polyvalence",
+                  "benefits": "Formulées avec des huiles de base de haute qualité et des additifs non chlorés, elles apportent des performances d’usinage tangibles dans une grande variété d’opérations de travail des métaux, moyennement sévères à sévères.",
+                  "pdsURL": "",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/french/products_mobilmet-400-series.aspx"
+                },
+                {
+                  "id":325,
+                  "name":"Mobilcut™",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huile de coupe soluble pour un large panel d’applications",
+                  "benefits": "Grande durée de vie et excellente bio stabilité du bain; résistance au moussage; optimisation de la durée de vie de l’outil de coupe; amélioration de l’état de surface des pièces usinées",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/EUXXFRINDMOMobilcut_Series.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                },
+                {
+                  "id":326,
+                  "name":"Vacmul™",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Fluide de rectification et d’affûtage de grande qualité",
+                  "benefits": "Limpide, faible odeur; optimisation de la durée de vie de l’outil de coupe; amélioration de l’état de surface des pièces usinées",
+                  "pdsURL": "http://www.exxonmobil.com/pdssearch/Search.aspx?chooseLanguage=fr",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":287,
+          "name":"Fabrication des moules",
+          "imageURL":"plastics/11_moldmaking.png",
+          "x":223,
+          "y":-137,
+          "subcomponents":[
+            {
+              "id":755,
+              "name":"EDM Machine",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":326,
+                  "name":"Vacmul™",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Fluide de rectification et d’affûtage de grande qualité",
+                  "benefits": "Limpide, faible odeur; optimisation de la durée de vie de l’outil de coupe; amélioration de l’état de surface des pièces usinées",
+                  "pdsURL": "http://www.exxonmobil.com/pdssearch/Search.aspx?chooseLanguage=fr",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                },
+                {
+                  "id":327,
+                  "name":"Mobil™ EDM",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Fluide d’électroérosion de grande qualité",
+                  "benefits": "Propriétés de conductivité électrique pour une plus grande précision d’usinage",
+                  "pdsURL": "",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                }
+              ]
+            },
+            {
+              "id":756,
+              "name":"Machines-outils",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":325,
+                  "name":"Mobilcut™",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huile de coupe soluble pour un large panel d’applications",
+                  "benefits": "Grande durée de vie et excellente bio stabilité du bain; résistance au moussage; optimisation de la durée de vie de l’outil de coupe; amélioration de l’état de surface des pièces usinées",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/EUXXFRINDMOMobilcut_Series.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                },
+                {
+                  "id":328,
+                  "name":"Mobilmet™",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huile de coupe entière minérale hautes performances",
+                  "benefits": "Optimisation de la durée de vie de l’outil de coupe; amélioration de l’état de surface des pièces usinées; grande facilité d’utilisation en raison de la limpidité du produit",
+                  "pdsURL": "",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":288,
+          "name":"Moulage par soufflage",
+          "imageURL":"plastics/12_blowmolding.png",
+          "x":163,
+          "y":-111,
+          "subcomponents":[
+            {
+              "id":757,
+              "name":"Compressor",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":307,
+                  "name":"Mobil Rarus SHC™ 1020",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huiles synthétiques pour compresseurs d’air rotatifs à vis",
+                  "benefits": "Maintien de la propreté des composants. Stabilité exceptionnelle permettant de prolonger la disponibilité en service des équipements. Durée de vie importante de la charge d’huile. Formation de dépôts réduite. Favorise la réduction des coûts de maintenance. Excellentes propriétés anti-usure.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_Rarus_SHC_1020.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/french/products_mobil-shc_mobil-rarus-shc-1020-series.aspx"
+                }
+              ]
+            },
+            {
+              "id":758,
+              "name":"Moteur électrique",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":316,
+                  "name":"Mobilith SHC™ 100",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Graisses synthétiques hautes performances, pour la lubrification des roulements. Leur épaississant est un savon de lithium complexe.",
+                  "benefits": "Excellente protection contre l’usure. Démarrages facilités à basse température. Les Mobilith SHC™ favorisent un allongement des intervalles de regraissage, ce qui contribue à réduire les coûts de maintenance.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRGRSMOMobilith_SHC.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/french/products_greases_mobilith-shc-grease-series.aspx"
+                },
+                {
+                  "id":317,
+                  "name":"Mobil Polyrex™ EM",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Graisse minérale de haute qualité, pour la lubrification des roulements de moteurs électriques.",
+                  "benefits": "Mobil Polyrex™ EM contribue à accroître la longévité des roulements et à optimiser la fiabilité des moteurs électriques.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRGRSMOMobil_Polyrex_EM.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                }
+              ]
+            },
+            {
+              "id":759,
+              "name":"Réducteurs",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":310,
+                  "name":"Mobil SHC™ 600",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huiles synthétiques industrielles pour réducteurs, engrenages, roulements et systèmes de lubrification par circulation.",
+                  "benefits": "Les Mobil SHC™ 600 contribuent à l’amélioration de la productivité des équipements grâce à la réduction potentielle du nombre d’arrêts, imprévus ou programmés dans le cadre des opérations de maintenance. Grande durée de vie des engrenages et des roulements, même dans des conditions de fonctionnement extrêmes. Allongement possible des intervalles de vidange, grâce à la grande durée de vie en service des charges d’huile. Réduction des frottements, ce qui favorise une amélioration de l’efficacité et du rendement énergétique, par rapport aux huiles minérales.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_SHC_600_Series.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/french/products_mobil-shc_mobil-shc-600-series.aspx"
+                },
+                {
+                  "id":311,
+                  "name":"Mobilgear SHC™ XMP",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huiles synthétiques dotées de propriétés EP (Extrême – Pression), pour la lubrification des réducteurs, engrenages, paliers et roulements.",
+                  "benefits": "Protection renforcée des engrenages et des roulements contre l’usure (micro-pitting, rayures, éraflures). Amélioration de la productivité due à la réduction des arrêts non programmés et à l’augmentation des périodicités entre les maintenances. Accroissement de la longévité des engrenages et des roulements, même dans des conditions de fonctionnement extrêmes. Allongement possible des intervalles de vidange. Ces huiles favorisent les économies d’énergie et une fiabilité optimale des équipements qu’elles lubrifient. Par ailleurs, elles sont compatibles avec une large gamme de joints d’étanchéité rencontrés sur les réducteurs.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobilgear_SHC_XMP.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                },
+                {
+                  "id":312,
+                  "name":"Mobilgear™ 600 XP",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huiles hautes performances pour les engrenages",
+                  "benefits": "Prévient la formation de micro pitting; protection des roulements; compatibilité avec les joints d’étanchéité; amélioration potentielle des performances et de la longévité des réducteurs",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobilgear_600_XP.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/french/products_mobilgear-600-xp-series.aspx"
+                }
+              ]
+            },
+            {
+              "id":760,
+              "name":"Réducteurs",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":322,
+                  "name":"Mobil Velocite™",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huiles de haute qualité destinées à la lubrification des broches de machines-outils et autres roulements tournant à très haute vitesse.",
+                  "benefits": "Protection optimale des roulements de broches de machines-outils tournant à très haute vitesse.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_Velocite_Oil_Numbered.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                }
+              ]
+            }
+          ]
+        }
+    ]
+  }
+}

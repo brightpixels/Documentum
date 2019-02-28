@@ -1,0 +1,26 @@
+div.eCookiesBanner {
+	BORDER: #fcfcfc 1px solid;
+	PADDING-LEFT: 15px; PADDING-RIGHT: 15px; 
+	BACKGROUND: #fff; COLOR: #666;  TOP: 10px; 
+	FONT-WEIGHT: bold; 
+	PADDING-TOP: 4px; POSITION: relative; MARGIN-BOTTOM: 40px;
+	BACKGROUND-COLOR: #e9f4fb;
+	DISPLAY: none;
+}
+
+div.errorMsg {
+	COLOR: #cc0000; display:none;
+}
+
+div.readMore{
+	display:none;
+}
+
+
+input.cookieSubmitBtn { background:transparent url(/Images/button/middleBtn.jpg) repeat-x top left;
+		margin:0 5px 0 5px; height:18px; border:0 none; 
+		color:#1b5e8e; font:bold 0.9em Helvetica,Sans-Serif; cursor:pointer; }
+		
+input.cookieDismissBtn { background:transparent url(/Images/button/middleBtn.jpg) repeat-x top left;
+		margin:0 5px 0 5px; height:18px; border:0 none; 
+		color:#1b5e8e; font:bold 0.9em Helvetica,Sans-Serif; cursor:pointer; }

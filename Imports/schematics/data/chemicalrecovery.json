@@ -1,0 +1,541 @@
+{
+  "lang": {
+    "fullscreen":                 "Fullscreen",
+    "exitFullscreen":             "Exit Fullscreen",
+    "visit":                      "Visit",
+    "equipment":                  "Equipment",
+    "viewDetails":                "View Details",
+    "dontShowMeThisMessageAgain": "Don't show me this message again",
+    "directions":                 "Click on a red hotspot in the schematic or on an item in the Equipment menu to see corresponding lubricant information. To view more of the schematic, click and drag with your mouse or use the arrow keys on your keyboard.",
+    "continue":                   "Continue",
+    "pds":                        "PDS",
+    "whereToBuy":                 "Where To Buy",
+    "productInformation":         "Product Information",
+    "benefits":                   "Benefits",
+    "refineYourSearchWithLooble": "Refine Your Search With Looble",
+    "products":                   "Products",
+    "back":                       "Back",
+    "equipmentType":              "Equipment Type",
+    "getMoreInfo":                "Get More Info",
+    "productDataSheets":          "Product Data Sheets",
+    "downloadSellSheet":          "Download Sell Sheet",
+    "emailPageLink":              "Email Page Link",
+    "findADistributor":           "Find a Distributor",
+    "components":                 "Components",
+    "touchModeQuestion":          "It appears you’re using a touch-enabled device. Would you prefer to use the touch-optimized interface?",
+    "yesUseTheTouchVersion":      "Yes, use the touch version",
+    "no":                         "No"
+  },
+  "schematic": {
+    "name":"Chemical Recovery",
+    "tileset":"chemicalrecovery",
+    "minZoom": 1,
+    "maxZoom": 4,
+    "components":[
+        {
+          "id":90,
+          "name":"Blowers",
+          "imageURL":"chemicalrecovery/blowers.png",
+          "x":226,
+          "y":-158,
+          "subcomponents":[
+            {
+              "id":210,
+              "name":"Electric Motor bearings",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":97,
+                  "name":"Mobil Polyrex™ EM",
+                  "type": "conventional",
+                  "information": "Premium quality electric motor bearing grease",
+                  "benefits": "Helps extend bearing life to improve electric motor reliability",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENGRSMOMobil_Polyrex_EM.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                },
+                {
+                  "id":98,
+                  "name":"Mobilith SHC™ 100",
+                  "type": "synthetic",
+                  "information": "High performance synthetic electric motor bearing grease",
+                  "benefits": "Excellent wear protection of components; easy start-up at low temperature; extended regreasing interval - reduced service cost",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENGRSMOMobilith_SHC.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_greases_mobilith-shc-grease-series.aspx"
+                }
+              ]
+            },
+            {
+              "id":211,
+              "name":"Couplings",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":99,
+                  "name":"Mobilith SHC™ PM",
+                  "type": "synthetic",
+                  "information": "High performance synthetic lithium-complex grease",
+                  "benefits": "Wide operating temperature range/wear protection; extended lubrication interval; resistance to water washout",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENGRSMOMobilith_SHC_PM.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-shc_mobilith-shc-pm-series.aspx"
+                },
+                {
+                  "id":100,
+                  "name":"Mobilith SHC™ 1500",
+                  "type": "synthetic",
+                  "information": "High performance lithium complex grease",
+                  "benefits": "High viscosity base oil and advanced thickener system ideally suited to protect heavily loaded geared couplings in low speed high load applications",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENGRSMOMobilith_SHC.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                },
+                {
+                  "id":101,
+                  "name":"Mobilux™ EP 111",
+                  "type": "conventional",
+                  "information": "Lithium coupling grease, meeting AGMA CG-1 and CG-3",
+                  "benefits": "Helps to maximize coupling life by resisting separation and protecting against wear",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENGRSMOMobilux_EP_111.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobilux-ep-111.aspx"
+                },
+                {
+                  "id":102,
+                  "name":"Mobilgrease™ XTC",
+                  "type": "conventional",
+                  "information": "High speed coupling grease meeting AGMA CG-2",
+                  "benefits": "Helps to maximize coupling reliability and life due to its adhesive, low bleed and high temperature stability properties",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENGRSMOMobilgrease_XTC.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_greases_mobilgrease-xtc.aspx"
+                }
+              ]
+            },
+            {
+              "id":212,
+              "name":"Blower Bearings (greased)",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":99,
+                  "name":"Mobilith SHC™ PM",
+                  "type": "synthetic",
+                  "information": "High performance synthetic lithium-complex grease",
+                  "benefits": "Wide operating temperature range/wear protection; extended lubrication interval; resistance to water washout",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENGRSMOMobilith_SHC_PM.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-shc_mobilith-shc-pm-series.aspx"
+                },
+                {
+                  "id":103,
+                  "name":"Mobilgrease XHP™",
+                  "type": "conventional",
+                  "information": "Greases intended for wide variety of applications in severe operating conditions including many industrial sectors",
+                  "benefits": "Excellent adhesion and cohesion properties; high mechanical stability helps provide extended relubrication intervals; resistance to water contamination aids in improving equipment reliability",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENGRSMOMobilgrease_XHP_220.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_greases_mobilgrease-xhp.aspx"
+                }
+              ]
+            },
+            {
+              "id":213,
+              "name":"Blower Gear",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":104,
+                  "name":"Mobil SHC™ 600",
+                  "type": "synthetic",
+                  "information": "Synthetic gear, bearing and circulating oils",
+                  "benefits": "Improved operational reliability; extended oil life; improved equipment energy efficiency compared to mineral oils.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_SHC_600.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-shc_mobil-shc-600-series.aspx"
+                },
+                {
+                  "id":105,
+                  "name":"Mobilgear™ 600 XP",
+                  "type": "conventional",
+                  "information": "Premium quality EP gear oil",
+                  "benefits": "Micropitting performance, bearing protection, and seal compatibility helps to improve gearbox performance and life",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobilgear_600_XP.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobilgear-600-xp-series.aspx"
+                },
+                {
+                  "id":106,
+                  "name":"Mobilgear SHC™",
+                  "type": "synthetic",
+                  "information": "Synthetic EP gear and bearing oils",
+                  "benefits": "Outstanding load-carrying and anti wear properties to assist with improving equipment reliability and life; can replace grease in some applications; high viscosity index and low traction properties helps improve equipment energy efficiency compared to mineral oils",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_SHC_Gear_Series.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                },
+                {
+                  "id":107,
+                  "name":"Mobilgear SHC™ XMP",
+                  "type": "synthetic",
+                  "information": "Synthetic EP gear and bearing oils",
+                  "benefits": "Potential to improve equipment energy efficiency compared to mineral oils; helps minimize effects of scuffing and micropitting to assist with improving equipment reliability and life; compatible with wide range of gearbox seal materials",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobilgear_SHC_XMP.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":91,
+          "name":"Pump",
+          "imageURL":"chemicalrecovery/pump1.png",
+          "x":114,
+          "y":-187,
+          "subcomponents":[
+            {
+              "id":214,
+              "name":"Electric Motor bearings",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":97,
+                  "name":"Mobil Polyrex™ EM",
+                  "type": "conventional",
+                  "information": "Premium quality electric motor bearing grease",
+                  "benefits": "Helps extend bearing life to improve electric motor reliability",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENGRSMOMobil_Polyrex_EM.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                },
+                {
+                  "id":98,
+                  "name":"Mobilith SHC™ 100",
+                  "type": "synthetic",
+                  "information": "High performance synthetic electric motor bearing grease",
+                  "benefits": "Excellent wear protection of components; easy start-up at low temperature; extended regreasing interval - reduced service cost",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENGRSMOMobilith_SHC.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_greases_mobilith-shc-grease-series.aspx"
+                }
+              ]
+            },
+            {
+              "id":215,
+              "name":"Couplings",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":99,
+                  "name":"Mobilith SHC™ PM",
+                  "type": "synthetic",
+                  "information": "High performance synthetic lithium-complex grease",
+                  "benefits": "Wide operating temperature range/wear protection; extended lubrication interval; resistance to water washout",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENGRSMOMobilith_SHC_PM.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-shc_mobilith-shc-pm-series.aspx"
+                },
+                {
+                  "id":100,
+                  "name":"Mobilith SHC™ 1500",
+                  "type": "synthetic",
+                  "information": "High performance lithium complex grease",
+                  "benefits": "High viscosity base oil and advanced thickener system ideally suited to protect heavily loaded geared couplings in low speed high load applications",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENGRSMOMobilith_SHC.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                },
+                {
+                  "id":101,
+                  "name":"Mobilux™ EP 111",
+                  "type": "conventional",
+                  "information": "Lithium coupling grease, meeting AGMA CG-1 and CG-3",
+                  "benefits": "Helps to maximize coupling life by resisting separation and protecting against wear",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENGRSMOMobilux_EP_111.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobilux-ep-111.aspx"
+                },
+                {
+                  "id":102,
+                  "name":"Mobilgrease™ XTC",
+                  "type": "conventional",
+                  "information": "High speed coupling grease meeting AGMA CG-2",
+                  "benefits": "Helps to maximize coupling reliability and life due to its adhesive, low bleed and high temperature stability properties",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENGRSMOMobilgrease_XTC.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_greases_mobilgrease-xtc.aspx"
+                }
+              ]
+            },
+            {
+              "id":216,
+              "name":"Pump bearings",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":104,
+                  "name":"Mobil SHC™ 600",
+                  "type": "synthetic",
+                  "information": "Synthetic gear, bearing and circulating oils",
+                  "benefits": "Improved operational reliability; extended oil life; improved equipment energy efficiency compared to mineral oils.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_SHC_600.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-shc_mobil-shc-600-series.aspx"
+                },
+                {
+                  "id":108,
+                  "name":"Mobil DTE™ Oil Named",
+                  "type": "conventional",
+                  "information": "Premium performance circulating lubricants where long lubricant service life is required",
+                  "benefits": "Highly versatile rust- and oxidation-inhibited oil offering good demulsibility and long oil life",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_DTE_Named.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.exxonmobil.com/MarineLubes-En/products_auxiliary-machinery_circulating-and-gear-oils_mobil-dte-named-series.aspx"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":92,
+          "name":"Pump",
+          "imageURL":"chemicalrecovery/pump2.png",
+          "x":223,
+          "y":-130,
+          "subcomponents":[
+            {
+              "id":217,
+              "name":"Electric Motor bearings",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":97,
+                  "name":"Mobil Polyrex™ EM",
+                  "type": "conventional",
+                  "information": "Premium quality electric motor bearing grease",
+                  "benefits": "Helps extend bearing life to improve electric motor reliability",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENGRSMOMobil_Polyrex_EM.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                },
+                {
+                  "id":98,
+                  "name":"Mobilith SHC™ 100",
+                  "type": "synthetic",
+                  "information": "High performance synthetic electric motor bearing grease",
+                  "benefits": "Excellent wear protection of components; easy start-up at low temperature; extended regreasing interval - reduced service cost",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENGRSMOMobilith_SHC.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_greases_mobilith-shc-grease-series.aspx"
+                }
+              ]
+            },
+            {
+              "id":218,
+              "name":"Couplings",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":99,
+                  "name":"Mobilith SHC™ PM",
+                  "type": "synthetic",
+                  "information": "High performance synthetic lithium-complex grease",
+                  "benefits": "Wide operating temperature range/wear protection; extended lubrication interval; resistance to water washout",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENGRSMOMobilith_SHC_PM.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-shc_mobilith-shc-pm-series.aspx"
+                },
+                {
+                  "id":100,
+                  "name":"Mobilith SHC™ 1500",
+                  "type": "synthetic",
+                  "information": "High performance lithium complex grease",
+                  "benefits": "High viscosity base oil and advanced thickener system ideally suited to protect heavily loaded geared couplings in low speed high load applications",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENGRSMOMobilith_SHC.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                },
+                {
+                  "id":101,
+                  "name":"Mobilux™ EP 111",
+                  "type": "conventional",
+                  "information": "Lithium coupling grease, meeting AGMA CG-1 and CG-3",
+                  "benefits": "Helps to maximize coupling life by resisting separation and protecting against wear",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENGRSMOMobilux_EP_111.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobilux-ep-111.aspx"
+                },
+                {
+                  "id":102,
+                  "name":"Mobilgrease™ XTC",
+                  "type": "conventional",
+                  "information": "High speed coupling grease meeting AGMA CG-2",
+                  "benefits": "Helps to maximize coupling reliability and life due to its adhesive, low bleed and high temperature stability properties",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENGRSMOMobilgrease_XTC.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_greases_mobilgrease-xtc.aspx"
+                }
+              ]
+            },
+            {
+              "id":219,
+              "name":"Pump bearings",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":104,
+                  "name":"Mobil SHC™ 600",
+                  "type": "synthetic",
+                  "information": "Synthetic gear, bearing and circulating oils",
+                  "benefits": "Improved operational reliability; extended oil life; improved equipment energy efficiency compared to mineral oils.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_SHC_600.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-shc_mobil-shc-600-series.aspx"
+                },
+                {
+                  "id":108,
+                  "name":"Mobil DTE™ Oil Named",
+                  "type": "conventional",
+                  "information": "Premium performance circulating lubricants where long lubricant service life is required",
+                  "benefits": "Highly versatile rust- and oxidation-inhibited oil offering good demulsibility and long oil life",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_DTE_Named.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.exxonmobil.com/MarineLubes-En/products_auxiliary-machinery_circulating-and-gear-oils_mobil-dte-named-series.aspx"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":93,
+          "name":"Lime Kiln",
+          "imageURL":"chemicalrecovery/limeKiln.png",
+          "x":120,
+          "y":-84,
+          "subcomponents":[
+            {
+              "id":220,
+              "name":"Trunnion Bearings",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":104,
+                  "name":"Mobil SHC™ 600",
+                  "type": "synthetic",
+                  "information": "Synthetic gear, bearing and circulating oils",
+                  "benefits": "Improved operational reliability; extended oil life; improved equipment energy efficiency compared to mineral oils.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_SHC_600.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-shc_mobil-shc-600-series.aspx"
+                }
+              ]
+            },
+            {
+              "id":221,
+              "name":"Thrust Bearings",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":104,
+                  "name":"Mobil SHC™ 600",
+                  "type": "synthetic",
+                  "information": "Synthetic gear, bearing and circulating oils",
+                  "benefits": "Improved operational reliability; extended oil life; improved equipment energy efficiency compared to mineral oils.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_SHC_600.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-shc_mobil-shc-600-series.aspx"
+                }
+              ]
+            },
+            {
+              "id":222,
+              "name":"Drive Gear Reducer",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":104,
+                  "name":"Mobil SHC™ 600",
+                  "type": "synthetic",
+                  "information": "Synthetic gear, bearing and circulating oils",
+                  "benefits": "Improved operational reliability; extended oil life; improved equipment energy efficiency compared to mineral oils.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_SHC_600.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-shc_mobil-shc-600-series.aspx"
+                },
+                {
+                  "id":105,
+                  "name":"Mobilgear™ 600 XP",
+                  "type": "conventional",
+                  "information": "Premium quality EP gear oil",
+                  "benefits": "Micropitting performance, bearing protection, and seal compatibility helps to improve gearbox performance and life",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobilgear_600_XP.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobilgear-600-xp-series.aspx"
+                },
+                {
+                  "id":106,
+                  "name":"Mobilgear SHC™",
+                  "type": "synthetic",
+                  "information": "Synthetic EP gear and bearing oils",
+                  "benefits": "Outstanding load-carrying and anti wear properties to assist with improving equipment reliability and life; can replace grease in some applications; high viscosity index and low traction properties helps improve equipment energy efficiency compared to mineral oils",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_SHC_Gear_Series.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                },
+                {
+                  "id":107,
+                  "name":"Mobilgear SHC™ XMP",
+                  "type": "synthetic",
+                  "information": "Synthetic EP gear and bearing oils",
+                  "benefits": "Potential to improve equipment energy efficiency compared to mineral oils; helps minimize effects of scuffing and micropitting to assist with improving equipment reliability and life; compatible with wide range of gearbox seal materials",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobilgear_SHC_XMP.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                }
+              ]
+            },
+            {
+              "id":223,
+              "name":"Drive Girth Gear",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":106,
+                  "name":"Mobilgear SHC™",
+                  "type": "synthetic",
+                  "information": "Synthetic EP gear and bearing oils",
+                  "benefits": "Outstanding load-carrying and anti wear properties to assist with improving equipment reliability and life; can replace grease in some applications; high viscosity index and low traction properties helps improve equipment energy efficiency compared to mineral oils",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_SHC_Gear_Series.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                },
+                {
+                  "id":109,
+                  "name":"Mobilgear™ OGL 007 (open gear)",
+                  "type": "conventional",
+                  "information": "Semi-fluid grease fortified with solid lubricants",
+                  "benefits": "Provides a high level of gear protection and lubrication for heavily loaded open gears",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/EUXXENINDMOMobilgearOGL007_009_461.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                },
+                {
+                  "id":110,
+                  "name":"Mobiltac™ 375 NC (open gear)",
+                  "type": "conventional",
+                  "information": "Non-chlorinated solvent-diluted open gear lubricant",
+                  "benefits": "Forms tenacious film providing long lasting lubrication and protection from rust and corrosion",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobiltac_NC.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.exxonmobil.com/MarineLubes-En/products_auxiliary-machinery_open-gear-systems_mobiltac-375-nc.aspx"
+                }
+              ]
+            }
+          ]
+        }
+    ]
+  }
+}

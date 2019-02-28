@@ -1,0 +1,221 @@
+/* ============================================================================================================
+	Created:  February 2015 - Event Registration form
+	
+============================================================================================================*/        
+	    
+/* ----------------------------- EventForm Template ------------------------------ */
+.event #mainContent {
+}
+
+.event .itemgroup { }
+.event .item { }
+.bannerArea {
+	width: 100%;
+	float:left; 
+	position: relative;
+	display: block;
+}
+
+.event #mainContent {
+	margin:0 0px 0 200px;
+	padding:0 0px 25px 30px;
+}
+
+.event .layoutRow { 
+	width: 680px;
+	margin:0 0 10px 0;
+	padding:0;
+	float:left;
+}
+ 
+/* ----------------------------- Form Layout ------------------------------ */	   
+.formLayout {
+	font-size:
+	position:relative;
+	padding: 10px;
+	width: 660px;
+	font-family: Arial,Helvetica, Sans-Serif;
+	font-size: 1.1em;
+	line-height: 1.4em;        
+}
+
+.formLayout .formRow {
+	display:block;
+	height:35px;
+	overflow:auto;
+}
+
+.formLayout .formRow label {
+	display: block;
+	float:left;
+	text-align: right;
+	height: 20px;
+	width: 150px;
+	margin-top:5px;
+	padding-right: 20px;
+	padding-top: 2px;
+	}
+
+.formLayout .formRow input {
+	display: inline-block;;
+	width: 200px;
+	float: left;
+	margin-top:5px;
+}
+
+.formLayout .formRow input:focus, select:focus {
+	outline: 2px solid #5897fb;
+}
+
+.formLayout .formRow select {
+	display: inline-block;;
+	width: 205px;
+	float: left;
+	margin-top:5px;
+}
+
+.formLayout .formRow .errortext {
+	display: block;
+	float: left;
+	margin-left: 5px;
+	padding-top: 7px;
+	color: red;
+}
+
+/* .formRowIndent */
+.formLayout .formRowIndent input {
+	display: inline-block;;
+	width: 175px;
+	margin-left:25px;
+	float: left;
+	margin-top:5px;
+}	    
+
+.formLayout em {
+	color:red;
+}
+
+.formLayout .requiredtext {
+	padding-left:25%;
+}
+
+.formLayout .disclaimer {
+	display: block;
+	float: left;	
+	padding-top: 15px;
+	width: 680px;
+}
+
+.formLayout .disclaimer input {
+	margin-left: 100px;
+	padding-top: 2px;
+	width: 30px;
+}
+
+.formLayout .disclaimer label {
+	text-align: left;
+	padding-bottom: 5px; 
+	width: 70%;
+}
+
+.formLayout .disclaimer input:focus {
+	outline: 2px solid #5897fb;
+}
+
+.formLayout .radioclass label {
+	text-align: left;
+	width: 70%;
+}
+
+.formLayout .radioclass input {
+	padding-left: 20%;
+	width: 25px;
+}
+
+.formLayout .fieldHolder { 
+	padding-left:30%;
+	padding-top:20px;
+	width:300px;
+	float:left;
+	display:block;
+	overflow:auto;
+}
+
+.formLayout .fieldHolder span label{
+	width:50px;
+}
+
+.formLayout .buttonHolder { 
+	padding-left:120px;
+	padding-top:20px;
+	width:500px;
+	float:left;
+	display:block;
+	overflow:auto;
+}
+
+.formLayout .buttonHolder input.reg-btn150 {
+	width: 150px;
+}
+
+.bulletList {
+	border: 1px solid;
+	width: 350px;
+
+}
+
+.bulletList ul{
+	color: red;
+}
+
+.bulletList ul li{
+	display: list-item;
+	list-style-type: disc;
+	margin-left:20px;
+}
+
+.reg-btn, .reg-btn150, .reg-btn200, .reg-btn300, .reg-lgnbtn, .signin-btn, .reg-btn-same-line {
+		float: 			left;
+		display:			block;
+		width:   		95px;
+		height: 		20px;
+		font-weight:	bold;
+		text-align:		center;
+		vertical-align:top;
+		color:			#476393;
+		border:			none;
+		background:		url('IND_Images/button/btn-round-bg.jpg') no-repeat top left;
+		cursor:			pointer; 
+		margin-right:	10px; 
+}
+
+.reg-btn150 {
+		width:   		150px;
+		background:		url('IND_Images/button/btn-round-bg-w150.jpg') no-repeat top left;
+}
+
+.reg-btn200 {
+		width:   		200px;
+		background:		url('IND_Images/button/btn-round-bg-w200.jpg') no-repeat top left;
+}
+
+.reg-btn300 {
+		width:   		300px;
+		background:		url('IND_Images/button/btn-round-bg-w300.jpg') no-repeat top left;
+}
+               
+.reg-btn-same-line {
+		float:			none;
+		display:			inline;
+		margin:			0 10px 3px 5px;
+ }	
+	    
+.formLayout .postPage { 
+	padding-top:20px;
+	width:640px;
+	float:left;
+	display:block;
+	font-weight:bold; 
+	overflow:auto;
+}		
+

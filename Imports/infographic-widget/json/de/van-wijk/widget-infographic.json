@@ -1,0 +1,48 @@
+{
+	"css": "css/widget-infographic.css",
+	"locale": {
+		"objective": "Ziel"
+	},
+	"infographics": {
+		"1": {
+			"images": [ 
+				{ "id": "engine", "class": "fallback", "src": "img/de/van-wijk/graphic1.png" }
+			],
+			"text": "Einsparung von <a href=\"#infographic-results\" class=\"nav-to--link\">1,29</a> % bis <a href=\"#infographic-results\" class=\"nav-to--link\">4,09 %</a> für drei Testfahrzeuge von DAF im Vergleich zu vorherigen Verbrauchsdaten."
+		},
+		"2": {
+			"images": [ 
+				{ "id": "barrel", "class": "fallback", "src": "img/de/van-wijk/graphic2.png" }
+			],
+			"text": "Kraftstoffeinsparung von bis zu  <a href=\"#infographic-results\" class=\"nav-to--link\">115.000 EUR</a> "
+		},
+		"3": {
+			"images": [ 
+				{ "id": "value", "class": "fallback", "src": "img/de/van-wijk/graphic3.png" }
+			],
+			"text": "Reduzierung der CO<sub>2</sub>-Emissionen von bis zu <a href=\"#infographic-results\" class=\"nav-to--link\">265 Tonnen</a> pro Jahr."
+		}
+	},
+	"details": {
+		"situation": { 
+			"title": "Situation", 
+			"text": [
+				"E. van Wijk Logistics B.V. ist ein Transportunternehmen mit Sitz in den Niederlanden, das über eine Flotte von über 300 Fahrzeugen verfügt. Das Unternehmen wandte sich an den Distributor Den Hartog, da es weitere Möglichkeiten für Kraftstoffeinsparungen und Emissionsverringerung suchte. Es wird gezeigt, dass im Vergleich zum derzeit verwendeten Motorenöl SAE 10W-30 die Anwendung des Hochleistungsmotorenöls <br/>Mobil Delvac 1 LE 5W-30 ein höheres Potenzial zur Kraftstoffeinsparung bietet."
+			]
+		},
+		"recommendation": { 
+			"title": "Lösung", 
+			"text": [
+				"Den Hartog empfahl E. van Wijk Logistics B.V. die Verwendung von </br>Mobil Delvac 1 LE 5W-30. Das größte Problem, wenn es um die Auswirkung des Öls auf den Kraftstoffverbrauch geht, ist die Kontrolle der Viskosität. Die auch unter schwierigsten Betriebsbedingungen optimale Viskosität von Mobil Delvac 1 LE 5W-30 reduziert die Reibungsverluste im Motor und damit den Kraftstoffverbrauch. Durch Ölabbau/-verschmutzung kann sich das Viskositätsniveau mit der Zeit erhöhen. Rußpartikel, Verunreinigungen und Ölabbauprodukte können zur Verdickung des Motorenöls führen, was einen höheren Kraftstoffverbrauch und eine Absenkung des Motorverschleißschutzes zur Folge haben kann. Die Formulierung des Motorenöls muss daher so leistungsstark sein, dass es die Verdickung unter dem Einfluss von Wärme, Oxidation oder Ruß verhindert."
+			]
+		},
+		"results": { 
+			"title": "Ergebnis und Vorteile", 
+			"text": [
+				"Die Messung der gefahrenen Kilometer und des verbrauchten Kraftstoffs über einen bestimmten Zeitraum ergaben eine Einsparung von 1,29 % bis 4,09 % für drei Testfahrzeuge von DAF im Vergleich zu vorherigen Verbrauchsdaten. Die Betriebsbedingungen der Fahrzeuge und die Wetterbedingungen waren jeweils vergleichbar. Neben hervorragenden Ergebnissen bei Kaltstart und möglicherweise verlängerter Motorenlaufzeit durch erhöhten Verschleißschutz ergibt sich eine potenzielle Kraftstoffeinsparung bis zu 115.000 EUR durch den Einsatz von </br> Mobil Delvac 1 LE 5W-30, bei Austausch in allen 300 LKW. Das bedeutet eine Reduzierung der CO<sub>2</sub>-Emissionen bis zu 265 Tonnen pro Jahr.",
+				"*Die Einsparungen basieren auf einer angenommenen Jahresfahrleistung von 13 Millionen km, Kraftstoffverbrauch von 4 Mio. Liter/Jahr und dem Nettopreis für Dieselkraftstoff von 1,15 EUR/l. Die Einsparung kann je nach Fahrzeugtyp, Einsatz- und Betriebsbedingungen sowie den jeweiligen Flüssigkeitsviskositäten variieren. Die Reduzierung der CO -E mission wurde in Anlehnung an den Emissionsfaktor von 2,65 kg 2 CO /l des Dieselkraftstoffs berechnet (Quelle: DEKRA, Deutschland)."
+				
+			]
+		}
+	}
+}

@@ -1,0 +1,48 @@
+{
+	"css": "css/widget-infographic.css",
+	"locale": {
+		"objective": "Doelstelling"
+	},
+	"infographics": {
+		"1": {
+			"images": [ 
+				{ "id": "engine", "class": "fallback", "src": "img/nl/graphic1.png" }
+			],
+			"text": "Besparing van brandstofverbruik van <a href=\"#infographic-results\" class=\"nav-to--link\">1,29%</a> tot <a href=\"#infographic-results\" class=\"nav-to--link\">4,09%</a> zijn geobserveerd bij drie DAF-testvoertuigen."
+		},
+		"2": {
+			"images": [ 
+				{ "id": "barrel", "class": "fallback", "src": "img/nl/graphic2.png" }
+			],
+			"text": "Potentiële besparingen op brandstofkosten tot <a href=\"#infographic-results\" class=\"nav-to--link\">115.000 EUR</a> als bij alle 300 vrachtwagens Mobil Delvac 1 LE 5W-30 zou worden gebruikt."
+		},
+		"3": {
+			"images": [ 
+				{ "id": "value", "class": "fallback", "src": "img/nl/graphic3.png" }
+			],
+			"text": "Potentiële CO<sub>2</sub><br />-vermindering van <a href=\"#infographic-results\" class=\"nav-to--link\">265 ton</a> per jaar bij omschakeling van motorolie bij alle 300 trucks."
+		}
+	},
+	"details": {
+		"situation": { 
+			"title": "Situatie en doelstellingen", 
+			"text": [
+				"E. van Wijk Logistics B.V. is een in Nederland gevestigd transportbedrijf met een vloot van meer dan 300 voertuigen. Ze zijn door de geautoriseerde Mobil-distributeur Den Hartog benaderd met voorstellen voor oplossingen om het brandstofverbruik verder te verminderen en de emissieniveaus tot een minimum te beperken. In vergelijking met de tot nu toe gebruikte SAE 10W-30-olie moet worden aangetoond dat door het gebruik van hoogwaardige Mobil Delvac 1 LE 5W-30-motorolie meer brandstof kan worden bespaard."
+			]
+		},
+		"recommendation": { 
+			"title": "Aanbevelingen en oplossingen", 
+			"text": [
+				"Mobil Delvac 1 LE 5W-30 wordt aanbevolen. Als we kijken naar de invloed van een smeermiddel op brandstofbesparing, kunnen we vaststellen dat de belangrijkste individuele parameter de viscositeitscontrole is. Als de viscositeit in alle bedrijfsomstandigheden optimaal is, helpt dit om de algemene motorwrijving te minimaliseren en het brandstofverbruik te verminderen. Daarnaast kan de viscositeit in de loop van de tijd toenemen vanwege afbraak en verontreiniging van het smeermiddel. Roetdeeltjes, verontreinigingen en bijproducten van olieafbraak kunnen leiden tot olieverdikking, wat kan resulteren in verminderde brandstofbesparing en meer slijtage van de motor. Daarom moet een smeermiddel speciaal zijn ontwikkeld om bestand te zijn tegen verdikking als gevolg van warmte, oxidatie en roetdeeltjes."
+			]
+		},
+		"results": { 
+			"title": "Resultaten en voordelen", 
+			"text": [
+				"De analyse van de maandelijks afgelegde kilometers en het brandstofverbruik bij drie DAF-testvoertuigen laat besparingen zien van 1,29% tot 4,09% ten opzichte van de eerdere verbruikscijfers. De bedrijfs- en weersomstandigheden van de voertuigen waren vergelijkbaar. Naast de uitstekende koude start en de mogelijk langere levensduur van de motor als gevolg van minder slijtage zou Mobil Delvac 1 LE 5W-30 in deze omstandigheden kunnen helpen om tot 115.000 EUR op brandstofkosten te besparen als deze motorolie bij alle 300 vrachtwagens zou worden gebruikt. Dit zou in theorie kunnen resulteren in een CO<sub>2</sub> -vermindering van 265 ton per jaar*.",
+				"* Besparingen gebaseerd op de aanname van een jaarlijks afgelegde afstand van 13 miljoen kilometer, een brandstofverbruik van eerder 4 miljoen liter per jaar en een nettodieselprijs van 1,15 EUR/l. CO2-vermindering berekend op basis van een emissiefactor van 2,65 kg CO2/l dieselolie (bron: DEKRA, Duitsland).",
+				"Deze Proof of Performance is gebaseerd op de ervaring van één klant. Werkelijke resultaten kunnen variëren afhankelijk van het gebruikte type apparatuur en de onderhoudstoestand, de bedrijfsomstandigheden en -omgeving, en het eerder gebruikte smeermiddel."
+			]
+		}
+	}
+}

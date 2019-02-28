@@ -1,0 +1,759 @@
+{
+  "lang": {
+    "fullscreen":                 "Fullscreen",
+    "exitFullscreen":             "Exit Fullscreen",
+    "visit":                      "Visit",
+    "equipment":                  "Equipment",
+    "viewDetails":                "View Details",
+    "dontShowMeThisMessageAgain": "Don't show me this message again",
+    "directions":                 "Click on a red hotspot in the schematic or on an item in the Equipment menu to see corresponding lubricant information. To view more of the schematic, click and drag with your mouse or use the arrow keys on your keyboard.",
+    "continue":                   "Continue",
+    "pds":                        "PDS",
+    "whereToBuy":                 "Where To Buy",
+    "productInformation":         "Product Information",
+    "benefits":                   "Benefits",
+    "refineYourSearchWithLooble": "Refine Your Search With Looble",
+    "products":                   "Products",
+    "back":                       "Back",
+    "equipmentType":              "Equipment Type",
+    "getMoreInfo":                "Get More Info",
+    "productDataSheets":          "Product Data Sheets",
+    "downloadSellSheet":          "Download Sell Sheet",
+    "emailPageLink":              "Email Page Link",
+    "findADistributor":           "Find a Distributor",
+    "components":                 "Components",
+    "touchModeQuestion":          "It appears you’re using a touch-enabled device. Would you prefer to use the touch-optimized interface?",
+    "yesUseTheTouchVersion":      "Yes, use the touch version",
+    "no":                         "No"
+  },
+  "schematic": {
+    "name":"Coal Fired Power Plant",
+    "tileset":"coal",
+    "minZoom": 1,
+    "maxZoom": 4,
+    "components":[
+        {
+          "id":1,
+          "name":"Coal Yard Vehicles",
+          "imageURL":"coal/bulldozer.png",
+          "x":51,
+          "y":-82,
+          "subcomponents":[
+            {
+              "id":1,
+              "name":"Diesel Engines",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":1,
+                  "name":"Mobil Delvac™ 1300 Super",
+                  "type": "conventional",
+                  "information": "Extra high performance diesel engine oils that help extend engine life in some of the most severe on and off-highway applications while delivering outstanding performance in modern, high-output, low-emission engines including those with Exhaust Gas Recirculation (EGR) and after treatment systems with Diesel Particulate Filters (DPFs) and Diesel Oxidation Catalysts (DOCs)",
+                  "benefits": "Greater engine efficiency when compared to conventional lubricants; helps reduce low temperature sludge build up and high temperature deposits; helps lower oil costs due to less make-up oil during operation; excellent low temperature pumpability; long life of critical wear surfaces",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/NAUSENCVLMOMobil_Delvac_1300_Super.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobil.com/USA-English-LCW/heavydutyengineoils_products_engine-oils_mobil-delvac-1300-super.aspx"
+                }
+              ]
+            },
+            {
+              "id":2,
+              "name":"Transmissions",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":2,
+                  "name":"Mobiltrans™ HD",
+                  "type": "conventional",
+                  "information": "Extra high performance transmission and drive-train lubricants engineered to meet the rigorous specifications required by CAT TO-4",
+                  "benefits": "Helps maximize clutch life; increased levels of anti-wear and load carrying capability help extend component life; helps control brake chatter; excellent thermal and oxidation stability for long oil life; very good low temperature pumpability which helps to maximize lubrication at low start-up temperatures",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/NAUSENCVLMOMobiltransHDSeries.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                }
+              ]
+            },
+            {
+              "id":3,
+              "name":"Hydraulics",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":3,
+                  "name":"Mobil™ Hydraulic 10W",
+                  "type": "conventional",
+                  "information": "High performance hydraulic oil formulated from advanced base oils and a balanced additive system designed to satisfy a wide range of heavy-duty hydraulic equipment requirements.",
+                  "benefits": "Effective low and high ambient temperature performance due to high viscosity index; excellent oxidation resistance delivers good performance at higher temperatures which helps to extend operating intervals; high levels of anti-wear protection help extend equipment life and fewer breakdowns",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/NAXXENCVLMOMobil_Hydraulic_10W.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                }
+              ]
+            },
+            {
+              "id":4,
+              "name":"Gearing",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":4,
+                  "name":"Mobilube™ HD",
+                  "type": "conventional",
+                  "information": "High performance, heavy-duty gear lubricants engineered for automotive applications including heavy-duty axles and final drives where extreme pressures and shock loading are expected",
+                  "benefits": "Helps maximize equipment life and optimize operating costs of higher speed, higher torque, and heavier loaded automotive gearboxes",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/NAUSENCVLMOMobiltransHDSeries.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                }
+              ]
+            },
+            {
+              "id":5,
+              "name":"Grease lubricated components such as bearings",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":5,
+                  "name":"Mobilgrease XHP™",
+                  "type": "conventional",
+                  "information": "Greases intended for wide variety of applications in severe operating conditions, including industrial, automotive, construction and marine sectors",
+                  "benefits": "Excellent adhesion and cohesion properties; high drop point helps provide extended relubrication intervals; resistance to water contamination aids in improving equipment reliability",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENGRSMOMobilgrease_XHP_220.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_greases_mobilgrease-xhp.aspx"
+                }
+              ]
+            },
+            {
+              "id":6,
+              "name":"couplings",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":5,
+                  "name":"Mobilgrease XHP™",
+                  "type": "conventional",
+                  "information": "Greases intended for wide variety of applications in severe operating conditions, including industrial, automotive, construction and marine sectors",
+                  "benefits": "Excellent adhesion and cohesion properties; high drop point helps provide extended relubrication intervals; resistance to water contamination aids in improving equipment reliability",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENGRSMOMobilgrease_XHP_220.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_greases_mobilgrease-xhp.aspx"
+                }
+              ]
+            },
+            {
+              "id":7,
+              "name":"etc.",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":5,
+                  "name":"Mobilgrease XHP™",
+                  "type": "conventional",
+                  "information": "Greases intended for wide variety of applications in severe operating conditions, including industrial, automotive, construction and marine sectors",
+                  "benefits": "Excellent adhesion and cohesion properties; high drop point helps provide extended relubrication intervals; resistance to water contamination aids in improving equipment reliability",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENGRSMOMobilgrease_XHP_220.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_greases_mobilgrease-xhp.aspx"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":2,
+          "name":"Coal Handlers / Conveyors",
+          "imageURL":"coal/conveyer.png",
+          "x":184,
+          "y":-45,
+          "subcomponents":[
+            {
+              "id":8,
+              "name":"Gear Drives",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":6,
+                  "name":"Mobil SHC™ Gear",
+                  "type": "synthetic",
+                  "information": "Synthetic EP gear and bearing oils",
+                  "benefits": "Outstanding load-carrying and anti wear properties for improved equipment reliability and life; can replace grease in some applications; high viscosity index and low traction properties help improve equipment energy efficiency in many gear drives compared with conventional reference oils",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_SHC_Gear_Series.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-shc_mobil-shc-gear-series.aspx"
+                },
+                {
+                  "id":7,
+                  "name":"Mobil SHC™ 600",
+                  "type": "synthetic",
+                  "information": "Synthetic gear, bearing and circulating oils",
+                  "benefits": "Helps improve equipment productivity due to potential for reduced unscheduled downtime and maintenance; long gear and bearing life under high-stress operating conditions; helps extend oil life; by reducing friction, helps improve energy efficiency compared with mineral oils",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_SHC_600.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-shc_mobil-shc-600-series.aspx"
+                }
+              ]
+            },
+            {
+              "id":9,
+              "name":"Bearings/Idlers",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":5,
+                  "name":"Mobilgrease XHP™",
+                  "type": "conventional",
+                  "information": "Greases intended for wide variety of applications in severe operating conditions, including industrial, automotive, construction and marine sectors",
+                  "benefits": "Excellent adhesion and cohesion properties; high drop point helps provide extended relubrication intervals; resistance to water contamination aids in improving equipment reliability",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENGRSMOMobilgrease_XHP_220.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_greases_mobilgrease-xhp.aspx"
+                },
+                {
+                  "id":8,
+                  "name":"Mobilith SHC™",
+                  "type": "synthetic",
+                  "information": "Synthetic greases for lubrication of bearings",
+                  "benefits": "Excellent wear protection of components; easy start-up at low temperature; excellent thermal stability and oxidation resistance; helps maximize re-greasing interval when compared to conventional oils, which can potentially reduce service costs",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENGRSMOMobilith_SHC.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_greases_mobilith-shc-grease-series.aspx"
+                }
+              ]
+            },
+            {
+              "id":10,
+              "name":"Electric Motors",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":9,
+                  "name":"Mobil Polyrex™ EM",
+                  "type": "conventional",
+                  "information": "Electric-motor bearing grease",
+                  "benefits": "Advanced thickener formulation for improved bearing performance and protection for long electric motor life; excellent corrosion resistance; low-noise properties",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENGRSMOMobil_Polyrex_EM.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-polyrex-em.aspx"
+                }
+              ]
+            },
+            {
+              "id":11,
+              "name":"Hydraulics (where applicable)",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":10,
+                  "name":"Mobil DTE™ 20",
+                  "type": "conventional",
+                  "information": "Premium performance anti-wear hydraulic oils designed to satisfy a wide range of hydraulic equipment requirements",
+                  "benefits": "Helps keep hydraulic systems clean by preventing valve sticking; controls contamination and provides wear protection to help improve equipment reliability and life compared to ExxonMobil’s standard hydraulic fluids, which can reduce both maintenance costs and product disposal costs; shear stability-enabling oil to maintain system efficiency and equipment protection at both high and low temperatures",
+                  "pdsURL": "http://www.mobilindustrial.com/ind/english/products_mobil-dte-20-series.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-dte-20-series.aspx"
+                },
+                {
+                  "id":11,
+                  "name":"Mobil DTE™ 10M",
+                  "type": "conventional",
+                  "information": "Premium performance anti-wear hydraulic oils engineered for wide temperature range applications",
+                  "benefits": "Excellent shear stability helps enable oil to maintain system efficiency and equipment protection at both high and low temperatures; helps keep hydraulic systems clean, which prevents valve sticking; controls contamination and provides wear protection to help improve equipment reliability and life;  can help reduce both maintenance costs and product disposal costs",
+                  "pdsURL": "",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://mobil.cosan.com.br/en/produtos/lubrificantes-industriais/sistemas-hidraulicos-lub-industrial/mobil-dte-10m-series"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":3,
+          "name":"Coal Pulverizers",
+          "imageURL":"coal/pulverizer.png",
+          "x":185,
+          "y":-110,
+          "subcomponents":[
+            {
+              "id":12,
+              "name":"Electric Motors",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":12,
+                  "name":"Mobil Polyrex™ EM",
+                  "type": "conventional",
+                  "information": "Electric-motor bearing grease",
+                  "benefits": "Advanced thickener formulation for improved bearing performance and protection for long electric motor life; excellent corrosion resistance; low-noise properties",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENGRSMOMobil_Polyrex_EM.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                }
+              ]
+            },
+            {
+              "id":13,
+              "name":"Couplings",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":13,
+                  "name":"Mobilgrease™ XTC",
+                  "type": "conventional",
+                  "information": "High speed coupling grease",
+                  "benefits": "Helps to maximize coupling reliability and life due to its adhesive, low bleed and high temperature stability properties",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENGRSMOMobilgrease_XTC.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_greases_mobilgrease-xtc.aspx"
+                },
+                {
+                  "id":14,
+                  "name":"Mobilux™ EP 111",
+                  "type": "conventional",
+                  "information": "Coupling grease",
+                  "benefits": "Helps to maximize coupling reliability and life due to its low bleed and wear protection properties",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENGRSMOMobilux_EP_111.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobilux-ep-111.aspx"
+                }
+              ]
+            },
+            {
+              "id":14,
+              "name":"Gear Box",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":6,
+                  "name":"Mobil SHC™ Gear",
+                  "type": "synthetic",
+                  "information": "Synthetic EP gear and bearing oils",
+                  "benefits": "Outstanding load-carrying and anti wear properties for improved equipment reliability and life; can replace grease in some applications; high viscosity index and low traction properties help improve equipment energy efficiency in many gear drives compared with conventional reference oils",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_SHC_Gear_Series.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-shc_mobil-shc-gear-series.aspx"
+                },
+                {
+                  "id":7,
+                  "name":"Mobil SHC™ 600",
+                  "type": "synthetic",
+                  "information": "Synthetic gear, bearing and circulating oils",
+                  "benefits": "Helps improve equipment productivity due to potential for reduced unscheduled downtime and maintenance; long gear and bearing life under high-stress operating conditions; helps extend oil life; by reducing friction, helps improve energy efficiency compared with mineral oils",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_SHC_600.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-shc_mobil-shc-600-series.aspx"
+                }
+              ]
+            },
+            {
+              "id":15,
+              "name":"Bearings",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":5,
+                  "name":"Mobilgrease XHP™",
+                  "type": "conventional",
+                  "information": "Greases intended for wide variety of applications in severe operating conditions, including industrial, automotive, construction and marine sectors",
+                  "benefits": "Excellent adhesion and cohesion properties; high drop point helps provide extended relubrication intervals; resistance to water contamination aids in improving equipment reliability",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENGRSMOMobilgrease_XHP_220.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_greases_mobilgrease-xhp.aspx"
+                },
+                {
+                  "id":8,
+                  "name":"Mobilith SHC™",
+                  "type": "synthetic",
+                  "information": "Synthetic greases for lubrication of bearings",
+                  "benefits": "Excellent wear protection of components; easy start-up at low temperature; excellent thermal stability and oxidation resistance; helps maximize re-greasing interval when compared to conventional oils, which can potentially reduce service costs",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENGRSMOMobilith_SHC.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_greases_mobilith-shc-grease-series.aspx"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":4,
+          "name":"Boiler/Rotary Gear",
+          "imageURL":"coal/boiler.png",
+          "x":138,
+          "y":-147,
+          "subcomponents":[
+            {
+              "id":16,
+              "name":"Stoker Grate",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":15,
+                  "name":"Mobilith SHC™ 007",
+                  "type": "synthetic",
+                  "information": "Semi-fluid synthetic grease",
+                  "benefits": "Suited for use in grease filled gear case subject to high temperatures, where conventional semi-fluid grease will not provide acceptable lubricant life",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENGRSMOMobilith_SHC.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_greases_mobilith-shc-grease-series.aspx"
+                },
+                {
+                  "id":16,
+                  "name":"Mobil SHC™ Gear 22/46M",
+                  "type": "synthetic",
+                  "information": "High viscosity EP synthetic gear oils for heavy loaded low speed open gears",
+                  "benefits": "Outstanding load-carrying and anti wear properties to help with improving equipment reliability and life; Can replace grease in some applications",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_SHC_Gear_22M_44M.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-shc_mobil-shc-gear-series.aspx"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":5,
+          "name":"Preheater",
+          "imageURL":"coal/preheater.png",
+          "x":151,
+          "y":-124,
+          "subcomponents":[
+            {
+              "id":17,
+              "name":"Preheater",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":7,
+                  "name":"Mobil SHC™ 600",
+                  "type": "synthetic",
+                  "information": "Synthetic gear, bearing and circulating oils",
+                  "benefits": "Helps improve equipment productivity due to potential for reduced unscheduled downtime and maintenance; long gear and bearing life under high-stress operating conditions; helps extend oil life; by reducing friction, helps improve energy efficiency compared with mineral oils",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_SHC_600.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-shc_mobil-shc-600-series.aspx"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":6,
+          "name":"Soot Blowers",
+          "imageURL":"coal/sootblower.png",
+          "x":117,
+          "y":-131,
+          "subcomponents":[
+            {
+              "id":18,
+              "name":"Gear Box",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":7,
+                  "name":"Mobil SHC™ 600",
+                  "type": "synthetic",
+                  "information": "Synthetic gear, bearing and circulating oils",
+                  "benefits": "Helps improve equipment productivity due to potential for reduced unscheduled downtime and maintenance; long gear and bearing life under high-stress operating conditions; helps extend oil life; by reducing friction, helps improve energy efficiency compared with mineral oils",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_SHC_600.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-shc_mobil-shc-600-series.aspx"
+                },
+                {
+                  "id":15,
+                  "name":"Mobilith SHC™ 007",
+                  "type": "synthetic",
+                  "information": "Semi-fluid synthetic grease",
+                  "benefits": "Suited for use in grease filled gear case subject to high temperatures, where conventional semi-fluid grease will not provide acceptable lubricant life",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENGRSMOMobilith_SHC.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_greases_mobilith-shc-grease-series.aspx"
+                }
+              ]
+            },
+            {
+              "id":19,
+              "name":"Bearings",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":8,
+                  "name":"Mobilith SHC™",
+                  "type": "synthetic",
+                  "information": "Synthetic greases for lubrication of bearings",
+                  "benefits": "Excellent wear protection of components; easy start-up at low temperature; excellent thermal stability and oxidation resistance; helps maximize re-greasing interval when compared to conventional oils, which can potentially reduce service costs",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENGRSMOMobilith_SHC.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_greases_mobilith-shc-grease-series.aspx"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":7,
+          "name":"Turbine",
+          "imageURL":"coal/turbine.png",
+          "x":66,
+          "y":-116,
+          "subcomponents":[
+            {
+              "id":20,
+              "name":"Turbine Reservoir",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":17,
+                  "name":"Mobil DTE™ 700",
+                  "type": "conventional",
+                  "information": "Turbine oils for steam and moderate duty gas turbines in non-geared applications",
+                  "benefits": "Single product for wide range of turbine applications; simplifies inventory and product application; helps resist thermal degradation and minimize system deposits",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_DTE_700.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-dte-700-series.aspx"
+                }
+              ]
+            },
+            {
+              "id":21,
+              "name":"Generator Bearings",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":17,
+                  "name":"Mobil DTE™ 700",
+                  "type": "conventional",
+                  "information": "Turbine oils for steam and moderate duty gas turbines in non-geared applications",
+                  "benefits": "Single product for wide range of turbine applications; simplifies inventory and product application; helps resist thermal degradation and minimize system deposits",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_DTE_700.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-dte-700-series.aspx"
+                }
+              ]
+            },
+            {
+              "id":22,
+              "name":"EHC System",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":18,
+                  "name":"Mobil Pyrotec™ HFD 46",
+                  "type": "synthetic",
+                  "information": "Synthetic fire-resistant hydraulic fluid for electro-hydraulic governor control systems of steam and gas turbines",
+                  "benefits": "Inherent resistance to fire hazards; long component life due to excellent anti-wear properties; long fluid life due to high oxidation resistance",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_Pyrotec_HFD_46.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":8,
+          "name":"Steam Loop/Feed Water Pumps",
+          "imageURL":"coal/pump.png",
+          "x":91,
+          "y":-197,
+          "subcomponents":[
+            {
+              "id":23,
+              "name":"Pumps",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":7,
+                  "name":"Mobil SHC™ 600",
+                  "type": "synthetic",
+                  "information": "Synthetic gear, bearing and circulating oils",
+                  "benefits": "Helps improve equipment productivity due to potential for reduced unscheduled downtime and maintenance; long gear and bearing life under high-stress operating conditions; helps extend oil life; by reducing friction, helps improve energy efficiency compared with mineral oils",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_SHC_600.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-shc_mobil-shc-600-series.aspx"
+                },
+                {
+                  "id":17,
+                  "name":"Mobil DTE™ 700",
+                  "type": "conventional",
+                  "information": "Turbine oils for steam and moderate duty gas turbines in non-geared applications",
+                  "benefits": "Single product for wide range of turbine applications; simplifies inventory and product application; helps resist thermal degradation and minimize system deposits",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_DTE_700.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-dte-700-series.aspx"
+                }
+              ]
+            },
+            {
+              "id":24,
+              "name":"Electric Motors",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":7,
+                  "name":"Mobil SHC™ 600",
+                  "type": "synthetic",
+                  "information": "Synthetic gear, bearing and circulating oils",
+                  "benefits": "Helps improve equipment productivity due to potential for reduced unscheduled downtime and maintenance; long gear and bearing life under high-stress operating conditions; helps extend oil life; by reducing friction, helps improve energy efficiency compared with mineral oils",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_SHC_600.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-shc_mobil-shc-600-series.aspx"
+                },
+                {
+                  "id":8,
+                  "name":"Mobilith SHC™",
+                  "type": "synthetic",
+                  "information": "Synthetic greases for lubrication of bearings",
+                  "benefits": "Excellent wear protection of components; easy start-up at low temperature; excellent thermal stability and oxidation resistance; helps maximize re-greasing interval when compared to conventional oils, which can potentially reduce service costs",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENGRSMOMobilith_SHC.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_greases_mobilith-shc-grease-series.aspx"
+                },
+                {
+                  "id":9,
+                  "name":"Mobil Polyrex™ EM",
+                  "type": "conventional",
+                  "information": "Electric-motor bearing grease",
+                  "benefits": "Advanced thickener formulation for improved bearing performance and protection for long electric motor life; excellent corrosion resistance; low-noise properties",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENGRSMOMobil_Polyrex_EM.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-polyrex-em.aspx"
+                }
+              ]
+            },
+            {
+              "id":25,
+              "name":"Electric Motors - Oil Lubricated",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":17,
+                  "name":"Mobil DTE™ 700",
+                  "type": "conventional",
+                  "information": "Turbine oils for steam and moderate duty gas turbines in non-geared applications",
+                  "benefits": "Single product for wide range of turbine applications; simplifies inventory and product application; helps resist thermal degradation and minimize system deposits",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_DTE_700.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-dte-700-series.aspx"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":9,
+          "name":"Cooling Towers",
+          "imageURL":"coal/coolingtower.png",
+          "x":72,
+          "y":-153,
+          "subcomponents":[
+            {
+              "id":26,
+              "name":"Gear Drives",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":7,
+                  "name":"Mobil SHC™ 600",
+                  "type": "synthetic",
+                  "information": "Synthetic gear, bearing and circulating oils",
+                  "benefits": "Helps improve equipment productivity due to potential for reduced unscheduled downtime and maintenance; long gear and bearing life under high-stress operating conditions; helps extend oil life; by reducing friction, helps improve energy efficiency compared with mineral oils",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_SHC_600.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-shc_mobil-shc-600-series.aspx"
+                }
+              ]
+            },
+            {
+              "id":27,
+              "name":"Electric Motors",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":9,
+                  "name":"Mobil Polyrex™ EM",
+                  "type": "conventional",
+                  "information": "Electric-motor bearing grease",
+                  "benefits": "Advanced thickener formulation for improved bearing performance and protection for long electric motor life; excellent corrosion resistance; low-noise properties",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENGRSMOMobil_Polyrex_EM.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-polyrex-em.aspx"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":10,
+          "name":"Back-Up Generators / Fire Water Pumps",
+          "imageURL":"coal/firewater.png",
+          "x":217,
+          "y":-120,
+          "subcomponents":[
+            {
+              "id":28,
+              "name":"Diesel Motors",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":1,
+                  "name":"Mobil Delvac™ 1300 Super",
+                  "type": "conventional",
+                  "information": "Extra high performance diesel engine oils that help extend engine life in some of the most severe on and off-highway applications while delivering outstanding performance in modern, high-output, low-emission engines including those with Exhaust Gas Recirculation (EGR) and after treatment systems with Diesel Particulate Filters (DPFs) and Diesel Oxidation Catalysts (DOCs)",
+                  "benefits": "Greater engine efficiency when compared to conventional lubricants; helps reduce low temperature sludge build up and high temperature deposits; helps lower oil costs due to less make-up oil during operation; excellent low temperature pumpability; long life of critical wear surfaces",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/NAUSENCVLMOMobil_Delvac_1300_Super.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobil.com/USA-English-LCW/heavydutyengineoils_products_engine-oils_mobil-delvac-1300-super.aspx"
+                },
+                {
+                  "id":19,
+                  "name":"Mobil Delvac™ 1600",
+                  "type": "conventional",
+                  "information": "High performance monograde diesel engine oils formulated from advanced technology base oils and a balanced additive system. They are specifically engineered for performance in intercooled, turbo-charged engines operating under severe on and off-highway conditions",
+                  "benefits": "Helps protect against oil thickening, high temperature deposits, sludge build-up, oil degradation and corrosion, long-term deposit/wear control, helps control formation of acids when using higher sulfur fuels",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLUSENCVLMOMobil_Delvac_1600_Monogrades.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.exxonmobil.com/MarineLubes-En/products_medium-speed-distillate-use_mobil-delvac-1600-series.aspx"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":11,
+          "name":"Air Compressors",
+          "imageURL":"coal/compressor.png",
+          "x":217,
+          "y":-162,
+          "subcomponents":[
+            {
+              "id":29,
+              "name":"Compressor",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":20,
+                  "name":"Mobil Rarus SHC™ 1020",
+                  "type": "synthetic",
+                  "information": "Synthetic rotary screw compressor oils",
+                  "benefits": "Helps extend service life, reduce deposits, provide long oil life, lower maintenance costs, reduce wear of components",
+                  "pdsURL": "http://www.mobil.com/Egypt-English/Lubes/PDS/GLEGENINDMOMobil_Rarus_SHC_1020_Series.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-shc_mobil-rarus-shc-1020-series.aspx"
+                },
+                {
+                  "id":21,
+                  "name":"Mobil Rarus™ 800",
+                  "type": "synthetic",
+                  "information": "Synthetic compressor oils",
+                  "benefits": "Suitable for reciprocating and rotary screw compressor with the lower viscosity grades used mainly in rotary screw compressors; higher viscosity grades used in reciprocating compressors help reduce deposits on valves in these compressors to reduce the potential for fires and explosions compared to mineral oil products",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_Rarus_800.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-rarus-800-series.aspx"
+                }
+              ]
+            }
+          ]
+        }
+    ]
+  }
+}

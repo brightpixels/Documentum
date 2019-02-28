@@ -1,0 +1,305 @@
+/* ====================================================================================================================
+	Created:  2014 - For PVL project, copied from LCW.css
+====================================================================================================================*/
+
+
+@font-face {
+	font-family: EM Print Regular;
+        src:url(fonts/EMprintW10-Regular.eot?#iefix) format("embedded-opentype"), url(fonts/EMprintW10-Regular.woff) format("woff"), url(fonts/EMprintW10-Regular.ttf) format("truetype"); 
+        /*src:url('http://www.mobil.com/imports/fonts/EMprintW10-Regular.eot?#iefix') format("embedded-opentype"), url('http://www.mobil.com/imports/fonts/EMprintW10-Regular.woff') format("woff"), url('http://www.mobil.com/imports/fonts/EMprintW10-Regular.ttf') format("truetype");*/
+}
+
+* { /* wildcard selector will apply it's declaration to all elements */
+	margin: 0; /* undo all margins */
+	padding: 0; /* undo all padding */
+	background: transparent; }
+img, a img { border:0 none; }
+
+ul, ol, li, dl, dt, dd {
+	display: block; /* display inline-block list items at block level */
+	list-style-type: none; /* undo bullets */
+	}
+HTML {
+	FONT-FAMILY: EM Print Regular; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;
+}
+
+BODY {
+	LINE-HEIGHT: 1.5; BACKGROUND-COLOR: white; FONT-FAMILY: "EM Print Regular", "Helvetica Neue", Helvetica, Arial, sans-serif; COLOR: #3a3a3a; text-align:center;padding: 25px 30px;
+}
+
+HTML {
+	FONT-SIZE: 10px; -webkit-tap-highlight-color: rgba(0, 0, 0, 0)
+}
+BODY {
+	LINE-HEIGHT: 1.4285; BACKGROUND-COLOR: white; FONT-FAMILY: "EM Print Regular", "Helvetica Neue", Helvetica, Arial, sans-serif; COLOR: #3a3a3a; FONT-SIZE: 14px
+}
+INPUT {
+	LINE-HEIGHT: inherit; FONT-FAMILY: inherit; FONT-SIZE: inherit
+}
+BUTTON {
+	LINE-HEIGHT: inherit; FONT-FAMILY: inherit; FONT-SIZE: inherit
+}
+SELECT {
+	LINE-HEIGHT: inherit; FONT-FAMILY: inherit; FONT-SIZE: inherit
+}
+TEXTAREA {
+	LINE-HEIGHT: inherit; FONT-FAMILY: inherit; FONT-SIZE: inherit
+}
+
+/*
+body {	
+		text-align: center; 
+		padding: 25px 30px;
+		font-family: Arial,Helvetica,Sans-Serif; 
+		font-size: 1.0em; 
+		line-height: 1em; 
+		color: #333;	
+	}
+*/
+p, td {	
+	/*	text-align: left;
+		font-family: Arial,Helvetica,Sans-Serif; 
+		font-size: 1.1em; 
+		line-height: 1.4em; 
+		color: #333;	*/
+
+		text-align: left;
+		font-family: "EM Print Regular", "Helvetica Neue", Helvetica, Arial, sans-serif;
+		font-size: 14px;
+		line-height: 1.4285;
+		color: rgb(58,58,58);
+}
+
+a, a:link  { color: #1a4a7a; text-decoration: none; }
+a:visited { color: #2e4b68; text-decoration: none; }
+a:hover, a:active { text-decoration: underline; }
+
+hr { width:100%; font-size: 1px; position:absolute; }
+
+table td { font-size: 1em; }  /* BDE: Added line 9/28/07 to reduce blue bar size in FireFox.. */
+
+#container {margin:0 auto; text-align:left; }
+#container {width: 914px; }
+
+.clrfix:after {content: "."; display: block; height: 0; clear: both; visibility: hidden; }
+
+#mainPanel  { background:transparent none; position:relative; margin-right:0px; }
+
+h1, h2, h3, h4, h5 { font-weight:bold; line-height:1em; }
+
+h1, .h1style {
+	font-size:1.6em;
+	color: #06C;
+	margin-top: 0;
+	margin-right: 0;
+	margin-bottom: 3px;
+	margin-left: 0;
+	padding-top: 0.2em;
+	padding-right: 0;
+	padding-bottom: .5em;
+	padding-left: 0;
+}
+h1 p, h1 {
+	color:#333;
+}
+h2, .h2style {
+	font-size:1.4em;
+	margin:0;
+	padding:.2em 0 .3em 0; }
+h3, .h3style {
+	font-size:1.1em;
+	margin:0 0 1em 0;
+	padding:1em 0 0 0;	}
+h4, .h4style { 
+	font-size:1.1em; 
+	line-height:1.4em; }
+h5, .h5style { 
+	font-size:1.0em; 
+	line-height:1.4em; }
+
+h1 a, h1 a:link, 
+h2 a, h2 a:link, 
+h3 a, h3 a:link, 
+h4 a, h4 a:link, 
+h5 a, h5 a:link 
+	{ color:#1a4a7a }
+
+p { margin:0; 
+	padding-top: 0;
+	padding-right: 0;
+	padding-bottom: 10px;
+	padding-left: 0;}
+
+.barbgleftSumbit { 
+	display:	block; 
+	background:	transparent url(LCW_Images/button/leftSideBtn.jpg) no-repeat top left;  
+	float:		left; 
+	margin-left:10px; 
+	}
+.barbgrightSubmit { 
+	display:	block; 
+	background:	transparent url(LCW_Images/button/rightSideBtn.jpg) no-repeat top right; 
+	}
+.barbgleftSumbitOff{
+	display:	block;  
+	float:		left;
+	margin-left:10px;
+	}
+.barbgrightSubmitOff{
+	display:block; 
+	width:150px;
+}
+input.middleSubmitBtn { 
+	background:	transparent url(LCW_Images/button/middleBtn.jpg) repeat-x top left;
+	display:	block; 
+	margin:		0 5px 0 5px; 
+	height:		18px !important;	/* BDE 7/22/2010: Had to add !important to get FireFox not to set height to 14px.  */
+	border:		0 none; 
+	color:	#1b5e8e; 
+	/*font:		bold 0.9em Helvetica,Sans-Serif; */
+	font-family	EM Print Regular, Helvetica Neue, Helvetica, Arial, sans-serif;
+	font-weight:	bold;
+	font-size: 	14px
+	cursor:		pointer; 
+	}
+input.expandBtn { 
+	background:	transparent none; 
+	border:		0 none; 
+	color:		#1b5e8e; 
+	display:	block; 
+	font:		bold 0.9em Helvetica,Sans-Serif; 
+	cursor:		pointer; 
+	}
+
+
+/* =============================================================================================================
+	[[[[[  common form styles  ]]]]] 
+   ============================================================================================================= */
+.formHolder { margin:0 0 35px 0; FONT-FAMILY: EM Print Regular; }
+
+.formHolder label,
+.formHolder input,
+.formHolder select 
+	{ float:left; background-color:transparent; min-height:1.5em; height:auto; FONT-FAMILY: EM Print Regular;font-size:14px;}
+.formHolder label {text-align: left; width: 200px;}
+
+/*{ float:left; background-color:transparent; min-height:1.5em; height:auto; font-size:1.1em;}*/
+
+/*.formHolder label { width:100px; text-align:right; padding-right:10px; }*/
+
+.formHolder select { width:225px; border:1px solid #79b; }
+.formHolder input.text { width:188px; border:1px solid #79b;  } 
+.formHolder option { background-color:#fff; }
+
+.formHolder input.chkbox { width:15px; }
+.formHolder br { display:none; }
+
+/*.formHolder select[id=ltSubject] { height:130px; }*/
+
+.fieldHolder { float:left; width:300px; min-height:3em; }
+.fieldSpacer { float:left; width:300px; height:1px; line-height:1%; font-size:1%;}
+.formHolder em { color:red; font-weight:bold; } 
+
+.errorText { color:#FF0033; font-weight:Bold;}
+	
+#mainPanel  .formHolder .button { min-width:9em; float:left; margin:0 1em 0 1em; }
+#mainPanel  .formHolder input.expandBtn { float:none; font-size:.9em; min-height:0; }
+#mainPanel  .formHolder input.middleSubmitBtn { float:none; font-size:.9em; min-height:0; }
+#mainPanel  .formHolder .barbgleftSumbit { margin:0; }
+#mainContent .formHolder div.right { float:left; margin-left:300px; }
+#mainContent .formHolder label.right { float:left; width:auto; text-align:left; margin:0; padding:0 10px 0 5px; }
+
+/* =============================================================================================================
+	[[[[[  CONTACTUS template  ]]]]] 
+   ============================================================================================================= */
+.contactus {position: relative; left:-30px; top: -10px;}
+.contactus #mainPanel  { }
+
+.contactus #mainContent  { margin-right:0; width:auto; }
+.contactus .fieldHolder { width:400px; float:none; display:block; overflow:auto; }
+.contactus .formHolder label { width:120px; }
+
+/* BDE 7/22/2010: Added .formHolder textarea font-family property to increase contact us and email friend forms 
+				  message box text size in FireFox and more closely match other form entry items in all browsers. */
+.formHolder textarea { 
+	float:		left; 
+	border:		1px solid #79b; 
+	font-size:	1.1em;
+	font-family: "EM Print Regular", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	width:		240px; 
+	height:		10em; 
+	}
+.formHolder .wide { width:auto; }
+.buttnHolder { margin:2em 0 0 100px; padding:0 }
+.contactus .formHolder input.text { width:188px; }
+.formHolder .fieldHolder label { padding-bottom:1em; }
+.formHolder label.wide { width:auto; }
+
+.contactus .fieldHolder label { width:225px;}
+.contactus .termHolder textbox { width:220px; text-align: left;}
+.contactus .fieldHolder span label{ width:50px;}
+.contactus .fieldHolderError { width:600px; float:none; display:block; overflow:auto; font-size:1.1em;}
+
+.checkboxClass input {
+     		width: 15px;
+		height: 15px;
+		padding-top: 1px;
+		position: relative;
+	}
+.checkboxClass label {
+		padding: 3px 0 0 10px ;	
+		text-align: left;
+		position: relative;
+		width: 300px;
+	}
+.radioClass input {
+		width: 15px;
+		height: 15px;	
+		text-align: left;
+		position: relative;
+	}
+.radioClass label {
+		padding: 3px 0 0 10px;		
+		text-align: left;
+		position: relative;
+	}
+
+
+/* BDE 7/22/2010: Added style below to increase size of "contact us via e-mail" title on confirmation page. 
+				  line-height setting is only needed for IE8, but put it here out of laziness. */
+
+#ContactUsLabel {
+	line-height:40px;
+	font-size:	1.1em;
+	font-family:Arial,Helvetica,Sans-Serif; 
+	}
+
+/* =============================================================================================================
+	[[[[[  accessibility - related  rules  ]]]]] 
+   ============================================================================================================= */
+/* normal state for skip navigation link */
+.skip { 
+	display:block; 
+	position:absolute; 
+	left:-999px; 
+	top:0; 
+	width:1px; 
+	height:1px; 
+	overflow:hidden; }
+/* state for skip navigation with focus */
+.skip:focus, .skip:active {
+	display:block; 
+	position:absolute; 
+	left:50%; 
+	top:0; 
+	margin-left:-7em !important;
+	margin-left:-11em;
+	text-align:center;
+	font-size:1.4em; 
+	font-weight:bold; 
+	color:#111; 
+	background-color:#eee; 
+	border:3px solid #f30; 
+	width:14em; 
+	height:auto;
+	padding:5px; } 

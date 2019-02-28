@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<t:root xmlns:t="http://schemas.xom.com/2005/Localization/Text">
+  <t:namespace n="ContactUS">
+    <t:namespace n="Content">
+      <t:text n="ThankYouMesg">
+        <b>谢谢！</b> 您的信息已成功提交。我们会尽快与您取得联系。
+      </t:text>
+      <t:text n="ErrorMesg">
+        <p>
+          很抱歉，您的信息未能成功发送.<br />
+          失败的原因有很多，比如服务器问题，系统兼容性问题。<br />
+          请稍候再尝试写邮件给我们或者通过电话与我们取得联系。<br />
+          对此造成的不便，再次抱歉.
+        </p>
+      </t:text>
+      <t:text n="PageTitle">联系我们</t:text>
+      <t:text n="RequiredText">为必填项</t:text>
+      <t:text n="Region">地区</t:text>
+      <t:text n="Subject">主题</t:text>
+      <t:text n="SelectSubject">选择主题</t:text>
+      <t:text n="FName">名</t:text>
+      <t:text n="LName">姓</t:text>
+      <t:text n="PositionTitle">职务</t:text>
+      <t:text n="Email">电子邮件地址</t:text>
+      <t:text n="Company">公司</t:text>
+      <t:text n="Address">地址</t:text>
+      <t:text n="City">城市/镇</t:text>
+      <t:text n="State">省/州</t:text>
+      <t:text n="Country">国家</t:text>
+      <t:text n="SelectCountry">选择您的国家</t:text>
+      <t:text n="SelectRegion">选择您的地区</t:text>
+      <t:text n="PostalCode">邮政编码</t:text>
+      <t:text n="PhoneNum">电话号码</t:text>
+      <t:text n="FaxNum">传真号码（用于回复MSDS请求）</t:text>
+      <t:text n="CurrentCustomer">您是注册客户吗？</t:text>
+      <t:text n="Yes">是</t:text>
+      <t:text n="No">否</t:text>
+      <t:text n="Question">你的请求或疑问</t:text>
+      <t:text n="TermCondition">请查看并确认接受以下表格中所列条款</t:text>
+        <t:text n="TermLink">
+        <a href="http://www.exxonmobil.com/Global-All/Legal/TC_CN_Simplified.aspx" target="_new" >我接受相关条款.</a>
+      </t:text>
+      <t:text n="Send">发送</t:text>
+      <t:text n="ClearForm">清空</t:text>
+      <t:text n="EnterEmail">请在下面的空格中输入您的电子邮件,姓名@公司名称.com</t:text>
+      <t:text n="SelectSubjectMesg">请从以下列表中选择一个主题</t:text>
+      <t:text n="MoreSubjectMesg">请点击 -- 其它更多 -- 查看更多主题</t:text>
+      <t:text n="SelectCountryMesg">请选择您的国家</t:text>
+      <t:text n="ValidPhone">请输入您的电话号码（数字），不要包含破折号，空白或其他符号</t:text>
+      <t:text n="ValidFax">请输入您的传真号码（数字），不要包含破折号，空白或其他符号。</t:text>
+      <t:text n="EnterCustomer">请说明您现在是否是美孚客户</t:text>
+      <t:text n="EnterQuestion">請輸入您的訊息</t:text>
+      <t:text n="CloseText">关闭窗口</t:text>
+      <t:text n="TermsConditionsError">请接受相关条款</t:text>
+      <t:text n="PageError">您的此次请求未能完成，请点击埃克森美孚网站主页上的“联系我们”页面提交</t:text>
+      <t:text n="EmailPattern">^[_a-zA-Z0-9-]+(\.[_a-zA-Z0-9-]+)*@[a-zA-Z0-9-]+(\.[a-zA-Z0-9-]+)*(\.[a-zA-Z]{2,4})$</t:text>
+      <t:text n="PhonePattern">/^(\(?\+?[0-9]*\)?)?[0-9_\- \(\)]*$/</t:text>
+      <t:text n="More">其它更多</t:text>
+    </t:namespace>
+  </t:namespace>
+</t:root>

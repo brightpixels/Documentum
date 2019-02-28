@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- ===================================================================================================================
+		Created: 2005+ - for Contact Us Application - WCM Team
+		Updated: December 13, 2013 - BDE - WCM Team - WO0000001593584
+			Added tags for new captcha control on Contact Us forms
+======================================================================================================================== 
+-->
+<root>
+		<ThankYouMessage>&lt;b&gt;ありがとうございました。&lt;/b&gt;
+		メッセージは無事送信されました。
+		まもなくご連絡を差し上げます。
+		</ThankYouMessage>
+		<ErrorMessage>残念ながら、 あなたのメッセージは送信されませんでした。&lt;br/&gt;
+		サーバーの問題、あるいは弊社システムと互換性のない文字セットなど、様々な理由が考えられます。&lt;br/&gt;
+		恐れ入りますが後ほど送信されるか、お電話にてご連絡ください。&lt;br/&gt;
+		ご不便をおかけして申し訳ございません。
+		</ErrorMessage>
+	<PageTitle>
+		連絡先
+	</PageTitle>
+	<RequiredText>
+		<P>お客様の国</P>
+	</RequiredText>
+	<SubjectText>
+		<P>お問い合わせの内容</P>
+	</SubjectText>
+	<SelectSubjectText>
+		<P>お問い合わせの内容を選択してください。</P>
+	</SelectSubjectText>
+	<FirstNameText>
+		<P>名</P>
+	</FirstNameText>
+	<SurnameNameText>
+		<P>姓</P>
+	</SurnameNameText>
+	<PositionTitleText>
+		<P>肩書き</P>
+	</PositionTitleText>
+	<EmailText>
+		<P>Ｅ メール</P>
+	</EmailText>
+	<CompanyText>
+		<P>勤務先</P>
+	</CompanyText>
+	<AddressText>
+		<P>丁目・番地</P>
+	</AddressText>
+	<CityTownText>
+		<P>市町村区名</P>
+	</CityTownText>
+	<ProvinceStateText>
+		<P>都道府県名</P>
+	</ProvinceStateText>
+	<CountryText>
+		<P>国名</P>
+	</CountryText>
+	<SelectCountryText>
+		<P>あなたの国を選択してください。</P>
+	</SelectCountryText>
+	<PostalCodeText>
+		<P>郵便番号</P>
+	</PostalCodeText>
+	<PhoneNumberText>
+		<P>電話番号</P>
+	</PhoneNumberText>
+	<FaxNumberText>
+		<P>ファクス番号（ＭＳＤＳ＜製品安全データシート＞の請求に必要）</P>
+	</FaxNumberText>
+	<CurrentCustomerText>
+		<P>現在当社製品をお使いになっていますか。</P>
+	</CurrentCustomerText>
+	<YesText>
+		<P>はい</P>
+	</YesText>
+	<NoText>
+		<P>いいえ</P>
+	</NoText>
+	<QuestionText>
+		<P>リクエストまたはご質問</P>
+	</QuestionText>
+	<SendText>
+		<P>送信</P>
+	</SendText>
+	<ClearFormText>
+		<P>書式をクリアにする。</P>
+	</ClearFormText>
+	<EnterEmailText>
+		<P>以下の形式であなたのＥ メールを入力してください：あなたの氏名@会社名</P>
+	</EnterEmailText>
+	<ChooseSubjectText>
+		<P>email の件名を選択してください。</P>
+	</ChooseSubjectText>
+	<SelectCountryText>
+		<P>国名を選択してください。</P>
+	</SelectCountryText>
+	<ValidPhone>
+		<P>数字で電話番号を入力してください。ダッシュ、スペース、その他記号は使えません。</P>
+	</ValidPhone>
+	<ValidFax>
+		<P>数字でファクス番号を入力してください。ダッシュ、スペース、その他記号は使えません。</P>
+	</ValidFax>
+	<EnterCustomer>
+		<P>現在当社製品をお使いになっているかどうかをご記入ください。</P>
+	</EnterCustomer>
+	<EnterQuestion>
+		<P>メッセージをタイプ入力してください。</P>
+	</EnterQuestion>
+	<CloseText>
+		<P>ウィンドウを閉じる。</P>
+	</CloseText>
+	<CheckboxText1>チェックボックスに印をつけて「ご利用規約」に同意してください。</CheckboxText1>
+	<CheckboxLabel1>ご利用規約に同意します。</CheckboxLabel1>
+	<CheckboxError1>以下のチェックボックスに印をつけて、ご利用規約に同意してください。</CheckboxError1>
+	<CheckboxText2/>
+	<CheckboxLabel2/>
+	<CheckboxError2/>
+	<CheckboxText3/>
+	<CheckboxLabel3/>
+	<CheckboxError3/>
+	<ErrorCaptchaTimeOut>フォームがあまりにも急速に提出された。数秒後に再試行してください。</ErrorCaptchaTimeOut>
+	<ErrorCaptchaHidden>検証に失敗しました - 安全ではない可能性がフォームの送信を。</ErrorCaptchaHidden>
+</root>

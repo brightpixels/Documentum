@@ -1,0 +1,1019 @@
+{
+  "lang": {
+    "fullscreen":                 "Fullscreen",
+    "exitFullscreen":             "Exit Fullscreen",
+    "visit":                      "Visit",
+    "equipment":                  "Equipment",
+    "viewDetails":                "View Details",
+    "dontShowMeThisMessageAgain": "Don't show me this message again",
+    "directions":                 "Click on a red hotspot in the schematic or on an item in the Equipment menu to see corresponding lubricant information. To view more of the schematic, click and drag with your mouse or use the arrow keys on your keyboard.",
+    "continue":                   "Continue",
+    "pds":                        "PDS",
+    "whereToBuy":                 "Where To Buy",
+    "productInformation":         "Product Information",
+    "benefits":                   "Benefits",
+    "refineYourSearchWithLooble": "Refine Your Search With Looble",
+    "products":                   "Products",
+    "back":                       "Back",
+    "equipmentType":              "Equipment Type",
+    "getMoreInfo":                "Get More Info",
+    "productDataSheets":          "Product Data Sheets",
+    "downloadSellSheet":          "Download Sell Sheet",
+    "emailPageLink":              "Email Page Link",
+    "findADistributor":           "Find a Distributor",
+    "components":                 "Components",
+    "touchModeQuestion":          "It appears you’re using a touch-enabled device. Would you prefer to use the touch-optimized interface?",
+    "yesUseTheTouchVersion":      "Yes, use the touch version",
+    "no":                         "No"
+  },
+  "schematic": {
+    "name":"Baked Goods Plant",
+    "tileset":"bakery",
+    "minZoom": 1,
+    "maxZoom": 4,
+    "components":[
+        {
+          "id":74,
+          "name":"Conveying Blower",
+          "imageURL":"bakery/conveyingBlower.png",
+          "x":81,
+          "y":-91,
+          "subcomponents":[
+            {
+              "id":176,
+              "name":"Hydraulic Systems",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":88,
+                  "name":"Mobil SHC Cibus™ 32, 46, 68",
+                  "type": "synthetic",
+                  "information": "High-performance synthetic hydraulic oils",
+                  "benefits": "Long service life; wide range of operating temperatures",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_SHC_Cibus.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-shc_mobil-shc-cibus-series.aspx"
+                }
+              ]
+            },
+            {
+              "id":177,
+              "name":"Gearboxes",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":89,
+                  "name":"Mobil SHC Cibus™ 150, 220, 320, 460",
+                  "type": "synthetic",
+                  "information": "High-performance synthetic gear oils",
+                  "benefits": "Potential energy savings; excellent equipment protection; wide temperature range",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_SHC_Cibus.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-shc_mobil-shc-cibus-series.aspx"
+                },
+                {
+                  "id":90,
+                  "name":"Mobil Glygoyle™ 220, 320, 460",
+                  "type": "synthetic",
+                  "information": "High-performance PAG-based worm gear oils",
+                  "benefits": "Excellent equipment protection; potential energy savings",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_Glygoyle.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                }
+              ]
+            },
+            {
+              "id":178,
+              "name":"Bearings",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":91,
+                  "name":"Mobil SHC Polyrex™",
+                  "type": "synthetic",
+                  "information": "High-performance synthetic grease",
+                  "benefits": "Long component life over wide temperature range; long re-lubrication intervals; outstanding rust and corrosion protection",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENGRSMOMobil_SHC_Polyrex_Series.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-shc_mobil-shc-polyrex-series.aspx"
+                },
+                {
+                  "id":92,
+                  "name":"Mobilgrease™ FM",
+                  "type": "conventional",
+                  "information": "Multipurpose greases for bearings and conveyors",
+                  "benefits": "Good water tolerance and corrosion protection",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENGRSMOMobilgrease_FM_101_FM_222.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":75,
+          "name":"Fork Lift Truck",
+          "imageURL":"bakery/forkLiftTruck.png",
+          "x":72,
+          "y":-118,
+          "subcomponents":[
+            {
+              "id":179,
+              "name":"Hydraulic Systems",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":88,
+                  "name":"Mobil SHC Cibus™ 32, 46, 68",
+                  "type": "synthetic",
+                  "information": "High-performance synthetic hydraulic oils",
+                  "benefits": "Long service life; wide range of operating temperatures",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_SHC_Cibus.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-shc_mobil-shc-cibus-series.aspx"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":76,
+          "name":"Packaging",
+          "imageURL":"bakery/packaging.png",
+          "x":60,
+          "y":-153,
+          "subcomponents":[
+            {
+              "id":180,
+              "name":"Hydraulic Systems",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":88,
+                  "name":"Mobil SHC Cibus™ 32, 46, 68",
+                  "type": "synthetic",
+                  "information": "High-performance synthetic hydraulic oils",
+                  "benefits": "Long service life; wide range of operating temperatures",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_SHC_Cibus.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-shc_mobil-shc-cibus-series.aspx"
+                }
+              ]
+            },
+            {
+              "id":181,
+              "name":"Gearboxes",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":89,
+                  "name":"Mobil SHC Cibus™ 150, 220, 320, 460",
+                  "type": "synthetic",
+                  "information": "High-performance synthetic gear oils",
+                  "benefits": "Potential energy savings; excellent equipment protection; wide temperature range",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_SHC_Cibus.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-shc_mobil-shc-cibus-series.aspx"
+                },
+                {
+                  "id":90,
+                  "name":"Mobil Glygoyle™ 220, 320, 460",
+                  "type": "synthetic",
+                  "information": "High-performance PAG-based worm gear oils",
+                  "benefits": "Excellent equipment protection; potential energy savings",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_Glygoyle.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                }
+              ]
+            },
+            {
+              "id":182,
+              "name":"Bearings",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":91,
+                  "name":"Mobil SHC Polyrex™",
+                  "type": "synthetic",
+                  "information": "High-performance synthetic grease",
+                  "benefits": "Long component life over wide temperature range; long re-lubrication intervals; outstanding rust and corrosion protection",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENGRSMOMobil_SHC_Polyrex_Series.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-shc_mobil-shc-polyrex-series.aspx"
+                },
+                {
+                  "id":92,
+                  "name":"Mobilgrease™ FM",
+                  "type": "conventional",
+                  "information": "Multipurpose greases for bearings and conveyors",
+                  "benefits": "Good water tolerance and corrosion protection",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENGRSMOMobilgrease_FM_101_FM_222.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":77,
+          "name":"Conveyor",
+          "imageURL":"bakery/conveyor3.png",
+          "x":52,
+          "y":-180,
+          "subcomponents":[
+            {
+              "id":183,
+              "name":"Gearboxes",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":89,
+                  "name":"Mobil SHC Cibus™ 150, 220, 320, 460",
+                  "type": "synthetic",
+                  "information": "High-performance synthetic gear oils",
+                  "benefits": "Potential energy savings; excellent equipment protection; wide temperature range",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_SHC_Cibus.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-shc_mobil-shc-cibus-series.aspx"
+                },
+                {
+                  "id":90,
+                  "name":"Mobil Glygoyle™ 220, 320, 460",
+                  "type": "synthetic",
+                  "information": "High-performance PAG-based worm gear oils",
+                  "benefits": "Excellent equipment protection; potential energy savings",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_Glygoyle.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                }
+              ]
+            },
+            {
+              "id":184,
+              "name":"Bearings",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":91,
+                  "name":"Mobil SHC Polyrex™",
+                  "type": "synthetic",
+                  "information": "High-performance synthetic grease",
+                  "benefits": "Long component life over wide temperature range; long re-lubrication intervals; outstanding rust and corrosion protection",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENGRSMOMobil_SHC_Polyrex_Series.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-shc_mobil-shc-polyrex-series.aspx"
+                },
+                {
+                  "id":92,
+                  "name":"Mobilgrease™ FM",
+                  "type": "conventional",
+                  "information": "Multipurpose greases for bearings and conveyors",
+                  "benefits": "Good water tolerance and corrosion protection",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENGRSMOMobilgrease_FM_101_FM_222.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":78,
+          "name":"Air Compressors",
+          "imageURL":"bakery/airCompressors.png",
+          "x":21,
+          "y":-159,
+          "subcomponents":[
+            {
+              "id":185,
+              "name":"Compressors",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":88,
+                  "name":"Mobil SHC Cibus™ 32, 46, 68",
+                  "type": "synthetic",
+                  "information": "High-performance synthetic hydraulic oils",
+                  "benefits": "Long service life; wide range of operating temperatures",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_SHC_Cibus.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-shc_mobil-shc-cibus-series.aspx"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":79,
+          "name":"Ventilation Fans",
+          "imageURL":"bakery/ventilationFans.png",
+          "x":21,
+          "y":-169,
+          "subcomponents":[
+            {
+              "id":186,
+              "name":"Gearboxes",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":89,
+                  "name":"Mobil SHC Cibus™ 150, 220, 320, 460",
+                  "type": "synthetic",
+                  "information": "High-performance synthetic gear oils",
+                  "benefits": "Potential energy savings; excellent equipment protection; wide temperature range",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_SHC_Cibus.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-shc_mobil-shc-cibus-series.aspx"
+                },
+                {
+                  "id":90,
+                  "name":"Mobil Glygoyle™ 220, 320, 460",
+                  "type": "synthetic",
+                  "information": "High-performance PAG-based worm gear oils",
+                  "benefits": "Excellent equipment protection; potential energy savings",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_Glygoyle.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                }
+              ]
+            },
+            {
+              "id":187,
+              "name":"Bearings",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":91,
+                  "name":"Mobil SHC Polyrex™",
+                  "type": "synthetic",
+                  "information": "High-performance synthetic grease",
+                  "benefits": "Long component life over wide temperature range; long re-lubrication intervals; outstanding rust and corrosion protection",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENGRSMOMobil_SHC_Polyrex_Series.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-shc_mobil-shc-polyrex-series.aspx"
+                },
+                {
+                  "id":92,
+                  "name":"Mobilgrease™ FM",
+                  "type": "conventional",
+                  "information": "Multipurpose greases for bearings and conveyors",
+                  "benefits": "Good water tolerance and corrosion protection",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENGRSMOMobilgrease_FM_101_FM_222.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":80,
+          "name":"Palletizer",
+          "imageURL":"bakery/palletizer.png",
+          "x":76,
+          "y":-195,
+          "subcomponents":[
+            {
+              "id":188,
+              "name":"Hydraulic Systems",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":88,
+                  "name":"Mobil SHC Cibus™ 32, 46, 68",
+                  "type": "synthetic",
+                  "information": "High-performance synthetic hydraulic oils",
+                  "benefits": "Long service life; wide range of operating temperatures",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_SHC_Cibus.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-shc_mobil-shc-cibus-series.aspx"
+                }
+              ]
+            },
+            {
+              "id":189,
+              "name":"Gearboxes",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":89,
+                  "name":"Mobil SHC Cibus™ 150, 220, 320, 460",
+                  "type": "synthetic",
+                  "information": "High-performance synthetic gear oils",
+                  "benefits": "Potential energy savings; excellent equipment protection; wide temperature range",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_SHC_Cibus.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-shc_mobil-shc-cibus-series.aspx"
+                },
+                {
+                  "id":90,
+                  "name":"Mobil Glygoyle™ 220, 320, 460",
+                  "type": "synthetic",
+                  "information": "High-performance PAG-based worm gear oils",
+                  "benefits": "Excellent equipment protection; potential energy savings",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_Glygoyle.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                }
+              ]
+            },
+            {
+              "id":190,
+              "name":"Bearings",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":91,
+                  "name":"Mobil SHC Polyrex™",
+                  "type": "synthetic",
+                  "information": "High-performance synthetic grease",
+                  "benefits": "Long component life over wide temperature range; long re-lubrication intervals; outstanding rust and corrosion protection",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENGRSMOMobil_SHC_Polyrex_Series.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-shc_mobil-shc-polyrex-series.aspx"
+                },
+                {
+                  "id":92,
+                  "name":"Mobilgrease™ FM",
+                  "type": "conventional",
+                  "information": "Multipurpose greases for bearings and conveyors",
+                  "benefits": "Good water tolerance and corrosion protection",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENGRSMOMobilgrease_FM_101_FM_222.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                }
+              ]
+            },
+            {
+              "id":191,
+              "name":"Air Lines",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":93,
+                  "name":"Mobil SHC Cibus™ 32",
+                  "type": "synthetic",
+                  "information": "High-performance synthetic lubricant for air line lubrication",
+                  "benefits": "Offers minimal air system deposits and fouling; good rust and corrosion protection",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_SHC_Cibus.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-shc_mobil-shc-cibus-series.aspx"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":81,
+          "name":"Conveyor",
+          "imageURL":"bakery/conveyor1.png",
+          "x":246,
+          "y":-141,
+          "subcomponents":[
+            {
+              "id":192,
+              "name":"Gearboxes",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":89,
+                  "name":"Mobil SHC Cibus™ 150, 220, 320, 460",
+                  "type": "synthetic",
+                  "information": "High-performance synthetic gear oils",
+                  "benefits": "Potential energy savings; excellent equipment protection; wide temperature range",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_SHC_Cibus.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-shc_mobil-shc-cibus-series.aspx"
+                },
+                {
+                  "id":90,
+                  "name":"Mobil Glygoyle™ 220, 320, 460",
+                  "type": "synthetic",
+                  "information": "High-performance PAG-based worm gear oils",
+                  "benefits": "Excellent equipment protection; potential energy savings",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_Glygoyle.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                }
+              ]
+            },
+            {
+              "id":193,
+              "name":"Bearings",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":91,
+                  "name":"Mobil SHC Polyrex™",
+                  "type": "synthetic",
+                  "information": "High-performance synthetic grease",
+                  "benefits": "Long component life over wide temperature range; long re-lubrication intervals; outstanding rust and corrosion protection",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENGRSMOMobil_SHC_Polyrex_Series.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-shc_mobil-shc-polyrex-series.aspx"
+                },
+                {
+                  "id":92,
+                  "name":"Mobilgrease™ FM",
+                  "type": "conventional",
+                  "information": "Multipurpose greases for bearings and conveyors",
+                  "benefits": "Good water tolerance and corrosion protection",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENGRSMOMobilgrease_FM_101_FM_222.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":82,
+          "name":"Conveyor",
+          "imageURL":"bakery/conveyor2.png",
+          "x":125,
+          "y":-118,
+          "subcomponents":[
+            {
+              "id":194,
+              "name":"Gearboxes",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":89,
+                  "name":"Mobil SHC Cibus™ 150, 220, 320, 460",
+                  "type": "synthetic",
+                  "information": "High-performance synthetic gear oils",
+                  "benefits": "Potential energy savings; excellent equipment protection; wide temperature range",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_SHC_Cibus.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-shc_mobil-shc-cibus-series.aspx"
+                },
+                {
+                  "id":90,
+                  "name":"Mobil Glygoyle™ 220, 320, 460",
+                  "type": "synthetic",
+                  "information": "High-performance PAG-based worm gear oils",
+                  "benefits": "Excellent equipment protection; potential energy savings",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_Glygoyle.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                }
+              ]
+            },
+            {
+              "id":195,
+              "name":"Bearings",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":91,
+                  "name":"Mobil SHC Polyrex™",
+                  "type": "synthetic",
+                  "information": "High-performance synthetic grease",
+                  "benefits": "Long component life over wide temperature range; long re-lubrication intervals; outstanding rust and corrosion protection",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENGRSMOMobil_SHC_Polyrex_Series.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-shc_mobil-shc-polyrex-series.aspx"
+                },
+                {
+                  "id":92,
+                  "name":"Mobilgrease™ FM",
+                  "type": "conventional",
+                  "information": "Multipurpose greases for bearings and conveyors",
+                  "benefits": "Good water tolerance and corrosion protection",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENGRSMOMobilgrease_FM_101_FM_222.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":83,
+          "name":"Storage/Chilling Room",
+          "imageURL":"bakery/refrigerationUnits.png",
+          "x":137,
+          "y":-199,
+          "subcomponents":[
+            {
+              "id":196,
+              "name":"Refrigeration Units",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":94,
+                  "name":"Mobil Gargoyle Arctic SHC™ 200",
+                  "type": "synthetic",
+                  "information": "Premium-performance refrigeration oils for carbon dioxide and HCFCs (eg R-22)",
+                  "benefits": "Long oil life; extended drain intervals; potential for improved system efficiency",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_Gargoyle_Arctic_SHC_200.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-gargoyle-arctic-shc-200-series.aspx"
+                },
+                {
+                  "id":95,
+                  "name":"Mobil Gargoyle Arctic SHC™ NH 68",
+                  "type": "synthetic",
+                  "information": "Premium-performance refrigeration oil for ammonia as refrigerant",
+                  "benefits": "Excellent low-temperature fluidity; reduced oil consumption",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_Gargoyle_Arctic_SHC_NH_68.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                },
+                {
+                  "id":96,
+                  "name":"Mobil EAL Arctic™",
+                  "type": "synthetic",
+                  "information": "Premium-performance refrigeration oils for HFC refrigerants",
+                  "benefits": "Improved evaporator cleanliness; high system efficiency",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_EAL_Arctic.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-eal-arctic-series.aspx"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":84,
+          "name":"Mixing",
+          "imageURL":"bakery/mixing.png",
+          "x":150,
+          "y":-118,
+          "subcomponents":[
+            {
+              "id":197,
+              "name":"Gearboxes",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":89,
+                  "name":"Mobil SHC Cibus™ 150, 220, 320, 460",
+                  "type": "synthetic",
+                  "information": "High-performance synthetic gear oils",
+                  "benefits": "Potential energy savings; excellent equipment protection; wide temperature range",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_SHC_Cibus.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-shc_mobil-shc-cibus-series.aspx"
+                },
+                {
+                  "id":90,
+                  "name":"Mobil Glygoyle™ 220, 320, 460",
+                  "type": "synthetic",
+                  "information": "High-performance PAG-based worm gear oils",
+                  "benefits": "Excellent equipment protection; potential energy savings",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_Glygoyle.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                }
+              ]
+            },
+            {
+              "id":198,
+              "name":"Bearings",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":91,
+                  "name":"Mobil SHC Polyrex™",
+                  "type": "synthetic",
+                  "information": "High-performance synthetic grease",
+                  "benefits": "Long component life over wide temperature range; long re-lubrication intervals; outstanding rust and corrosion protection",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENGRSMOMobil_SHC_Polyrex_Series.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-shc_mobil-shc-polyrex-series.aspx"
+                },
+                {
+                  "id":92,
+                  "name":"Mobilgrease™ FM",
+                  "type": "conventional",
+                  "information": "Multipurpose greases for bearings and conveyors",
+                  "benefits": "Good water tolerance and corrosion protection",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENGRSMOMobilgrease_FM_101_FM_222.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":85,
+          "name":"Kneading",
+          "imageURL":"bakery/kneading.png",
+          "x":168,
+          "y":-118,
+          "subcomponents":[
+            {
+              "id":199,
+              "name":"Hydraulic Systems",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":88,
+                  "name":"Mobil SHC Cibus™ 32, 46, 68",
+                  "type": "synthetic",
+                  "information": "High-performance synthetic hydraulic oils",
+                  "benefits": "Long service life; wide range of operating temperatures",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_SHC_Cibus.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-shc_mobil-shc-cibus-series.aspx"
+                }
+              ]
+            },
+            {
+              "id":200,
+              "name":"Gearboxes",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":89,
+                  "name":"Mobil SHC Cibus™ 150, 220, 320, 460",
+                  "type": "synthetic",
+                  "information": "High-performance synthetic gear oils",
+                  "benefits": "Potential energy savings; excellent equipment protection; wide temperature range",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_SHC_Cibus.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-shc_mobil-shc-cibus-series.aspx"
+                },
+                {
+                  "id":90,
+                  "name":"Mobil Glygoyle™ 220, 320, 460",
+                  "type": "synthetic",
+                  "information": "High-performance PAG-based worm gear oils",
+                  "benefits": "Excellent equipment protection; potential energy savings",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_Glygoyle.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                }
+              ]
+            },
+            {
+              "id":201,
+              "name":"Bearings",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":91,
+                  "name":"Mobil SHC Polyrex™",
+                  "type": "synthetic",
+                  "information": "High-performance synthetic grease",
+                  "benefits": "Long component life over wide temperature range; long re-lubrication intervals; outstanding rust and corrosion protection",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENGRSMOMobil_SHC_Polyrex_Series.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-shc_mobil-shc-polyrex-series.aspx"
+                },
+                {
+                  "id":92,
+                  "name":"Mobilgrease™ FM",
+                  "type": "conventional",
+                  "information": "Multipurpose greases for bearings and conveyors",
+                  "benefits": "Good water tolerance and corrosion protection",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENGRSMOMobilgrease_FM_101_FM_222.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":86,
+          "name":"Fork Lift Truck",
+          "imageURL":"bakery/forkLiftTruck2.png",
+          "x":182,
+          "y":-195,
+          "subcomponents":[
+            {
+              "id":202,
+              "name":"Hydraulic Systems",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":88,
+                  "name":"Mobil SHC Cibus™ 32, 46, 68",
+                  "type": "synthetic",
+                  "information": "High-performance synthetic hydraulic oils",
+                  "benefits": "Long service life; wide range of operating temperatures",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_SHC_Cibus.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-shc_mobil-shc-cibus-series.aspx"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":87,
+          "name":"Dough Roll Line",
+          "imageURL":"bakery/doughRollLine.png",
+          "x":200,
+          "y":-118,
+          "subcomponents":[
+            {
+              "id":203,
+              "name":"Hydraulic Systems",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":88,
+                  "name":"Mobil SHC Cibus™ 32, 46, 68",
+                  "type": "synthetic",
+                  "information": "High-performance synthetic hydraulic oils",
+                  "benefits": "Long service life; wide range of operating temperatures",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_SHC_Cibus.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-shc_mobil-shc-cibus-series.aspx"
+                }
+              ]
+            },
+            {
+              "id":204,
+              "name":"Gearboxes",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":89,
+                  "name":"Mobil SHC Cibus™ 150, 220, 320, 460",
+                  "type": "synthetic",
+                  "information": "High-performance synthetic gear oils",
+                  "benefits": "Potential energy savings; excellent equipment protection; wide temperature range",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_SHC_Cibus.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-shc_mobil-shc-cibus-series.aspx"
+                },
+                {
+                  "id":90,
+                  "name":"Mobil Glygoyle™ 220, 320, 460",
+                  "type": "synthetic",
+                  "information": "High-performance PAG-based worm gear oils",
+                  "benefits": "Excellent equipment protection; potential energy savings",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_Glygoyle.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                }
+              ]
+            },
+            {
+              "id":205,
+              "name":"Bearings",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":91,
+                  "name":"Mobil SHC Polyrex™",
+                  "type": "synthetic",
+                  "information": "High-performance synthetic grease",
+                  "benefits": "Long component life over wide temperature range; long re-lubrication intervals; outstanding rust and corrosion protection",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENGRSMOMobil_SHC_Polyrex_Series.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-shc_mobil-shc-polyrex-series.aspx"
+                },
+                {
+                  "id":92,
+                  "name":"Mobilgrease™ FM",
+                  "type": "conventional",
+                  "information": "Multipurpose greases for bearings and conveyors",
+                  "benefits": "Good water tolerance and corrosion protection",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENGRSMOMobilgrease_FM_101_FM_222.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":88,
+          "name":"Baking Conveyor",
+          "imageURL":"bakery/bakingConveyor.png",
+          "x":133,
+          "y":-159,
+          "subcomponents":[
+            {
+              "id":206,
+              "name":"Gearboxes",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":89,
+                  "name":"Mobil SHC Cibus™ 150, 220, 320, 460",
+                  "type": "synthetic",
+                  "information": "High-performance synthetic gear oils",
+                  "benefits": "Potential energy savings; excellent equipment protection; wide temperature range",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_SHC_Cibus.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-shc_mobil-shc-cibus-series.aspx"
+                },
+                {
+                  "id":90,
+                  "name":"Mobil Glygoyle™ 220, 320, 460",
+                  "type": "synthetic",
+                  "information": "High-performance PAG-based worm gear oils",
+                  "benefits": "Excellent equipment protection; potential energy savings",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_Glygoyle.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                }
+              ]
+            },
+            {
+              "id":207,
+              "name":"Bearings",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":91,
+                  "name":"Mobil SHC Polyrex™",
+                  "type": "synthetic",
+                  "information": "High-performance synthetic grease",
+                  "benefits": "Long component life over wide temperature range; long re-lubrication intervals; outstanding rust and corrosion protection",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENGRSMOMobil_SHC_Polyrex_Series.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-shc_mobil-shc-polyrex-series.aspx"
+                },
+                {
+                  "id":92,
+                  "name":"Mobilgrease™ FM",
+                  "type": "conventional",
+                  "information": "Multipurpose greases for bearings and conveyors",
+                  "benefits": "Good water tolerance and corrosion protection",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENGRSMOMobilgrease_FM_101_FM_222.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":89,
+          "name":"Conveyor",
+          "imageURL":"bakery/conveyor4.png",
+          "x":172,
+          "y":-153,
+          "subcomponents":[
+            {
+              "id":208,
+              "name":"Gearboxes",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":89,
+                  "name":"Mobil SHC Cibus™ 150, 220, 320, 460",
+                  "type": "synthetic",
+                  "information": "High-performance synthetic gear oils",
+                  "benefits": "Potential energy savings; excellent equipment protection; wide temperature range",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_SHC_Cibus.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-shc_mobil-shc-cibus-series.aspx"
+                },
+                {
+                  "id":90,
+                  "name":"Mobil Glygoyle™ 220, 320, 460",
+                  "type": "synthetic",
+                  "information": "High-performance PAG-based worm gear oils",
+                  "benefits": "Excellent equipment protection; potential energy savings",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_Glygoyle.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                }
+              ]
+            },
+            {
+              "id":209,
+              "name":"Bearings",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":91,
+                  "name":"Mobil SHC Polyrex™",
+                  "type": "synthetic",
+                  "information": "High-performance synthetic grease",
+                  "benefits": "Long component life over wide temperature range; long re-lubrication intervals; outstanding rust and corrosion protection",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENGRSMOMobil_SHC_Polyrex_Series.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-shc_mobil-shc-polyrex-series.aspx"
+                },
+                {
+                  "id":92,
+                  "name":"Mobilgrease™ FM",
+                  "type": "conventional",
+                  "information": "Multipurpose greases for bearings and conveyors",
+                  "benefits": "Good water tolerance and corrosion protection",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENGRSMOMobilgrease_FM_101_FM_222.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                }
+              ]
+            }
+          ]
+        }
+    ]
+  }
+}

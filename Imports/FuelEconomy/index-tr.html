@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<!--[if lt IE 9]>  <html class="no-js lt-ie10 lt-ie9">  <![endif]-->
+<!--[if IE 9]>     <html class="no-js ie9 lt-ie10">     <![endif]-->
+<!--[if !IE]><!--> <html class="no-js">                 <!--<![endif]-->
+<head>
+    <meta charset="UTF-8" />
+
+    <title>Yakıt Ekonomisi Hesaplama Aracı</title>
+    <script>
+        // set js enabled class - replaces 'no-js' with 'js'
+        document.documentElement.className = document.documentElement.className.replace(/(\s|^)no-js(\s|$)/, '$1' + 'js' + '$2');
+
+        var currencySymbol = '₺';
+    </script>
+
+    <!-- browser settings -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+
+    <!-- stylesheets -->
+    <link href="assets/css/style.css" media="screen" rel="stylesheet" />
+</head>
+<body>
+
+    <!-- exx4960-01 START -->
+    <div class="fuel-cost-calc" id="fuels-tr" data-lang="tr" data-currency-pos="after">
+        <h1 class="fuel-cost-calc__title">Yakıt Ekonomisi Hesaplama Aracı</h1>
+
+        <form>
+            <fieldset class="fuel-cost-calc__questions">
+                <div class="fuel-cost-calc__form-row">
+                    <label for="mileage">KM / YIL</label>
+                    <input id="mileage" name="mileage" type="text" value="" />
+                    <span>(genel toplam)</span>
+                </div>
+                <div class="fuel-cost-calc__form-row">
+                    <label for="mpg">LİTRE / 100KM</label>
+                    <input id="mpg" name="mpg" type="text" value="" />
+                    <span>(ortalama)</span>
+                </div>
+                <div class="fuel-cost-calc__form-row">
+                    <label for="mileage">YAKIT MASRAFI</label>
+                    <input id="fuel-cost" name="fuel-cost" type="text" value="" />
+                    <span>(litre başına)</span>
+                </div>
+
+                <div class="fuel-cost-calc__form-row fuel-cost-calc__form-row_full-width">
+                    <label for="economy-rate">TASARRUF KAYDIRICI <b>(maksimum %3)</b></label>
+                    <p>Ne kadar tasarruf edebileceğinizi görmek için aşağıdaki kaydırıcıyı kullanın.</p>
+                    <input id="economy-rate" min="0" max="3" name="economy-rate" step="1" type="range" value="1" />
+                    <ul class="fuel-cost-calc__slider-markers">
+                        <li><button>0%</button></li>
+                        <li><button>1</button></li>
+                        <li><button>2</button></li>
+                        <li><button>3%</button></li>
+                    </ul>
+                </div>
+
+                <div class="fuel-cost-calc__disclaimer">
+                    <p>Yakı tasarrufunun, belirli bir Mobil Delvac yağının performansına ek olarak çeşitli etkenlere ve sürüş alışkanlıklarına/koşullarına bağlı olabileceğini unutmayın. Mobil Delvac yağınızın potansiyel yakıt verimliliği için lütfen bu web sitesindeki ürün açıklamasına ve teknik özelliklerine başvurun.</p>
+                </div>
+            </fieldset>
+            <fieldset class="fuel-cost-calc__results">
+                <div class="fuel-cost-calc__results-wrapper">
+                    <p class="fuel-cost-calc__results__saving">
+                        <span>TAHMİNİ TASARRUF:</span>
+                        <strong>0.00</strong>
+                        Yıllık
+                    </p>
+                    <div class="fuel-cost-calc__disclaimer">
+                        <p>Girilen tüm örnek sayılar tamamen varsayımsaldır ve herhangi bir deneysel veriye dayanmamaktadır.</p>
+                    </div>
+                </div>
+            </fieldset>
+        </form>
+    </div>
+    <!-- exx4960-01 END -->
+
+    <script src="assets/libs/jquery-3.1.0.min.js"></script>
+    <script src="assets/js/scripts.js"></script>
+
+</body>
+</html>

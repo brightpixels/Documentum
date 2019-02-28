@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>EXX4574-01 Infographic Widget</title>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+		<script src="http://cdnjs.cloudflare.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+
+		<!-- TEST RESOURCES - PLEASE IGNORE: the following are used for testing and are not required by the widget -->
+
+			<!-- Delvac website styles -->
+			<!--
+			<link href="https://mobildelvac.com/en/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+			<link href="https://mobildelvac.com/en/stylesheets/application.css" media="screen" rel="stylesheet" type="text/css" />
+			-->
+
+		<!-- END TEST RESOURCES -->
+
+	</head>
+	<body>
+
+		<!-- Wrapper div where the widget will be loaded -->
+		<div id="widget-wrapper"></div>
+
+		<!-- Path to the widget script -->
+		<script src="js/widget-infographic.js"></script>
+
+		<!-- Widget initialsation script -->
+		<script>
+			jQuery(function() {
+				new Infographics({
+					// ID of widget wrapper div
+					id: 'widget-wrapper',
+
+					// Path to JSON config file
+					config: 'json/de/suddeutschland/widget-infographic.json',
+
+					// Infographic items
+					infographics: [1, 2, 3],
+
+					// Intro section [optional]
+					intro: {
+						title: 'Kraftstoffeinsparung von mehr als 2 %*',
+						image: 'img/de/suddeutschland/top-banner.png',
+						objective: 'Kraftstoffverbrauch senken und Emissionen reduzieren'
+					},
+
+					// Custom text block section(s) [optional]
+					details: ['situation', 'recommendation', 'results']
+				});
+			});
+		</script>
+
+	</body>
+</html>

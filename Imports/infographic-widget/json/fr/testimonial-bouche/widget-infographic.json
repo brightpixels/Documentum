@@ -1,0 +1,47 @@
+{
+	"css": "css/widget-infographic.css",
+	"locale": {
+		"objective": "Objectif"
+	},
+	"infographics": {
+		"1": {
+			"images": [ 
+				{ "id": "engine", "class": "fallback", "src": "img/fr/testimonial-bouche/graphic1.png" }
+			],
+			"text": "économies de carburant moyennes mesurées de <a href=\"#infographic-results\" class=\"nav-to--link\">1,67 %</a> "
+		},
+		"2": {
+			"images": [ 
+				{ "id": "barrel", "class": "fallback", "src": "img/fr/testimonial-bouche/graphic2.png" }
+			],
+			"text": "économies globales évaluées à  <a href=\"#infographic-results\" class=\"nav-to--link\">11 853 €</a> "
+		},
+		"3": {
+			"images": [ 
+				{ "id": "value", "class": "fallback", "src": "img/fr/testimonial-bouche/graphic3.png" }
+			],
+			"text": "réduction des émissions de  CO<sub>2</sub> de <a href=\"#infographic-results\" class=\"nav-to--link\">34 tonnes</a> par an "
+		}
+	},
+	"details": {
+		"situation": { 
+			"title": "Contexte et objectifs", 
+			"text": [				
+				"  Les transports Bouché sont une entreprise de transport de marchandises basée en France qui exploite une flotte de 30 camions DAF. Il s’agissait de démontrer que l’utilisation de l’huile moteur entièrement synthétique Mobil Delvac 1 LE 5W-30 permettrait de diminuer la consommation de carburant des camions par rapport à l’huile moteur SAE 10W-40 actuellement utilisée."
+			]
+		},
+		"recommendation": { 
+			"title": "Recommandations et solutions", 
+			"text": [
+				"Le paramètre le plus important pour générer des économies de carburant grâce aux lubrifiants est le maintien de sa viscosité en service. Une viscosité optimum dans les différents régimes d’utilisations des moteurs permet de réduire les frottements et donc les consommations de carburant. Cependant, la viscosité peut augmenter dans le temps. Les particules de suies, divers contaminants ainsi que les phénomènes d’oxydation peuvent entraîner un épaississement de l’huile qui peut nuire aux économies de carburant et compromettre la protection du moteur. Ainsi, un lubrifiant moteur conçu pour favoriser les économies de carburant doit être spécialement formulé pour lutter contre ces phénomènes d’oxydation et d’épaississement de l’huile."
+			]
+		},
+		"results": { 
+			"title": "Résultats et gains", 
+			"text": [				
+				"Un test portant sur les consommations de carburant a été effectué par les transports Bouché durant 12 mois sur un de ses camions. Des mesures mensuelles de consommation ont été effectuées sur l’ensemble de la flotte. Le camion utilisant l’huile synthétique moteur Mobil Delvac 1 LE 5W-30 a permis de démontrer des économies de carburant moyennes de 1,67% par rapport au reste du parc, ces véhicules opérant dans des conditions comparables. En plus d’une protection exceptionnelle lors de la phase critique des démarrages et d’un allongement potentiel de la durée de vie des moteurs, l’huile Mobil Delvac 1 LE 5W-30 favorise également la baisse des consommations de carburant et l’allongement des espacements de vidange. La décision d’utiliser cette huile moteur sur l’ensemble du parc de camions générera à terme des économies globales évaluées à 11 853 € / an et réduira de 39,8 tonnes / an les émissions de CO<sub>2</sub>.",
+				"*Economies calculées selon les hypothèses d’un kilométrage annuel moyen de 100 000 km par véhicule, d’une consommation avant changement d’huile de 30 L/100 km, d’un prix du carburant de 1,10 € ht / litre et du facteur d’émission de 2,65 kg de CO2 émis par litre de carburant."
+			]
+		}
+	}
+}

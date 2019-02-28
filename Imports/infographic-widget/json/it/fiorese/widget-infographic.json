@@ -1,0 +1,49 @@
+{
+	"css": "css/widget-infographic.css",
+	"locale": {
+		"objective": "Obiettivo"
+	},
+	"infographics": {
+		"1": {
+			"images": [
+				{ "id": "engine", "class": "fallback", "src": "img/it/fiorese/Icons_option1a.png" }
+			],
+			"text": "Mobil Delvac 1 LE 5W-30 ha portato una riduzione dei consumi di carburante del 1.5%"
+		},
+		"2": {
+			"images": [
+				{ "id": "barrel", "class": "fallback", "src": "img/it/fiorese/Icons_option2a.png" }
+			],
+			"text": "Migliorare la riduzione dei consumi, Estensione massima dei tempi di cambio dell'olio"
+		}
+	},
+	"details": {
+		"situation": {
+			"title": "Contesto",
+			"text": [
+				"L’azienda di trasporti, con in servizio una flotta di 52 veicoli per impiego stradale a medio e lungo raggio, era alla ricerca di una soluzione di lubrificazione che permettesse di soddisfare le specifiche esigenze dei nuovi motori Euro VI, che contribuisse a ridurre i consumi, e che estendesse al massimo gli intervalli di cambio olio raccomandati dagli OEM e la protezione dei motori. II nuovo lubrificante doveva sostituire un olio motore di alta qualità 10W-40 ACEA E7."
+			]
+		},
+		"recommendation": {
+			"title": "Raccomandazioni e Soluzioni",
+			"text": [
+			"Fiorese Bernardino Spa ha raccomandato I’utilizzo del Mobil Delvac 1 LE 5W-30, un lubrificante completamente sintetico in grado di soddisfare le rigorose esigenze dei moderni motori a basse emissioni, di razionalizzare la gamma di oli motore necessari e ridurre gli attriti, e di contribuire alla riduzione del consumo di carburante². Inoltre, la sua esclusiva formulazione offre un’ottima protezione per i motori con intervalli di cambio carica prolungati."
+			]
+		},
+		"results": {
+			"title": "Risultati e Vantaggi",
+			"text": [
+				"Grazie all’accurato monitoraggio dei consumi prima e dopo l’utilizzo di Mobil Delvac 1 LE 5W-30 sui 4 veicoli utilizzati per il test, si è calcolato un risparmio medio del consumo di carburante pari all’1,5%1. Per la corretta misurazione dei consumi di carburante sono stati presi in considerazione i parametri stagionali di rotte, guidatori e carichi. Inoltre, attraverso il sistema di analisi chimico fisiche sono state monitorate le condizioni dell’olio e l’usura, raggiungendo senza problemi i limiti massimi degli intervalli di cambio carica consigliati dai costruttori.",
+				"In base alla media annua del prezzo del carburante, ogni veicolo ha ottenuto un’economia media di 611,64 €/anno che per l’intera flotta corrisponde potenzialmente ad un valore pari a 31.805,09 €/anno e ad una potenziale riduzione delle emissioni di CO2 di 84 tonellate/anno³."
+			]
+		},
+		"disclaimer": {
+			"text": [
+				"¹La presente Prova Prestazionale si basa sull’esperienza di un singolo cliente. L’effettivo risparmio di carburante può variare a seconda del tipo di veicolo, della tipologia dei componenti, della temperatura esterna, delle condizioni di guida e delle attuali viscosità degli oli.",
+				"²Rispetto all’olio motore 15W-40 minerale - Il miglioramento effettivo del risparmio di combustibile dipende dal tipo di veicolo/macchinario, dalla temperatura esterna, dalle condizioni di guida e dalla viscosità del fluido in uso.",
+				"³84 tonnellate di riduzione emissioni di CO = 31,818 litri di consumo di carburante * 2.64kg di CO per litro di carburante diesel * 0.001 tonnellate per 1000 kg. La riduzione delle emissioni é calcolata in base ai fattori di emissione di CO pubblicati da EPA.",
+				"©2017 Exxon Mobil Corporation. Tutti i diritti riservati. I marchi Mobil, ExxonMobil e gli altri marchi simili utilizzati sono marchi o marchi registrati di Exxon Mobil Corporation o di una delle società da questa direttamente o indirettamente possedute o controllate. Tutti gli altri marchi appartengono ai rispettivi proprietari. POP 2017-651"
+			]
+		}
+	}
+}

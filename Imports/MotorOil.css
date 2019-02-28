@@ -1,0 +1,1014 @@
+/*====================================================================================================================
+	Created: March 25, 2005 - for Mobil 1 Project - WCM Team (ExxonMobil GIS)
+		plus many undocumented updates.
+	Updated: April 29, 2011 - Diego R. Cobelo (ExxonMobil IT - WCM Team)
+		Added about 300 lines of styles at end start with lines "Add image functionality to Mobiloil template".
+	Updated: May 3, 2011 - Brian D. Elley (EMIT WCM) - AM23363052
+		Added style [.MobilTopBarLinks td] to correct alignment of header bar broken by new styles on 4/29/11.
+	Updated: May 26, 2011 - Diego R. Cobelo (ExxonMobil IT - WCM Team)
+		Added .header_tab to a section of styles to avoid conflict with tabs.
+	Updated: June 13, 2011 - Brian D. Elley (EMIT WCM) - AM23687932
+		Commented [text-align: left;] to return right alignment of [Submited Your Car] button on gallery pages.
+		Note: This could have an adverse effect on "Add image functionality to Mobiloil template" pages.
+	=================================================================================================================== 
+*/
+.header
+{
+    COLOR: #000000;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    padding-top:4px;
+    FONT-SIZE: 28px;
+    FONT-WEIGHT: bold;
+    TEXT-DECORATION: none
+
+}
+
+.subheader
+{
+    COLOR: #000000;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 16px;
+    FONT-WEIGHT: bold;
+    TEXT-DECORATION: none
+}
+
+.prodHeader
+{
+    COLOR: #343235;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 22px;
+    TEXT-DECORATION: none
+}
+
+.navbar
+{
+    
+    COLOR: #000000;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 12px;
+    TEXT-DECORATION: none;
+
+}
+
+.search
+{
+    COLOR: #000000;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 12px;
+    TEXT-DECORATION: none
+}
+
+.resultspage
+{
+    COLOR: #000000;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 12px;
+    TEXT-DECORATION: none
+}
+
+.boldBodyText
+{
+    COLOR: #000000;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 12px;
+    FONT-WEIGHT: bold;
+    TEXT-DECORATION: none
+}
+
+.bodyText
+{
+    COLOR: #000000;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 12px;
+    TEXT-DECORATION: none
+}
+
+.ContentAreaPadding
+{
+	PADDING-RIGHT:10px;
+}
+
+.smallLoginText
+{
+    COLOR: #000000;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 10px;
+    TEXT-DECORATION: none
+}
+
+.black-text
+{
+    COLOR: #000000;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 10px
+}
+
+.description
+{
+    COLOR: #666666;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 11px;
+    TEXT-DECORATION: none
+}
+
+.redLinkBold
+{
+    COLOR: #cc0000;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 12px;
+    FONT-WEIGHT: bold;
+}
+
+.blueLink
+{
+    COLOR: #000000;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 12px;
+ TEXT-DECORATION: underline
+}
+
+.blackLink
+{
+    COLOR: #000000;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 12px;
+ TEXT-DECORATION: underline
+}
+
+.blackLink:visited
+{
+    COLOR: #000000;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 12px;
+	 TEXT-DECORATION: underline
+}
+
+.red-text
+{
+    COLOR: #ff0200;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 11px;
+    TEXT-DECORATION: none
+}
+
+.errorMessage
+{
+    COLOR: #ff0200;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 11px;
+    TEXT-DECORATION: none;
+
+}
+
+.mobiltdNavSelected
+{
+    /*BACKGROUND-COLOR: #003366;*/
+    /*BACKGROUND-COLOR: #000000;*/
+    FONT-SIZE: 8px;
+    FONT-WEIGHT: bold;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    background-image: url('/USA-English/MotorOil/images/main_menu_selected.gif'); background-repeat: repeat-y;background-repeat: repeat-x
+  
+
+}
+
+.navItem
+{
+    COLOR: #ffffff;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 14px;
+    TEXT-DECORATION: none
+}
+
+.navItem:hover
+{
+    COLOR: #cccccc;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 14px;
+
+ TEXT-DECORATION: none
+}
+
+
+.MobilTopBarLinks
+{
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 8px;
+    FONT-WEIGHT: bold;
+
+ background-image: url('/images/main-menu.gif'); background-repeat: repeat-y
+
+}
+/* AM23363052 BDE 5/2/11: Added style to correct alignment of header bar broken by new styles on 4/29/11. */
+.MobilTopBarLinks td 
+{
+	text-align: center;
+}
+
+.homeButton
+{
+    COLOR: #626262;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 10px;
+    TEXT-DECORATION: none
+}
+
+.lnavBg
+{
+    
+    /*BACKGROUND-COLOR: #FF0000*/
+    /*background-image: url('/images/bg_left.jpg'); background-repeat: repeat-x; 
+
+background-repeat: repeat-y*/
+}
+
+.lnavBgSelected
+{
+    /*BACKGROUND-COLOR: #e2e2e2*/
+    /*background-image: url('/images/bg_left.jpg'); background-repeat: repeat-x; 
+
+background-repeat: repeat-y*/
+
+}
+
+.lnavItem
+{
+    COLOR: #000000;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 11px;
+    TEXT-DECORATION: none;
+    /*background-image: url('/images/bg_left.jpg'); background-repeat: repeat-x; 
+
+background-repeat: repeat-y*/
+}
+
+.lnavItemSelected
+{
+    COLOR: #000000;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 11px;
+    TEXT-DECORATION: underline;
+    FONT-WEIGHT : bold;
+    /*background-image: url('/images/bg_left.jpg'); background-repeat: repeat-x; 
+
+background-repeat: repeat-y*/
+}
+
+.lnavsubItem
+{
+    COLOR: #000000;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 11px;
+    TEXT-DECORATION: none;
+    /*background-image: url('/images/bg_left.jpg'); background-repeat: repeat-x; 
+
+background-repeat: repeat-y*/
+ 
+}
+
+/* lnavsubItemSelection: style not found */
+
+.lnavsubItemSection
+{
+    COLOR: #000000;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 11px;
+    TEXT-DECORATION: none;
+    /*background-image: url('/images/bg_left.jpg'); background-repeat: repeat-x; 
+
+background-repeat: repeat-y*/
+}
+
+.lnavsubItemSelected
+{
+    COLOR: #000000;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 11px;
+    TEXT-DECORATION: none;
+    /*background-image: url('/images/bg_left.jpg'); background-repeat: repeat-x; 
+
+background-repeat: repeat-y*/
+}
+
+.footerText
+{
+    COLOR: #ffffff;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 10px;
+    TEXT-DECORATION: none
+}
+
+.footerText:hover
+{
+    COLOR: #ffffff;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 10px;
+    TEXT-DECORATION: underline
+}
+
+/* name changed from cnhdr-blue14 */
+.cnhdr-blue
+{
+    /*za5 changes*/
+COLOR: #000000;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 14px;
+    FONT-WEIGHT: bold;
+    TEXT-DECORATION: none
+}
+
+/* name changed from cnhdr-red14 */
+.cnhdr-red
+{
+    /*COLOR: #cc0407;*/
+    COLOR: #000000;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 14px;
+    FONT-WEIGHT: bold;
+    TEXT-DECORATION: none
+}
+
+.cnhdr-red14
+{
+    /*COLOR: #cc0407;*/
+    COLOR: #FFFFFF;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 14px;
+    FONT-WEIGHT: bold;
+    TEXT-DECORATION: none
+}
+.cnhdr-black14
+{
+    /*COLOR: #cc0407;*/
+    COLOR: #000000;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 14px;
+    FONT-WEIGHT: bold;
+    TEXT-DECORATION: none
+}
+
+/* name changed from cnhdr-black11 */
+.cnhdr-black
+{
+    COLOR: #000000;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 11px;
+    FONT-WEIGHT: bold;
+    TEXT-DECORATION: none
+}
+
+.hdr-grey
+{
+    COLOR: #343235;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 14px;
+    TEXT-DECORATION: none
+}
+
+.cnhdr-grey12
+{
+    COLOR: #666666;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 12px;
+    FONT-WEIGHT: bold;
+    TEXT-DECORATION: none
+}
+
+.cnhdr-black12
+{
+    COLOR: #000000;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 12px;
+    FONT-WEIGHT: bold;
+    TEXT-DECORATION: none
+}
+
+.tip
+{
+    BACKGROUND-COLOR: #ffffff;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 11px
+}
+
+.query
+{
+    BACKGROUND-COLOR: #e8f4ff
+}
+
+.date
+{
+    COLOR: #000000;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 10px;
+    TEXT-DECORATION: none
+}
+
+.score
+{
+    COLOR: #000000;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 10px;
+    TEXT-DECORATION: none
+}
+
+.size
+{
+    COLOR: #666666;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 10px;
+    TEXT-DECORATION: none
+}
+
+.url
+{
+    COLOR: #666666;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 11px;
+    TEXT-DECORATION: none
+}
+
+.label
+{
+    COLOR: #666666;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 12px;
+    FONT-WEIGHT: bold;
+    TEXT-DECORATION: none
+}
+
+.search-button
+{
+    BACKGROUND: #ffffff;
+    BORDER-BOTTOM: #666666 1px inset;
+    BORDER-LEFT: #666666 1px inset;
+    BORDER-RIGHT: #666666 1px inset;
+    BORDER-TOP: #666666 1px inset;
+    COLOR: #444444;
+    FONT: 10px Arial, Helvetica, sans-serif
+}
+
+.tdCyanBg 
+{ 
+    
+    COLOR: #666666; 
+    FONT-FAMILY: Arial, Helvetica, sans-serif; 
+    FONT-SIZE: 14px; 
+    FONT-WEIGHT: bold; 
+    BACKGROUND-COLOR: #CEE7FF;
+} 
+
+.tdGreyBg 
+{ 
+    COLOR: #ffffff;
+    
+    FONT-FAMILY: Arial, Helvetica, sans-serif; 
+    FONT-SIZE: 12px; 
+    FONT-WEIGHT: bold; 
+    BACKGROUND-COLOR: #cccccc 
+} 
+
+.tddkGreyBg 
+{ 
+    COLOR: #ffffff;
+
+    FONT-FAMILY: Arial, Helvetica, sans-serif; 
+    FONT-SIZE: 12px; 
+    FONT-WEIGHT: bold; 
+    BACKGROUND-COLOR: #666666 
+} 
+
+
+body {
+	/*BACKGROUND-COLOR: #8F8F8C*/
+BACKGROUND-COLOR: #FFFFFF
+
+}
+
+.bodyBackGround{
+	/*BACKGROUND-COLOR: #8F8F8C */
+}
+
+.blackLink9{
+ COLOR: #000000; 
+ 
+FONT-SIZE: 9px; 
+ FONT-FAMILY: Arial, Helvetica, sans-serif;
+
+}
+
+.blueLinkModifiedToBlack
+{
+    COLOR: #000000;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 12px;
+ TEXT-DECORATION: none
+}
+
+.blueLinkModifiedToBlack:visited
+{
+    COLOR: #000000;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 12px;
+ TEXT-DECORATION: none
+}
+.MobilTopBarBelowFlashLinks
+{
+background-image: url('/USA-English/MotorOil/Images/more-links-box.jpg'); background-repeat: repeat-y
+}
+.LeftNavBackGround
+{
+    background-image: url('/images/bg_left.jpg'); background-repeat: repeat-x; 
+
+background-repeat: repeat-y
+}
+.TableHeadBackGround
+{
+    background-image: url('/images/bg_left.jpg'); background-repeat: repeat-x; 
+}
+
+.GreyBody
+{
+BACKGROUND-COLOR: #8F8F8C
+}
+
+/* Added by Dabich for OEM templates Nov 2007 */
+.blackLinkBold
+{
+    COLOR: #000000;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 11px;
+    TEXT-DECORATION: none;
+   
+}
+
+.blackLinkBoldSelected
+{
+    COLOR: #000000;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 11px;
+    TEXT-DECORATION: none;
+    FONT-WEIGHT: bold;
+ }
+
+/* Added by ZW2 According to ticket AM18565481*/
+#result A
+{
+    COLOR: #000000;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 12px;
+ TEXT-DECORATION: underline
+}
+
+.resultHeader
+{
+    COLOR: #000000;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 12px;
+    FONT-WEIGHT: bold;
+    TEXT-DECORATION: none
+}
+
+.errorText
+{
+    COLOR: #cc0000;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 12px;
+    TEXT-DECORATION: none	
+}
+
+/* ====================================================================================================================
+	[[[[[  include BASIC styles  ]]]]] 
+   ==================================================================================================================== */
+
+
+.rss_title {
+    COLOR: #000000;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    padding-top:20px;
+    padding-left:10px;
+    FONT-SIZE: 26px;
+    FONT-WEIGHT: bold;
+    TEXT-DECORATION: none;
+
+}
+
+.header_tab {	
+	
+    COLOR: #000000;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    padding-left:10px;
+    FONT-SIZE: 12px;
+    TEXT-DECORATION: none;
+}
+
+#rss_content, p{	
+		
+		font-family: Arial,Helvetica,Sans-Serif; 
+		font-size: 12px;
+                padding-left:2px;
+		border:0 none; 
+}
+
+
+#rss_content, a, img {	
+		border:0px;
+		TEXT-DECORATION: none;
+}
+
+
+/* =============================================================================================================
+	[[[[[  tabbed template (global sites) ]]]]] 
+   ============================================================================================================= */
+.tabbed #mainContent { margin:0 0 0 200px; padding:0 0 25px 0; }
+.tabbed #mainPanel { position:relative; }
+
+.tabRow, .linkindex { border-bottom:1px solid #ccc; width:99.9%; float:left; }
+.tabRow { margin:20px 0 20px 0; }
+.linkindex { margin:0;}
+
+
+#mainContent .linkindex ul    { padding:0 10px; margin-bottom:20px; }
+#mainContent .linkindex ul li { list-style-type:none; font-size:1.2em; line-height:1.5em; }
+
+.linkindex .column { width:30%; float:left; margin:0; }
+.linkindex .column li a { color:#1a4a8a; font-weight:bold; }
+
+.countryListing { padding:15px 10px 0 10px; border-bottom:1px solid #ccc; width:99.9%; float:left; }
+.countryListing a { font-weight:bold; }
+#mainContent .countryListing ul    { padding:0 0 0 10px; margin:15px 0; }
+#mainContent .countryListing ul li { list-style-type:none; font-size:1.1em; line-height:1.4em; }
+
+.backToTop { float:right; margin-top:-.2em; }
+.backToTop a { padding-right:15px; 
+				font-size:1em;
+				background:transparent url(/Images/icons/upArrow.gif) no-repeat center right; }
+.backToTop a:visited { color:#1a4a8a; }
+
+/* 5/26/11 DRC: added .header_tab to avoid conflict with tabs BEGIN */
+
+.header_tab .tab { float:left; margin-right:2px; }
+.header_tab .tabRow .rightMost { margin-right:0; }
+.header_tab .tab h2 { 	padding:0; margin:0; font-size:11px; 
+				background:transparent none no-repeat 0; }
+
+.header_tab .tab h2 a { 	display:block; 
+		background: url(/Images/navigation/boxLightGrey.jpg) no-repeat right top;  }
+
+.header_tab .tab h2 a span { 	display:block; 
+				color:#ffffff; white-space:nowrap; 
+				padding:4px 0 2px 20px; 
+				margin:0 20px 0 0;
+				background:transparent url(/Images/navigation/boxLightGrey.jpg) no-repeat left top; 
+				}
+
+.header_tab .tab h2 a:hover  { color: #ffffff ; TEXT-DECORATION: underline;}
+.header_tab .tab h2 a:hover span {color: #ffffff;}
+
+
+.header_tab .tab h2 a.selected { background:transparent url(/Images/navigation/boxGrey.jpg) no-repeat right top; }
+.header_tab .tab h2 a.selected:hover  { background-color:#8F8F8C; TEXT-DECORATION: none;}
+.header_tab .tab h2 a.selected span { color:#ffffff; background:transparent url(/Images/navigation/boxGrey.jpg) no-repeat left top; }
+
+
+.header_tab .tab h2.nolink { color:#666; 
+				padding:4px 25px 2px 25px; margin:0; 
+				border-bottom:1px solid #ccc; 
+				background:#ebebeb url(/Images/navigation/hdrBarCir.gif) no-repeat 5px .25em; }
+
+.header_tab .tabbed .item { border-bottom:1px solid #ccc; margin:20px 0; width:99.9%; padding:0 10px;}
+
+/* 5/26/11 DRC: added .header_tab to avoid conflict with tabs END */
+
+/* ===========================================================================================
+==========================Add image functionality to Mobiloil template =======================
+==============================================================================================*/
+
+.img240 { display:block; margin-bottom:5px; width:240px; }
+.img240 img { display:block; }
+.img150 {
+	display:block;
+	margin-bottom:5px;
+	width:auto;/* prev :150px;*/
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+}
+.img150 img {
+	display:block;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+}
+.img495 { display:block; margin-bottom:5px; width:495px; }
+.img495 img { display:block; }
+.img435 { display:block; margin-bottom:5px; width:435px; }
+.img435 img { display:block; }
+
+.img90 { display:block; margin-bottom:3px; width:90px; }
+.img90 img { display:block; }
+.img60 { display:block; margin-bottom:2px; width:60px; }
+.img60 img { display:block; }
+
+.right { float:right; margin-left:10px; }
+.left { float:left; margin-right:15px; }
+
+/* ===========================================================================================
+==========================Add image functionality to Mobiloil template =======================
+==============================================================================================*/
+
+/* =============================================================================================================
+	[[[[[  tabbed template (global sites) ]]]]] 
+   ============================================================================================================= */
+ #divTabs {
+    float:left;
+    width:445px;
+    background-color:Transparent;
+    line-height:normal;
+    height: 21px; 
+    padding-top:-50px;
+	overflow: hidden;
+}
+
+ #divTabs ul {
+    margin:0;
+    padding:0;    
+}
+
+ #divTabs li {
+    float:left;
+    background:url("/USA-English/MotorOil/Images/Tabs/right_off.gif") no-repeat  right top;
+    margin:0;
+    padding:0;
+    color:#ffffff;
+	list-style-type:none;
+	text-decoration:none;
+	line-height:9pt;
+}
+
+ #divTabs .highlight {
+    background:url("/USA-English/MotorOil/Images/Tabs/right_on.gif") no-repeat  right top;
+    color:#cccccc;
+    text-decoration:none;
+	font-size:1.0em;				/* BDE 9/9/10: Changed from 1.1em for Product Detail Tab label.  */
+	font-weight:bold;
+}
+
+ #divTabs a {
+    display:block;
+    background:url("/USA-English/MotorOil/Images/Tabs/left_off.gif") no-repeat  left top;
+    padding:6px 15px;
+    list-style:none;
+    list-style-image:none;
+    list-style-type:none;
+    color:White;
+    text-decoration:none;
+	font-size:1.0em;				/* BDE 9/9/10: Changed from 1.1em for Product Detail Tab label.  */
+	font-weight:bold;
+}
+
+ #divTabs a:hover {
+    background-image:url("/USA-English/MotorOil/Images/Tabs/left_on.gif");
+    color:#cccccc;
+    text-decoration:none;
+	font-size:1.0em;				/* BDE 9/9/10: Changed from 1.1em for Product Detail Tab label.  */
+	font-weight:bold;
+}
+
+ #divTabs .current {
+    background-image:url("/USA-English/MotorOil/Images/Tabs/right_on.gif");
+    color:#cccccc;
+}
+
+ #divTabs .current a {
+    background-image:url("/USA-English/MotorOil/Images/Tabs/left_on.gif");
+    color:#ffffff;
+    text-decoration:none;
+	font-size:1.0em;				/* BDE 9/9/10: Changed from 1.1em for Product Detail Tab label.  */
+	font-weight:bold;
+}
+
+#divTabBackGroundBody {
+    overflow: hidden;
+    z-index:1;
+}
+
+#divTabBackground {   
+   position:absolute;
+   top:26px;
+   left:0px;
+   height:auto;
+   width:441px;
+   overflow: hidden;
+}
+
+.divTabContent img {
+margin-right:10px;
+overflow: hidden;
+}
+.divTabContent a img {
+margin-right:0px;
+overflow: hidden;
+}
+
+
+#divTabContainer{
+position:relative;
+margin-top:11px;
+float:left;
+height:441px;
+overflow: hidden;
+}
+   
+.tabbed #mainContent { margin:0 0 0 200px; padding:0 0 25px 30px; }
+.tabbed #mainPanel { position:relative; }
+
+.tabRow, .linkindex { border-bottom:1px solid #ccc; width:99.9%; float:left; }
+.tabRow { margin:20px 0 20px 0; }
+.linkindex { margin:0;}
+
+
+.linkindex ul    { padding:0 10px; margin-bottom:20px; }
+.linkindex ul li { list-style-type:none; font-size:1.2em; line-height:1.5em; }
+
+.linkindex .column { width:30%; float:left; margin:0; }
+.linkindex .column li a { color:#1a4a8a; font-weight:bold; }
+
+.countryListing { padding:15px 10px 0 10px; border-bottom:1px solid #ccc; width:99.9%; float:left; }
+.countryListing a { font-weight:bold; }
+.countryListing ul    { padding:0 0 0 10px; margin:15px 0; }
+.countryListing ul li { list-style-type:none; font-size:1.1em; line-height:1.4em; }
+
+.backToTop { float:right; margin-top:-.2em; }
+.backToTop a { padding-right:15px; 
+				font-size:1em;
+				background:transparent url(/Images/icons/upArrow.gif) no-repeat center right; }
+.backToTop a:visited { color:#1a4a8a; }
+
+
+.tab { float:left; margin-right:2px; }
+.tabRow .rightMost { margin-right:0; }
+.tab h2 { 	padding:0; margin:0; font-size:1.3em; 
+				background:transparent none no-repeat 0; }
+.tab h2 a { 	display:block;
+				background:#ebebeb url(/Images/navigation/boxLightGray.gif) no-repeat right top; }
+
+.tab h2 a:hover  { 	background-color:#dee9f2; }
+.tab h2 a span { 	display:block; 
+				color:#666; white-space:nowrap; 
+				padding:4px 0 2px 20px; 
+				margin:0 20px 0 0;
+				background:transparent url(/Images/navigation/boxLightGray.gif) no-repeat left top; }
+.tab h2 a:hover span { color:#036; }
+
+
+.tab h2.selected a { background:#dee9f2 url(/Images/navigation/boxLightBlue.gif) no-repeat right top; }
+.tab h2.selected a:hover  { background-color:#dee9f2; }
+.tab h2.selected a span { color:#036; background:transparent url(/Images/navigation/boxLightBlue.gif) no-repeat left top; }
+
+.tab h2 a.selected { background:#dee9f2 url(/Images/navigation/boxLightBlue.gif) no-repeat right top; }
+.tab h2 a.selected:hover  { background-color:#dee9f2; }
+.tab h2 a.selected span { color:#036; background:transparent url(/Images/navigation/boxLightBlue.gif) no-repeat left top; }
+
+
+.tab h2.nolink { color:#666; 
+				padding:4px 25px 2px 25px; margin:0; 
+				border-bottom:1px solid #ccc; 
+				background:#ebebeb url(/Images/navigation/hdrBarCir.gif) no-repeat 5px .25em; }
+
+.tabbed .item { border-bottom:1px solid #ccc; margin:20px 0; width:99.9%; padding:0 10px;}
+
+/* Standard table formatting. */
+
+th.standard
+{
+	background-color: #999999;
+	border-right: 1px solid #e6e6e6;
+	border-bottom: 1px solid #e6e6e6;
+	text-align: left;
+	vertical-align: bottom;
+	padding: 15px 3px 3px 3px;
+}
+th.standard_center
+{
+	background-color: #e8f4ff;
+	border-right: 1px solid #e6e6e6;
+	border-bottom: 1px solid #e6e6e6;
+	text-align: left;
+	vertical-align: bottom;
+	padding: 15px 3px 3px 3px;
+}
+th.standard_right
+{
+	background-color: #e8f4ff;
+	border-right: 1px solid #e6e6e6;
+	border-bottom: 1px solid #e6e6e6;
+	text-align: left;
+	vertical-align: bottom;
+	padding: 15px 3px 3px 3px;
+}
+td.tr_blue
+{
+	border-bottom:1px solid #E6E6E6;
+	border-right:1px solid #E6E6E6;
+	padding:3px;
+	vertical-align:top;
+}
+td.tr_blue_center
+{
+	background-color: #E8Eff3;
+padding: 4px;
+vertical-align: top;
+text-align: center;
+}
+td.tr_blue_right
+{
+	background-color: #E8Eff3;
+padding: 4px;
+vertical-align: top;
+text-align: right;
+}
+
+td.standard {	
+border-right: 1px solid #e6e6e6;
+	border-bottom: 1px solid #e6e6e6;
+	padding: 3px 3px 3px 3px;
+	vertical-align: top;
+}
+td.standard_center {
+		border-right: 1px solid #e6e6e6;
+	border-bottom: 1px solid #e6e6e6;
+	padding: 3px 3px 3px 3px;
+	vertical-align: top;
+}
+td.standard_right {
+		border-right: 1px solid #e6e6e6;
+	border-bottom: 1px solid #e6e6e6;
+	padding: 3px 3px 3px 3px;
+	vertical-align: top;
+}
+
+table.standard
+{
+	border-left: 1px solid #e6e6e6;
+	border-top: 1px solid #e6e6e6;
+}
+
+td {
+/* text-align: left;	BDE 6/13/11: Commented this style. */
+font-family: Arial,Helvetica,Sans-Serif;
+color: #000000;
+}
+
+table td, table th { font-size: 12px;}
+
+#tabbed_table {
+overflow:hidden;
+display: table-cell;
+word-wrap: break-word;
+}
+
+#prod_detail_text {
+margin: 0 20px 0 15px;
+}
+
+/* WO0000004113184	Documentum - Internet - Mobiloil contest hiding - Diego C */
+.GreyBody td table tbody tr td table tbody tr td table tbody tr td a img {
+	display:none;
+	}
+.GreyBody td table tbody tr td table tbody tr td form#frmLogin table tbody tr td a img {
+	display:inline;
+	}
+.GreyBody td table tbody tr td table tbody tr td div.videoblock table tbody tr td a img {
+	display:inline;
+	}
+.GreyBody td table tbody tr td table tbody tr td table tbody tr td.bodyText a img {
+	display:inline;
+	}
+.GreyBody td table tbody tr td table tbody tr td table tbody tr td div#prod_detail_text a img {
+	display:inline;
+	}
+.GreyBody td table tbody tr td table tbody tr td div#rss_content table tbody tr td a img {
+	display:inline;
+	}
+.GreyBody td table tbody tr td table tbody tr td div#results-wrapper table tbody tr td a img {
+	display:inline;
+	}
+.GreyBody td table tbody tr td table tbody tr td table tbody tr td div#see-location-container a img {
+	display:inline;
+	}
+.GreyBody td table tbody tr td table tbody tr td table tbody tr td div#directions-container a img {
+	display:inline;
+	}
+.GreyBody td table tbody tr td table tbody tr td div#container table tbody tr td a img {
+	display:inline;
+	}

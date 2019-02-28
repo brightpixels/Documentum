@@ -1,0 +1,49 @@
+{
+	"css": "css/widget-infographic.css",
+	"locale": {
+		"objective": "Mål"
+	},
+	"infographics": {
+		"1": {
+			"images": [ 
+				{ "id": "engine", "class": "fallback", "src": "img/se/mertz-transport/graphic1.png" }
+			],
+			"text": "Lägre bränsleförbrukning – <a href=\"#infographic-results\" class=\"nav-to--link\">2 544 kg</a> minskat utsläpp av koldioxid."
+		},
+		"2": {
+			"images": [ 
+				{ "id": "barrel", "class": "fallback", "src": "img/se/mertz-transport/graphic2.png" }
+			],
+			"text": "bränslebesparingar med i genomsnitt <br/> <a href=\"#infographic-results\" class=\"nav-to--link\">2,0 %</a>"
+		},
+		"3": {
+			"images": [ 
+				{ "id": "value", "class": "fallback", "src": "img/se/mertz-transport/graphic3.png" }
+			],
+			"text": "Drivmedelsbesparing <a href=\"#infographic-results\" class=\"nav-to--link line-break\">SEK 8 454</a>"
+		}
+	},
+	"details": {
+		"situation": { 
+			"title": "Situation och målsättningar", 
+			"text": [				
+				"Tillsammans med Mercedes-Benz Sverige AB i Malmö och kunden  Mertz Transport AB ville vi undersöka drivmedelsbesparing som en möjlig kostnadsreduktion för vagnparken. Testet inleddes i  december 2013 och pågick fram till oktober 2014.  Mercedes kräver en motorolja för Actros som uppfyller specifikationen  MB 228.51. Båda motoroljorna  Mobil Delvac™ XHP ESP 10W-40 och Mobil Delvac 1 LE 5W-30 uppfyller specifikationen.  Genom att byta från Mobil Delvac XHP ESP 10W-40 till Mobil  Delvac 1 LE 5W-30 uppnår man fördelar med en helsyntetisk  olja med lägre viskositet, nämligen att motorn går lättare och förbrukar mindre energi.",
+				"Mertz har en vagnpark med 115 lastbilar av olika märken. Testet genomfördes med två nya lastbilar av typen Mercedes Actros Euro V och resultaten noterades av MB Fleetboard system. Mobil Delvac XHP ESP 10W-40 användes i motorn på lastbil 1  and Mobil Delvac 1 LE 5W-30 i motorn på lastbil 2. Fordonen körde samma sträcka med samma last från Malmö till Göteborg."
+			]
+		},
+		"recommendation": { 
+			"title": "Resultat och fördelar", 
+			"text": [
+				"ExxonMobil Corporations rekommendation skulle ge en årlig besparing på SEK 8 454 per lastbil.",
+				"<table><thead> <tr> <th>TCO-kategori</th> <th>Nyttokalkyl</th> <th>TCO-kategori<br/>(total ägandekostnad)</th> </tr></thead> <tr> <td>Samhälle/säkerhet</td><td>Samma olja till hela vagnsparken</td><td>Bättre logistik och inköp</td></tr><tr> <td>Miljö</td><td>Lägre drivmedels förbrukning</td><td>2 544 kg mindre koldioxidutsläpp bättre för miljön1)</td></tr><tr> <td>Ökad förtjänst</td><td>Drivmedelsbesparing per bil Andra kostnader</td><td>SEK 8 454</td></tr></table>"
+			]
+		},
+		"results": { 
+			"title": " Resultat och fördelar", 
+			"text": [				
+				"Fördelen med en övergång till helsyntetisk olja med lägre  viskositet, Mobil Delvac 1 LE 5W-30,  är att motorn arbetar  lättare än med en 10W-40 olja både vid start och under drift  och därmed förbrukar mindre energi. Det innebär med andra  ord lägre bränsleförbrukning och bättre driftsekonomi.  Som ett första steg mot att uppnå dessa besparingar rekommenderar vi byte av motorolja från Mobil Delvac XHP ESP 10W-40  till Mobil Delvac 1 LE 5W-30.",
+				"*1) Koldioxidreduceringsberäkning baserad på utsläppsfaktor 2,65 kg CO<sub>2</sub>/L dieselbränsle (Källa: DEKRA, Tyskland)."
+			]
+		}
+	}
+}

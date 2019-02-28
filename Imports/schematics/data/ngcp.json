@@ -1,0 +1,1602 @@
+{
+  "lang": {
+    "fullscreen":                 "Fullscreen",
+    "exitFullscreen":             "Exit Fullscreen",
+    "visit":                      "Visit",
+    "equipment":                  "Equipment",
+    "viewDetails":                "View Details",
+    "dontShowMeThisMessageAgain": "Don't show me this message again",
+    "directions":                 "Click on a red hotspot in the schematic or on an item in the Equipment menu to see corresponding lubricant information. To view more of the schematic, click and drag with your mouse or use the arrow keys on your keyboard.",
+    "continue":                   "Continue",
+    "pds":                        "PDS",
+    "whereToBuy":                 "Where To Buy",
+    "productInformation":         "Product Information",
+    "benefits":                   "Benefits",
+    "refineYourSearchWithLooble": "Refine Your Search With Looble",
+    "products":                   "Products",
+    "back":                       "Back",
+    "equipmentType":              "Equipment Type",
+    "getMoreInfo":                "Get More Info",
+    "productDataSheets":          "Product Data Sheets",
+    "downloadSellSheet":          "Download Sell Sheet",
+    "emailPageLink":              "Email Page Link",
+    "findADistributor":           "Find a Distributor",
+    "components":                 "Components",
+    "touchModeQuestion":          "It appears you’re using a touch-enabled device. Would you prefer to use the touch-optimized interface?",
+    "yesUseTheTouchVersion":      "Yes, use the touch version",
+    "no":                         "No"
+  },
+  "schematic": {
+    "name":"Natural Gas Compression Plant",
+    "tileset":"ngcp",
+    "minZoom": 1,
+    "maxZoom": 4,
+    "components":[
+        {
+          "id":17,
+          "name":"Wellhead Compression  - Gas Engine",
+          "imageURL":"ngcp/wellhead.png",
+          "x":36,
+          "y":-47,
+          "subcomponents":[
+            {
+              "id":39,
+              "name":"Engine - 4-Cycle Turbo Charged - High Speed",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":31,
+                  "name":"Mobil SHC Pegasus™",
+                  "type": "synthetic",
+                  "information": "Synthetic natural gas engine oil",
+                  "benefits": "Advanced technology helps increase fuel efficiency, lower fuel costs and reduces emissions compared to ExxonMobil&#x27;s standard SAE 40 natural gas engine oils; keep clean performance and wear protection help extend component life",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_SHC_Pegasus.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-shc_mobil-shc-pegasus-series.aspx"
+                },
+                {
+                  "id":32,
+                  "name":"Mobil Pegasus™ 1",
+                  "type": "synthetic",
+                  "information": "Synthetic natural gas engine oil",
+                  "benefits": "Proprietary formulation helps to minimize ash deposits, piston land deposits, liner scuffing, and valve seat and valve face wear; will  ﬂow at -40 ºC (40⁰ F), ensuring good cold start-up properties and effective lubrication at cold temperatures",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_Pegasus_1.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-shc_mobil-shc-pegasus-series.aspx"
+                },
+                {
+                  "id":33,
+                  "name":"Mobil Pegasus™ 1005",
+                  "type": "conventional",
+                  "information": "Premium natural gas engine oil",
+                  "benefits": "Improved oil life compared to Mobil Pegasus 905; fewer oil changes helps enable lower operating costs and higher productivity; helps reduces deposits in combustion chamber and pistons to maximize engine efficiency and reliability; helps reduces deposits in heat exchangers to maximize heat production; minimizes deposits to help extend catalytic converter life; helps maximize engine reliability and performance.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_Pegasus_1005.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-pegasus-1005.aspx"
+                }
+              ]
+            },
+            {
+              "id":40,
+              "name":"Engine - 2/4 Cycle - Slow Speed Integrals",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":34,
+                  "name":"Mobil Pegasus™ 805",
+                  "type": "conventional",
+                  "information": "Premium natural gas engine oil",
+                  "benefits": "Exceptional oxidation and nitration resistance for cleaner engines and longer oil and filter service; outstanding anti-wear and anti-scuff protection for reduced scoring, scuffing and wear of pistons and liners",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_Pegasus_805.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-shc_mobil-shc-pegasus-series.aspx"
+                },
+                {
+                  "id":35,
+                  "name":"Mobil Pegasus™ 801",
+                  "type": "conventional",
+                  "information": "Premium performance gas engine oil intended for the lubrication of gas engines operating at low, medium and high speeds where ashless and low-ash oils are recommended",
+                  "benefits": "Outstanding performance in  two- and four-cycle gas engines where ashless and low-ash oils are recommended; protects high BMEP engines against scuffing, scoring and wear particularly during critical break-in periods; long engine life and potential for low maintenance costs.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_Pegasus_801.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-shc_mobil-shc-pegasus-series.aspx"
+                }
+              ]
+            },
+            {
+              "id":41,
+              "name":"Natural Gas Turbine",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":36,
+                  "name":"Mobil SHC™ 800",
+                  "type": "synthetic",
+                  "information": "Synthetic turbine oil for stationary gas turbines and boost compressors (Natural Gas Compression Station Only)",
+                  "benefits": "Excellent low-temperature and viscosity/temperature properties; excellent oxidation stability; outstanding protection against wear",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_SHC_800.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-shc_mobil-shc-800-series.aspx"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":18,
+          "name":"Wellhead Compression  - Compressors",
+          "imageURL":"ngcp/wellhead2.png",
+          "x":46,
+          "y":-47,
+          "subcomponents":[
+            {
+              "id":42,
+              "name":"Oil-Flooded Rotary Screw",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":37,
+                  "name":"Mobil SHC™ 600",
+                  "type": "synthetic",
+                  "information": "Synthetic gear, bearing and circulating oils",
+                  "benefits": "Helps improve equipment productivity due to potential for reduced unscheduled downtime and maintenance; long gear and bearing life under high-stress operating conditions; helps extend oil life; by reducing friction, helps improve energy efficiency compared with mineral oils.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_SHC_600.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-shc_mobil-shc-600-series.aspx"
+                }
+              ]
+            },
+            {
+              "id":43,
+              "name":"Reciprocating Compressor Crankcase",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":38,
+                  "name":"Mobil DTE 10 Excel™",
+                  "type": "conventional",
+                  "information": "Premium performance anti-wear hydraulic oils for wide temperature range applications",
+                  "benefits": "Helps keep hydraulic sysytems clean by preventing valve sticking; controls contamination and provides wear protection to help improve equipment reliability and life compared to ExxonMobil&#x27;s standard hydraulic fluids, which can reduce both maintenance costs and product disposal costs; shear stability-enbling oil to maintain system efficiency and equipment protection at both high and low temperatures.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_DTE_10_Excel.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-dte-10-excel-series.aspx"
+                }
+              ]
+            },
+            {
+              "id":44,
+              "name":"Compressor Cylinders",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":34,
+                  "name":"Mobil Pegasus™ 805",
+                  "type": "conventional",
+                  "information": "Premium natural gas engine oil",
+                  "benefits": "Exceptional oxidation and nitration resistance for cleaner engines and longer oil and filter service; outstanding anti-wear and anti-scuff protection for reduced scoring, scuffing and wear of pistons and liners",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_Pegasus_805.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-shc_mobil-shc-pegasus-series.aspx"
+                },
+                {
+                  "id":35,
+                  "name":"Mobil Pegasus™ 801",
+                  "type": "conventional",
+                  "information": "Premium performance gas engine oil intended for the lubrication of gas engines operating at low, medium and high speeds where ashless and low-ash oils are recommended",
+                  "benefits": "Outstanding performance in  two- and four-cycle gas engines where ashless and low-ash oils are recommended; protects high BMEP engines against scuffing, scoring and wear particularly during critical break-in periods; long engine life and potential for low maintenance costs.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_Pegasus_801.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-shc_mobil-shc-pegasus-series.aspx"
+                },
+                {
+                  "id":38,
+                  "name":"Mobil DTE 10 Excel™",
+                  "type": "conventional",
+                  "information": "Premium performance anti-wear hydraulic oils for wide temperature range applications",
+                  "benefits": "Helps keep hydraulic sysytems clean by preventing valve sticking; controls contamination and provides wear protection to help improve equipment reliability and life compared to ExxonMobil&#x27;s standard hydraulic fluids, which can reduce both maintenance costs and product disposal costs; shear stability-enbling oil to maintain system efficiency and equipment protection at both high and low temperatures.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_DTE_10_Excel.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-dte-10-excel-series.aspx"
+                },
+                {
+                  "id":39,
+                  "name":"Mobil DTE™ 205",
+                  "type": "conventional",
+                  "information": "Compounded compressor cylinder oil",
+                  "benefits": "Excellent resistance to washing by water and other entrained liquids; effective lubrication at low feed rates; helps to extend ring and packing life properties.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/NAUSENINDMOMobil_DTE_Oil_205.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                },
+                {
+                  "id":40,
+                  "name":"Mobil DTE™ Oil Named",
+                  "type": "conventional",
+                  "information": "Premium rust and oxidation inhibited circulating oils",
+                  "benefits": "Good corrosion resistance and water tolerance for a wide range of compressor cylinder applications",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_DTE_Named.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.exxonmobil.com/MarineLubes-En/products_auxiliary-machinery_circulating-and-gear-oils_mobil-dte-named-series.aspx"
+                },
+                {
+                  "id":41,
+                  "name":"Mobil Glygoyle™",
+                  "type": "synthetic",
+                  "information": "Synthetic gear, bearing and compressor oil ( Natural Gas Compression Station and Gathering Site Compression only)",
+                  "benefits": "Designed to provide long oil life and equipment protection; low traction coefficient helps maximize energy efficiency.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_Glygoyle.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                }
+              ]
+            },
+            {
+              "id":45,
+              "name":"Boost Compressors",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":36,
+                  "name":"Mobil SHC™ 800",
+                  "type": "synthetic",
+                  "information": "Synthetic turbine oil for stationary gas turbines and boost compressors (Natural Gas Compression Station Only)",
+                  "benefits": "Excellent low-temperature and viscosity/temperature properties; excellent oxidation stability; outstanding protection against wear",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_SHC_800.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-shc_mobil-shc-800-series.aspx"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":19,
+          "name":"Gathering Site Compression - Air Heat Exchanger",
+          "imageURL":"ngcp/airExchanger.png",
+          "x":21,
+          "y":-97,
+          "subcomponents":[
+            {
+              "id":46,
+              "name":"Fan Bearings - Greased",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":42,
+                  "name":"Mobilith SHC™ 100",
+                  "type": "synthetic",
+                  "information": "Synthetic greases for lubrication of bearings",
+                  "benefits": "Excellent wear protection of components; easy start-up at low temperature; excellent thermal stability and oxidation resistance; helps maximize re-greasing interval when compared to conventional oils, which can potentially reduce service costs",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENGRSMOMobilith_SHC.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_greases_mobilith-shc-grease-series.aspx"
+                }
+              ]
+            },
+            {
+              "id":47,
+              "name":"Electric Motor Bearings - Greased",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":42,
+                  "name":"Mobilith SHC™ 100",
+                  "type": "synthetic",
+                  "information": "Synthetic greases for lubrication of bearings",
+                  "benefits": "Excellent wear protection of components; easy start-up at low temperature; excellent thermal stability and oxidation resistance; helps maximize re-greasing interval when compared to conventional oils, which can potentially reduce service costs",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENGRSMOMobilith_SHC.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_greases_mobilith-shc-grease-series.aspx"
+                }
+              ]
+            },
+            {
+              "id":48,
+              "name":"Gearbox",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":37,
+                  "name":"Mobil SHC™ 600",
+                  "type": "synthetic",
+                  "information": "Synthetic gear, bearing and circulating oils",
+                  "benefits": "Helps improve equipment productivity due to potential for reduced unscheduled downtime and maintenance; long gear and bearing life under high-stress operating conditions; helps extend oil life; by reducing friction, helps improve energy efficiency compared with mineral oils.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_SHC_600.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-shc_mobil-shc-600-series.aspx"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":20,
+          "name":"Gathering Site Compression - Gas Engine",
+          "imageURL":"ngcp/gatheringSite.png",
+          "x":127,
+          "y":-99,
+          "subcomponents":[
+            {
+              "id":49,
+              "name":"Engine - 4-Cycle Turbo Charged - High Speed",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":32,
+                  "name":"Mobil Pegasus™ 1",
+                  "type": "synthetic",
+                  "information": "Synthetic natural gas engine oil",
+                  "benefits": "Proprietary formulation helps to minimize ash deposits, piston land deposits, liner scuffing, and valve seat and valve face wear; will  ﬂow at -40 ºC (40⁰ F), ensuring good cold start-up properties and effective lubrication at cold temperatures",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_Pegasus_1.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-shc_mobil-shc-pegasus-series.aspx"
+                },
+                {
+                  "id":33,
+                  "name":"Mobil Pegasus™ 1005",
+                  "type": "conventional",
+                  "information": "Premium natural gas engine oil",
+                  "benefits": "Improved oil life compared to Mobil Pegasus 905; fewer oil changes helps enable lower operating costs and higher productivity; helps reduces deposits in combustion chamber and pistons to maximize engine efficiency and reliability; helps reduces deposits in heat exchangers to maximize heat production; minimizes deposits to help extend catalytic converter life; helps maximize engine reliability and performance.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_Pegasus_1005.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-pegasus-1005.aspx"
+                }
+              ]
+            },
+            {
+              "id":50,
+              "name":"Engine - 2/4 Cycle - Slow Speed Integrals",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":35,
+                  "name":"Mobil Pegasus™ 801",
+                  "type": "conventional",
+                  "information": "Premium performance gas engine oil intended for the lubrication of gas engines operating at low, medium and high speeds where ashless and low-ash oils are recommended",
+                  "benefits": "Outstanding performance in  two- and four-cycle gas engines where ashless and low-ash oils are recommended; protects high BMEP engines against scuffing, scoring and wear particularly during critical break-in periods; long engine life and potential for low maintenance costs.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_Pegasus_801.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-shc_mobil-shc-pegasus-series.aspx"
+                }
+              ]
+            },
+            {
+              "id":51,
+              "name":"Boost Compressors",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":36,
+                  "name":"Mobil SHC™ 800",
+                  "type": "synthetic",
+                  "information": "Synthetic turbine oil for stationary gas turbines and boost compressors (Natural Gas Compression Station Only)",
+                  "benefits": "Excellent low-temperature and viscosity/temperature properties; excellent oxidation stability; outstanding protection against wear",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_SHC_800.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-shc_mobil-shc-800-series.aspx"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":21,
+          "name":"Gathering Site Compression - Pumps",
+          "imageURL":"ngcp/pumps.png",
+          "x":138,
+          "y":-99,
+          "subcomponents":[
+            {
+              "id":52,
+              "name":"Bearings - Greased",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":42,
+                  "name":"Mobilith SHC™ 100",
+                  "type": "synthetic",
+                  "information": "Synthetic greases for lubrication of bearings",
+                  "benefits": "Excellent wear protection of components; easy start-up at low temperature; excellent thermal stability and oxidation resistance; helps maximize re-greasing interval when compared to conventional oils, which can potentially reduce service costs",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENGRSMOMobilith_SHC.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_greases_mobilith-shc-grease-series.aspx"
+                }
+              ]
+            },
+            {
+              "id":53,
+              "name":"Pump",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":43,
+                  "name":"Mobil DTE 10 Excel™, Mobil DTE™ 20",
+                  "type": "conventional",
+                  "information": "Premium performance anti-wear hydraulic oils engineered for wide temperature range applications",
+                  "benefits": "Helps keep hydraulic systems clean, which prevents valve sticking; helps control contamination and provides wear protection to improve equipment reliability and life; can help reduce both maintenance costs and product disposal costs; shear stability enabling oil to help maintain system efficiency and equipment protection at both high and low temperatures",
+                  "pdsURL": "",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":22,
+          "name":"Gathering Site Compression - Starting Air Compressors",
+          "imageURL":"ngcp/gatheringSite2.png",
+          "x":149,
+          "y":-99,
+          "subcomponents":[
+            {
+              "id":54,
+              "name":"Oil-Flooded Rotary Screw",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":44,
+                  "name":"Mobil SHC™ 1020",
+                  "type": "synthetic",
+                  "information": "Synthetic compressor oil for rotary screw air compressors",
+                  "benefits": "Exceptional cleanliness and stability characteristics help to extend service life of equipment; reduce deposits; provide long oil life; lower maintenance costs; reduce wear of components compared to mineral lubricants",
+                  "pdsURL": "",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                }
+              ]
+            },
+            {
+              "id":55,
+              "name":"Reciprocating Air Compressors (Air or Jacketwater Cooled)",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":45,
+                  "name":"Mobil Rarus™ 800 Series",
+                  "type": "synthetic",
+                  "information": "Supreme performance air compressor lubricants primarily intended for the lubrication of severe duty reciprocating air compressors.",
+                  "benefits": "Helps extend equipment life; helps reduce deposits; long oil life; low maintenance costs; helps reduce wear of components",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_Rarus_800.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-rarus-800-series.aspx"
+                }
+              ]
+            },
+            {
+              "id":56,
+              "name":"Electric Motor Bearings - Greased",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":42,
+                  "name":"Mobilith SHC™ 100",
+                  "type": "synthetic",
+                  "information": "Synthetic greases for lubrication of bearings",
+                  "benefits": "Excellent wear protection of components; easy start-up at low temperature; excellent thermal stability and oxidation resistance; helps maximize re-greasing interval when compared to conventional oils, which can potentially reduce service costs",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENGRSMOMobilith_SHC.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_greases_mobilith-shc-grease-series.aspx"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":23,
+          "name":"Gathering Site Compression - Compressors",
+          "imageURL":"ngcp/airCompressor.png",
+          "x":171,
+          "y":-99,
+          "subcomponents":[
+            {
+              "id":57,
+              "name":"Oil-Flooded Rotary Screw",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":37,
+                  "name":"Mobil SHC™ 600",
+                  "type": "synthetic",
+                  "information": "Synthetic gear, bearing and circulating oils",
+                  "benefits": "Helps improve equipment productivity due to potential for reduced unscheduled downtime and maintenance; long gear and bearing life under high-stress operating conditions; helps extend oil life; by reducing friction, helps improve energy efficiency compared with mineral oils.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_SHC_600.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-shc_mobil-shc-600-series.aspx"
+                }
+              ]
+            },
+            {
+              "id":58,
+              "name":"Reciprocating Compressor Crankcase",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":33,
+                  "name":"Mobil Pegasus™ 1005",
+                  "type": "conventional",
+                  "information": "Premium natural gas engine oil",
+                  "benefits": "Improved oil life compared to Mobil Pegasus 905; fewer oil changes helps enable lower operating costs and higher productivity; helps reduces deposits in combustion chamber and pistons to maximize engine efficiency and reliability; helps reduces deposits in heat exchangers to maximize heat production; minimizes deposits to help extend catalytic converter life; helps maximize engine reliability and performance.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_Pegasus_1005.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-pegasus-1005.aspx"
+                }
+              ]
+            },
+            {
+              "id":59,
+              "name":"Compressor Cylinders",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":33,
+                  "name":"Mobil Pegasus™ 1005",
+                  "type": "conventional",
+                  "information": "Premium natural gas engine oil",
+                  "benefits": "Improved oil life compared to Mobil Pegasus 905; fewer oil changes helps enable lower operating costs and higher productivity; helps reduces deposits in combustion chamber and pistons to maximize engine efficiency and reliability; helps reduces deposits in heat exchangers to maximize heat production; minimizes deposits to help extend catalytic converter life; helps maximize engine reliability and performance.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_Pegasus_1005.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-pegasus-1005.aspx"
+                },
+                {
+                  "id":35,
+                  "name":"Mobil Pegasus™ 801",
+                  "type": "conventional",
+                  "information": "Premium performance gas engine oil intended for the lubrication of gas engines operating at low, medium and high speeds where ashless and low-ash oils are recommended",
+                  "benefits": "Outstanding performance in  two- and four-cycle gas engines where ashless and low-ash oils are recommended; protects high BMEP engines against scuffing, scoring and wear particularly during critical break-in periods; long engine life and potential for low maintenance costs.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_Pegasus_801.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-shc_mobil-shc-pegasus-series.aspx"
+                },
+                {
+                  "id":39,
+                  "name":"Mobil DTE™ 205",
+                  "type": "conventional",
+                  "information": "Compounded compressor cylinder oil",
+                  "benefits": "Excellent resistance to washing by water and other entrained liquids; effective lubrication at low feed rates; helps to extend ring and packing life properties.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/NAUSENINDMOMobil_DTE_Oil_205.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                },
+                {
+                  "id":41,
+                  "name":"Mobil Glygoyle™",
+                  "type": "synthetic",
+                  "information": "Synthetic gear, bearing and compressor oil ( Natural Gas Compression Station and Gathering Site Compression only)",
+                  "benefits": "Designed to provide long oil life and equipment protection; low traction coefficient helps maximize energy efficiency.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_Glygoyle.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                }
+              ]
+            },
+            {
+              "id":60,
+              "name":"Boost Compressors",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":36,
+                  "name":"Mobil SHC™ 800",
+                  "type": "synthetic",
+                  "information": "Synthetic turbine oil for stationary gas turbines and boost compressors (Natural Gas Compression Station Only)",
+                  "benefits": "Excellent low-temperature and viscosity/temperature properties; excellent oxidation stability; outstanding protection against wear",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_SHC_800.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-shc_mobil-shc-800-series.aspx"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":24,
+          "name":"Gathering Site Compression - Air Heat Exchanger",
+          "imageURL":"ngcp/airExchanger3.png",
+          "x":181,
+          "y":-99,
+          "subcomponents":[
+            {
+              "id":61,
+              "name":"Fan Bearings - Greased",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":42,
+                  "name":"Mobilith SHC™ 100",
+                  "type": "synthetic",
+                  "information": "Synthetic greases for lubrication of bearings",
+                  "benefits": "Excellent wear protection of components; easy start-up at low temperature; excellent thermal stability and oxidation resistance; helps maximize re-greasing interval when compared to conventional oils, which can potentially reduce service costs",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENGRSMOMobilith_SHC.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_greases_mobilith-shc-grease-series.aspx"
+                }
+              ]
+            },
+            {
+              "id":62,
+              "name":"Electric Motor Bearings - Greased",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":42,
+                  "name":"Mobilith SHC™ 100",
+                  "type": "synthetic",
+                  "information": "Synthetic greases for lubrication of bearings",
+                  "benefits": "Excellent wear protection of components; easy start-up at low temperature; excellent thermal stability and oxidation resistance; helps maximize re-greasing interval when compared to conventional oils, which can potentially reduce service costs",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENGRSMOMobilith_SHC.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_greases_mobilith-shc-grease-series.aspx"
+                }
+              ]
+            },
+            {
+              "id":63,
+              "name":"Gearbox",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":37,
+                  "name":"Mobil SHC™ 600",
+                  "type": "synthetic",
+                  "information": "Synthetic gear, bearing and circulating oils",
+                  "benefits": "Helps improve equipment productivity due to potential for reduced unscheduled downtime and maintenance; long gear and bearing life under high-stress operating conditions; helps extend oil life; by reducing friction, helps improve energy efficiency compared with mineral oils.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_SHC_600.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-shc_mobil-shc-600-series.aspx"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":25,
+          "name":"Compression Station - Gas Engine",
+          "imageURL":"ngcp/compressorStation2.png",
+          "x":41,
+          "y":-160,
+          "subcomponents":[
+            {
+              "id":64,
+              "name":"Engine - 4-Cycle Turbo Charged - High Speed",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":32,
+                  "name":"Mobil Pegasus™ 1",
+                  "type": "synthetic",
+                  "information": "Synthetic natural gas engine oil",
+                  "benefits": "Proprietary formulation helps to minimize ash deposits, piston land deposits, liner scuffing, and valve seat and valve face wear; will  ﬂow at -40 ºC (40⁰ F), ensuring good cold start-up properties and effective lubrication at cold temperatures",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_Pegasus_1.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-shc_mobil-shc-pegasus-series.aspx"
+                },
+                {
+                  "id":33,
+                  "name":"Mobil Pegasus™ 1005",
+                  "type": "conventional",
+                  "information": "Premium natural gas engine oil",
+                  "benefits": "Improved oil life compared to Mobil Pegasus 905; fewer oil changes helps enable lower operating costs and higher productivity; helps reduces deposits in combustion chamber and pistons to maximize engine efficiency and reliability; helps reduces deposits in heat exchangers to maximize heat production; minimizes deposits to help extend catalytic converter life; helps maximize engine reliability and performance.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_Pegasus_1005.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-pegasus-1005.aspx"
+                }
+              ]
+            },
+            {
+              "id":65,
+              "name":"Engine - 2/4 Cycle - Slow Speed Integrals",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":35,
+                  "name":"Mobil Pegasus™ 801",
+                  "type": "conventional",
+                  "information": "Premium performance gas engine oil intended for the lubrication of gas engines operating at low, medium and high speeds where ashless and low-ash oils are recommended",
+                  "benefits": "Outstanding performance in  two- and four-cycle gas engines where ashless and low-ash oils are recommended; protects high BMEP engines against scuffing, scoring and wear particularly during critical break-in periods; long engine life and potential for low maintenance costs.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_Pegasus_801.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-shc_mobil-shc-pegasus-series.aspx"
+                }
+              ]
+            },
+            {
+              "id":66,
+              "name":"Boost Compressors",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":36,
+                  "name":"Mobil SHC™ 800",
+                  "type": "synthetic",
+                  "information": "Synthetic turbine oil for stationary gas turbines and boost compressors (Natural Gas Compression Station Only)",
+                  "benefits": "Excellent low-temperature and viscosity/temperature properties; excellent oxidation stability; outstanding protection against wear",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_SHC_800.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-shc_mobil-shc-800-series.aspx"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":26,
+          "name":"Compression Station - Compressors",
+          "imageURL":"ngcp/compressorStation3.png",
+          "x":52,
+          "y":-160,
+          "subcomponents":[
+            {
+              "id":67,
+              "name":"Oil-Flooded Rotary Screw",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":37,
+                  "name":"Mobil SHC™ 600",
+                  "type": "synthetic",
+                  "information": "Synthetic gear, bearing and circulating oils",
+                  "benefits": "Helps improve equipment productivity due to potential for reduced unscheduled downtime and maintenance; long gear and bearing life under high-stress operating conditions; helps extend oil life; by reducing friction, helps improve energy efficiency compared with mineral oils.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_SHC_600.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-shc_mobil-shc-600-series.aspx"
+                }
+              ]
+            },
+            {
+              "id":68,
+              "name":"Reciprocating Compressor Crankcase",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":33,
+                  "name":"Mobil Pegasus™ 1005",
+                  "type": "conventional",
+                  "information": "Premium natural gas engine oil",
+                  "benefits": "Improved oil life compared to Mobil Pegasus 905; fewer oil changes helps enable lower operating costs and higher productivity; helps reduces deposits in combustion chamber and pistons to maximize engine efficiency and reliability; helps reduces deposits in heat exchangers to maximize heat production; minimizes deposits to help extend catalytic converter life; helps maximize engine reliability and performance.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_Pegasus_1005.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-pegasus-1005.aspx"
+                }
+              ]
+            },
+            {
+              "id":69,
+              "name":"Compressor Cylinders",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":33,
+                  "name":"Mobil Pegasus™ 1005",
+                  "type": "conventional",
+                  "information": "Premium natural gas engine oil",
+                  "benefits": "Improved oil life compared to Mobil Pegasus 905; fewer oil changes helps enable lower operating costs and higher productivity; helps reduces deposits in combustion chamber and pistons to maximize engine efficiency and reliability; helps reduces deposits in heat exchangers to maximize heat production; minimizes deposits to help extend catalytic converter life; helps maximize engine reliability and performance.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_Pegasus_1005.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-pegasus-1005.aspx"
+                },
+                {
+                  "id":35,
+                  "name":"Mobil Pegasus™ 801",
+                  "type": "conventional",
+                  "information": "Premium performance gas engine oil intended for the lubrication of gas engines operating at low, medium and high speeds where ashless and low-ash oils are recommended",
+                  "benefits": "Outstanding performance in  two- and four-cycle gas engines where ashless and low-ash oils are recommended; protects high BMEP engines against scuffing, scoring and wear particularly during critical break-in periods; long engine life and potential for low maintenance costs.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_Pegasus_801.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-shc_mobil-shc-pegasus-series.aspx"
+                },
+                {
+                  "id":39,
+                  "name":"Mobil DTE™ 205",
+                  "type": "conventional",
+                  "information": "Compounded compressor cylinder oil",
+                  "benefits": "Excellent resistance to washing by water and other entrained liquids; effective lubrication at low feed rates; helps to extend ring and packing life properties.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/NAUSENINDMOMobil_DTE_Oil_205.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                },
+                {
+                  "id":41,
+                  "name":"Mobil Glygoyle™",
+                  "type": "synthetic",
+                  "information": "Synthetic gear, bearing and compressor oil ( Natural Gas Compression Station and Gathering Site Compression only)",
+                  "benefits": "Designed to provide long oil life and equipment protection; low traction coefficient helps maximize energy efficiency.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_Glygoyle.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                }
+              ]
+            },
+            {
+              "id":70,
+              "name":"Boost Compressors",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":36,
+                  "name":"Mobil SHC™ 800",
+                  "type": "synthetic",
+                  "information": "Synthetic turbine oil for stationary gas turbines and boost compressors (Natural Gas Compression Station Only)",
+                  "benefits": "Excellent low-temperature and viscosity/temperature properties; excellent oxidation stability; outstanding protection against wear",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_SHC_800.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-shc_mobil-shc-800-series.aspx"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":27,
+          "name":"Compressor Station - Starting Air Compressors",
+          "imageURL":"ngcp/compressorStation.png",
+          "x":63,
+          "y":-160,
+          "subcomponents":[
+            {
+              "id":71,
+              "name":"Oil-Flooded Rotary Screw",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":44,
+                  "name":"Mobil SHC™ 1020",
+                  "type": "synthetic",
+                  "information": "Synthetic compressor oil for rotary screw air compressors",
+                  "benefits": "Exceptional cleanliness and stability characteristics help to extend service life of equipment; reduce deposits; provide long oil life; lower maintenance costs; reduce wear of components compared to mineral lubricants",
+                  "pdsURL": "",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                }
+              ]
+            },
+            {
+              "id":72,
+              "name":"Reciprocating Air Compressors (Air or Jacketwater Cooled)",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":45,
+                  "name":"Mobil Rarus™ 800 Series",
+                  "type": "synthetic",
+                  "information": "Supreme performance air compressor lubricants primarily intended for the lubrication of severe duty reciprocating air compressors.",
+                  "benefits": "Helps extend equipment life; helps reduce deposits; long oil life; low maintenance costs; helps reduce wear of components",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_Rarus_800.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-rarus-800-series.aspx"
+                }
+              ]
+            },
+            {
+              "id":73,
+              "name":"Electric Motor Bearings - Greased",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":42,
+                  "name":"Mobilith SHC™ 100",
+                  "type": "synthetic",
+                  "information": "Synthetic greases for lubrication of bearings",
+                  "benefits": "Excellent wear protection of components; easy start-up at low temperature; excellent thermal stability and oxidation resistance; helps maximize re-greasing interval when compared to conventional oils, which can potentially reduce service costs",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENGRSMOMobilith_SHC.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_greases_mobilith-shc-grease-series.aspx"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":28,
+          "name":"Natural Gas Processing Plant - Gas Engine",
+          "imageURL":"ngcp/naturalGasPlant.png",
+          "x":108,
+          "y":-160,
+          "subcomponents":[
+            {
+              "id":74,
+              "name":"Engine - 4-Cycle Turbo Charged - High Speed",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":32,
+                  "name":"Mobil Pegasus™ 1",
+                  "type": "synthetic",
+                  "information": "Synthetic natural gas engine oil",
+                  "benefits": "Proprietary formulation helps to minimize ash deposits, piston land deposits, liner scuffing, and valve seat and valve face wear; will  ﬂow at -40 ºC (40⁰ F), ensuring good cold start-up properties and effective lubrication at cold temperatures",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_Pegasus_1.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-shc_mobil-shc-pegasus-series.aspx"
+                },
+                {
+                  "id":33,
+                  "name":"Mobil Pegasus™ 1005",
+                  "type": "conventional",
+                  "information": "Premium natural gas engine oil",
+                  "benefits": "Improved oil life compared to Mobil Pegasus 905; fewer oil changes helps enable lower operating costs and higher productivity; helps reduces deposits in combustion chamber and pistons to maximize engine efficiency and reliability; helps reduces deposits in heat exchangers to maximize heat production; minimizes deposits to help extend catalytic converter life; helps maximize engine reliability and performance.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_Pegasus_1005.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-pegasus-1005.aspx"
+                }
+              ]
+            },
+            {
+              "id":75,
+              "name":"Engine - 2/4 Cycle - Slow Speed Integrals",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":35,
+                  "name":"Mobil Pegasus™ 801",
+                  "type": "conventional",
+                  "information": "Premium performance gas engine oil intended for the lubrication of gas engines operating at low, medium and high speeds where ashless and low-ash oils are recommended",
+                  "benefits": "Outstanding performance in  two- and four-cycle gas engines where ashless and low-ash oils are recommended; protects high BMEP engines against scuffing, scoring and wear particularly during critical break-in periods; long engine life and potential for low maintenance costs.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_Pegasus_801.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-shc_mobil-shc-pegasus-series.aspx"
+                }
+              ]
+            },
+            {
+              "id":76,
+              "name":"Boost Compressors",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":36,
+                  "name":"Mobil SHC™ 800",
+                  "type": "synthetic",
+                  "information": "Synthetic turbine oil for stationary gas turbines and boost compressors (Natural Gas Compression Station Only)",
+                  "benefits": "Excellent low-temperature and viscosity/temperature properties; excellent oxidation stability; outstanding protection against wear",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_SHC_800.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-shc_mobil-shc-800-series.aspx"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":29,
+          "name":"Natural Gas Processing Plant - Compressors",
+          "imageURL":"ngcp/naturalGasPlant2.png",
+          "x":118,
+          "y":-160,
+          "subcomponents":[
+            {
+              "id":77,
+              "name":"Oil-Flooded Rotary Screw",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":37,
+                  "name":"Mobil SHC™ 600",
+                  "type": "synthetic",
+                  "information": "Synthetic gear, bearing and circulating oils",
+                  "benefits": "Helps improve equipment productivity due to potential for reduced unscheduled downtime and maintenance; long gear and bearing life under high-stress operating conditions; helps extend oil life; by reducing friction, helps improve energy efficiency compared with mineral oils.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_SHC_600.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-shc_mobil-shc-600-series.aspx"
+                }
+              ]
+            },
+            {
+              "id":78,
+              "name":"Reciprocating Compressor Crankcase",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":33,
+                  "name":"Mobil Pegasus™ 1005",
+                  "type": "conventional",
+                  "information": "Premium natural gas engine oil",
+                  "benefits": "Improved oil life compared to Mobil Pegasus 905; fewer oil changes helps enable lower operating costs and higher productivity; helps reduces deposits in combustion chamber and pistons to maximize engine efficiency and reliability; helps reduces deposits in heat exchangers to maximize heat production; minimizes deposits to help extend catalytic converter life; helps maximize engine reliability and performance.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_Pegasus_1005.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-pegasus-1005.aspx"
+                }
+              ]
+            },
+            {
+              "id":79,
+              "name":"Compressor Cylinders",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":33,
+                  "name":"Mobil Pegasus™ 1005",
+                  "type": "conventional",
+                  "information": "Premium natural gas engine oil",
+                  "benefits": "Improved oil life compared to Mobil Pegasus 905; fewer oil changes helps enable lower operating costs and higher productivity; helps reduces deposits in combustion chamber and pistons to maximize engine efficiency and reliability; helps reduces deposits in heat exchangers to maximize heat production; minimizes deposits to help extend catalytic converter life; helps maximize engine reliability and performance.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_Pegasus_1005.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-pegasus-1005.aspx"
+                },
+                {
+                  "id":35,
+                  "name":"Mobil Pegasus™ 801",
+                  "type": "conventional",
+                  "information": "Premium performance gas engine oil intended for the lubrication of gas engines operating at low, medium and high speeds where ashless and low-ash oils are recommended",
+                  "benefits": "Outstanding performance in  two- and four-cycle gas engines where ashless and low-ash oils are recommended; protects high BMEP engines against scuffing, scoring and wear particularly during critical break-in periods; long engine life and potential for low maintenance costs.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_Pegasus_801.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-shc_mobil-shc-pegasus-series.aspx"
+                },
+                {
+                  "id":39,
+                  "name":"Mobil DTE™ 205",
+                  "type": "conventional",
+                  "information": "Compounded compressor cylinder oil",
+                  "benefits": "Excellent resistance to washing by water and other entrained liquids; effective lubrication at low feed rates; helps to extend ring and packing life properties.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/NAUSENINDMOMobil_DTE_Oil_205.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                },
+                {
+                  "id":41,
+                  "name":"Mobil Glygoyle™",
+                  "type": "synthetic",
+                  "information": "Synthetic gear, bearing and compressor oil ( Natural Gas Compression Station and Gathering Site Compression only)",
+                  "benefits": "Designed to provide long oil life and equipment protection; low traction coefficient helps maximize energy efficiency.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_Glygoyle.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                }
+              ]
+            },
+            {
+              "id":80,
+              "name":"Boost Compressors",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":36,
+                  "name":"Mobil SHC™ 800",
+                  "type": "synthetic",
+                  "information": "Synthetic turbine oil for stationary gas turbines and boost compressors (Natural Gas Compression Station Only)",
+                  "benefits": "Excellent low-temperature and viscosity/temperature properties; excellent oxidation stability; outstanding protection against wear",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_SHC_800.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-shc_mobil-shc-800-series.aspx"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":30,
+          "name":"Natural Gas Processing Plant - Starting Air Compressors",
+          "imageURL":"ngcp/naturalGasPlant3.png",
+          "x":129,
+          "y":-160,
+          "subcomponents":[
+            {
+              "id":81,
+              "name":"Oil-Flooded Rotary Screw",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":44,
+                  "name":"Mobil SHC™ 1020",
+                  "type": "synthetic",
+                  "information": "Synthetic compressor oil for rotary screw air compressors",
+                  "benefits": "Exceptional cleanliness and stability characteristics help to extend service life of equipment; reduce deposits; provide long oil life; lower maintenance costs; reduce wear of components compared to mineral lubricants",
+                  "pdsURL": "",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                }
+              ]
+            },
+            {
+              "id":82,
+              "name":"Reciprocating Air Compressors (Air or Jacketwater Cooled)",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":45,
+                  "name":"Mobil Rarus™ 800 Series",
+                  "type": "synthetic",
+                  "information": "Supreme performance air compressor lubricants primarily intended for the lubrication of severe duty reciprocating air compressors.",
+                  "benefits": "Helps extend equipment life; helps reduce deposits; long oil life; low maintenance costs; helps reduce wear of components",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_Rarus_800.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-rarus-800-series.aspx"
+                }
+              ]
+            },
+            {
+              "id":83,
+              "name":"Electric Motor Bearings - Greased",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":42,
+                  "name":"Mobilith SHC™ 100",
+                  "type": "synthetic",
+                  "information": "Synthetic greases for lubrication of bearings",
+                  "benefits": "Excellent wear protection of components; easy start-up at low temperature; excellent thermal stability and oxidation resistance; helps maximize re-greasing interval when compared to conventional oils, which can potentially reduce service costs",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENGRSMOMobilith_SHC.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_greases_mobilith-shc-grease-series.aspx"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":31,
+          "name":"Natural Gas Compression Station - Gas Engine",
+          "imageURL":"ngcp/naturalGasTransmission2.png",
+          "x":154,
+          "y":-165,
+          "subcomponents":[
+            {
+              "id":84,
+              "name":"Engine - 4-Cycle Turbo Charged - High Speed",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":32,
+                  "name":"Mobil Pegasus™ 1",
+                  "type": "synthetic",
+                  "information": "Synthetic natural gas engine oil",
+                  "benefits": "Proprietary formulation helps to minimize ash deposits, piston land deposits, liner scuffing, and valve seat and valve face wear; will  ﬂow at -40 ºC (40⁰ F), ensuring good cold start-up properties and effective lubrication at cold temperatures",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_Pegasus_1.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-shc_mobil-shc-pegasus-series.aspx"
+                },
+                {
+                  "id":33,
+                  "name":"Mobil Pegasus™ 1005",
+                  "type": "conventional",
+                  "information": "Premium natural gas engine oil",
+                  "benefits": "Improved oil life compared to Mobil Pegasus 905; fewer oil changes helps enable lower operating costs and higher productivity; helps reduces deposits in combustion chamber and pistons to maximize engine efficiency and reliability; helps reduces deposits in heat exchangers to maximize heat production; minimizes deposits to help extend catalytic converter life; helps maximize engine reliability and performance.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_Pegasus_1005.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-pegasus-1005.aspx"
+                }
+              ]
+            },
+            {
+              "id":85,
+              "name":"Engine - 2/4 Cycle - Slow Speed Integrals",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":35,
+                  "name":"Mobil Pegasus™ 801",
+                  "type": "conventional",
+                  "information": "Premium performance gas engine oil intended for the lubrication of gas engines operating at low, medium and high speeds where ashless and low-ash oils are recommended",
+                  "benefits": "Outstanding performance in  two- and four-cycle gas engines where ashless and low-ash oils are recommended; protects high BMEP engines against scuffing, scoring and wear particularly during critical break-in periods; long engine life and potential for low maintenance costs.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_Pegasus_801.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-shc_mobil-shc-pegasus-series.aspx"
+                }
+              ]
+            },
+            {
+              "id":86,
+              "name":"Boost Compressors",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":36,
+                  "name":"Mobil SHC™ 800",
+                  "type": "synthetic",
+                  "information": "Synthetic turbine oil for stationary gas turbines and boost compressors (Natural Gas Compression Station Only)",
+                  "benefits": "Excellent low-temperature and viscosity/temperature properties; excellent oxidation stability; outstanding protection against wear",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_SHC_800.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-shc_mobil-shc-800-series.aspx"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":32,
+          "name":"Natural Gas Compression Station - Compressors",
+          "imageURL":"ngcp/naturalGasTransmission4.png",
+          "x":165,
+          "y":-165,
+          "subcomponents":[
+            {
+              "id":87,
+              "name":"Oil-Flooded Rotary Screw",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":37,
+                  "name":"Mobil SHC™ 600",
+                  "type": "synthetic",
+                  "information": "Synthetic gear, bearing and circulating oils",
+                  "benefits": "Helps improve equipment productivity due to potential for reduced unscheduled downtime and maintenance; long gear and bearing life under high-stress operating conditions; helps extend oil life; by reducing friction, helps improve energy efficiency compared with mineral oils.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_SHC_600.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-shc_mobil-shc-600-series.aspx"
+                }
+              ]
+            },
+            {
+              "id":88,
+              "name":"Reciprocating Compressor Crankcase",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":33,
+                  "name":"Mobil Pegasus™ 1005",
+                  "type": "conventional",
+                  "information": "Premium natural gas engine oil",
+                  "benefits": "Improved oil life compared to Mobil Pegasus 905; fewer oil changes helps enable lower operating costs and higher productivity; helps reduces deposits in combustion chamber and pistons to maximize engine efficiency and reliability; helps reduces deposits in heat exchangers to maximize heat production; minimizes deposits to help extend catalytic converter life; helps maximize engine reliability and performance.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_Pegasus_1005.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-pegasus-1005.aspx"
+                }
+              ]
+            },
+            {
+              "id":89,
+              "name":"Compressor Cylinders",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":33,
+                  "name":"Mobil Pegasus™ 1005",
+                  "type": "conventional",
+                  "information": "Premium natural gas engine oil",
+                  "benefits": "Improved oil life compared to Mobil Pegasus 905; fewer oil changes helps enable lower operating costs and higher productivity; helps reduces deposits in combustion chamber and pistons to maximize engine efficiency and reliability; helps reduces deposits in heat exchangers to maximize heat production; minimizes deposits to help extend catalytic converter life; helps maximize engine reliability and performance.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_Pegasus_1005.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-pegasus-1005.aspx"
+                },
+                {
+                  "id":35,
+                  "name":"Mobil Pegasus™ 801",
+                  "type": "conventional",
+                  "information": "Premium performance gas engine oil intended for the lubrication of gas engines operating at low, medium and high speeds where ashless and low-ash oils are recommended",
+                  "benefits": "Outstanding performance in  two- and four-cycle gas engines where ashless and low-ash oils are recommended; protects high BMEP engines against scuffing, scoring and wear particularly during critical break-in periods; long engine life and potential for low maintenance costs.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_Pegasus_801.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-shc_mobil-shc-pegasus-series.aspx"
+                },
+                {
+                  "id":39,
+                  "name":"Mobil DTE™ 205",
+                  "type": "conventional",
+                  "information": "Compounded compressor cylinder oil",
+                  "benefits": "Excellent resistance to washing by water and other entrained liquids; effective lubrication at low feed rates; helps to extend ring and packing life properties.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/NAUSENINDMOMobil_DTE_Oil_205.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                },
+                {
+                  "id":41,
+                  "name":"Mobil Glygoyle™",
+                  "type": "synthetic",
+                  "information": "Synthetic gear, bearing and compressor oil ( Natural Gas Compression Station and Gathering Site Compression only)",
+                  "benefits": "Designed to provide long oil life and equipment protection; low traction coefficient helps maximize energy efficiency.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_Glygoyle.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                }
+              ]
+            },
+            {
+              "id":90,
+              "name":"Boost Compressors",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":36,
+                  "name":"Mobil SHC™ 800",
+                  "type": "synthetic",
+                  "information": "Synthetic turbine oil for stationary gas turbines and boost compressors (Natural Gas Compression Station Only)",
+                  "benefits": "Excellent low-temperature and viscosity/temperature properties; excellent oxidation stability; outstanding protection against wear",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_SHC_800.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-shc_mobil-shc-800-series.aspx"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":33,
+          "name":"Natural Gas Compressor Station - Starting Air Compressors",
+          "imageURL":"ngcp/naturalGasTransmission3.png",
+          "x":176,
+          "y":-165,
+          "subcomponents":[
+            {
+              "id":91,
+              "name":"Oil-Flooded Rotary Screw",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":44,
+                  "name":"Mobil SHC™ 1020",
+                  "type": "synthetic",
+                  "information": "Synthetic compressor oil for rotary screw air compressors",
+                  "benefits": "Exceptional cleanliness and stability characteristics help to extend service life of equipment; reduce deposits; provide long oil life; lower maintenance costs; reduce wear of components compared to mineral lubricants",
+                  "pdsURL": "",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                }
+              ]
+            },
+            {
+              "id":92,
+              "name":"Reciprocating Air Compressors (Air or Jacketwater Cooled)",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":45,
+                  "name":"Mobil Rarus™ 800 Series",
+                  "type": "synthetic",
+                  "information": "Supreme performance air compressor lubricants primarily intended for the lubrication of severe duty reciprocating air compressors.",
+                  "benefits": "Helps extend equipment life; helps reduce deposits; long oil life; low maintenance costs; helps reduce wear of components",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_Rarus_800.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-rarus-800-series.aspx"
+                }
+              ]
+            },
+            {
+              "id":93,
+              "name":"Electric Motor Bearings - Greased",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":42,
+                  "name":"Mobilith SHC™ 100",
+                  "type": "synthetic",
+                  "information": "Synthetic greases for lubrication of bearings",
+                  "benefits": "Excellent wear protection of components; easy start-up at low temperature; excellent thermal stability and oxidation resistance; helps maximize re-greasing interval when compared to conventional oils, which can potentially reduce service costs",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENGRSMOMobilith_SHC.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_greases_mobilith-shc-grease-series.aspx"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":34,
+          "name":"Compression Station - Gas Engine",
+          "imageURL":"ngcp/compressorStation2.png",
+          "x":205,
+          "y":-160,
+          "subcomponents":[
+            {
+              "id":94,
+              "name":"Engine - 4-Cycle Turbo Charged - High Speed",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":32,
+                  "name":"Mobil Pegasus™ 1",
+                  "type": "synthetic",
+                  "information": "Synthetic natural gas engine oil",
+                  "benefits": "Proprietary formulation helps to minimize ash deposits, piston land deposits, liner scuffing, and valve seat and valve face wear; will  ﬂow at -40 ºC (40⁰ F), ensuring good cold start-up properties and effective lubrication at cold temperatures",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_Pegasus_1.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-shc_mobil-shc-pegasus-series.aspx"
+                },
+                {
+                  "id":33,
+                  "name":"Mobil Pegasus™ 1005",
+                  "type": "conventional",
+                  "information": "Premium natural gas engine oil",
+                  "benefits": "Improved oil life compared to Mobil Pegasus 905; fewer oil changes helps enable lower operating costs and higher productivity; helps reduces deposits in combustion chamber and pistons to maximize engine efficiency and reliability; helps reduces deposits in heat exchangers to maximize heat production; minimizes deposits to help extend catalytic converter life; helps maximize engine reliability and performance.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_Pegasus_1005.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-pegasus-1005.aspx"
+                }
+              ]
+            },
+            {
+              "id":95,
+              "name":"Engine - 2/4 Cycle - Slow Speed Integrals",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":35,
+                  "name":"Mobil Pegasus™ 801",
+                  "type": "conventional",
+                  "information": "Premium performance gas engine oil intended for the lubrication of gas engines operating at low, medium and high speeds where ashless and low-ash oils are recommended",
+                  "benefits": "Outstanding performance in  two- and four-cycle gas engines where ashless and low-ash oils are recommended; protects high BMEP engines against scuffing, scoring and wear particularly during critical break-in periods; long engine life and potential for low maintenance costs.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_Pegasus_801.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-shc_mobil-shc-pegasus-series.aspx"
+                }
+              ]
+            },
+            {
+              "id":96,
+              "name":"Boost Compressors",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":36,
+                  "name":"Mobil SHC™ 800",
+                  "type": "synthetic",
+                  "information": "Synthetic turbine oil for stationary gas turbines and boost compressors (Natural Gas Compression Station Only)",
+                  "benefits": "Excellent low-temperature and viscosity/temperature properties; excellent oxidation stability; outstanding protection against wear",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_SHC_800.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-shc_mobil-shc-800-series.aspx"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":35,
+          "name":"Compression Station - Compressors",
+          "imageURL":"ngcp/compressorStation3.png",
+          "x":216,
+          "y":-160,
+          "subcomponents":[
+            {
+              "id":97,
+              "name":"Oil-Flooded Rotary Screw",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":37,
+                  "name":"Mobil SHC™ 600",
+                  "type": "synthetic",
+                  "information": "Synthetic gear, bearing and circulating oils",
+                  "benefits": "Helps improve equipment productivity due to potential for reduced unscheduled downtime and maintenance; long gear and bearing life under high-stress operating conditions; helps extend oil life; by reducing friction, helps improve energy efficiency compared with mineral oils.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_SHC_600.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-shc_mobil-shc-600-series.aspx"
+                }
+              ]
+            },
+            {
+              "id":98,
+              "name":"Reciprocating Compressor Crankcase",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":33,
+                  "name":"Mobil Pegasus™ 1005",
+                  "type": "conventional",
+                  "information": "Premium natural gas engine oil",
+                  "benefits": "Improved oil life compared to Mobil Pegasus 905; fewer oil changes helps enable lower operating costs and higher productivity; helps reduces deposits in combustion chamber and pistons to maximize engine efficiency and reliability; helps reduces deposits in heat exchangers to maximize heat production; minimizes deposits to help extend catalytic converter life; helps maximize engine reliability and performance.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_Pegasus_1005.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-pegasus-1005.aspx"
+                }
+              ]
+            },
+            {
+              "id":99,
+              "name":"Compressor Cylinders",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":33,
+                  "name":"Mobil Pegasus™ 1005",
+                  "type": "conventional",
+                  "information": "Premium natural gas engine oil",
+                  "benefits": "Improved oil life compared to Mobil Pegasus 905; fewer oil changes helps enable lower operating costs and higher productivity; helps reduces deposits in combustion chamber and pistons to maximize engine efficiency and reliability; helps reduces deposits in heat exchangers to maximize heat production; minimizes deposits to help extend catalytic converter life; helps maximize engine reliability and performance.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_Pegasus_1005.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-pegasus-1005.aspx"
+                },
+                {
+                  "id":35,
+                  "name":"Mobil Pegasus™ 801",
+                  "type": "conventional",
+                  "information": "Premium performance gas engine oil intended for the lubrication of gas engines operating at low, medium and high speeds where ashless and low-ash oils are recommended",
+                  "benefits": "Outstanding performance in  two- and four-cycle gas engines where ashless and low-ash oils are recommended; protects high BMEP engines against scuffing, scoring and wear particularly during critical break-in periods; long engine life and potential for low maintenance costs.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_Pegasus_801.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-shc_mobil-shc-pegasus-series.aspx"
+                },
+                {
+                  "id":39,
+                  "name":"Mobil DTE™ 205",
+                  "type": "conventional",
+                  "information": "Compounded compressor cylinder oil",
+                  "benefits": "Excellent resistance to washing by water and other entrained liquids; effective lubrication at low feed rates; helps to extend ring and packing life properties.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/NAUSENINDMOMobil_DTE_Oil_205.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                },
+                {
+                  "id":41,
+                  "name":"Mobil Glygoyle™",
+                  "type": "synthetic",
+                  "information": "Synthetic gear, bearing and compressor oil ( Natural Gas Compression Station and Gathering Site Compression only)",
+                  "benefits": "Designed to provide long oil life and equipment protection; low traction coefficient helps maximize energy efficiency.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_Glygoyle.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                }
+              ]
+            },
+            {
+              "id":100,
+              "name":"Boost Compressors",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":36,
+                  "name":"Mobil SHC™ 800",
+                  "type": "synthetic",
+                  "information": "Synthetic turbine oil for stationary gas turbines and boost compressors (Natural Gas Compression Station Only)",
+                  "benefits": "Excellent low-temperature and viscosity/temperature properties; excellent oxidation stability; outstanding protection against wear",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_SHC_800.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-shc_mobil-shc-800-series.aspx"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":36,
+          "name":"Compressor Station - Starting Air Compressors",
+          "imageURL":"ngcp/compressorStation.png",
+          "x":226,
+          "y":-160,
+          "subcomponents":[
+            {
+              "id":101,
+              "name":"Oil-Flooded Rotary Screw",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":44,
+                  "name":"Mobil SHC™ 1020",
+                  "type": "synthetic",
+                  "information": "Synthetic compressor oil for rotary screw air compressors",
+                  "benefits": "Exceptional cleanliness and stability characteristics help to extend service life of equipment; reduce deposits; provide long oil life; lower maintenance costs; reduce wear of components compared to mineral lubricants",
+                  "pdsURL": "",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                }
+              ]
+            },
+            {
+              "id":102,
+              "name":"Reciprocating Air Compressors (Air or Jacketwater Cooled)",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":45,
+                  "name":"Mobil Rarus™ 800 Series",
+                  "type": "synthetic",
+                  "information": "Supreme performance air compressor lubricants primarily intended for the lubrication of severe duty reciprocating air compressors.",
+                  "benefits": "Helps extend equipment life; helps reduce deposits; long oil life; low maintenance costs; helps reduce wear of components",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_Rarus_800.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-rarus-800-series.aspx"
+                }
+              ]
+            },
+            {
+              "id":103,
+              "name":"Electric Motor Bearings - Greased",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":42,
+                  "name":"Mobilith SHC™ 100",
+                  "type": "synthetic",
+                  "information": "Synthetic greases for lubrication of bearings",
+                  "benefits": "Excellent wear protection of components; easy start-up at low temperature; excellent thermal stability and oxidation resistance; helps maximize re-greasing interval when compared to conventional oils, which can potentially reduce service costs",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENGRSMOMobilith_SHC.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_greases_mobilith-shc-grease-series.aspx"
+                }
+              ]
+            }
+          ]
+        }
+    ]
+  }
+}

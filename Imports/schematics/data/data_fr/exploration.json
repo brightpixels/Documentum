@@ -1,0 +1,1786 @@
+{
+  "lang": {
+    "fullscreen":                 "Plein écran",
+    "exitFullscreen":             "Quitter le mode “Plein écran”",
+    "visit":                      "Démarrer la visite",
+    "equipment":                  "Equipement",
+    "viewDetails":                "Voir les détails",
+    "dontShowMeThisMessageAgain": "Ne plus afficher ce message",
+    "directions":                 "Cliquez sur un point rouge dans le schéma ou sur l’un des items contenus dans le menu « Equipement » pour découvrir les informations relatives au lubrifiant Mobil correspondant. Pour parcourir l’ensemble du schéma, cliquez et déplacez la souris ou utilisez les flèches de déplacement situées sur votre clavier d’ordinateur.",
+    "continue":                   "Continuer",
+    "pds":                        "Fiche technique produit (FTP)",
+    "whereToBuy":                 "Où acheter ?",
+    "productInformation":         "Description du produit",
+    "benefits":                   "Avantages",
+    "refineYourSearchWithLooble": "Affiner votre recherche avec le guide de sélection Looble℠",
+    "products":                   "Produits",
+    "back":                       "Retour",
+    "equipmentType":              "Type d’équipement",
+    "getMoreInfo":                "Pour avoir plus d’informations",
+    "productDataSheets":          "Fiches techniques produits (FTP)",
+    "downloadSellSheet":          "Télécharger ce document",
+    "emailPageLink":              "Lien pour envoyer un message électronique",
+    "findADistributor":           "Trouver un Distributeur",
+    "components":                 "Composants",
+    "touchModeQuestion":          "Il apparaît que vous êtes en train d’utiliser une tablette ou un appareil à touches tactiles. Souhaitez-vous utiliser une interface tactile optimisée ?",
+    "yesUseTheTouchVersion":      "Oui, je préfère utiliser la version tactile",
+    "no":                         "Non"
+  },
+  
+  "schematic": {
+    "name":"Mine à ciel ouvert / Extraction",
+    "tileset":"exploration",
+    "minZoom": 1,
+    "maxZoom": 4,
+    "components":[
+        {
+          "id":330,
+          "name":"Compressor, Différentiels et réductions finales, Huile pour perforatrices",
+          "imageURL":"exploration/drill.png",
+          "x":12,
+          "y":-85,
+          "subcomponents":[
+            {
+              "id":912,
+              "name":"Compresseurs d'air",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":383,
+                  "name":"Mobil Rarus SHC™ 1020",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huiles synthétiques pour compresseurs d’air rotatifs à vis",
+                  "benefits": "Maintien de la propreté des composants. Stabilité exceptionnelle permettant de prolonger la disponibilité en service des équipements. Durée de vie importante de la charge d’huile. Formation de dépôts réduite. Favorise la réduction des coûts de maintenance. Excellentes propriétés anti-usure.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_Rarus_SHC_1020_Series.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/french/products_mobil-shc_mobil-rarus-shc-1020-series.aspx"
+                }
+              ]
+            },
+            {
+              "id":913,
+              "name":"Différentiels et réductions finales",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":384,
+                  "name":"Mobil Delvac™ Synthetic Gear Oil",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huiles synthétiques pour engrenages destinées aux transmissions fortement sollicitées, nécessitant une viscosité assez élevée, une excellente résistance aux fortes charges, aux chocs et aux à-coups, ainsi que des propriétés extrême-pression (EP).",
+                  "benefits": "Durée de vie accrue des engrenages et des roulements. Formation de dépôts réduite. Maintien de la viscosité en service et grande résistance du film d'huile, même dans des conditions très sévères de service. Excellente protection contre l'usure. Les Mobil Delvac™ Synthetic Gear Oil contribuent également à réduire les risques de fuites et de contamination.",
+                  "pdsURL": "",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                },
+                {
+                  "id":385,
+                  "name":"Mobiltrans™ HD",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Lubrifiants pour transmissions, boîtes de vitesses, boîtes power-shift, différentiels et réductions finales fonctionnant en service sévère.",
+                  "benefits": "Fonctionnement fiable et longue durée de vie des embrayages, grâce aux excellentes propriétés de friction et de contrôle du glissement des Mobiltrans™ HD. Remarquable stabilité de l'huile hydraulique et grande protection contre l'usure des pompes haute pression. Excellente protection des engrenages, ce qui favorise une longue durée de vie des transmissions, boîtes de vitesses et réductions finales",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/EUFRFRCVLMOMobiltransHDSeries.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                },
+                {
+                  "id":386,
+                  "name":"Mobiltrans™ AST",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huile hautes performances destinée à la lubrification des transmissions, réductions finales et systèmes hydrauliques équipant les engins de travaux publics, chantiers, mines et carrières.",
+                  "benefits": "Fonctionnement optimal et longue durée de vie des embrayages, grâce aux excellentes propriétés de friction et de contrôle du glissement des Mobiltrans™ AST. Excellentes performances contre le phénomène de broutage des freins immergés. Remarquable protection des freins et embrayages, ce qui favorise un allongement de leur durée de vie. Excellente protection contre la formation de dépôts, ce qui contribue à augmenter la durée de vie des joints d'étanchéité et à optimiser les intervalles de vidanges. Fluidité exceptionnelle à basse température, d'où une excellente pompabilité, ce qui facilite des démarrages à froid rapides et favorise également un changement de vitesses en douceur et sans à-coups.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRCVLMOMobiltrans_AST.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobil.com/Canada-English-LCW/heavydutyengineoils_products_mobiltrans-ast-30.aspx"
+                },
+                {
+                  "id":387,
+                  "name":"Huiles engrenages Mobilube™ HD Plus",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huiles engrenages hautes performances destinées à la lubrification des transmissions mécaniques, boîtes de vitesses, ponts différentiels et réductions finales, rencontrées sur les engins de chantiers, de travaux publics, mines et carrières, travaillant dans des conditions sévères de service.",
+                  "benefits": "Excellentes stabilités chimique et thermique à des températures élevées. Bonnes performances à basse température. Bonne protection contre la rouille provoquée suite à la contamination par de l'eau.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRCVLMOMobilube_HD-A_Plus_80W-90.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobiloil.com/USA-English/MotorOil/Other_Products/Mobilube_HD_Plus_80W-90.aspx"
+                }
+              ]
+            },
+            {
+              "id":914,
+              "name":"Huile pour perforatrices pneumatiques",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":388,
+                  "name":"Mobil Almo™ 500",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huiles pour perforatrices pneumatiques de roche et pour tout autre outil fonctionnant, de manière rotative ou par percussions, grâce à de l'air comprimé.",
+                  "benefits": "Les Mobil Almo™ 500 aident à réduire la formation de dépôts et de boues. Lubrification efficace, même en présence d'eau. Large plage de températures d'utilisation. Elles contribuent aussi à réduire l'usure des composants et les coûts de maintenance.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_Almo_500.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":331,
+          "name":"Systèmes hydrauliques & Points de graissage",
+          "imageURL":"exploration/drill.png",
+          "x":27,
+          "y":-87,
+          "subcomponents":[
+            {
+              "id":915,
+              "name":"Systèmes hydrauliques",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":389,
+                  "name":"Mobil SHC™ 500",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huiles hydrauliques synthétiques, dotées de très hautes performances, pour pompes à palettes, à pistons et à engrenages",
+                  "benefits": "Très large plage de températures d’utilisation. Excellente stabilité thermique et grande résistance à l’oxydation, pour une meilleure protection des circuits et des systèmes hydrauliques, et ceci dans des conditions de service très diverses.  Remarquables propriétés anti-usure et bonne compatibilité multi-matériaux, pour une protection optimale des composants hydrauliques, y compris les plus critiques.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_SHC_500.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/french/products_mobil-shc_mobil-shc-500-series.aspx"
+                },
+                {
+                  "id":390,
+                  "name":"Mobil DTE 10 Excel™",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huiles hydrauliques anti-usure dotées de hautes performances. Elles ont été spécialement développées afin de satisfaire les exigences techniques des systèmes hydrauliques modernes fonctionnant avec des pressions élevées, rencontrés sur des équipements industriels fixes ou mobiles.",
+                  "benefits": "Les huiles hydrauliques anti-usure Mobil DTE 10 Excel™ ne contiennent pas de zinc dans leur formulation. Elles apportent une haute protection aux pompes à pistons, à engrenages ou à palettes, tout en minimisant la formation de dépôts. Par rapport aux autres huiles hydrauliques Mobil™, les Mobil DTE 10 Excel peuvent aussi contribuer à améliorer le rendement hydraulique des circuits. Pour l’utilisateur, cela peut se traduire par une moindre consommation d’énergie ou par un rendement accru des équipements et donc, in fine, par une réduction des coûts opérationnels. Bonne désaération et réduction des risques de cavitation.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/EUXXFRINDMOMobil_DTE_10_Excel.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/french/products_mobil-dte-10-excel-series.aspx"
+                },
+                {
+                  "id":391,
+                  "name":"Mobil DTE™ 20",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huiles hydrauliques de haute qualité, dotées de performances élevées. Les Mobil DTE™ 20 sont utilisables sur des systèmes et circuits hydrauliques équipés de pompes fonctionnant avec des pressions élevées et un haut débit.",
+                  "benefits": "Les Mobil DTE™ 20 aident à réduire l'usure et protègent les composants de la rouille et de la corrosion. Elles conservent longtemps leurs propriétés et des performances élevées en service, même dans des conditions de fonctionnement très sévères, avec des intervalles de vidange importants. Elles contribuent aussi à améliorer la propreté des circuits et à prolonger la durée de vie des filtres et des équipements. Les Mobil DTE™ 20 possédent une grande longévité en service et un excellent comportement en présence d'eau, ce qui contribue à réduire les effets néfastes de l'humidité dans les circuits.",
+                  "pdsURL": "http://www.mobil.com/France-English/Lubes/PDS/GLXXENINDMOMobil_DTE_20_Series.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/french/products_mobil-dte-20-series.aspx"
+                }
+              ]
+            },
+            {
+              "id":916,
+              "name":"Points de graissage",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":392,
+                  "name":"Mobilith SHC™",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Graisses synthétiques hautes performances, pour la lubrification des roulements. Leur épaississant est un savon de lithium complexe.",
+                  "benefits": "Excellente protection contre l’usure, la rouille et la corrosion. Démarrages facilités à basse température. Excellente stabilité thermique et grande résistance à l'oxydation. Les Mobilith SHC™ favorisent un allongement des intervalles de regraissage, ce qui contribue à réduire les coûts de maintenance.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRGRSMOMobilith_SHC_PM.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                },
+                {
+                  "id":393,
+                  "name":"Mobilgrease XHP™ Mine",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Graisses minérales à épaississant lithium complexe, spécialement conçues pour les engins et équipements de chantiers, travaux publics, mines et carrières fonctionnant dans des conditions sévères de service.",
+                  "benefits": "Excellente protection des équipements, ce qui contribue à un allongement de leur durée de vie, même lorsque les conditions de fonctionnement sont extrêmement sévères. Bon comportement et excellente pompabilité à basse température, pour des démarrages à froid facilités. Possibilité d'allonger les intervalles de regraissage.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRGRSMOMobilgrease_XHP_Mine_Series.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/french/products_greases_mobilgrease-xhp-320-mine-series.aspx"
+                },
+                {
+                  "id":394,
+                  "name":"Mobilgrease XHP™",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Graisses minérales à épaississant lithium complexe, élaborées dans le but de répondre aux exigences d’un grand nombre d’applications industrielles fonctionnant dans des conditions sévères de service.",
+                  "benefits": "Excellentes caractéristiques d’adhésivité et de cohésion. Stabilité mécanique et structurelle remarquable, favorisant une extension possible des intervalles de relubrification. Grande résistance à la contamination et au délavage par l’eau. Remarquable protection contre la rouille et la corrosion. L’ensemble de ces qualités contribue à améliorer la fiabilité des équipements et des machines.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRGRSMOMobilgrease_XHP_220.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/french/products_greases_mobilgrease-xhp.aspx"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":332,
+          "name":"Moteurs & Transmissions",
+          "imageURL":"exploration/drill.png",
+          "x":39,
+          "y":-80,
+          "subcomponents":[
+            {
+              "id":917,
+              "name":"Moteurs",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":395,
+                  "name":"Mobil Delvac 1™",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huile synthétique hautes performances pour les moteurs Diesel modernes, à faibles émissions, fonctionnant dans des conditions sévères de service. Mobil Delvac 1™ peut également convenir aux moteurs Diesel plus anciens et bien entretenus.",
+                  "benefits": "Grâce à son exceptionnelle stabilité thermique et à sa grande résistance à l'oxydation, Mobil Delvac 1™ contribue à réduire la formation de boues s'accumulant à basse température et de dépôts causés par les températures élevées. A chaud, l'épaisseur renforcée du film d'huile aide à réduire l'usure du moteur, les éraflures (phénomène de scuffing) et le polissage des chemises. Par ailleurs, sa faible volatilité aide à diminuer les consommations d'huile par évaporation. Enfin, par rapport à une huile moteur de grade SAE 15W-40, grâce à sa formulation avancée et à ses caractéristiques viscosimétriques, Mobil Delvac 1™ favorise les économies de carburant.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRCVLMOMobil_Delvac_1_LE_5W-30.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobil.com/USA-English-LCW/diesel-engine-oil-mobil-delvac-1-le-5w30.aspx"
+                },
+                {
+                  "id":396,
+                  "name":"Mobil Delvac™ 1300 Super",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huile hautes performances pour les moteurs Diesel",
+                  "benefits": "Excellente protection contre la corrosion. Optimisation possible des intervalles de vidange, pour les moteurs anciens ou de conception plus récente utilisant du carburant à faible (500 ppm) ou très faible (15 ppm) teneur en soufre. Mobil Delvac™ 1300 Super conserve longtemps sa viscosité en service, même dans des conditions sévères de fonctionnement, à haute température. Bonne protection contre l'usure, d'où une longévité accrue des moteurs. Grande polyvalence, d'où la possibilité de n'employer qu'une seule huile moteur pour les flottes mixtes.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/NAUSENCVLMOMobil_Delvac_1300_Super.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobil.com/USA-English-LCW/heavydutyengineoils_products_engine-oils_mobil-delvac-1300-super.aspx"
+                },
+                {
+                  "id":397,
+                  "name":"Mobil Delvac MX™",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huile hautes performances pour les moteurs Diesel",
+                  "benefits": "Aide à réduire la formation de boues à basse température et de dépôts à haute température. Bon contrôle de la formation de suies. Optimisation des intervalles de vidange. Démarrages à froid facilités et usure réduite. Mobil Delvac MX™ conserve longtemps sa viscosité en service, même dans des conditions sévères de fonctionnement, à haute température.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/EUXXFRCVLMOMobil_Delvac_MX_15W-40.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobil.com/USA-English-LCW/heavydutyengineoils_products_engine-oils_mobil-delvac-mx-15w40.aspx"
+                }
+              ]
+            },
+            {
+              "id":918,
+              "name":"Transmissions",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":384,
+                  "name":"Mobil Delvac™ Synthetic Gear Oil",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huiles synthétiques pour engrenages destinées aux transmissions fortement sollicitées, nécessitant une viscosité assez élevée, une excellente résistance aux fortes charges, aux chocs et aux à-coups, ainsi que des propriétés extrême-pression (EP).",
+                  "benefits": "Durée de vie accrue des engrenages et des roulements. Formation de dépôts réduite. Maintien de la viscosité en service et grande résistance du film d'huile, même dans des conditions très sévères de service. Excellente protection contre l'usure. Les Mobil Delvac™ Synthetic Gear Oil contribuent également à réduire les risques de fuites et de contamination.",
+                  "pdsURL": "",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                },
+                {
+                  "id":385,
+                  "name":"Mobiltrans™ HD Series",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Lubrifiants pour transmissions, boîtes de vitesses, boîtes power-shift, différentiels et réductions finales fonctionnant en service sévère.",
+                  "benefits": "Fonctionnement fiable et longue durée de vie des embrayages, grâce aux excellentes propriétés de friction et de contrôle du glissement des Mobiltrans™ HD. Remarquable stabilité de l'huile hydraulique et grande protection contre l'usure des pompes haute pression. Excellente protection des engrenages, ce qui favorise une longue durée de vie des transmissions, boîtes de vitesses et réductions finales",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/EUFRFRCVLMOMobiltransHDSeries.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                },
+                {
+                  "id":386,
+                  "name":"Mobiltrans™ AST",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huile hautes performances destinée à la lubrification des transmissions, réductions finales et systèmes hydrauliques équipant les engins de travaux publics, chantiers, mines et carrières.",
+                  "benefits": "Fonctionnement optimal et longue durée de vie des embrayages, grâce aux excellentes propriétés de friction et de contrôle du glissement des Mobiltrans™ AST. Excellentes performances contre le phénomène de broutage des freins immergés. Remarquable protection des freins et embrayages, ce qui favorise un allongement de leur durée de vie. Excellente protection contre la formation de dépôts, ce qui contribue à augmenter la durée de vie des joints d'étanchéité et à optimiser les intervalles de vidanges. Fluidité exceptionnelle à basse température, d'où une excellente pompabilité, ce qui facilite des démarrages à froid rapides et favorise également un changement de vitesses en douceur et sans à-coups.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRCVLMOMobiltrans_AST.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobil.com/Canada-English-LCW/heavydutyengineoils_products_mobiltrans-ast-30.aspx"
+                },
+                {
+                  "id":387,
+                  "name":"Huiles engrenages Mobilube™ HD Plus",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huiles engrenages hautes performances destinées à la lubrification des transmissions mécaniques, boîtes de vitesses, ponts différentiels et réductions finales, rencontrées sur les engins de chantiers, de travaux publics, mines et carrières, travaillant dans des conditions sévères de service.",
+                  "benefits": "Excellentes stabilités chimique et thermique à des températures élevées. Bonnes performances à basse température. Bonne protection contre la rouille provoquée suite à la contamination par de l'eau.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRCVLMOMobilube_HD-A_Plus_80W-90.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobiloil.com/USA-English/MotorOil/Other_Products/Mobilube_HD_Plus_80W-90.aspx"
+                },
+                {
+                  "id":398,
+                  "name":"Mobil Delvac™ Synthetic Transmission Fluid",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Lubrifiant synthétique pour transmissions mécaniques manuelles équipant les camions et autres engins de chantiers, de travaux publics, mines et carrières, même lorsque ceux ci fonctionnent dans des conditions sévères de service.",
+                  "benefits": "Mobil Delvac™ Synthetic Transmission Fluid contribue à augmenter la durée de vie de la transmission et à réduire les coûts opérationnels. Longévité accrue des joints d'étanchéité. Longue durée de vie en service de la charge d'huile, d'où une optimisation possible des intervalles de vidange. Bonne protection contre  l'usure. Démarrages à froid et changements de vitesses facilités. Ce lubrifiant aide aussi à prolonger la durée de vie des synchros.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRCVLMOMobil_Delvac_Synthetic_Transmission_Oil_V30.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":333,
+          "name":"Systèmes hydrauliques & Points de graissage",
+          "imageURL":"exploration/haul_truck.png",
+          "x":95,
+          "y":-76,
+          "subcomponents":[
+            {
+              "id":919,
+              "name":"Systèmes hydrauliques",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":385,
+                  "name":"Mobiltrans™ HD",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Lubrifiants pour transmissions, boîtes de vitesses, boîtes power-shift, différentiels et réductions finales fonctionnant en service sévère.",
+                  "benefits": "Fonctionnement fiable et longue durée de vie des embrayages, grâce aux excellentes propriétés de friction et de contrôle du glissement des Mobiltrans™ HD. Remarquable stabilité de l'huile hydraulique et grande protection contre l'usure des pompes haute pression. Excellente protection des engrenages, ce qui favorise une longue durée de vie des transmissions, boîtes de vitesses et réductions finales",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/EUFRFRCVLMOMobiltransHDSeries.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                },
+                {
+                  "id":386,
+                  "name":"Mobiltrans™ AST",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huile hautes performances destinée à la lubrification des transmissions, réductions finales et systèmes hydrauliques équipant les engins de travaux publics, chantiers, mines et carrières.",
+                  "benefits": "Fonctionnement optimal et longue durée de vie des embrayages, grâce aux excellentes propriétés de friction et de contrôle du glissement des Mobiltrans™ AST. Excellentes performances contre le phénomène de broutage des freins immergés. Remarquable protection des freins et embrayages, ce qui favorise un allongement de leur durée de vie. Excellente protection contre la formation de dépôts, ce qui contribue à augmenter la durée de vie des joints d'étanchéité et à optimiser les intervalles de vidanges. Fluidité exceptionnelle à basse température, d'où une excellente pompabilité, ce qui facilite des démarrages à froid rapides et favorise également un changement de vitesses en douceur et sans à-coups.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRCVLMOMobiltrans_AST.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobil.com/Canada-English-LCW/heavydutyengineoils_products_mobiltrans-ast-30.aspx"
+                },
+                {
+                  "id":389,
+                  "name":"Mobil SHC™ 500",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huiles hydrauliques synthétiques, dotées de très hautes performances, pour pompes à palettes, à pistons et à engrenages",
+                  "benefits": "Très large plage de températures d’utilisation. Excellente stabilité thermique et grande résistance à l’oxydation, pour une meilleure protection des circuits et des systèmes hydrauliques, et ceci dans des conditions de service très diverses.  Remarquables propriétés anti-usure et bonne compatibilité multi-matériaux, pour une protection optimale des composants hydrauliques, y compris les plus critiques.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_SHC_500.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/french/products_mobil-shc_mobil-shc-500-series.aspx"
+                },
+                {
+                  "id":390,
+                  "name":"Mobil DTE 10 Excel™",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huiles hydrauliques anti-usure dotées de hautes performances. Elles ont été spécialement développées afin de satisfaire les exigences techniques des systèmes hydrauliques modernes fonctionnant avec des pressions élevées, rencontrés sur des équipements industriels fixes ou mobiles.",
+                  "benefits": "Les huiles hydrauliques anti-usure Mobil DTE 10 Excel™ ne contiennent pas de zinc dans leur formulation. Elles apportent une haute protection aux pompes à pistons, à engrenages ou à palettes, tout en minimisant la formation de dépôts. Par rapport aux autres huiles hydrauliques Mobil™, les Mobil DTE 10 Excel peuvent aussi contribuer à améliorer le rendement hydraulique des circuits. Pour l’utilisateur, cela peut se traduire par une moindre consommation d’énergie ou par un rendement accru des équipements et donc, in fine, par une réduction des coûts opérationnels. Bonne désaération et réduction des risques de cavitation.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/EUXXFRINDMOMobil_DTE_10_Excel.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/french/products_mobil-dte-10-excel-series.aspx"
+                }
+              ]
+            },
+            {
+              "id":920,
+              "name":"Points de graissage",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":392,
+                  "name":"Mobilith SHC™",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Graisses synthétiques hautes performances, pour la lubrification des roulements. Leur épaississant est un savon de lithium complexe.",
+                  "benefits": "Excellente protection contre l’usure, la rouille et la corrosion. Démarrages facilités à basse température. Excellente stabilité thermique et grande résistance à l'oxydation. Les Mobilith SHC™ favorisent un allongement des intervalles de regraissage, ce qui contribue à réduire les coûts de maintenance.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRGRSMOMobilith_SHC_PM.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                },
+                {
+                  "id":393,
+                  "name":"Mobilgrease XHP™ Mine",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Graisses minérales à épaississant lithium complexe, spécialement conçues pour les engins et équipements de chantiers, travaux publics, mines et carrières fonctionnant dans des conditions sévères de service.",
+                  "benefits": "Excellente protection des équipements, ce qui contribue à un allongement de leur durée de vie, même lorsque les conditions de fonctionnement sont extrêmement sévères. Bon comportement et excellente pompabilité à basse température, pour des démarrages à froid facilités. Possibilité d'allonger les intervalles de regraissage.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRGRSMOMobilgrease_XHP_Mine_Series.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/french/products_greases_mobilgrease-xhp-320-mine-series.aspx"
+                },
+                {
+                  "id":394,
+                  "name":"Mobilgrease XHP™",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Graisses minérales à épaississant lithium complexe, élaborées dans le but de répondre aux exigences d’un grand nombre d’applications industrielles fonctionnant dans des conditions sévères de service.",
+                  "benefits": "Excellentes caractéristiques d’adhésivité et de cohésion. Stabilité mécanique et structurelle remarquable, favorisant une extension possible des intervalles de relubrification. Grande résistance à la contamination et au délavage par l’eau. Remarquable protection contre la rouille et la corrosion. L’ensemble de ces qualités contribue à améliorer la fiabilité des équipements et des machines.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRGRSMOMobilgrease_XHP_220.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/french/products_greases_mobilgrease-xhp.aspx"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":334,
+          "name":"Moteurs",
+          "imageURL":"exploration/haul_truck.png",
+          "x":116,
+          "y":-80,
+          "subcomponents":[
+            {
+              "id":921,
+              "name":"Moteurs",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":395,
+                  "name":"Mobil Delvac 1™",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huile synthétique hautes performances pour les moteurs Diesel modernes, à faibles émissions, fonctionnant dans des conditions sévères de service. Mobil Delvac 1™ peut également convenir aux moteurs Diesel plus anciens et bien entretenus.",
+                  "benefits": "Grâce à son exceptionnelle stabilité thermique et à sa grande résistance à l'oxydation, Mobil Delvac 1™ contribue à réduire la formation de boues s'accumulant à basse température et de dépôts causés par les températures élevées. A chaud, l'épaisseur renforcée du film d'huile aide à réduire l'usure du moteur, les éraflures (phénomène de scuffing) et le polissage des chemises. Par ailleurs, sa faible volatilité aide à diminuer les consommations d'huile par évaporation. Enfin, par rapport à une huile moteur de grade SAE 15W-40, grâce à sa formulation avancée et à ses caractéristiques viscosimétriques, Mobil Delvac 1™ favorise les économies de carburant.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRCVLMOMobil_Delvac_1_5W-40.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobil.com/USA-English-LCW/diesel-engine-oil-mobil-delvac-1-le-5w30.aspx"
+                },
+                {
+                  "id":396,
+                  "name":"Mobil Delvac™ 1300 Super",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huile hautes performances pour les moteurs Diesel",
+                  "benefits": "Excellente protection contre la corrosion. Optimisation possible des intervalles de vidange, pour les moteurs anciens ou de conception plus récente utilisant du carburant à faible (500 ppm) ou très faible (15 ppm) teneur en soufre. Mobil Delvac™ 1300 Super conserve longtemps sa viscosité en service, même dans des conditions sévères de fonctionnement, à haute température. Bonne protection contre l'usure, d'où une longévité accrue des moteurs. Grande polyvalence, d'où la possibilité de n'employer qu'une seule huile moteur pour les flottes mixtes.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/NAUSENCVLMOMobil_Delvac_1300_Super.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobil.com/USA-English-LCW/heavydutyengineoils_products_engine-oils_mobil-delvac-1300-super.aspx"
+                },
+                {
+                  "id":397,
+                  "name":"Mobil Delvac MX™",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huile hautes performances pour les moteurs Diesel",
+                  "benefits": "Aide à réduire la formation de boues à basse température et de dépôts à haute température. Bon contrôle de la formation de suies. Optimisation des intervalles de vidange. Démarrages à froid facilités et usure réduite. Mobil Delvac MX™ conserve longtemps sa viscosité en service, même dans des conditions sévères de fonctionnement, à haute température.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/EUXXFRCVLMOMobil_Delvac_MX_15W-40.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobil.com/USA-English-LCW/heavydutyengineoils_products_engine-oils_mobil-delvac-mx-15w40.aspx"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":335,
+          "name":"Transmissions, Différentiels et réductions finales",
+          "imageURL":"exploration/haul_truck.png",
+          "x":130,
+          "y":-76,
+          "subcomponents":[
+            {
+              "id":922,
+              "name":"Transmissions",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":384,
+                  "name":"Mobil Delvac™ Synthetic Gear Oil",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huiles synthétiques pour engrenages destinées aux transmissions fortement sollicitées, nécessitant une viscosité assez élevée, une excellente résistance aux fortes charges, aux chocs et aux à-coups, ainsi que des propriétés extrême-pression (EP).",
+                  "benefits": "Durée de vie accrue des engrenages et des roulements. Formation de dépôts réduite. Maintien de la viscosité en service et grande résistance du film d'huile, même dans des conditions très sévères de service. Excellente protection contre l'usure. Les Mobil Delvac™ Synthetic Gear Oil contribuent également à réduire les risques de fuites et de contamination.",
+                  "pdsURL": "",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                },
+                {
+                  "id":385,
+                  "name":"Mobiltrans™ HD",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Lubrifiants pour transmissions, boîtes de vitesses, boîtes power-shift, différentiels et réductions finales fonctionnant en service sévère.",
+                  "benefits": "Fonctionnement fiable et longue durée de vie des embrayages, grâce aux excellentes propriétés de friction et de contrôle du glissement des Mobiltrans™ HD. Remarquable stabilité de l'huile hydraulique et grande protection contre l'usure des pompes haute pression. Excellente protection des engrenages, ce qui favorise une longue durée de vie des transmissions, boîtes de vitesses et réductions finales",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/EUFRFRCVLMOMobiltransHDSeries.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                },
+                {
+                  "id":386,
+                  "name":"Mobiltrans™ AST",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huile hautes performances destinée à la lubrification des transmissions, réductions finales et systèmes hydrauliques équipant les engins de travaux publics, chantiers, mines et carrières.",
+                  "benefits": "Fonctionnement optimal et longue durée de vie des embrayages, grâce aux excellentes propriétés de friction et de contrôle du glissement des Mobiltrans™ AST. Excellentes performances contre le phénomène de broutage des freins immergés. Remarquable protection des freins et embrayages, ce qui favorise un allongement de leur durée de vie. Excellente protection contre la formation de dépôts, ce qui contribue à augmenter la durée de vie des joints d'étanchéité et à optimiser les intervalles de vidanges. Fluidité exceptionnelle à basse température, d'où une excellente pompabilité, ce qui facilite des démarrages à froid rapides et favorise également un changement de vitesses en douceur et sans à-coups.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRCVLMOMobiltrans_AST.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobil.com/Canada-English-LCW/heavydutyengineoils_products_mobiltrans-ast-30.aspx"
+                },
+                {
+                  "id":387,
+                  "name":"Huiles engrenages Mobilube™ HD Plus",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huiles engrenages hautes performances destinées à la lubrification des transmissions mécaniques, boîtes de vitesses, ponts différentiels et réductions finales, rencontrées sur les engins de chantiers, de travaux publics, mines et carrières, travaillant dans des conditions sévères de service.",
+                  "benefits": "Excellentes stabilités chimique et thermique à des températures élevées. Bonnes performances à basse température. Bonne protection contre la rouille provoquée suite à la contamination par de l'eau.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRCVLMOMobilube_HD-A_Plus_80W-90.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobiloil.com/USA-English/MotorOil/Other_Products/Mobilube_HD_Plus_80W-90.aspx"
+                },
+                {
+                  "id":398,
+                  "name":"Mobil Delvac™ Synthetic Transmission Fluid",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Lubrifiant synthétique pour transmissions mécaniques manuelles équipant les camions et autres engins de chantiers, de travaux publics, mines et carrières, même lorsque ceux ci fonctionnent dans des conditions sévères de service.",
+                  "benefits": "Mobil Delvac™ Synthetic Transmission Fluid contribue à augmenter la durée de vie de la transmission et à réduire les coûts opérationnels. Longévité accrue des joints d'étanchéité. Longue durée de vie en service de la charge d'huile, d'où une optimisation possible des intervalles de vidange. Bonne protection contre  l'usure. Démarrages à froid et changements de vitesses facilités. Ce lubrifiant aide aussi à prolonger la durée de vie des synchros.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRCVLMOMobil_Delvac_Synthetic_Transmission_Oil_V30.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                }
+              ]
+            },
+            {
+              "id":923,
+              "name":"Différentiels et réductions finales",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":384,
+                  "name":"Mobil Delvac™ Synthetic Gear Oil",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huiles synthétiques pour engrenages destinées aux transmissions fortement sollicitées, nécessitant une viscosité assez élevée, une excellente résistance aux fortes charges, aux chocs et aux à-coups, ainsi que des propriétés extrême-pression (EP).",
+                  "benefits": "Durée de vie accrue des engrenages et des roulements. Formation de dépôts réduite. Maintien de la viscosité en service et grande résistance du film d'huile, même dans des conditions très sévères de service. Excellente protection contre l'usure. Les Mobil Delvac™ Synthetic Gear Oil contribuent également à réduire les risques de fuites et de contamination.",
+                  "pdsURL": "",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                },
+                {
+                  "id":387,
+                  "name":"Huiles engrenages Mobilube™ HD Plus",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huiles engrenages hautes performances destinées à la lubrification des transmissions mécaniques, boîtes de vitesses, ponts différentiels et réductions finales, rencontrées sur les engins de chantiers, de travaux publics, mines et carrières, travaillant dans des conditions sévères de service.",
+                  "benefits": "Excellentes stabilités chimique et thermique à des températures élevées. Bonnes performances à basse température. Bonne protection contre la rouille provoquée suite à la contamination par de l'eau.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRCVLMOMobilube_HD-A_Plus_80W-90.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobiloil.com/USA-English/MotorOil/Other_Products/Mobilube_HD_Plus_80W-90.aspx"
+                },
+                {
+                  "id":399,
+                  "name":"Mobil SHC™ Gear OH",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Grâce à son exceptionnelle stabilité thermique et à sa grande résistance à l'oxydation, Mobil Delvac 1™ contribue à réduire la formation de boues s'accumulant à basse température et de dépôts causés par les températures élevées. A chaud, l'épaisseur renforcée du film d'huile aide à réduire l'usure du moteur, les éraflures (phénomène de scuffing) et le polissage des chemises. Par ailleurs, sa faible volatilité aide à diminuer les consommations d'huile par évaporation. Enfin, par rapport à une huile moteur de grade SAE 15W-40, grâce à sa formulation avancée et à ses caractéristiques viscosimétriques, Mobil Delvac 1™ favorise les économies de carburant.",
+                  "benefits": "Ces huiles contribuent à prolonger la durée de vie des engrenages et à réduire les coûts de maintenance. Elles aident à améliorer la fiabilité des équipements et possédent une très large plage de températures d'utilisation, avec notamment un excellent comportement aux très basses températures. Elles contribuent aussi à améliorer l'efficacité énergétique des engrenages et favorisent une amélioration de la propreté des organes.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_SHC_Gear_OH_Series.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/french/products_mobil-shc_mobil-shc-oh-series.aspx"
+                },
+                {
+                  "id":400,
+                  "name":"Mobilube™ XFD",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huiles hautes performances destinées à la lubrification des ponts différentiels et réductions finales fonctionnant avec des fortes charges, des chocs et à-coups. Propriétés EP (Extrême Pression).",
+                  "benefits": "Excellente protection des engrenages, des paliers et des roulements contre les défaillances prématurées des pièces, causées par le phénomène de fatigue. Grande résistance à l'oxydation et stabilité thermique exceptionnelle, d'où une longue durée de vie en service du lubrifiant et une longévité accrue des composants. Très large plage de températures d'utilisation. Simplification des stocks, avec un seul et même produit susceptible d'être employé en toutes saisons. Excellente tenue du film lubrifiant, pour une protection fiable et efficace des pièces contre l'usure.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/NAUSENCVLMOMobilube_XFD_50_60.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":336,
+          "name":"Systèmes hydrauliques & Points de graissage",
+          "imageURL":"exploration/bull_dozer.png",
+          "x":157,
+          "y":-88,
+          "subcomponents":[
+            {
+              "id":924,
+              "name":"Systèmes hydrauliques",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":385,
+                  "name":"Mobiltrans™ HD Series",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Lubrifiants pour transmissions, boîtes de vitesses, boîtes power-shift, différentiels et réductions finales fonctionnant en service sévère.",
+                  "benefits": "Fonctionnement fiable et longue durée de vie des embrayages, grâce aux excellentes propriétés de friction et de contrôle du glissement des Mobiltrans™ HD. Remarquable stabilité de l'huile hydraulique et grande protection contre l'usure des pompes haute pression. Excellente protection des engrenages, ce qui favorise une longue durée de vie des transmissions, boîtes de vitesses et réductions finales",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/EUFRFRCVLMOMobiltransHDSeries.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                },
+                {
+                  "id":386,
+                  "name":"Mobiltrans™ AST",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huile hautes performances destinée à la lubrification des transmissions, réductions finales et systèmes hydrauliques équipant les engins de travaux publics, chantiers, mines et carrières.",
+                  "benefits": "Fonctionnement optimal et longue durée de vie des embrayages, grâce aux excellentes propriétés de friction et de contrôle du glissement des Mobiltrans™ AST. Excellentes performances contre le phénomène de broutage des freins immergés. Remarquable protection des freins et embrayages, ce qui favorise un allongement de leur durée de vie. Excellente protection contre la formation de dépôts, ce qui contribue à augmenter la durée de vie des joints d'étanchéité et à optimiser les intervalles de vidanges. Fluidité exceptionnelle à basse température, d'où une excellente pompabilité, ce qui facilite des démarrages à froid rapides et favorise également un changement de vitesses en douceur et sans à-coups.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRCVLMOMobiltrans_AST.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobil.com/Canada-English-LCW/heavydutyengineoils_products_mobiltrans-ast-30.aspx"
+                },
+                {
+                  "id":389,
+                  "name":"Mobil SHC™ 500",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huiles hydrauliques synthétiques, dotées de très hautes performances, pour pompes à palettes, à pistons et à engrenages",
+                  "benefits": "Très large plage de températures d’utilisation. Excellente stabilité thermique et grande résistance à l’oxydation, pour une meilleure protection des circuits et des systèmes hydrauliques, et ceci dans des conditions de service très diverses.  Remarquables propriétés anti-usure et bonne compatibilité multi-matériaux, pour une protection optimale des composants hydrauliques, y compris les plus critiques.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_SHC_500.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/french/products_mobil-shc_mobil-shc-500-series.aspx"
+                },
+                {
+                  "id":390,
+                  "name":"Mobil DTE 10 Excel™",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huiles hydrauliques anti-usure dotées de hautes performances. Elles ont été spécialement développées afin de satisfaire les exigences techniques des systèmes hydrauliques modernes fonctionnant avec des pressions élevées, rencontrés sur des équipements industriels fixes ou mobiles.",
+                  "benefits": "Les huiles hydrauliques anti-usure Mobil DTE 10 Excel™ ne contiennent pas de zinc dans leur formulation. Elles apportent une haute protection aux pompes à pistons, à engrenages ou à palettes, tout en minimisant la formation de dépôts. Par rapport aux autres huiles hydrauliques Mobil™, les Mobil DTE 10 Excel peuvent aussi contribuer à améliorer le rendement hydraulique des circuits. Pour l’utilisateur, cela peut se traduire par une moindre consommation d’énergie ou par un rendement accru des équipements et donc, in fine, par une réduction des coûts opérationnels. Bonne désaération et réduction des risques de cavitation.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/EUXXFRINDMOMobil_DTE_10_Excel.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/french/products_mobil-dte-10-excel-series.aspx"
+                }
+              ]
+            },
+            {
+              "id":925,
+              "name":"Points de graissage",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":392,
+                  "name":"Mobilith SHC™",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Graisses synthétiques hautes performances, pour la lubrification des roulements. Leur épaississant est un savon de lithium complexe.",
+                  "benefits": "Excellente protection contre l’usure, la rouille et la corrosion. Démarrages facilités à basse température. Excellente stabilité thermique et grande résistance à l'oxydation. Les Mobilith SHC™ favorisent un allongement des intervalles de regraissage, ce qui contribue à réduire les coûts de maintenance.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRGRSMOMobilith_SHC_PM.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                },
+                {
+                  "id":393,
+                  "name":"Mobilgrease XHP™ Mine",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Graisses minérales à épaississant lithium complexe, spécialement conçues pour les engins et équipements de chantiers, travaux publics, mines et carrières fonctionnant dans des conditions sévères de service.",
+                  "benefits": "Excellente protection des équipements, ce qui contribue à un allongement de leur durée de vie, même lorsque les conditions de fonctionnement sont extrêmement sévères. Bon comportement et excellente pompabilité à basse température, pour des démarrages à froid facilités. Possibilité d'allonger les intervalles de regraissage.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRGRSMOMobilgrease_XHP_Mine_Series.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/french/products_greases_mobilgrease-xhp-320-mine-series.aspx"
+                },
+                {
+                  "id":394,
+                  "name":"Mobilgrease XHP™",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Graisses minérales à épaississant lithium complexe, élaborées dans le but de répondre aux exigences d’un grand nombre d’applications industrielles fonctionnant dans des conditions sévères de service.",
+                  "benefits": "Excellentes caractéristiques d’adhésivité et de cohésion. Stabilité mécanique et structurelle remarquable, favorisant une extension possible des intervalles de relubrification. Grande résistance à la contamination et au délavage par l’eau. Remarquable protection contre la rouille et la corrosion. L’ensemble de ces qualités contribue à améliorer la fiabilité des équipements et des machines.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRGRSMOMobilgrease_XHP_220.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/french/products_greases_mobilgrease-xhp.aspx"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":337,
+          "name":"Moteurs",
+          "imageURL":"exploration/bull_dozer.png",
+          "x":168,
+          "y":-88,
+          "subcomponents":[
+            {
+              "id":926,
+              "name":"Moteurs",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":395,
+                  "name":"Mobil Delvac 1™",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huile synthétique hautes performances pour les moteurs Diesel modernes, à faibles émissions, fonctionnant dans des conditions sévères de service. Mobil Delvac 1™ peut également convenir aux moteurs Diesel plus anciens et bien entretenus.",
+                  "benefits": "Grâce à son exceptionnelle stabilité thermique et à sa grande résistance à l'oxydation, Mobil Delvac 1™ contribue à réduire la formation de boues s'accumulant à basse température et de dépôts causés par les températures élevées. A chaud, l'épaisseur renforcée du film d'huile aide à réduire l'usure du moteur, les éraflures (phénomène de scuffing) et le polissage des chemises. Par ailleurs, sa faible volatilité aide à diminuer les consommations d'huile par évaporation. Enfin, par rapport à une huile moteur de grade SAE 15W-40, grâce à sa formulation avancée et à ses caractéristiques viscosimétriques, Mobil Delvac 1™ favorise les économies de carburant.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRCVLMOMobil_Delvac_1_LE_5W-30.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobil.com/USA-English-LCW/diesel-engine-oil-mobil-delvac-1-le-5w30.aspx"
+                },
+                {
+                  "id":396,
+                  "name":"Mobil Delvac™ 1300 Super",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huile hautes performances pour les moteurs Diesel",
+                  "benefits": "Excellente protection contre la corrosion. Optimisation possible des intervalles de vidange, pour les moteurs anciens ou de conception plus récente utilisant du carburant à faible (500 ppm) ou très faible (15 ppm) teneur en soufre. Mobil Delvac™ 1300 Super conserve longtemps sa viscosité en service, même dans des conditions sévères de fonctionnement, à haute température. Bonne protection contre l'usure, d'où une longévité accrue des moteurs. Grande polyvalence, d'où la possibilité de n'employer qu'une seule huile moteur pour les flottes mixtes.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/NAUSENCVLMOMobil_Delvac_1300_Super.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobil.com/USA-English-LCW/heavydutyengineoils_products_engine-oils_mobil-delvac-1300-super.aspx"
+                },
+                {
+                  "id":397,
+                  "name":"Mobil Delvac MX™",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huile hautes performances pour les moteurs Diesel",
+                  "benefits": "Aide à réduire la formation de boues à basse température et de dépôts à haute température. Bon contrôle de la formation de suies. Optimisation des intervalles de vidange. Démarrages à froid facilités et usure réduite. Mobil Delvac MX™ conserve longtemps sa viscosité en service, même dans des conditions sévères de fonctionnement, à haute température.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/EUXXFRCVLMOMobil_Delvac_MX_15W-40.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobil.com/USA-English-LCW/heavydutyengineoils_products_engine-oils_mobil-delvac-mx-15w40.aspx"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":338,
+          "name":"Transmissions, Différentiels et réductions finales",
+          "imageURL":"exploration/bull_dozer.png",
+          "x":182,
+          "y":-80,
+          "subcomponents":[
+            {
+              "id":927,
+              "name":"Transmissions",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":384,
+                  "name":"Mobil Delvac™ Synthetic Gear Oil",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huiles synthétiques pour engrenages destinées aux transmissions fortement sollicitées, nécessitant une viscosité assez élevée, une excellente résistance aux fortes charges, aux chocs et aux à-coups, ainsi que des propriétés extrême-pression (EP).",
+                  "benefits": "Durée de vie accrue des engrenages et des roulements. Formation de dépôts réduite. Maintien de la viscosité en service et grande résistance du film d'huile, même dans des conditions très sévères de service. Excellente protection contre l'usure. Les Mobil Delvac™ Synthetic Gear Oil contribuent également à réduire les risques de fuites et de contamination.",
+                  "pdsURL": "",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                },
+                {
+                  "id":385,
+                  "name":"Mobiltrans™ HD Series",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Lubrifiants pour transmissions, boîtes de vitesses, boîtes power-shift, différentiels et réductions finales fonctionnant en service sévère.",
+                  "benefits": "Fonctionnement fiable et longue durée de vie des embrayages, grâce aux excellentes propriétés de friction et de contrôle du glissement des Mobiltrans™ HD. Remarquable stabilité de l'huile hydraulique et grande protection contre l'usure des pompes haute pression. Excellente protection des engrenages, ce qui favorise une longue durée de vie des transmissions, boîtes de vitesses et réductions finales",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/EUFRFRCVLMOMobiltransHDSeries.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                },
+                {
+                  "id":386,
+                  "name":"Mobiltrans™ AST",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huile hautes performances destinée à la lubrification des transmissions, réductions finales et systèmes hydrauliques équipant les engins de travaux publics, chantiers, mines et carrières.",
+                  "benefits": "Fonctionnement optimal et longue durée de vie des embrayages, grâce aux excellentes propriétés de friction et de contrôle du glissement des Mobiltrans™ AST. Excellentes performances contre le phénomène de broutage des freins immergés. Remarquable protection des freins et embrayages, ce qui favorise un allongement de leur durée de vie. Excellente protection contre la formation de dépôts, ce qui contribue à augmenter la durée de vie des joints d'étanchéité et à optimiser les intervalles de vidanges. Fluidité exceptionnelle à basse température, d'où une excellente pompabilité, ce qui facilite des démarrages à froid rapides et favorise également un changement de vitesses en douceur et sans à-coups.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRCVLMOMobiltrans_AST.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobil.com/Canada-English-LCW/heavydutyengineoils_products_mobiltrans-ast-30.aspx"
+                },
+                {
+                  "id":387,
+                  "name":"Huiles engrenages Mobilube™ HD Plus",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huiles engrenages hautes performances destinées à la lubrification des transmissions mécaniques, boîtes de vitesses, ponts différentiels et réductions finales, rencontrées sur les engins de chantiers, de travaux publics, mines et carrières, travaillant dans des conditions sévères de service.",
+                  "benefits": "Excellentes stabilités chimique et thermique à des températures élevées. Bonnes performances à basse température. Bonne protection contre la rouille provoquée suite à la contamination par de l'eau.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRCVLMOMobilube_HD-A_Plus_80W-90.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobiloil.com/USA-English/MotorOil/Other_Products/Mobilube_HD_Plus_80W-90.aspx"
+                },
+                {
+                  "id":398,
+                  "name":"Mobil Delvac™ Synthetic Transmission Fluid",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Lubrifiant synthétique pour transmissions mécaniques manuelles équipant les camions et autres engins de chantiers, de travaux publics, mines et carrières, même lorsque ceux ci fonctionnent dans des conditions sévères de service.",
+                  "benefits": "Mobil Delvac™ Synthetic Transmission Fluid contribue à augmenter la durée de vie de la transmission et à réduire les coûts opérationnels. Longévité accrue des joints d'étanchéité. Longue durée de vie en service de la charge d'huile, d'où une optimisation possible des intervalles de vidange. Bonne protection contre  l'usure. Démarrages à froid et changements de vitesses facilités. Ce lubrifiant aide aussi à prolonger la durée de vie des synchros.",
+                  "pdsURL": "",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                }
+              ]
+            },
+            {
+              "id":928,
+              "name":"Différentiels et réductions finales",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":384,
+                  "name":"Mobil Delvac™ Synthetic Gear Oil",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huiles synthétiques pour engrenages destinées aux transmissions fortement sollicitées, nécessitant une viscosité assez élevée, une excellente résistance aux fortes charges, aux chocs et aux à-coups, ainsi que des propriétés extrême-pression (EP).",
+                  "benefits": "Durée de vie accrue des engrenages et des roulements. Formation de dépôts réduite. Maintien de la viscosité en service et grande résistance du film d'huile, même dans des conditions très sévères de service. Excellente protection contre l'usure. Les Mobil Delvac™ Synthetic Gear Oil contribuent également à réduire les risques de fuites et de contamination.",
+                  "pdsURL": "",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                },
+                {
+                  "id":400,
+                  "name":"Mobilube™ XFD",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huiles hautes performances destinées à la lubrification des ponts différentiels et réductions finales fonctionnant avec des fortes charges, des chocs et à-coups. Propriétés EP (Extrême Pression).",
+                  "benefits": "Excellente protection des engrenages, des paliers et des roulements contre les défaillances prématurées des pièces, causées par le phénomène de fatigue. Grande résistance à l'oxydation et stabilité thermique exceptionnelle, d'où une longue durée de vie en service du lubrifiant et une longévité accrue des composants. Très large plage de températures d'utilisation. Simplification des stocks, avec un seul et même produit susceptible d'être employé en toutes saisons. Excellente tenue du film lubrifiant, pour une protection fiable et efficace des pièces contre l'usure.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/NAUSENCVLMOMobilube_XFD_50_60.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":339,
+          "name":"Moteurs & Systèmes hydrauliques",
+          "imageURL":"exploration/water_truck.png",
+          "x":208,
+          "y":-82,
+          "subcomponents":[
+            {
+              "id":929,
+              "name":"Moteurs",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":395,
+                  "name":"Mobil Delvac 1™",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huile synthétique hautes performances pour les moteurs Diesel modernes, à faibles émissions, fonctionnant dans des conditions sévères de service. Mobil Delvac 1™ peut également convenir aux moteurs Diesel plus anciens et bien entretenus.",
+                  "benefits": "Grâce à son exceptionnelle stabilité thermique et à sa grande résistance à l'oxydation, Mobil Delvac 1™ contribue à réduire la formation de boues s'accumulant à basse température et de dépôts causés par les températures élevées. A chaud, l'épaisseur renforcée du film d'huile aide à réduire l'usure du moteur, les éraflures (phénomène de scuffing) et le polissage des chemises. Par ailleurs, sa faible volatilité aide à diminuer les consommations d'huile par évaporation. Enfin, par rapport à une huile moteur de grade SAE 15W-40, grâce à sa formulation avancée et à ses caractéristiques viscosimétriques, Mobil Delvac 1™ favorise les économies de carburant.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRCVLMOMobil_Delvac_1_LE_5W-30.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobil.com/USA-English-LCW/diesel-engine-oil-mobil-delvac-1-le-5w30.aspx"
+                },
+                {
+                  "id":396,
+                  "name":"Mobil Delvac™ 1300 Super",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huile hautes performances pour les moteurs Diesel",
+                  "benefits": "Excellente protection contre la corrosion. Optimisation possible des intervalles de vidange, pour les moteurs anciens ou de conception plus récente utilisant du carburant à faible (500 ppm) ou très faible (15 ppm) teneur en soufre. Mobil Delvac™ 1300 Super conserve longtemps sa viscosité en service, même dans des conditions sévères de fonctionnement, à haute température. Bonne protection contre l'usure, d'où une longévité accrue des moteurs. Grande polyvalence, d'où la possibilité de n'employer qu'une seule huile moteur pour les flottes mixtes.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/NAUSENCVLMOMobil_Delvac_1300_Super.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobil.com/USA-English-LCW/heavydutyengineoils_products_engine-oils_mobil-delvac-1300-super.aspx"
+                },
+                {
+                  "id":397,
+                  "name":"Mobil Delvac MX™",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huile hautes performances pour les moteurs Diesel",
+                  "benefits": "Aide à réduire la formation de boues à basse température et de dépôts à haute température. Bon contrôle de la formation de suies. Optimisation des intervalles de vidange. Démarrages à froid facilités et usure réduite. Mobil Delvac MX™ conserve longtemps sa viscosité en service, même dans des conditions sévères de fonctionnement, à haute température.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/EUXXFRCVLMOMobil_Delvac_MX_15W-40.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobil.com/USA-English-LCW/heavydutyengineoils_products_engine-oils_mobil-delvac-mx-15w40.aspx"
+                }
+              ]
+            },
+            {
+              "id":930,
+              "name":"Systèmes hydrauliques",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":385,
+                  "name":"Mobiltrans™ HD",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Lubrifiants pour transmissions, boîtes de vitesses, boîtes power-shift, différentiels et réductions finales fonctionnant en service sévère.",
+                  "benefits": "Fonctionnement fiable et longue durée de vie des embrayages, grâce aux excellentes propriétés de friction et de contrôle du glissement des Mobiltrans™ HD. Remarquable stabilité de l'huile hydraulique et grande protection contre l'usure des pompes haute pression. Excellente protection des engrenages, ce qui favorise une longue durée de vie des transmissions, boîtes de vitesses et réductions finales",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/EUFRFRCVLMOMobiltransHDSeries.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                },
+                {
+                  "id":386,
+                  "name":"Mobiltrans™ AST",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huile hautes performances destinée à la lubrification des transmissions, réductions finales et systèmes hydrauliques équipant les engins de travaux publics, chantiers, mines et carrières.",
+                  "benefits": "Fonctionnement optimal et longue durée de vie des embrayages, grâce aux excellentes propriétés de friction et de contrôle du glissement des Mobiltrans™ AST. Excellentes performances contre le phénomène de broutage des freins immergés. Remarquable protection des freins et embrayages, ce qui favorise un allongement de leur durée de vie. Excellente protection contre la formation de dépôts, ce qui contribue à augmenter la durée de vie des joints d'étanchéité et à optimiser les intervalles de vidanges. Fluidité exceptionnelle à basse température, d'où une excellente pompabilité, ce qui facilite des démarrages à froid rapides et favorise également un changement de vitesses en douceur et sans à-coups.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRCVLMOMobiltrans_AST.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobil.com/Canada-English-LCW/heavydutyengineoils_products_mobiltrans-ast-30.aspx"
+                },
+                {
+                  "id":389,
+                  "name":"Mobil SHC™ 500",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huiles hydrauliques synthétiques, dotées de très hautes performances, pour pompes à palettes, à pistons et à engrenages",
+                  "benefits": "Très large plage de températures d’utilisation. Excellente stabilité thermique et grande résistance à l’oxydation, pour une meilleure protection des circuits et des systèmes hydrauliques, et ceci dans des conditions de service très diverses.  Remarquables propriétés anti-usure et bonne compatibilité multi-matériaux, pour une protection optimale des composants hydrauliques, y compris les plus critiques.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_SHC_500.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/french/products_mobil-shc_mobil-shc-500-series.aspx"
+                },
+                {
+                  "id":390,
+                  "name":"Mobil DTE 10 Excel™",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huiles hydrauliques anti-usure dotées de hautes performances. Elles ont été spécialement développées afin de satisfaire les exigences techniques des systèmes hydrauliques modernes fonctionnant avec des pressions élevées, rencontrés sur des équipements industriels fixes ou mobiles.",
+                  "benefits": "Les huiles hydrauliques anti-usure Mobil DTE 10 Excel™ ne contiennent pas de zinc dans leur formulation. Elles apportent une haute protection aux pompes à pistons, à engrenages ou à palettes, tout en minimisant la formation de dépôts. Par rapport aux autres huiles hydrauliques Mobil™, les Mobil DTE 10 Excel peuvent aussi contribuer à améliorer le rendement hydraulique des circuits. Pour l’utilisateur, cela peut se traduire par une moindre consommation d’énergie ou par un rendement accru des équipements et donc, in fine, par une réduction des coûts opérationnels. Bonne désaération et réduction des risques de cavitation.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/EUXXFRINDMOMobil_DTE_10_Excel.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/french/products_mobil-dte-10-excel-series.aspx"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":340,
+          "name":"Transmissions, Différentiels et réductions finales",
+          "imageURL":"exploration/water_truck.png",
+          "x":231,
+          "y":-85,
+          "subcomponents":[
+            {
+              "id":931,
+              "name":"Transmissions",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":384,
+                  "name":"Mobil Delvac™ Synthetic Gear Oil",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huiles synthétiques pour engrenages destinées aux transmissions fortement sollicitées, nécessitant une viscosité assez élevée, une excellente résistance aux fortes charges, aux chocs et aux à-coups, ainsi que des propriétés extrême-pression (EP).",
+                  "benefits": "Durée de vie accrue des engrenages et des roulements. Formation de dépôts réduite. Maintien de la viscosité en service et grande résistance du film d'huile, même dans des conditions très sévères de service. Excellente protection contre l'usure. Les Mobil Delvac™ Synthetic Gear Oil contribuent également à réduire les risques de fuites et de contamination.",
+                  "pdsURL": "",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                },
+                {
+                  "id":385,
+                  "name":"Mobiltrans™ HD",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Lubrifiants pour transmissions, boîtes de vitesses, boîtes power-shift, différentiels et réductions finales fonctionnant en service sévère.",
+                  "benefits": "Fonctionnement fiable et longue durée de vie des embrayages, grâce aux excellentes propriétés de friction et de contrôle du glissement des Mobiltrans™ HD. Remarquable stabilité de l'huile hydraulique et grande protection contre l'usure des pompes haute pression. Excellente protection des engrenages, ce qui favorise une longue durée de vie des transmissions, boîtes de vitesses et réductions finales",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/EUFRFRCVLMOMobiltransHDSeries.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                },
+                {
+                  "id":386,
+                  "name":"Mobiltrans™ AST",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huile hautes performances destinée à la lubrification des transmissions, réductions finales et systèmes hydrauliques équipant les engins de travaux publics, chantiers, mines et carrières.",
+                  "benefits": "Fonctionnement optimal et longue durée de vie des embrayages, grâce aux excellentes propriétés de friction et de contrôle du glissement des Mobiltrans™ AST. Excellentes performances contre le phénomène de broutage des freins immergés. Remarquable protection des freins et embrayages, ce qui favorise un allongement de leur durée de vie. Excellente protection contre la formation de dépôts, ce qui contribue à augmenter la durée de vie des joints d'étanchéité et à optimiser les intervalles de vidanges. Fluidité exceptionnelle à basse température, d'où une excellente pompabilité, ce qui facilite des démarrages à froid rapides et favorise également un changement de vitesses en douceur et sans à-coups.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRCVLMOMobiltrans_AST.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobil.com/Canada-English-LCW/heavydutyengineoils_products_mobiltrans-ast-30.aspx"
+                },
+                {
+                  "id":387,
+                  "name":"Huiles engrenages Mobilube™ HD Plus",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huiles engrenages hautes performances destinées à la lubrification des transmissions mécaniques, boîtes de vitesses, ponts différentiels et réductions finales, rencontrées sur les engins de chantiers, de travaux publics, mines et carrières, travaillant dans des conditions sévères de service.",
+                  "benefits": "Excellentes stabilités chimique et thermique à des températures élevées. Bonnes performances à basse température. Bonne protection contre la rouille provoquée suite à la contamination par de l'eau.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRCVLMOMobilube_HD-A_Plus_80W-90.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobiloil.com/USA-English/MotorOil/Other_Products/Mobilube_HD_Plus_80W-90.aspx"
+                },
+                {
+                  "id":398,
+                  "name":"Mobil Delvac™ Synthetic Transmission Fluid",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Lubrifiant synthétique pour transmissions mécaniques manuelles équipant les camions et autres engins de chantiers, de travaux publics, mines et carrières, même lorsque ceux ci fonctionnent dans des conditions sévères de service.",
+                  "benefits": "Mobil Delvac™ Synthetic Transmission Fluid contribue à augmenter la durée de vie de la transmission et à réduire les coûts opérationnels. Longévité accrue des joints d'étanchéité. Longue durée de vie en service de la charge d'huile, d'où une optimisation possible des intervalles de vidange. Bonne protection contre  l'usure. Démarrages à froid et changements de vitesses facilités. Ce lubrifiant aide aussi à prolonger la durée de vie des synchros.",
+                  "pdsURL": "",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                }
+              ]
+            },
+            {
+              "id":932,
+              "name":"Différentiels et réductions finales",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":384,
+                  "name":"Mobil Delvac™ Synthetic Gear Oil",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huiles synthétiques pour engrenages destinées aux transmissions fortement sollicitées, nécessitant une viscosité assez élevée, une excellente résistance aux fortes charges, aux chocs et aux à-coups, ainsi que des propriétés extrême-pression (EP).",
+                  "benefits": "Durée de vie accrue des engrenages et des roulements. Formation de dépôts réduite. Maintien de la viscosité en service et grande résistance du film d'huile, même dans des conditions très sévères de service. Excellente protection contre l'usure. Les Mobil Delvac™ Synthetic Gear Oil contribuent également à réduire les risques de fuites et de contamination.",
+                  "pdsURL": "",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                },
+                {
+                  "id":387,
+                  "name":"Huiles engrenages Mobilube™ HD Plus",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huiles engrenages hautes performances destinées à la lubrification des transmissions mécaniques, boîtes de vitesses, ponts différentiels et réductions finales, rencontrées sur les engins de chantiers, de travaux publics, mines et carrières, travaillant dans des conditions sévères de service.",
+                  "benefits": "Excellentes stabilités chimique et thermique à des températures élevées. Bonnes performances à basse température. Bonne protection contre la rouille provoquée suite à la contamination par de l'eau.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRCVLMOMobilube_HD-A_Plus_80W-90.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobiloil.com/USA-English/MotorOil/Other_Products/Mobilube_HD_Plus_80W-90.aspx"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":341,
+          "name":"Points de graissage",
+          "imageURL":"exploration/water_truck.png",
+          "x":245,
+          "y":-75,
+          "subcomponents":[
+            {
+              "id":933,
+              "name":"Points de graissage",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":392,
+                  "name":"Mobilith SHC™",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Graisses synthétiques hautes performances, pour la lubrification des roulements. Leur épaississant est un savon de lithium complexe.",
+                  "benefits": "Excellente protection contre l’usure, la rouille et la corrosion. Démarrages facilités à basse température. Excellente stabilité thermique et grande résistance à l'oxydation. Les Mobilith SHC™ favorisent un allongement des intervalles de regraissage, ce qui contribue à réduire les coûts de maintenance.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRGRSMOMobilith_SHC_PM.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                },
+                {
+                  "id":393,
+                  "name":"Mobilgrease XHP™ Mine",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Graisses minérales à épaississant lithium complexe, spécialement conçues pour les engins et équipements de chantiers, travaux publics, mines et carrières fonctionnant dans des conditions sévères de service.",
+                  "benefits": "Excellente protection des équipements, ce qui contribue à un allongement de leur durée de vie, même lorsque les conditions de fonctionnement sont extrêmement sévères. Bon comportement et excellente pompabilité à basse température, pour des démarrages à froid facilités. Possibilité d'allonger les intervalles de regraissage.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRGRSMOMobilgrease_XHP_Mine_Series.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/french/products_greases_mobilgrease-xhp-320-mine-series.aspx"
+                },
+                {
+                  "id":394,
+                  "name":"Mobilgrease XHP™",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Graisses minérales à épaississant lithium complexe, élaborées dans le but de répondre aux exigences d’un grand nombre d’applications industrielles fonctionnant dans des conditions sévères de service.",
+                  "benefits": "Excellentes caractéristiques d’adhésivité et de cohésion. Stabilité mécanique et structurelle remarquable, favorisant une extension possible des intervalles de relubrification. Grande résistance à la contamination et au délavage par l’eau. Remarquable protection contre la rouille et la corrosion. L’ensemble de ces qualités contribue à améliorer la fiabilité des équipements et des machines.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRGRSMOMobilgrease_XHP_220.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/french/products_greases_mobilgrease-xhp.aspx"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":342,
+          "name":"Systèmes hydrauliques, Moteurs & Points de graissage",
+          "imageURL":"exploration/wheel_loader.png",
+          "x":11,
+          "y":-180,
+          "subcomponents":[
+            {
+              "id":934,
+              "name":"Systèmes hydrauliques",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":385,
+                  "name":"Mobiltrans™ HD",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Lubrifiants pour transmissions, boîtes de vitesses, boîtes power-shift, différentiels et réductions finales fonctionnant en service sévère.",
+                  "benefits": "Fonctionnement fiable et longue durée de vie des embrayages, grâce aux excellentes propriétés de friction et de contrôle du glissement des Mobiltrans™ HD. Remarquable stabilité de l'huile hydraulique et grande protection contre l'usure des pompes haute pression. Excellente protection des engrenages, ce qui favorise une longue durée de vie des transmissions, boîtes de vitesses et réductions finales",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/EUFRFRCVLMOMobiltransHDSeries.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                },
+                {
+                  "id":386,
+                  "name":"Mobiltrans™ AST",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huile hautes performances destinée à la lubrification des transmissions, réductions finales et systèmes hydrauliques équipant les engins de travaux publics, chantiers, mines et carrières.",
+                  "benefits": "Fonctionnement optimal et longue durée de vie des embrayages, grâce aux excellentes propriétés de friction et de contrôle du glissement des Mobiltrans™ AST. Excellentes performances contre le phénomène de broutage des freins immergés. Remarquable protection des freins et embrayages, ce qui favorise un allongement de leur durée de vie. Excellente protection contre la formation de dépôts, ce qui contribue à augmenter la durée de vie des joints d'étanchéité et à optimiser les intervalles de vidanges. Fluidité exceptionnelle à basse température, d'où une excellente pompabilité, ce qui facilite des démarrages à froid rapides et favorise également un changement de vitesses en douceur et sans à-coups.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRCVLMOMobiltrans_AST.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobil.com/Canada-English-LCW/heavydutyengineoils_products_mobiltrans-ast-30.aspx"
+                },
+                {
+                  "id":389,
+                  "name":"Mobil SHC™ 500",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huiles hydrauliques synthétiques, dotées de très hautes performances, pour pompes à palettes, à pistons et à engrenages",
+                  "benefits": "Très large plage de températures d’utilisation. Excellente stabilité thermique et grande résistance à l’oxydation, pour une meilleure protection des circuits et des systèmes hydrauliques, et ceci dans des conditions de service très diverses.  Remarquables propriétés anti-usure et bonne compatibilité multi-matériaux, pour une protection optimale des composants hydrauliques, y compris les plus critiques.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_SHC_500.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/english/products_mobil-shc_mobil-shc-500-series.aspx"
+                },
+                {
+                  "id":390,
+                  "name":"Mobil DTE 10 Excel™",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huiles hydrauliques anti-usure dotées de hautes performances. Elles ont été spécialement développées afin de satisfaire les exigences techniques des systèmes hydrauliques modernes fonctionnant avec des pressions élevées, rencontrés sur des équipements industriels fixes ou mobiles.",
+                  "benefits": "Les huiles hydrauliques anti-usure Mobil DTE 10 Excel™ ne contiennent pas de zinc dans leur formulation. Elles apportent une haute protection aux pompes à pistons, à engrenages ou à palettes, tout en minimisant la formation de dépôts. Par rapport aux autres huiles hydrauliques Mobil™, les Mobil DTE 10 Excel peuvent aussi contribuer à améliorer le rendement hydraulique des circuits. Pour l’utilisateur, cela peut se traduire par une moindre consommation d’énergie ou par un rendement accru des équipements et donc, in fine, par une réduction des coûts opérationnels. Bonne désaération et réduction des risques de cavitation.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/EUXXFRINDMOMobil_DTE_10_Excel.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/french/products_mobil-dte-10-excel-series.aspx"
+                }
+              ]
+            },
+            {
+              "id":935,
+              "name":"Moteurs",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":395,
+                  "name":"Mobil Delvac 1™",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huile synthétique hautes performances pour les moteurs Diesel modernes, à faibles émissions, fonctionnant dans des conditions sévères de service. Mobil Delvac 1™ peut également convenir aux moteurs Diesel plus anciens et bien entretenus.",
+                  "benefits": "Grâce à son exceptionnelle stabilité thermique et à sa grande résistance à l'oxydation, Mobil Delvac 1™ contribue à réduire la formation de boues s'accumulant à basse température et de dépôts causés par les températures élevées. A chaud, l'épaisseur renforcée du film d'huile aide à réduire l'usure du moteur, les éraflures (phénomène de scuffing) et le polissage des chemises. Par ailleurs, sa faible volatilité aide à diminuer les consommations d'huile par évaporation. Enfin, par rapport à une huile moteur de grade SAE 15W-40, grâce à sa formulation avancée et à ses caractéristiques viscosimétriques, Mobil Delvac 1™ favorise les économies de carburant.",
+                  "pdsURL": "",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobil.com/USA-English-LCW/diesel-engine-oil-mobil-delvac-1-le-5w30.aspx"
+                },
+                {
+                  "id":396,
+                  "name":"Mobil Delvac™ 1300 Super",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huile hautes performances pour les moteurs Diesel",
+                  "benefits": "Excellente protection contre la corrosion. Optimisation possible des intervalles de vidange, pour les moteurs anciens ou de conception plus récente utilisant du carburant à faible (500 ppm) ou très faible (15 ppm) teneur en soufre. Mobil Delvac™ 1300 Super conserve longtemps sa viscosité en service, même dans des conditions sévères de fonctionnement, à haute température. Bonne protection contre l'usure, d'où une longévité accrue des moteurs. Grande polyvalence, d'où la possibilité de n'employer qu'une seule huile moteur pour les flottes mixtes.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/NAUSENCVLMOMobil_Delvac_1300_Super.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobil.com/USA-English-LCW/heavydutyengineoils_products_engine-oils_mobil-delvac-1300-super.aspx"
+                },
+                {
+                  "id":397,
+                  "name":"Mobil Delvac MX™",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huile hautes performances pour les moteurs Diesel",
+                  "benefits": "Aide à réduire la formation de boues à basse température et de dépôts à haute température. Bon contrôle de la formation de suies. Optimisation des intervalles de vidange. Démarrages à froid facilités et usure réduite. Mobil Delvac MX™ conserve longtemps sa viscosité en service, même dans des conditions sévères de fonctionnement, à haute température.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/EUXXFRCVLMOMobil_Delvac_MX_15W-40.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobil.com/USA-English-LCW/heavydutyengineoils_products_engine-oils_mobil-delvac-mx-15w40.aspx"
+                }
+              ]
+            },
+            {
+              "id":936,
+              "name":"Points de graissage",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":392,
+                  "name":"Mobilith SHC™",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Graisses synthétiques hautes performances, pour la lubrification des roulements. Leur épaississant est un savon de lithium complexe.",
+                  "benefits": "Excellente protection contre l’usure, la rouille et la corrosion. Démarrages facilités à basse température. Excellente stabilité thermique et grande résistance à l'oxydation. Les Mobilith SHC™ favorisent un allongement des intervalles de regraissage, ce qui contribue à réduire les coûts de maintenance.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRGRSMOMobilith_SHC_PM.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                },
+                {
+                  "id":393,
+                  "name":"Mobilgrease XHP™ Mine",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Graisses minérales à épaississant lithium complexe, spécialement conçues pour les engins et équipements de chantiers, travaux publics, mines et carrières fonctionnant dans des conditions sévères de service.",
+                  "benefits": "Excellente protection des équipements, ce qui contribue à un allongement de leur durée de vie, même lorsque les conditions de fonctionnement sont extrêmement sévères. Bon comportement et excellente pompabilité à basse température, pour des démarrages à froid facilités. Possibilité d'allonger les intervalles de regraissage.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRGRSMOMobilgrease_XHP_Mine_Series.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_greases_mobilgrease-xhp-320-mine-series.aspx"
+                },
+                {
+                  "id":394,
+                  "name":"Mobilgrease XHP™",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Graisses minérales à épaississant lithium complexe, élaborées dans le but de répondre aux exigences d’un grand nombre d’applications industrielles fonctionnant dans des conditions sévères de service.",
+                  "benefits": "Excellentes caractéristiques d’adhésivité et de cohésion. Stabilité mécanique et structurelle remarquable, favorisant une extension possible des intervalles de relubrification. Grande résistance à la contamination et au délavage par l’eau. Remarquable protection contre la rouille et la corrosion. L’ensemble de ces qualités contribue à améliorer la fiabilité des équipements et des machines.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRGRSMOMobilgrease_XHP_220.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/french/products_greases_mobilgrease-xhp.aspx"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":343,
+          "name":"Transmissions",
+          "imageURL":"exploration/wheel_loader.png",
+          "x":26,
+          "y":-180,
+          "subcomponents":[
+            {
+              "id":937,
+              "name":"Transmissions",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":384,
+                  "name":"Mobil Delvac™ Synthetic Gear Oil",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huiles synthétiques pour engrenages destinées aux transmissions fortement sollicitées, nécessitant une viscosité assez élevée, une excellente résistance aux fortes charges, aux chocs et aux à-coups, ainsi que des propriétés extrême-pression (EP).",
+                  "benefits": "Durée de vie accrue des engrenages et des roulements. Formation de dépôts réduite. Maintien de la viscosité en service et grande résistance du film d'huile, même dans des conditions très sévères de service. Excellente protection contre l'usure. Les Mobil Delvac™ Synthetic Gear Oil contribuent également à réduire les risques de fuites et de contamination.",
+                  "pdsURL": "",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                },
+                {
+                  "id":385,
+                  "name":"Mobiltrans™ HD",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Lubrifiants pour transmissions, boîtes de vitesses, boîtes power-shift, différentiels et réductions finales fonctionnant en service sévère.",
+                  "benefits": "Fonctionnement fiable et longue durée de vie des embrayages, grâce aux excellentes propriétés de friction et de contrôle du glissement des Mobiltrans™ HD. Remarquable stabilité de l'huile hydraulique et grande protection contre l'usure des pompes haute pression. Excellente protection des engrenages, ce qui favorise une longue durée de vie des transmissions, boîtes de vitesses et réductions finales",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/EUFRFRCVLMOMobiltransHDSeries.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                },
+                {
+                  "id":386,
+                  "name":"Mobiltrans™ AST",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huile hautes performances destinée à la lubrification des transmissions, réductions finales et systèmes hydrauliques équipant les engins de travaux publics, chantiers, mines et carrières.",
+                  "benefits": "Fonctionnement optimal et longue durée de vie des embrayages, grâce aux excellentes propriétés de friction et de contrôle du glissement des Mobiltrans™ AST. Excellentes performances contre le phénomène de broutage des freins immergés. Remarquable protection des freins et embrayages, ce qui favorise un allongement de leur durée de vie. Excellente protection contre la formation de dépôts, ce qui contribue à augmenter la durée de vie des joints d'étanchéité et à optimiser les intervalles de vidanges. Fluidité exceptionnelle à basse température, d'où une excellente pompabilité, ce qui facilite des démarrages à froid rapides et favorise également un changement de vitesses en douceur et sans à-coups.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRCVLMOMobiltrans_AST.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobil.com/Canada-English-LCW/heavydutyengineoils_products_mobiltrans-ast-30.aspx"
+                },
+                {
+                  "id":387,
+                  "name":"Huiles engrenages Mobilube™ HD Plus",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huiles engrenages hautes performances destinées à la lubrification des transmissions mécaniques, boîtes de vitesses, ponts différentiels et réductions finales, rencontrées sur les engins de chantiers, de travaux publics, mines et carrières, travaillant dans des conditions sévères de service.",
+                  "benefits": "Excellentes stabilités chimique et thermique à des températures élevées. Bonnes performances à basse température. Bonne protection contre la rouille provoquée suite à la contamination par de l'eau.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRCVLMOMobilube_HD-A_Plus_80W-90.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobiloil.com/USA-English/MotorOil/Other_Products/Mobilube_HD_Plus_80W-90.aspx"
+                },
+                {
+                  "id":398,
+                  "name":"Mobil Delvac™ Synthetic Transmission Fluid",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Lubrifiant synthétique pour transmissions mécaniques manuelles équipant les camions et autres engins de chantiers, de travaux publics, mines et carrières, même lorsque ceux ci fonctionnent dans des conditions sévères de service.",
+                  "benefits": "Mobil Delvac™ Synthetic Transmission Fluid contribue à augmenter la durée de vie de la transmission et à réduire les coûts opérationnels. Longévité accrue des joints d'étanchéité. Longue durée de vie en service de la charge d'huile, d'où une optimisation possible des intervalles de vidange. Bonne protection contre  l'usure. Démarrages à froid et changements de vitesses facilités. Ce lubrifiant aide aussi à prolonger la durée de vie des synchros.",
+                  "pdsURL": "",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":344,
+          "name":"Différentiels et réductions finales",
+          "imageURL":"exploration/wheel_loader.png",
+          "x":35,
+          "y":-177,
+          "subcomponents":[
+            {
+              "id":938,
+              "name":"Différentiels et réductions finales",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":384,
+                  "name":"Mobil Delvac™ Synthetic Gear Oil",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huiles synthétiques pour engrenages destinées aux transmissions fortement sollicitées, nécessitant une viscosité assez élevée, une excellente résistance aux fortes charges, aux chocs et aux à-coups, ainsi que des propriétés extrême-pression (EP).",
+                  "benefits": "Durée de vie accrue des engrenages et des roulements. Formation de dépôts réduite. Maintien de la viscosité en service et grande résistance du film d'huile, même dans des conditions très sévères de service. Excellente protection contre l'usure. Les Mobil Delvac™ Synthetic Gear Oil contribuent également à réduire les risques de fuites et de contamination.",
+                  "pdsURL": "",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                },
+                {
+                  "id":385,
+                  "name":"Mobiltrans™ HD",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Lubrifiants pour transmissions, boîtes de vitesses, boîtes power-shift, différentiels et réductions finales fonctionnant en service sévère.",
+                  "benefits": "Fonctionnement fiable et longue durée de vie des embrayages, grâce aux excellentes propriétés de friction et de contrôle du glissement des Mobiltrans™ HD. Remarquable stabilité de l'huile hydraulique et grande protection contre l'usure des pompes haute pression. Excellente protection des engrenages, ce qui favorise une longue durée de vie des transmissions, boîtes de vitesses et réductions finales",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/EUFRFRCVLMOMobiltransHDSeries.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                },
+                {
+                  "id":387,
+                  "name":"Huiles engrenages Mobilube™ HD Plus",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huiles engrenages hautes performances destinées à la lubrification des transmissions mécaniques, boîtes de vitesses, ponts différentiels et réductions finales, rencontrées sur les engins de chantiers, de travaux publics, mines et carrières, travaillant dans des conditions sévères de service.",
+                  "benefits": "Excellentes stabilités chimique et thermique à des températures élevées. Bonnes performances à basse température. Bonne protection contre la rouille provoquée suite à la contamination par de l'eau.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRCVLMOMobilube_HD-A_Plus_80W-90.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobiloil.com/USA-English/MotorOil/Other_Products/Mobilube_HD_Plus_80W-90.aspx"
+                },
+                {
+                  "id":400,
+                  "name":"Mobilube™ XFD",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huiles hautes performances destinées à la lubrification des ponts différentiels et réductions finales fonctionnant avec des fortes charges, des chocs et à-coups. Propriétés EP (Extrême Pression).",
+                  "benefits": "Excellente protection des engrenages, des paliers et des roulements contre les défaillances prématurées des pièces, causées par le phénomène de fatigue. Grande résistance à l'oxydation et stabilité thermique exceptionnelle, d'où une longue durée de vie en service du lubrifiant et une longévité accrue des composants. Très large plage de températures d'utilisation. Simplification des stocks, avec un seul et même produit susceptible d'être employé en toutes saisons. Excellente tenue du film lubrifiant, pour une protection fiable et efficace des pièces contre l'usure.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/NAUSENCVLMOMobilube_XFD_50_60.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":345,
+          "name":"Compresseurs d'air & Points de graissage",
+          "imageURL":"exploration/electromechanical_shovel.png",
+          "x":70,
+          "y":-176,
+          "subcomponents":[
+            {
+              "id":939,
+              "name":"Compresseurs d'air",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":383,
+                  "name":"Mobil Rarus SHC™ 1020",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huiles synthétiques pour compresseurs d’air rotatifs à vis",
+                  "benefits": "Maintien de la propreté des composants. Stabilité exceptionnelle permettant de prolonger la disponibilité en service des équipements. Durée de vie importante de la charge d’huile. Formation de dépôts réduite. Favorise la réduction des coûts de maintenance. Excellentes propriétés anti-usure.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_Rarus_SHC_1020_Series.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/french/products_mobil-shc_mobil-rarus-shc-1020-series.aspx"
+                }
+              ]
+            },
+            {
+              "id":940,
+              "name":"Points de graissage",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":392,
+                  "name":"Mobilith SHC™",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Graisses synthétiques hautes performances, pour la lubrification des roulements. Leur épaississant est un savon de lithium complexe.",
+                  "benefits": "Excellente protection contre l’usure, la rouille et la corrosion. Démarrages facilités à basse température. Excellente stabilité thermique et grande résistance à l'oxydation. Les Mobilith SHC™ favorisent un allongement des intervalles de regraissage, ce qui contribue à réduire les coûts de maintenance.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRGRSMOMobilith_SHC_PM.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                },
+                {
+                  "id":393,
+                  "name":"Mobilgrease XHP™ Mine",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Graisses minérales à épaississant lithium complexe, spécialement conçues pour les engins et équipements de chantiers, travaux publics, mines et carrières fonctionnant dans des conditions sévères de service.",
+                  "benefits": "Excellente protection des équipements, ce qui contribue à un allongement de leur durée de vie, même lorsque les conditions de fonctionnement sont extrêmement sévères. Bon comportement et excellente pompabilité à basse température, pour des démarrages à froid facilités. Possibilité d'allonger les intervalles de regraissage.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRGRSMOMobilgrease_XHP_Mine_Series.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/french/products_greases_mobilgrease-xhp-320-mine-series.aspx"
+                },
+                {
+                  "id":394,
+                  "name":"Mobilgrease XHP™",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Graisses minérales à épaississant lithium complexe, élaborées dans le but de répondre aux exigences d’un grand nombre d’applications industrielles fonctionnant dans des conditions sévères de service.",
+                  "benefits": "Excellentes caractéristiques d’adhésivité et de cohésion. Stabilité mécanique et structurelle remarquable, favorisant une extension possible des intervalles de relubrification. Grande résistance à la contamination et au délavage par l’eau. Remarquable protection contre la rouille et la corrosion. L’ensemble de ces qualités contribue à améliorer la fiabilité des équipements et des machines.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRGRSMOMobilgrease_XHP_220.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/french/products_greases_mobilgrease-xhp.aspx"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":346,
+          "name":"Systèmes hydrauliques",
+          "imageURL":"exploration/electromechanical_shovel.png",
+          "x":94,
+          "y":-176,
+          "subcomponents":[
+            {
+              "id":941,
+              "name":"Systèmes hydrauliques",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":389,
+                  "name":"Mobil SHC™ 500",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huiles hydrauliques synthétiques, dotées de très hautes performances, pour pompes à palettes, à pistons et à engrenages",
+                  "benefits": "Très large plage de températures d’utilisation. Excellente stabilité thermique et grande résistance à l’oxydation, pour une meilleure protection des circuits et des systèmes hydrauliques, et ceci dans des conditions de service très diverses.  Remarquables propriétés anti-usure et bonne compatibilité multi-matériaux, pour une protection optimale des composants hydrauliques, y compris les plus critiques.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_SHC_500.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/french/products_mobil-shc_mobil-shc-500-series.aspx"
+                },
+                {
+                  "id":390,
+                  "name":"Mobil DTE 10 Excel™",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huiles hydrauliques anti-usure dotées de hautes performances. Elles ont été spécialement développées afin de satisfaire les exigences techniques des systèmes hydrauliques modernes fonctionnant avec des pressions élevées, rencontrés sur des équipements industriels fixes ou mobiles.",
+                  "benefits": "Les huiles hydrauliques anti-usure Mobil DTE 10 Excel™ ne contiennent pas de zinc dans leur formulation. Elles apportent une haute protection aux pompes à pistons, à engrenages ou à palettes, tout en minimisant la formation de dépôts. Par rapport aux autres huiles hydrauliques Mobil™, les Mobil DTE 10 Excel peuvent aussi contribuer à améliorer le rendement hydraulique des circuits. Pour l’utilisateur, cela peut se traduire par une moindre consommation d’énergie ou par un rendement accru des équipements et donc, in fine, par une réduction des coûts opérationnels. Bonne désaération et réduction des risques de cavitation.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/EUXXFRINDMOMobil_DTE_10_Excel.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/french/products_mobil-dte-10-excel-series.aspx"
+                },
+                {
+                  "id":391,
+                  "name":"Mobil DTE™ 20",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huiles hydrauliques de haute qualité, dotées de performances élevées. Les Mobil DTE™ 20 sont utilisables sur des systèmes et circuits hydrauliques équipés de pompes fonctionnant avec des pressions élevées et un haut débit.",
+                  "benefits": "Les Mobil DTE™ 20 aident à réduire l'usure et protègent les composants de la rouille et de la corrosion. Elles conservent longtemps leurs propriétés et des performances élevées en service, même dans des conditions de fonctionnement très sévères, avec des intervalles de vidange importants. Elles contribuent aussi à améliorer la propreté des circuits et à prolonger la durée de vie des filtres et des équipements. Les Mobil DTE™ 20 possédent une grande longévité en service et un excellent comportement en présence d'eau, ce qui contribue à réduire les effets néfastes de l'humidité dans les circuits.",
+                  "pdsURL": "http://www.mobil.com/France-English/Lubes/PDS/GLXXENINDMOMobil_DTE_20_Series.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":347,
+          "name":"Transmissions, Applications dans les engrenages ouverts & Câble en acier",
+          "imageURL":"exploration/electromechanical_shovel.png",
+          "x":112,
+          "y":-164,
+          "subcomponents":[
+            {
+              "id":942,
+              "name":"Transmissions",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":384,
+                  "name":"Mobil Delvac™ Synthetic Gear Oil",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huiles synthétiques pour engrenages destinées aux transmissions fortement sollicitées, nécessitant une viscosité assez élevée, une excellente résistance aux fortes charges, aux chocs et aux à-coups, ainsi que des propriétés extrême-pression (EP).",
+                  "benefits": "Durée de vie accrue des engrenages et des roulements. Formation de dépôts réduite. Maintien de la viscosité en service et grande résistance du film d'huile, même dans des conditions très sévères de service. Excellente protection contre l'usure. Les Mobil Delvac™ Synthetic Gear Oil contribuent également à réduire les risques de fuites et de contamination.",
+                  "pdsURL": "",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                },
+                {
+                  "id":385,
+                  "name":"Mobiltrans™ HD",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Lubrifiants pour transmissions, boîtes de vitesses, boîtes power-shift, différentiels et réductions finales fonctionnant en service sévère.",
+                  "benefits": "Fonctionnement fiable et longue durée de vie des embrayages, grâce aux excellentes propriétés de friction et de contrôle du glissement des Mobiltrans™ HD. Remarquable stabilité de l'huile hydraulique et grande protection contre l'usure des pompes haute pression. Excellente protection des engrenages, ce qui favorise une longue durée de vie des transmissions, boîtes de vitesses et réductions finales",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/EUFRFRCVLMOMobiltransHDSeries.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                },
+                {
+                  "id":386,
+                  "name":"Mobiltrans™ AST",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huile hautes performances destinée à la lubrification des transmissions, réductions finales et systèmes hydrauliques équipant les engins de travaux publics, chantiers, mines et carrières.",
+                  "benefits": "Fonctionnement optimal et longue durée de vie des embrayages, grâce aux excellentes propriétés de friction et de contrôle du glissement des Mobiltrans™ AST. Excellentes performances contre le phénomène de broutage des freins immergés. Remarquable protection des freins et embrayages, ce qui favorise un allongement de leur durée de vie. Excellente protection contre la formation de dépôts, ce qui contribue à augmenter la durée de vie des joints d'étanchéité et à optimiser les intervalles de vidanges. Fluidité exceptionnelle à basse température, d'où une excellente pompabilité, ce qui facilite des démarrages à froid rapides et favorise également un changement de vitesses en douceur et sans à-coups.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRCVLMOMobiltrans_AST.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobil.com/Canada-English-LCW/heavydutyengineoils_products_mobiltrans-ast-30.aspx"
+                },
+                {
+                  "id":387,
+                  "name":"Huiles engrenages Mobilube™ HD Plus",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huiles engrenages hautes performances destinées à la lubrification des transmissions mécaniques, boîtes de vitesses, ponts différentiels et réductions finales, rencontrées sur les engins de chantiers, de travaux publics, mines et carrières, travaillant dans des conditions sévères de service.",
+                  "benefits": "Excellentes stabilités chimique et thermique à des températures élevées. Bonnes performances à basse température. Bonne protection contre la rouille provoquée suite à la contamination par de l'eau.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRCVLMOMobilube_HD-A_Plus_80W-90.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobiloil.com/USA-English/MotorOil/Other_Products/Mobilube_HD_Plus_80W-90.aspx"
+                },
+                {
+                  "id":398,
+                  "name":"Mobil Delvac™ Synthetic Transmission Fluid",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Lubrifiant synthétique pour transmissions mécaniques manuelles équipant les camions et autres engins de chantiers, de travaux publics, mines et carrières, même lorsque ceux ci fonctionnent dans des conditions sévères de service.",
+                  "benefits": "Mobil Delvac™ Synthetic Transmission Fluid contribue à augmenter la durée de vie de la transmission et à réduire les coûts opérationnels. Longévité accrue des joints d'étanchéité. Longue durée de vie en service de la charge d'huile, d'où une optimisation possible des intervalles de vidange. Bonne protection contre  l'usure. Démarrages à froid et changements de vitesses facilités. Ce lubrifiant aide aussi à prolonger la durée de vie des synchros.",
+                  "pdsURL": "",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                }
+              ]
+            },
+            {
+              "id":943,
+              "name":"Applications dans les engrenages ouverts",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":401,
+                  "name":"Mobil Dynagear™ Series",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Lubrifiants à base de graisse, spécialement formulés pour les engrenages nus. Grande polyvalence et utilisation possible en toutes saisons.",
+                  "benefits": "Excellente protection des engrenages, ce qui contribue à prolonger la durée de vie des équipements et à réduire les coûts de maintenance. Fonctionnement fiable des organes lubrifiés, même à des températures élevées ou en présence d'une contamination par l'eau. Les Mobil Dynagear™ aident à protéger efficacement les équipements, ceci sur une large plage de températures d'utilisation.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_Dynagear_Series.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/french/products_greases_mobil-dynagear-series.aspx"
+                }
+              ]
+            },
+            {
+              "id":944,
+              "name":"Câble en acier",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":402,
+                  "name":"Mobiltac™ 375 NC",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huiles très haute tenue  de type solvant sans plomb, , conçues pour une large gamme d'engrenages nus et d'applications dans le secteur minier",
+                  "benefits": "Excellente protection des dentures d'engrenages et d'autres composants de la machine; superbe protection dans des environnements humides et à basses températures; faible production de déchets dus aux projections et aux fuites.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobiltac_NC.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.exxonmobil.com/MarineLubes-En/products_auxiliary-machinery_open-gear-systems_mobiltac-375-nc.aspx"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":348,
+          "name":"Compresseurs d'air, Différentiels et réductions finales, Points de graissage",
+          "imageURL":"exploration/hydraulic_shovel.png",
+          "x":187,
+          "y":-161,
+          "subcomponents":[
+            {
+              "id":945,
+              "name":"Compresseurs d'air",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":383,
+                  "name":"Mobil Rarus SHC™ 1020",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huiles synthétiques pour compresseurs d’air rotatifs à vis",
+                  "benefits": "Maintien de la propreté des composants. Stabilité exceptionnelle permettant de prolonger la disponibilité en service des équipements. Durée de vie importante de la charge d’huile. Formation de dépôts réduite. Favorise la réduction des coûts de maintenance. Excellentes propriétés anti-usure.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_Rarus_SHC_1020_Series.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/french/products_mobil-shc_mobil-rarus-shc-1020-series.aspx"
+                }
+              ]
+            },
+            {
+              "id":946,
+              "name":"Différentiels et réductions finales",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":384,
+                  "name":"Mobil Delvac™ Synthetic Gear Oil",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huiles synthétiques pour engrenages destinées aux transmissions fortement sollicitées, nécessitant une viscosité assez élevée, une excellente résistance aux fortes charges, aux chocs et aux à-coups, ainsi que des propriétés extrême-pression (EP).",
+                  "benefits": "Durée de vie accrue des engrenages et des roulements. Formation de dépôts réduite. Maintien de la viscosité en service et grande résistance du film d'huile, même dans des conditions très sévères de service. Excellente protection contre l'usure. Les Mobil Delvac™ Synthetic Gear Oil contribuent également à réduire les risques de fuites et de contamination.",
+                  "pdsURL": "",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                },
+                {
+                  "id":385,
+                  "name":"Mobiltrans™ HD",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Lubrifiants pour transmissions, boîtes de vitesses, boîtes power-shift, différentiels et réductions finales fonctionnant en service sévère.",
+                  "benefits": "Fonctionnement fiable et longue durée de vie des embrayages, grâce aux excellentes propriétés de friction et de contrôle du glissement des Mobiltrans™ HD. Remarquable stabilité de l'huile hydraulique et grande protection contre l'usure des pompes haute pression. Excellente protection des engrenages, ce qui favorise une longue durée de vie des transmissions, boîtes de vitesses et réductions finales",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/EUFRFRCVLMOMobiltransHDSeries.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                },
+                {
+                  "id":386,
+                  "name":"Mobiltrans™ AST",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huile hautes performances destinée à la lubrification des transmissions, réductions finales et systèmes hydrauliques équipant les engins de travaux publics, chantiers, mines et carrières.",
+                  "benefits": "Fonctionnement optimal et longue durée de vie des embrayages, grâce aux excellentes propriétés de friction et de contrôle du glissement des Mobiltrans™ AST. Excellentes performances contre le phénomène de broutage des freins immergés. Remarquable protection des freins et embrayages, ce qui favorise un allongement de leur durée de vie. Excellente protection contre la formation de dépôts, ce qui contribue à augmenter la durée de vie des joints d'étanchéité et à optimiser les intervalles de vidanges. Fluidité exceptionnelle à basse température, d'où une excellente pompabilité, ce qui facilite des démarrages à froid rapides et favorise également un changement de vitesses en douceur et sans à-coups.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRCVLMOMobiltrans_AST.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobil.com/Canada-English-LCW/heavydutyengineoils_products_mobiltrans-ast-30.aspx"
+                },
+                {
+                  "id":387,
+                  "name":"Huiles engrenages Mobilube™ HD Plus",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huiles engrenages hautes performances destinées à la lubrification des transmissions mécaniques, boîtes de vitesses, ponts différentiels et réductions finales, rencontrées sur les engins de chantiers, de travaux publics, mines et carrières, travaillant dans des conditions sévères de service.",
+                  "benefits": "Excellentes stabilités chimique et thermique à des températures élevées. Bonnes performances à basse température. Bonne protection contre la rouille provoquée suite à la contamination par de l'eau.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRCVLMOMobilube_HD-A_Plus_80W-90.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobiloil.com/USA-English/MotorOil/Other_Products/Mobilube_HD_Plus_80W-90.aspx"
+                },
+                {
+                  "id":400,
+                  "name":"Mobilube™ XFD",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huiles hautes performances destinées à la lubrification des ponts différentiels et réductions finales fonctionnant avec des fortes charges, des chocs et à-coups. Propriétés EP (Extrême Pression).",
+                  "benefits": "Excellente protection des engrenages, des paliers et des roulements contre les défaillances prématurées des pièces, causées par le phénomène de fatigue. Grande résistance à l'oxydation et stabilité thermique exceptionnelle, d'où une longue durée de vie en service du lubrifiant et une longévité accrue des composants. Très large plage de températures d'utilisation. Simplification des stocks, avec un seul et même produit susceptible d'être employé en toutes saisons. Excellente tenue du film lubrifiant, pour une protection fiable et efficace des pièces contre l'usure.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/NAUSENCVLMOMobilube_XFD_50_60.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                }
+              ]
+            },
+            {
+              "id":947,
+              "name":"Points de graissage",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":392,
+                  "name":"Mobilith SHC™",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Graisses synthétiques hautes performances, pour la lubrification des roulements. Leur épaississant est un savon de lithium complexe.",
+                  "benefits": "Excellente protection contre l’usure, la rouille et la corrosion. Démarrages facilités à basse température. Excellente stabilité thermique et grande résistance à l'oxydation. Les Mobilith SHC™ favorisent un allongement des intervalles de regraissage, ce qui contribue à réduire les coûts de maintenance.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRGRSMOMobilith_SHC_PM.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                },
+                {
+                  "id":393,
+                  "name":"Mobilgrease XHP™ Mine",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Graisses minérales à épaississant lithium complexe, spécialement conçues pour les engins et équipements de chantiers, travaux publics, mines et carrières fonctionnant dans des conditions sévères de service.",
+                  "benefits": "Excellente protection des équipements, ce qui contribue à un allongement de leur durée de vie, même lorsque les conditions de fonctionnement sont extrêmement sévères. Bon comportement et excellente pompabilité à basse température, pour des démarrages à froid facilités. Possibilité d'allonger les intervalles de regraissage.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRGRSMOMobilgrease_XHP_Mine_Series.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/french/products_greases_mobilgrease-xhp-320-mine-series.aspx"
+                },
+                {
+                  "id":394,
+                  "name":"Mobilgrease XHP™",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Graisses minérales à épaississant lithium complexe, élaborées dans le but de répondre aux exigences d’un grand nombre d’applications industrielles fonctionnant dans des conditions sévères de service.",
+                  "benefits": "Excellentes caractéristiques d’adhésivité et de cohésion. Stabilité mécanique et structurelle remarquable, favorisant une extension possible des intervalles de relubrification. Grande résistance à la contamination et au délavage par l’eau. Remarquable protection contre la rouille et la corrosion. L’ensemble de ces qualités contribue à améliorer la fiabilité des équipements et des machines.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRGRSMOMobilgrease_XHP_220.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/french/products_greases_mobilgrease-xhp.aspx"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":349,
+          "name":"Systèmes hydrauliques",
+          "imageURL":"exploration/hydraulic_shovel.png",
+          "x":208,
+          "y":-165,
+          "subcomponents":[
+            {
+              "id":948,
+              "name":"Systèmes hydrauliques",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":389,
+                  "name":"Mobil SHC™ 500",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huiles hydrauliques synthétiques, dotées de très hautes performances, pour pompes à palettes, à pistons et à engrenages",
+                  "benefits": "Très large plage de températures d’utilisation. Excellente stabilité thermique et grande résistance à l’oxydation, pour une meilleure protection des circuits et des systèmes hydrauliques, et ceci dans des conditions de service très diverses.  Remarquables propriétés anti-usure et bonne compatibilité multi-matériaux, pour une protection optimale des composants hydrauliques, y compris les plus critiques.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_SHC_500.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/french/products_mobil-shc_mobil-shc-500-series.aspx"
+                },
+                {
+                  "id":390,
+                  "name":"Mobil DTE 10 Excel™",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huiles hydrauliques anti-usure dotées de hautes performances. Elles ont été spécialement développées afin de satisfaire les exigences techniques des systèmes hydrauliques modernes fonctionnant avec des pressions élevées, rencontrés sur des équipements industriels fixes ou mobiles.",
+                  "benefits": "Les huiles hydrauliques anti-usure Mobil DTE 10 Excel™ ne contiennent pas de zinc dans leur formulation. Elles apportent une haute protection aux pompes à pistons, à engrenages ou à palettes, tout en minimisant la formation de dépôts. Par rapport aux autres huiles hydrauliques Mobil™, les Mobil DTE 10 Excel peuvent aussi contribuer à améliorer le rendement hydraulique des circuits. Pour l’utilisateur, cela peut se traduire par une moindre consommation d’énergie ou par un rendement accru des équipements et donc, in fine, par une réduction des coûts opérationnels. Bonne désaération et réduction des risques de cavitation.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/EUXXFRINDMOMobil_DTE_10_Excel.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/french/products_mobil-dte-10-excel-series.aspx"
+                },
+                {
+                  "id":391,
+                  "name":"Mobil DTE™ 20",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huiles hydrauliques de haute qualité, dotées de performances élevées. Les Mobil DTE™ 20 sont utilisables sur des systèmes et circuits hydrauliques équipés de pompes fonctionnant avec des pressions élevées et un haut débit.",
+                  "benefits": "Les Mobil DTE™ 20 aident à réduire l'usure et protègent les composants de la rouille et de la corrosion. Elles conservent longtemps leurs propriétés et des performances élevées en service, même dans des conditions de fonctionnement très sévères, avec des intervalles de vidange importants. Elles contribuent aussi à améliorer la propreté des circuits et à prolonger la durée de vie des filtres et des équipements. Les Mobil DTE™ 20 possédent une grande longévité en service et un excellent comportement en présence d'eau, ce qui contribue à réduire les effets néfastes de l'humidité dans les circuits.",
+                  "pdsURL": "http://www.mobil.com/France-English/Lubes/PDS/GLXXENINDMOMobil_DTE_20_Series.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":350,
+          "name":"Moteurs & Applications dans les engrenages ouverts",
+          "imageURL":"exploration/hydraulic_shovel.png",
+          "x":223,
+          "y":-165,
+          "subcomponents":[
+            {
+              "id":949,
+              "name":"Moteurs",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":395,
+                  "name":"Mobil Delvac 1™",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huile synthétique hautes performances pour les moteurs Diesel modernes, à faibles émissions, fonctionnant dans des conditions sévères de service. Mobil Delvac 1™ peut également convenir aux moteurs Diesel plus anciens et bien entretenus.",
+                  "benefits": "Grâce à son exceptionnelle stabilité thermique et à sa grande résistance à l'oxydation, Mobil Delvac 1™ contribue à réduire la formation de boues s'accumulant à basse température et de dépôts causés par les températures élevées. A chaud, l'épaisseur renforcée du film d'huile aide à réduire l'usure du moteur, les éraflures (phénomène de scuffing) et le polissage des chemises. Par ailleurs, sa faible volatilité aide à diminuer les consommations d'huile par évaporation. Enfin, par rapport à une huile moteur de grade SAE 15W-40, grâce à sa formulation avancée et à ses caractéristiques viscosimétriques, Mobil Delvac 1™ favorise les économies de carburant.",
+                  "pdsURL": "",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobil.com/USA-English-LCW/diesel-engine-oil-mobil-delvac-1-le-5w30.aspx"
+                },
+                {
+                  "id":396,
+                  "name":"Mobil Delvac™ 1300 Super",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huile hautes performances pour les moteurs Diesel",
+                  "benefits": "Excellente protection contre la corrosion. Optimisation possible des intervalles de vidange, pour les moteurs anciens ou de conception plus récente utilisant du carburant à faible (500 ppm) ou très faible (15 ppm) teneur en soufre. Mobil Delvac™ 1300 Super conserve longtemps sa viscosité en service, même dans des conditions sévères de fonctionnement, à haute température. Bonne protection contre l'usure, d'où une longévité accrue des moteurs. Grande polyvalence, d'où la possibilité de n'employer qu'une seule huile moteur pour les flottes mixtes.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/NAUSENCVLMOMobil_Delvac_1300_Super.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobil.com/USA-English-LCW/heavydutyengineoils_products_engine-oils_mobil-delvac-1300-super.aspx"
+                },
+                {
+                  "id":397,
+                  "name":"Mobil Delvac MX™",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huile hautes performances pour les moteurs Diesel",
+                  "benefits": "Aide à réduire la formation de boues à basse température et de dépôts à haute température. Bon contrôle de la formation de suies. Optimisation des intervalles de vidange. Démarrages à froid facilités et usure réduite. Mobil Delvac MX™ conserve longtemps sa viscosité en service, même dans des conditions sévères de fonctionnement, à haute température.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/EUXXFRCVLMOMobil_Delvac_MX_15W-40.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobil.com/USA-English-LCW/heavydutyengineoils_products_engine-oils_mobil-delvac-mx-15w40.aspx"
+                }
+              ]
+            },
+            {
+              "id":950,
+              "name":"Applications dans les engrenages ouverts",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":401,
+                  "name":"Mobil Dynagear™",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Lubrifiants à base de graisse, spécialement formulés pour les engrenages nus. Grande polyvalence et utilisation possible en toutes saisons.",
+                  "benefits": "Excellente protection des engrenages, ce qui contribue à prolonger la durée de vie des équipements et à réduire les coûts de maintenance. Fonctionnement fiable des organes lubrifiés, même à des températures élevées ou en présence d'une contamination par l'eau. Les Mobil Dynagear™ aident à protéger efficacement les équipements, ceci sur une large plage de températures d'utilisation.",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/GLXXENINDMOMobil_Dynagear_Series.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/french/products_greases_mobil-dynagear-series.aspx"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":351,
+          "name":"Transmissions",
+          "imageURL":"exploration/hydraulic_shovel.png",
+          "x":232,
+          "y":-150,
+          "subcomponents":[
+            {
+              "id":951,
+              "name":"Transmissions",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":384,
+                  "name":"Mobil Delvac™ Synthetic Gear Oil",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huiles synthétiques pour engrenages destinées aux transmissions fortement sollicitées, nécessitant une viscosité assez élevée, une excellente résistance aux fortes charges, aux chocs et aux à-coups, ainsi que des propriétés extrême-pression (EP).",
+                  "benefits": "Durée de vie accrue des engrenages et des roulements. Formation de dépôts réduite. Maintien de la viscosité en service et grande résistance du film d'huile, même dans des conditions très sévères de service. Excellente protection contre l'usure. Les Mobil Delvac™ Synthetic Gear Oil contribuent également à réduire les risques de fuites et de contamination.",
+                  "pdsURL": "",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                },
+                {
+                  "id":385,
+                  "name":"Mobiltrans™ HD",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Lubrifiants pour transmissions, boîtes de vitesses, boîtes power-shift, différentiels et réductions finales fonctionnant en service sévère.",
+                  "benefits": "Fonctionnement fiable et longue durée de vie des embrayages, grâce aux excellentes propriétés de friction et de contrôle du glissement des Mobiltrans™ HD. Remarquable stabilité de l'huile hydraulique et grande protection contre l'usure des pompes haute pression. Excellente protection des engrenages, ce qui favorise une longue durée de vie des transmissions, boîtes de vitesses et réductions finales",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/EUFRFRCVLMOMobiltransHDSeries.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                },
+                {
+                  "id":386,
+                  "name":"Mobiltrans™ AST",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huile hautes performances destinée à la lubrification des transmissions, réductions finales et systèmes hydrauliques équipant les engins de travaux publics, chantiers, mines et carrières.",
+                  "benefits": "Fonctionnement optimal et longue durée de vie des embrayages, grâce aux excellentes propriétés de friction et de contrôle du glissement des Mobiltrans™ AST. Excellentes performances contre le phénomène de broutage des freins immergés. Remarquable protection des freins et embrayages, ce qui favorise un allongement de leur durée de vie. Excellente protection contre la formation de dépôts, ce qui contribue à augmenter la durée de vie des joints d'étanchéité et à optimiser les intervalles de vidanges. Fluidité exceptionnelle à basse température, d'où une excellente pompabilité, ce qui facilite des démarrages à froid rapides et favorise également un changement de vitesses en douceur et sans à-coups.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRCVLMOMobiltrans_AST.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobil.com/Canada-English-LCW/heavydutyengineoils_products_mobiltrans-ast-30.aspx"
+                },
+                {
+                  "id":387,
+                  "name":"Huiles engrenages Mobilube™ HD Plus",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huiles engrenages hautes performances destinées à la lubrification des transmissions mécaniques, boîtes de vitesses, ponts différentiels et réductions finales, rencontrées sur les engins de chantiers, de travaux publics, mines et carrières, travaillant dans des conditions sévères de service.",
+                  "benefits": "Excellentes stabilités chimique et thermique à des températures élevées. Bonnes performances à basse température. Bonne protection contre la rouille provoquée suite à la contamination par de l'eau.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRCVLMOMobilube_HD-A_Plus_80W-90.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobiloil.com/USA-English/MotorOil/Other_Products/Mobilube_HD_Plus_80W-90.aspx"
+                },
+                {
+                  "id":398,
+                  "name":"Mobil Delvac™ Synthetic Transmission Fluid",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Lubrifiant synthétique pour transmissions mécaniques manuelles équipant les camions et autres engins de chantiers, de travaux publics, mines et carrières, même lorsque ceux ci fonctionnent dans des conditions sévères de service.",
+                  "benefits": "Mobil Delvac™ Synthetic Transmission Fluid contribue à augmenter la durée de vie de la transmission et à réduire les coûts opérationnels. Longévité accrue des joints d'étanchéité. Longue durée de vie en service de la charge d'huile, d'où une optimisation possible des intervalles de vidange. Bonne protection contre  l'usure. Démarrages à froid et changements de vitesses facilités. Ce lubrifiant aide aussi à prolonger la durée de vie des synchros.",
+                  "pdsURL": "",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                }
+              ]
+            }
+          ]
+        }
+    ]
+  }
+}

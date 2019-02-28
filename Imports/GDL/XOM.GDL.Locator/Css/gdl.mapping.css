@@ -1,0 +1,256 @@
+﻿div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, code, form, fieldset, legend, input, button, textarea, p, blockquote, th, td {
+    margin: 0;
+    outline: medium none;
+    padding: 0;
+}
+
+li {
+    list-style: none outside none;
+}
+
+h4 {font-size:12px;font-weight:bold;}
+
+#searchTitle {
+    background-color: #4F6A90;
+    color: #FFFFFF;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+    padding: 5px;
+    text-align: center;
+    width: 148px;
+}
+
+
+#lineOfBusinessTitle {
+    background-color: #4F6A90;
+    color: #FFFFFF;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+    padding: 5px;
+    text-align: center;
+    width: 148px;
+}
+
+#linesOfBusinessPanel 
+{
+	margin-top: 4px;
+    display: block;
+    border: 1px solid silver;
+    float: left;
+    padding: 10px 10px 0px 10px;
+    width: 155px;
+    overflow:hidden;  
+}
+
+#distributorResults
+{
+	height:280px;
+	overflow:auto;
+	position:relative;
+	clear:both;
+	padding-top:2px;
+	display1:none;
+	visibility1:hidden;	
+}
+
+#searchResultsList {
+	border-top:1px solid #EBE9E9;
+	clear:right;
+	height:auto;
+}
+
+#searchResults {
+    display: block;
+    border: 1px solid silver;
+    float: left;
+    height: 320px;
+    overflow: hidden;
+    padding: 10px;
+    width: 155px;    
+}
+
+#distributorResults ul {
+    line-height: 21px;
+	font-size:11px;    
+}
+
+#distributorLookupMessage
+{
+	font-weight:bold;
+	font-size:12px; 
+}
+
+#distributorResults li {
+    border-bottom: 1px solid #CCCCCC;
+    line-height: 14px;
+    padding: 5px 5px 5px 5px;
+    position: relative;
+}
+
+#distributorResults li span {
+    display: block;
+}
+
+#distributorLookupMessage 
+{
+	margin-top:12px;
+}
+
+.alertdiv {
+    background-color: #FFFFFF;
+    left: 650px;
+    position: absolute;
+    top: 122px;
+    visibility: hidden;
+    width: 300px;
+    z-index: 1002;
+}
+
+.alertclose {
+    background: url("../images/icon-close-button4.png") no-repeat scroll 50% 50% transparent;
+    cursor: pointer;
+    display: block;
+    font-family: Verdana;
+    font-size: 7pt;
+    height: 18px;
+    opacity: 1;
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 18px;
+}
+
+div.alerttitle 
+{
+    background-color: #4F6A90;
+    border-left: 1px solid #4F6A90;
+    border-right: 1px solid #4F6A90;
+    border-top: 1px solid #4F6A90;
+    border-width: 1px 1px 0;
+    display: block;
+    height: 24px;
+    left: 0;
+    position: relative;
+    top: 0;
+    width: 300px;
+    
+    
+    
+    color: #FFFFFF;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+    
+    
+}
+
+#ambiguousSearchResultsHeaderText
+{
+	margin-left:2px;
+	margin-top:2px;
+	display:block;
+}
+
+.alertAnchor 
+{
+	color:#4F6A90;
+	text-decoration:none;
+	cursor:hand;
+}
+
+div.alerttext {
+    background-color: #FFFFFF;
+    border-bottom: 1px solid #B7D8ED;
+    border-left: 1px solid #B7D8ED;
+    border-right: 1px solid #B7D8ED;
+    border-width: 0 1px 1px;
+    font-size: 12px;
+    font-weight:bold;
+    left: 0;
+    overflow: auto;
+    padding: 1px 5px 4px;
+    position: absolute;
+    top: 24px;
+    width: 290px;
+
+    
+}
+
+.distributorListElement 
+{
+	cursor:pointer;
+}
+
+.distributorListElement:hover { 
+	background-color:#E1E1E1; 
+	color:black;
+}
+
+.resetSearchButtonLink{
+	cursor:pointer; 
+	font-size:10px;
+	margin-right:3px
+}
+
+.resetSearchButtonLink:hover { 
+	color:#4F6A90;
+}
+
+.messagePopup
+{
+	position: absolute;
+	left: 90px;
+	top: 160px;
+	z-index: 10000;
+	background-color: white;
+	border: 1px solid #C0C0C0;
+	width:300px;
+}
+
+.leftButton 
+{
+	background:transparent url(../images/leftSideBtn.gif) no-repeat scroll left top;
+	display:block;
+	float:left;
+}
+
+.rightButton 
+{
+	background:transparent url(../images/rightSideBtn.gif) no-repeat scroll right top;
+	display:block;
+	margin-right:2px;
+}
+
+input.middleButton 
+{
+	background:transparent url(../images/middleBtn.gif) repeat-x scroll left top;
+	border:0pt none;
+	color:#1B5E8E;
+	cursor:pointer;
+	display:block;
+	font-size:9px;
+	font-weight:bold;
+	height:18px;
+	line-height:normal;
+	margin:0pt 5px;
+	padding:0px;
+	overflow: visible;
+}
+
+input.lobCheckBox      
+{
+	width: 13px;     
+	height: 13px;     
+	padding: 0;     
+	margin:0;     
+	vertical-align: bottom;     
+	position: relative;     
+	top: -1px;     
+	*overflow: hidden; 
+} 
+
+
+
+

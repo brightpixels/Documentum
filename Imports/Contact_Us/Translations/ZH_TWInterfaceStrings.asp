@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- ===================================================================================================================
+		Created: 2005+ - for Contact Us Application - WCM Team			(Traditional Chinese?)
+		Updated: December 13, 2013 - BDE - WCM Team - WO0000001593584
+			Added tags for new captcha control on Contact Us forms
+======================================================================================================================== 
+-->
+<root>
+		<ThankYouMessage>&lt;b&gt;謝謝！&lt;/b&gt;
+		您的訊息已成功發出
+		我們會很快跟您聯繫
+		</ThankYouMessage>
+		<ErrorMessage>對不起，您的訊息未被發出&lt;br/&gt;
+		可以有各種原因，如伺服器問題或您的系統與您的字元不相容。&lt;br/&gt;
+		請稍後用電子郵件或打電話跟我們聯繫 &lt;br/&gt;
+		我們爲造成的不便向您表示歉意
+		</ErrorMessage>
+	<PageTitle>
+		“跟我們聯絡”
+	</PageTitle>
+	<RequiredText>
+		<P>你從事業務的國家</P>
+	</RequiredText>
+	<SubjectText>
+		<P>産品</P>
+	</SubjectText>
+	<SelectSubjectText>
+		<P>選擇産品</P>
+	</SelectSubjectText>
+	<FirstNameText>
+		<P>名</P>
+	</FirstNameText>
+	<SurnameNameText>
+		<P>姓</P>
+	</SurnameNameText>
+	<PositionTitleText>
+		<P>職務</P>
+	</PositionTitleText>
+	<EmailText>
+		<P>電子郵件</P>
+	</EmailText>
+	<CompanyText>
+		<P>公司</P>
+	</CompanyText>
+	<AddressText>
+		<P>地址</P>
+	</AddressText>
+	<CityTownText>
+		<P>市/鎮</P>
+	</CityTownText>
+	<ProvinceStateText>
+		<P>省/州</P>
+	</ProvinceStateText>
+	<CountryText>
+		<P>國家</P>
+	</CountryText>
+	<SelectCountryText>
+		<P>選擇你的國家</P>
+	</SelectCountryText>
+	<PostalCodeText>
+		<P>郵政編號</P>
+	</PostalCodeText>
+	<PhoneNumberText>
+		<P>電話號碼</P>
+	</PhoneNumberText>
+	<FaxNumberText>
+		<P>傳真號碼（索取材料安全資料單需要）</P>
+	</FaxNumberText>
+	<CurrentCustomerText>
+		<P>您目前是我們的顧客嗎？</P>
+	</CurrentCustomerText>
+	<YesText>
+		<P>是</P>
+	</YesText>
+	<NoText>
+		<P>不是</P>
+	</NoText>
+	<QuestionText>
+		<P>您的要求或問題</P>
+	</QuestionText>
+	<SendText>
+		<P>發送</P>
+	</SendText>
+	<ClearFormText>
+		<P>表格重填</P>
+	</ClearFormText>
+	<EnterEmailText>
+		<P>請按以下格式輸入您的電子郵件位址</P>
+	</EnterEmailText>
+	<ChooseSubjectText>
+		<P>請選擇你的電子郵件主題</P>
+	</ChooseSubjectText>
+	<SelectCountryText>
+		<P>請選擇您的國家</P>
+	</SelectCountryText>
+	<ValidPhone>
+		<P>請以數碼格式輸入您的電話號碼。不要用破折號、留空格或鍵入其他字母</P>
+	</ValidPhone>
+	<ValidFax>
+		<P>請以數碼格式輸入您的傳真號碼。不要用破折號、留空格或鍵入其他字母</P>
+	</ValidFax>
+	<EnterCustomer>
+		<P>請說明目前您是否顧客</P>
+	</EnterCustomer>
+	<EnterQuestion>
+		<P>請輸入您的訊息。</P>
+	</EnterQuestion>
+	<CloseText>
+		<P>關掉視窗</P>
+	</CloseText>
+	<ErrorCaptchaTimeOut>表單被提交太快。請幾秒鐘後重試。</ErrorCaptchaTimeOut>
+	<ErrorCaptchaHidden>驗證失敗 - 可能不安全的表單提交。</ErrorCaptchaHidden>
+</root>

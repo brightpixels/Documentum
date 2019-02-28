@@ -1,0 +1,1603 @@
+{
+  "lang": {
+    "fullscreen":                 "Plein écran",
+    "exitFullscreen":             "Quitter le mode “Plein écran”",
+    "visit":                      "Démarrer la visite",
+    "equipment":                  "Equipement",
+    "viewDetails":                "Voir les détails",
+    "dontShowMeThisMessageAgain": "Ne plus afficher ce message",
+    "directions":                 "Cliquez sur un point rouge dans le schéma ou sur l’un des items contenus dans le menu « Equipement » pour découvrir les informations relatives au lubrifiant Mobil™ correspondant. Pour parcourir l’ensemble du schéma, cliquez et déplacez la souris ou utilisez les flèches de déplacement situées sur votre clavier d’ordinateur.",
+    "continue":                   "Continuer",
+    "pds":                        "Fiche technique produit (FTP)",
+    "whereToBuy":                 "Où acheter ?",
+    "productInformation":         "Description du produit",
+    "benefits":                   "Avantages",
+    "refineYourSearchWithLooble": "Affiner votre recherche avec le guide de sélection Looble℠",
+    "products":                   "Produits",
+    "back":                       "Retour",
+    "equipmentType":              "Type d’équipement",
+    "getMoreInfo":                "Pour avoir plus d’informations",
+    "productDataSheets":          "Fiches techniques produits (FTP)",
+    "downloadSellSheet":          "Télécharger ce document",
+    "emailPageLink":              "Lien pour envoyer un message électronique",
+    "findADistributor":           "Trouver un Distributeur",
+    "components":                 "Composants",
+    "touchModeQuestion":          "Il apparaît que vous êtes en train d’utiliser une tablette ou un appareil à touches tactiles. Souhaitez-vous utiliser une interface tactile optimisée ?",
+    "yesUseTheTouchVersion":      "Oui, je préfère utiliser la version tactile",
+    "no":                         "Non"
+  },
+  
+  "schematic": {
+    "name":"Station de Compression de Gaz Naturel",
+    "tileset":"ngcp",
+    "minZoom": 1,
+    "maxZoom": 4,
+    "components":[
+        {
+          "id":17,
+          "name":"Tête du puits – Moteur à Gaz",
+          "imageURL":"ngcp/wellhead.png",
+          "x":36,
+          "y":-47,
+          "subcomponents":[
+            {
+              "id":39,
+              "name":"Moteur à gaz 4 Temps rapides turbo-chargés",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":31,
+                  "name":"Mobil SHC Pegasus™",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Lubrifiant synthétique pour moteurs fonctionnant au gaz naturel",
+                  "benefits": "Technologie de pointe pour favoriser l’obtention d’un meilleur rendement et une efficacité énergétique accrue. Contribue à réduire les émissions et la consommation de carburant (par rapport aux huiles ExxonMobil classiques de grade SAE 40 pour moteurs fonctionnant au gaz naturel). Maintien de la propreté des moteurs et excellente protection contre l’usure, ce qui favorise une durée de vie accrue des composants.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_SHC_Pegasus.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-shc_mobil-shc-pegasus-series.aspx"
+                },
+                {
+                  "id":32,
+                  "name":"Mobil Pegasus™ 1",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Lubrifiant synthétique pour moteurs fonctionnant au gaz naturel",
+                  "benefits": "Faible dépôt de cendre et minimisation de formation de dépôts sur les pistons, la zone de segmentation, les chemises et les têtes/sièges de soupapes; Lubrification efficace à froid (démarrages facilités) grâce à un point d’écoulement inférieur à -40 ºC",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_SHC_Pegasus.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-shc_mobil-shc-pegasus-series.aspx"
+                },
+                {
+                  "id":33,
+                  "name":"Mobil Pegasus™ 1005",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huile pour moteurs fonctionnant au gaz naturel. Hautes performances",
+                  "benefits": "Longue durée de vie en service, d’où la possibilité d’allonger les intervalles de vidange, par rapport à l’huile Mobil Pegasus™ 905. Du fait de la réduction du nombre de vidanges, cela contribue à diminuer les coûts opérationnels et à augmenter la productivité. Par ailleurs, cette huile favorise la réduction des dépôts dans les chambres de combustion et sur les pistons, d’où une efficacité et une fiabilité optimales des moteurs. Mobil Pegasus™ 1005 contribue aussi à limiter la formation de dépôts dans les échangeurs thermiques, ce qui favorise une production de chaleur optimisée. Enfin, la réduction des dépôts sur les systèmes de traitement des gaz d’échappements contribue à une durée de vie accrue des pots catalytiques. Ainsi, Mobil Pegasus™ 1005 aide à optimiser la fiabilité et les performances des moteurs.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_Pegasus_1005.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-pegasus-1005.aspx"
+                }
+              ]
+            },
+            {
+              "id":40,
+              "name":"Moteur – 2/4-Temps – Vitesse lente",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":34,
+                  "name":"Mobil Pegasus™ 805",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huile hautes performances destinée à la lubrification des moteurs à gaz",
+                  "benefits": "Remarquable résistance à l’oxydation et à la nitration. Grande stabilité thermique. Propriétés de détergence et de dispersivité, pour une meilleure protection contre la formation de dépôts carbonés, de laques et de boues. Il en résulte une propreté accrue des moteurs, une grande longévité en service de la charge d’huile et une diminution de la consommation de filtres.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_Pegasus_805.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-shc_mobil-shc-pegasus-series.aspx"
+                },
+                {
+                  "id":35,
+                  "name":"Mobil Pegasus™ 801",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Destinée à la lubrification des moteurs à gaz fonctionnant à vitesse faible, modérée ou haute vitesse et dans lesquels un lubrifiant à très faible teneur en cendre ou sans cendre est recommandé.",
+                  "benefits": "Performances exceptionnelles sur moteurs à gaz 2 et 4 Temps requérant une lubrification sans cendre (ou à très faible teneur en cendre); Protection des moteurs contre l’usure, principalement pendant les périodes de rodage; Longue durée de vie du moteur Réduction possible des coûts de maintenance",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_Pegasus_801.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-shc_mobil-shc-pegasus-series.aspx"
+                }
+              ]
+            },
+            {
+              "id":41,
+              "name":"Turbine à gaz naturel",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":36,
+                  "name":"Mobil SHC™ 800",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huiles entièrement synthétiques destinées à la lubrification des turbines fonctionnant dans des conditions sévères de service, que ces turbines soient à gaz, à vapeur ou bien des turbines à gaz à cycle combiné.",
+                  "benefits": "Excellente fluidité à basse température. Indice de viscosité naturel élevé et stable, d’où des propriétés viscosité / température remarquables. Exceptionnelle stabilité thermique et grande résistance à l’oxydation. Protection renforcée contre l’usure.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_SHC_800.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-shc_mobil-shc-800-series.aspx"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":18,
+          "name":"Tête du puits – Compresseurs",
+          "imageURL":"ngcp/wellhead2.png",
+          "x":46,
+          "y":-47,
+          "subcomponents":[
+            {
+              "id":42,
+              "name":"Compresseurs à vis à bain d'huile",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":37,
+                  "name":"Mobil SHC™ 600",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huiles synthétiques industrielles pour réducteurs, engrenages, roulements et systèmes de lubrification par circulation.",
+                  "benefits": "Les Mobil SHC™ 600 contribuent à l’amélioration de la productivité des équipements grâce à la réduction potentielle du nombre d’arrêts, imprévus ou programmés dans le cadre des opérations de maintenance. Grande durée de vie des engrenages et des roulements, même dans des conditions de fonctionnement extrêmes. Allongement possible des intervalles de vidange, grâce à la grande durée de vie en service des charges d’huile. Réduction des frottements, ce qui favorise une amélioration de l’efficacité et du rendement énergétique, par rapport aux huiles minérales.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_SHC_600_Series.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-shc_mobil-shc-600-series.aspx"
+                }
+              ]
+            },
+            {
+              "id":43,
+              "name":"Compresseur Alternatif Cylindres",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":38,
+                  "name":"Mobil DTE 10 Excel™",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huiles hydrauliques anti-usure dotées de hautes performances. Elles ont été spécialement développées afin de satisfaire les exigences techniques des systèmes hydrauliques modernes fonctionnant avec des pressions élevées, rencontrés sur des équipements industriels fixes ou mobiles.",
+                  "benefits": "Les huiles hydrauliques anti-usure Mobil DTE 10 Excel ne contiennent pas de zinc dans leur formulation. Elles apportent une haute protection aux pompes à pistons, à engrenages ou à palettes, tout en minimisant la formation de dépôts. Par rapport aux autres huiles hydrauliques Mobil™, les Mobil DTE 10 Excel peuvent aussi contribuer à améliorer le rendement hydraulique des circuits. Pour l’utilisateur, cela peut se traduire par une moindre consommation d’énergie ou par un rendement accru des équipements et donc, in fine, par une réduction des coûts opérationnels.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/EUXXFRINDMOMobil_DTE_10_Excel.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-dte-10-excel-series.aspx"
+                }
+              ]
+            },
+            {
+              "id":44,
+              "name":"Alternatif Cylindres",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":34,
+                  "name":"Mobil Pegasus™ 805",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huile hautes performances destinée à la lubrification des moteurs à gaz",
+                  "benefits": "Remarquable résistance à l’oxydation et à la nitration. Grande stabilité thermique. Propriétés de détergence et de dispersivité, pour une meilleure protection contre la formation de dépôts carbonés, de laques et de boues. Il en résulte une propreté accrue des moteurs, une grande longévité en service de la charge d’huile et une diminution de la consommation de filtres.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_Pegasus_805.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-shc_mobil-shc-pegasus-series.aspx"
+                },
+                {
+                  "id":35,
+                  "name":"Mobil Pegasus™ 801",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huile pour moteurs fonctionnant au gaz naturel (Stations de compression du gaz naturel seulement)",
+                  "benefits": "Excellente protection contre l’usure; Fiabilité optimisée et réduction des coûts de maintenance",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_Pegasus_801.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-shc_mobil-shc-pegasus-series.aspx"
+                },
+                {
+                  "id":38,
+                  "name":"Mobil DTE 10 Excel™",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huiles hydrauliques anti-usure dotées de hautes performances. Elles ont été spécialement développées afin de satisfaire les exigences techniques des systèmes hydrauliques modernes fonctionnant avec des pressions élevées, rencontrés sur des équipements industriels fixes ou mobiles.",
+                  "benefits": "Les huiles hydrauliques anti-usure Mobil DTE 10 Excel ne contiennent pas de zinc dans leur formulation. Elles apportent une haute protection aux pompes à pistons, à engrenages ou à palettes, tout en minimisant la formation de dépôts. Par rapport aux autres huiles hydrauliques Mobil™, les Mobil DTE 10 Excel peuvent aussi contribuer à améliorer le rendement hydraulique des circuits. Pour l’utilisateur, cela peut se traduire par une moindre consommation d’énergie ou par un rendement accru des équipements et donc, in fine, par une réduction des coûts opérationnels.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/EUXXFRINDMOMobil_DTE_10_Excel.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-dte-10-excel-series.aspx"
+                },
+                {
+                  "id":39,
+                  "name":"Mobil DTE™ 205",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huile  pour cylindres",
+                  "benefits": "Excellente résistance au délavage par l’eau et autres liquides; Lubrification efficace avec de faibles fréquences d’alimentation; extension de la durée de vie des segments et des gorges de segment",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/NAUSENINDMOMobil_DTE_Oil_205.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                },
+                {
+                  "id":40,
+                  "name":"Mobil DTE™ Oil Nommées",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huile de circulation hautes performances resistant à la corrosion et à l’oxydation",
+                  "benefits": "Grande résistance à l’oxydation et à la corrosion sur des plages de températures très étendues en application sur des cylindres compresseurs",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/EUXXFRINDMOMobil_DTE_Named.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.exxonmobil.com/MarineLubes-En/products_auxiliary-machinery_circulating-and-gear-oils_mobil-dte-named-series.aspx"
+                },
+                {
+                  "id":41,
+                  "name":"Mobil Glygoyle™",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huile synthétique pour engrenages, roulements et compresseurs (Stations de compression de gaz naturel et site de production seulement)",
+                  "benefits": "Amélioration du rendement Augmentation de la durée de vie de la charge d’huile Excellente protection contre l’usure",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_Glygoyle.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                }
+              ]
+            },
+            {
+              "id":45,
+              "name":"Compresseurs à vis à bain d'huile",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":36,
+                  "name":"Mobil SHC™ 800",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huiles entièrement synthétiques destinées à la lubrification des turbines fonctionnant dans des conditions sévères de service, que ces turbines soient à gaz, à vapeur ou bien des turbines à gaz à cycle combiné.",
+                  "benefits": "Excellente fluidité à basse température. Indice de viscosité naturel élevé et stable, d’où des propriétés viscosité / température remarquables. Exceptionnelle stabilité thermique et grande résistance à l’oxydation. Protection renforcée contre l’usure.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_SHC_800.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-shc_mobil-shc-800-series.aspx"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":19,
+          "name":"Echangeur de température",
+          "imageURL":"ngcp/airExchanger.png",
+          "x":21,
+          "y":-97,
+          "subcomponents":[
+            {
+              "id":46,
+              "name":"Roulements de ventilateur",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":42,
+                  "name":"Mobilith SHC™ 100",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Graisses synthétiques hautes performances, pour la lubrification des roulements. Leur épaississant est un savon de lithium complexe.",
+                  "benefits": "Excellente protection contre l’usure. Démarrages facilités à basse température. Les Mobilith SHC™ favorisent un allongement des intervalles de regraissage, ce qui contribue à réduire les coûts de maintenance.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRGRSMOMobilith_SHC.aspxx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_greases_mobilith-shc-grease-series.aspx"
+                }
+              ]
+            },
+            {
+              "id":47,
+              "name":"Roulements de moteurs électriques",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":42,
+                  "name":"Mobilith SHC™ 100",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Graisses synthétiques hautes performances, pour la lubrification des roulements. Leur épaississant est un savon de lithium complexe.",
+                  "benefits": "Excellente protection contre l’usure. Démarrages facilités à basse température. Les Mobilith SHC™ favorisent un allongement des intervalles de regraissage, ce qui contribue à réduire les coûts de maintenance.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRGRSMOMobilith_SHC.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_greases_mobilith-shc-grease-series.aspx"
+                }
+              ]
+            },
+            {
+              "id":48,
+              "name":"Réducteur",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":37,
+                  "name":"Mobil SHC™ 600",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huiles synthétiques industrielles pour réducteurs, engrenages, roulements et systèmes de lubrification par circulation.",
+                  "benefits": "Les Mobil SHC™ 600 contribuent à l’amélioration de la productivité des équipements grâce à la réduction potentielle du nombre d’arrêts, imprévus ou programmés dans le cadre des opérations de maintenance. Grande durée de vie des engrenages et des roulements, même dans des conditions de fonctionnement extrêmes. Allongement possible des intervalles de vidange, grâce à la grande durée de vie en service des charges d’huile. Réduction des frottements, ce qui favorise une amélioration de l’efficacité et du rendement énergétique, par rapport aux huiles minérales.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_SHC_600_Series.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-shc_mobil-shc-600-series.aspx"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":20,
+          "name":"Moteurs à gaz",
+          "imageURL":"ngcp/gatheringSite.png",
+          "x":127,
+          "y":-99,
+          "subcomponents":[
+            {
+              "id":49,
+              "name":"Moteur à gaz 4 Temps rapides turbo-chargés",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":32,
+                  "name":"Mobil Pegasus™ 1",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Lubrifiant synthétique pour moteurs fonctionnant au gaz naturel",
+                  "benefits": "Faible dépôt de cendre et minimisation de formation de dépôts sur les pistons, la zone de segmentation, les chemises et les têtes/sièges de soupapes; Lubrification efficace à froid (démarrages facilités) grâce à un point d’écoulement inférieur à -40 ºC",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_SHC_Pegasus.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-shc_mobil-shc-pegasus-series.aspx"
+                },
+                {
+                  "id":33,
+                  "name":"Mobil Pegasus™ 1005",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huile pour moteurs fonctionnant au gaz naturel. Hautes performances",
+                  "benefits": "Longue durée de vie en service, d’où la possibilité d’allonger les intervalles de vidange, par rapport à l’huile Mobil Pegasus™ 905. Du fait de la réduction du nombre de vidanges, cela contribue à diminuer les coûts opérationnels et à augmenter la productivité. Par ailleurs, cette huile favorise la réduction des dépôts dans les chambres de combustion et sur les pistons, d’où une efficacité et une fiabilité optimales des moteurs. Mobil Pegasus™ 1005 contribue aussi à limiter la formation de dépôts dans les échangeurs thermiques, ce qui favorise une production de chaleur optimisée. Enfin, la réduction des dépôts sur les systèmes de traitement des gaz d’échappements contribue à une durée de vie accrue des pots catalytiques. Ainsi, Mobil Pegasus™ 1005 aide à optimiser la fiabilité et les performances des moteurs.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_Pegasus_1005.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-pegasus-1005.aspx"
+                }
+              ]
+            },
+            {
+              "id":50,
+              "name":"Moteur – 2/4-Temps – Vitesse lente",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":35,
+                  "name":"Mobil Pegasus™ 801",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huile pour moteurs fonctionnant au gaz naturel (Stations de compression du gaz naturel seulement)",
+                  "benefits": "Excellente protection contre l’usure; Fiabilité optimisée et réduction des coûts de maintenance",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_Pegasus_801.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-shc_mobil-shc-pegasus-series.aspx"
+                }
+              ]
+            },
+            {
+              "id":51,
+              "name":"Compresseurs à vis à bain d'huile",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":36,
+                  "name":"Mobil SHC™ 800",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huiles entièrement synthétiques destinées à la lubrification des turbines fonctionnant dans des conditions sévères de service, que ces turbines soient à gaz, à vapeur ou bien des turbines à gaz à cycle combiné.",
+                  "benefits": "Excellente fluidité à basse température. Indice de viscosité naturel élevé et stable, d’où des propriétés viscosité / température remarquables. Exceptionnelle stabilité thermique et grande résistance à l’oxydation. Protection renforcée contre l’usure.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_SHC_800.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-shc_mobil-shc-800-series.aspx"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":21,
+          "name":"Pompes",
+          "imageURL":"ngcp/pumps.png",
+          "x":138,
+          "y":-99,
+          "subcomponents":[
+            {
+              "id":52,
+              "name":"Roulements lubrifiés à la graisse",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":42,
+                  "name":"Mobilith SHC™ 100",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Graisses synthétiques hautes performances, pour la lubrification des roulements. Leur épaississant est un savon de lithium complexe.",
+                  "benefits": "Excellente protection contre l’usure. Démarrages facilités à basse température. Les Mobilith SHC™ favorisent un allongement des intervalles de regraissage, ce qui contribue à réduire les coûts de maintenance.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRGRSMOMobilith_SHC.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_greases_mobilith-shc-grease-series.aspx"
+                }
+              ]
+            },
+            {
+              "id":53,
+              "name":"Pompes",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":43,
+                  "name":"Mobil DTE 10 Excel™",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huiles hydrauliques anti-usure dotées de hautes performances. Elles ont été spécialement développées afin de satisfaire les exigences techniques des systèmes hydrauliques modernes fonctionnant avec des pressions élevées, rencontrés sur des équipements industriels fixes ou mobiles.",
+                  "benefits": "Les huiles hydrauliques anti-usure Mobil DTE 10 Excel ne contiennent pas de zinc dans leur formulation. Elles apportent une haute protection aux pompes à pistons, à engrenages ou à palettes, tout en minimisant la formation de dépôts. Par rapport aux autres huiles hydrauliques Mobil™, les Mobil DTE 10 Excel peuvent aussi contribuer à améliorer le rendement hydraulique des circuits. Pour l’utilisateur, cela peut se traduire par une moindre consommation d’énergie ou par un rendement accru des équipements et donc, in fine, par une réduction des coûts opérationnels.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/EUXXFRINDMOMobil_DTE_10_Excel.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":22,
+          "name":"Compresseurs d'air pour le démarrage",
+          "imageURL":"ngcp/gatheringSite2.png",
+          "x":149,
+          "y":-99,
+          "subcomponents":[
+            {
+              "id":54,
+              "name":"Compresseurs à vis à bain d'huile",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":44,
+                  "name":"Mobil SHC™ 1020",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huile synthétique pour compresseurs d’air à vis",
+                  "benefits": "Propriétés nettoyantes et stabilité exceptionnelles permettant de prolonger la disponibilité en service des équipements; Durée de vie importante de la charge d’huile; Réduction des dépôts; Réduction des coûts de maintenance; Excellentes propriétés anti-usure",
+                  "pdsURL": "",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                }
+              ]
+            },
+            {
+              "id":55,
+              "name":"Compresseurs d’air à pistons (refroidissement par air ou par eau)",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":45,
+                  "name":"Mobil Rarus™ 800 Series",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huiles synthétiques, destinées à la lubrification des compresseurs d’air alternatifs à pistons. Leurs performances exceptionnelles leur permettent de protéger efficacement les équipements, même lorsque ceux-ci fonctionnent dans des conditions de service très sévères.",
+                  "benefits": "Durée de vie importante de la charge d’huile en service. Contribue à réduire la formation de dépôts. Favorise la réduction des coûts de maintenance. Aide à limiter l’usure des composants.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_Rarus_800.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-rarus-800-series.aspx"
+                }
+              ]
+            },
+            {
+              "id":56,
+              "name":"Moteurs électriques Roulements lubrifiés à la graisse",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":42,
+                  "name":"Mobilith SHC™ 100",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Graisses synthétiques hautes performances, pour la lubrification des roulements. Leur épaississant est un savon de lithium complexe.",
+                  "benefits": "Excellente protection contre l’usure. Démarrages facilités à basse température. Les Mobilith SHC™ favorisent un allongement des intervalles de regraissage, ce qui contribue à réduire les coûts de maintenance.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRGRSMOMobilith_SHC.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_greases_mobilith-shc-grease-series.aspx"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":23,
+          "name":"Compresseurs d'air pour le démarrage",
+          "imageURL":"ngcp/airCompressor.png",
+          "x":171,
+          "y":-99,
+          "subcomponents":[
+            {
+              "id":57,
+              "name":"Compresseurs à vis à bain d'huile",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":37,
+                  "name":"Mobil SHC™ 600",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huiles synthétiques industrielles pour réducteurs, engrenages, roulements et systèmes de lubrification par circulation.",
+                  "benefits": "Les Mobil SHC™ 600 contribuent à l’amélioration de la productivité des équipements grâce à la réduction potentielle du nombre d’arrêts, imprévus ou programmés dans le cadre des opérations de maintenance. Grande durée de vie des engrenages et des roulements, même dans des conditions de fonctionnement extrêmes. Allongement possible des intervalles de vidange, grâce à la grande durée de vie en service des charges d’huile. Réduction des frottements, ce qui favorise une amélioration de l’efficacité et du rendement énergétique, par rapport aux huiles minérales.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_SHC_600_Series.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-shc_mobil-shc-600-series.aspx"
+                }
+              ]
+            },
+            {
+              "id":58,
+              "name":"Compresseur Alternatif Cylindres",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":33,
+                  "name":"Mobil Pegasus™ 1005",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huile pour moteurs fonctionnant au gaz naturel. Hautes performances",
+                  "benefits": "Longue durée de vie en service, d’où la possibilité d’allonger les intervalles de vidange, par rapport à l’huile Mobil Pegasus™ 905. Du fait de la réduction du nombre de vidanges, cela contribue à diminuer les coûts opérationnels et à augmenter la productivité. Par ailleurs, cette huile favorise la réduction des dépôts dans les chambres de combustion et sur les pistons, d’où une efficacité et une fiabilité optimales des moteurs. Mobil Pegasus™ 1005 contribue aussi à limiter la formation de dépôts dans les échangeurs thermiques, ce qui favorise une production de chaleur optimisée. Enfin, la réduction des dépôts sur les systèmes de traitement des gaz d’échappements contribue à une durée de vie accrue des pots catalytiques. Ainsi, Mobil Pegasus™ 1005 aide à optimiser la fiabilité et les performances des moteurs.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_Pegasus_1005.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-pegasus-1005.aspx"
+                }
+              ]
+            },
+            {
+              "id":59,
+              "name":"Alternatif Cylindres",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":33,
+                  "name":"Mobil Pegasus™ 1005",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huile pour moteurs fonctionnant au gaz naturel. Hautes performances",
+                  "benefits": "Longue durée de vie en service, d’où la possibilité d’allonger les intervalles de vidange, par rapport à l’huile Mobil Pegasus™ 905. Du fait de la réduction du nombre de vidanges, cela contribue à diminuer les coûts opérationnels et à augmenter la productivité. Par ailleurs, cette huile favorise la réduction des dépôts dans les chambres de combustion et sur les pistons, d’où une efficacité et une fiabilité optimales des moteurs. Mobil Pegasus™ 1005 contribue aussi à limiter la formation de dépôts dans les échangeurs thermiques, ce qui favorise une production de chaleur optimisée. Enfin, la réduction des dépôts sur les systèmes de traitement des gaz d’échappements contribue à une durée de vie accrue des pots catalytiques. Ainsi, Mobil Pegasus™ 1005 aide à optimiser la fiabilité et les performances des moteurs.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_Pegasus_1005.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-pegasus-1005.aspx"
+                },
+                {
+                  "id":35,
+                  "name":"Mobil Pegasus™ 801",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huile pour moteurs fonctionnant au gaz naturel (Stations de compression du gaz naturel seulement)",
+                  "benefits": "Excellente protection contre l’usure; Fiabilité optimisée et réduction des coûts de maintenance",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_Pegasus_801.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-shc_mobil-shc-pegasus-series.aspx"
+                },
+                {
+                  "id":39,
+                  "name":"Mobil DTE™ 205",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huile cylindres",
+                  "benefits": "Excellente résistance au délavage par l’eau et autres liquides; Lubrification efficace avec de faibles fréquences d’alimentation; extension de la durée de vie des segments et des gorges de segment",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/NAUSENINDMOMobil_DTE_Oil_205.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                },
+                {
+                  "id":41,
+                  "name":"Mobil Glygoyle™",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huile synthétique pour engrenages, roulements et compresseurs (Stations de compression de gaz naturel et site de production seulement)",
+                  "benefits": "Amélioration du rendement Augmentation de la durée de vie de la charge d’huile Excellente protection contre l’usure",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_Glygoyle.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                }
+              ]
+            },
+            {
+              "id":60,
+              "name":"Compresseurs à vis à bain d'huile",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":36,
+                  "name":"Mobil SHC™ 800",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huiles entièrement synthétiques destinées à la lubrification des turbines fonctionnant dans des conditions sévères de service, que ces turbines soient à gaz, à vapeur ou bien des turbines à gaz à cycle combiné.",
+                  "benefits": "Excellente fluidité à basse température. Indice de viscosité naturel élevé et stable, d’où des propriétés viscosité / température remarquables. Exceptionnelle stabilité thermique et grande résistance à l’oxydation. Protection renforcée contre l’usure.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_SHC_800.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-shc_mobil-shc-800-series.aspx"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":24,
+          "name":"Echangeur de température",
+          "imageURL":"ngcp/airExchanger3.png",
+          "x":181,
+          "y":-99,
+          "subcomponents":[
+            {
+              "id":61,
+              "name":"Roulements de ventilateur",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":42,
+                  "name":"Mobilith SHC™ 100",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Graisses synthétiques hautes performances, pour la lubrification des roulements. Leur épaississant est un savon de lithium complexe.",
+                  "benefits": "Excellente protection contre l’usure. Démarrages facilités à basse température. Les Mobilith SHC™ favorisent un allongement des intervalles de regraissage, ce qui contribue à réduire les coûts de maintenance.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRGRSMOMobilith_SHC.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_greases_mobilith-shc-grease-series.aspx"
+                }
+              ]
+            },
+            {
+              "id":62,
+              "name":"Roulements de moteurs électriques",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":42,
+                  "name":"Mobilith SHC™ 100",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Graisses synthétiques hautes performances, pour la lubrification des roulements. Leur épaississant est un savon de lithium complexe.",
+                  "benefits": "Excellente protection contre l’usure. Démarrages facilités à basse température. Les Mobilith SHC™ favorisent un allongement des intervalles de regraissage, ce qui contribue à réduire les coûts de maintenance.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRGRSMOMobilith_SHC.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_greases_mobilith-shc-grease-series.aspx"
+                }
+              ]
+            },
+            {
+              "id":63,
+              "name":"Réducteur",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":37,
+                  "name":"Mobil SHC™ 600",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huiles synthétiques industrielles pour réducteurs, engrenages, roulements et systèmes de lubrification par circulation.",
+                  "benefits": "Les Mobil SHC™ 600 contribuent à l’amélioration de la productivité des équipements grâce à la réduction potentielle du nombre d’arrêts, imprévus ou programmés dans le cadre des opérations de maintenance. Grande durée de vie des engrenages et des roulements, même dans des conditions de fonctionnement extrêmes. Allongement possible des intervalles de vidange, grâce à la grande durée de vie en service des charges d’huile. Réduction des frottements, ce qui favorise une amélioration de l’efficacité et du rendement énergétique, par rapport aux huiles minérales.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_SHC_600_Series.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-shc_mobil-shc-600-series.aspx"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":25,
+          "name":"Moteurs à gaz",
+          "imageURL":"ngcp/compressorStation2.png",
+          "x":41,
+          "y":-160,
+          "subcomponents":[
+            {
+              "id":64,
+              "name":"Moteur à gaz 4 Temps rapides turbo-chargés",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":32,
+                  "name":"Mobil Pegasus™ 1",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Lubrifiant synthétique pour moteurs fonctionnant au gaz naturel",
+                  "benefits": "Faible dépôt de cendre et minimisation de formation de dépôts sur les pistons, la zone de segmentation, les chemises et les têtes/sièges de soupapes; Lubrification efficace à froid (démarrages facilités) grâce à un point d’écoulement inférieur à -40 ºC",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_SHC_Pegasus.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-shc_mobil-shc-pegasus-series.aspx"
+                },
+                {
+                  "id":33,
+                  "name":"Mobil Pegasus™ 1005",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huile pour moteurs fonctionnant au gaz naturel. Hautes performances",
+                  "benefits": "Longue durée de vie en service, d’où la possibilité d’allonger les intervalles de vidange, par rapport à l’huile Mobil Pegasus™ 905. Du fait de la réduction du nombre de vidanges, cela contribue à diminuer les coûts opérationnels et à augmenter la productivité. Par ailleurs, cette huile favorise la réduction des dépôts dans les chambres de combustion et sur les pistons, d’où une efficacité et une fiabilité optimales des moteurs. Mobil Pegasus™ 1005 contribue aussi à limiter la formation de dépôts dans les échangeurs thermiques, ce qui favorise une production de chaleur optimisée. Enfin, la réduction des dépôts sur les systèmes de traitement des gaz d’échappements contribue à une durée de vie accrue des pots catalytiques. Ainsi, Mobil Pegasus™ 1005 aide à optimiser la fiabilité et les performances des moteurs.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_Pegasus_1005.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-pegasus-1005.aspx"
+                }
+              ]
+            },
+            {
+              "id":65,
+              "name":"Moteur – 2/4-Temps – Vitesse lente",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":35,
+                  "name":"Mobil Pegasus™ 801",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huile pour moteurs fonctionnant au gaz naturel (Stations de compression du gaz naturel seulement)",
+                  "benefits": "Excellente protection contre l’usure; Fiabilité optimisée et réduction des coûts de maintenance",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_Pegasus_801.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-shc_mobil-shc-pegasus-series.aspx"
+                }
+              ]
+            },
+            {
+              "id":66,
+              "name":"Compresseurs à vis à bain d'huile",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":36,
+                  "name":"Mobil SHC™ 800",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huiles entièrement synthétiques destinées à la lubrification des turbines fonctionnant dans des conditions sévères de service, que ces turbines soient à gaz, à vapeur ou bien des turbines à gaz à cycle combiné.",
+                  "benefits": "Excellente fluidité à basse température. Indice de viscosité naturel élevé et stable, d’où des propriétés viscosité / température remarquables. Exceptionnelle stabilité thermique et grande résistance à l’oxydation. Protection renforcée contre l’usure.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_SHC_800.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-shc_mobil-shc-800-series.aspx"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":26,
+          "name":"Moteurs à gaz",
+          "imageURL":"ngcp/compressorStation3.png",
+          "x":52,
+          "y":-160,
+          "subcomponents":[
+            {
+              "id":67,
+              "name":"Compresseurs à vis à bain d'huile",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":37,
+                  "name":"Mobil SHC™ 600",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huiles synthétiques industrielles pour réducteurs, engrenages, roulements et systèmes de lubrification par circulation.",
+                  "benefits": "Les Mobil SHC™ 600 contribuent à l’amélioration de la productivité des équipements grâce à la réduction potentielle du nombre d’arrêts, imprévus ou programmés dans le cadre des opérations de maintenance. Grande durée de vie des engrenages et des roulements, même dans des conditions de fonctionnement extrêmes. Allongement possible des intervalles de vidange, grâce à la grande durée de vie en service des charges d’huile. Réduction des frottements, ce qui favorise une amélioration de l’efficacité et du rendement énergétique, par rapport aux huiles minérales.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_SHC_600_Series.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-shc_mobil-shc-600-series.aspx"
+                }
+              ]
+            },
+            {
+              "id":68,
+              "name":"Compresseur alternatif Cylindres",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":33,
+                  "name":"Mobil Pegasus™ 1005",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huile pour moteurs fonctionnant au gaz naturel. Hautes performances",
+                  "benefits": "Longue durée de vie en service, d’où la possibilité d’allonger les intervalles de vidange, par rapport à l’huile Mobil Pegasus™ 905. Du fait de la réduction du nombre de vidanges, cela contribue à diminuer les coûts opérationnels et à augmenter la productivité. Par ailleurs, cette huile favorise la réduction des dépôts dans les chambres de combustion et sur les pistons, d’où une efficacité et une fiabilité optimales des moteurs. Mobil Pegasus™ 1005 contribue aussi à limiter la formation de dépôts dans les échangeurs thermiques, ce qui favorise une production de chaleur optimisée. Enfin, la réduction des dépôts sur les systèmes de traitement des gaz d’échappements contribue à une durée de vie accrue des pots catalytiques. Ainsi, Mobil Pegasus™ 1005 aide à optimiser la fiabilité et les performances des moteurs.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_Pegasus_1005.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-pegasus-1005.aspx"
+                }
+              ]
+            },
+            {
+              "id":69,
+              "name":"Compresseur alternatif Cylindres",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":33,
+                  "name":"Mobil Pegasus™ 1005",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huile pour moteurs fonctionnant au gaz naturel. Hautes performances",
+                  "benefits": "Longue durée de vie en service, d’où la possibilité d’allonger les intervalles de vidange, par rapport à l’huile Mobil Pegasus™ 905. Du fait de la réduction du nombre de vidanges, cela contribue à diminuer les coûts opérationnels et à augmenter la productivité. Par ailleurs, cette huile favorise la réduction des dépôts dans les chambres de combustion et sur les pistons, d’où une efficacité et une fiabilité optimales des moteurs. Mobil Pegasus™ 1005 contribue aussi à limiter la formation de dépôts dans les échangeurs thermiques, ce qui favorise une production de chaleur optimisée. Enfin, la réduction des dépôts sur les systèmes de traitement des gaz d’échappements contribue à une durée de vie accrue des pots catalytiques. Ainsi, Mobil Pegasus™ 1005 aide à optimiser la fiabilité et les performances des moteurs.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_Pegasus_1005.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-pegasus-1005.aspx"
+                },
+                {
+                  "id":35,
+                  "name":"Mobil Pegasus™ 801",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huile pour moteurs fonctionnant au gaz naturel (Stations de compression du gaz naturel seulement)",
+                  "benefits": "Excellente protection contre l’usure; Fiabilité optimisée et réduction des coûts de maintenance",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_Pegasus_801.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-shc_mobil-shc-pegasus-series.aspx"
+                },
+                {
+                  "id":39,
+                  "name":"Mobil DTE™ 205",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huile  pour cylindres",
+                  "benefits": "Excellente résistance au délavage par l’eau et autres liquides; Lubrification efficace avec de faibles fréquences d’alimentation; extension de la durée de vie des segments et des gorges de segment",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/NAUSENINDMOMobil_DTE_Oil_205.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                },
+                {
+                  "id":41,
+                  "name":"Mobil Glygoyle™",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huile synthétique pour engrenages, roulements et compresseurs (Stations de compression de gaz naturel et site de production seulement)",
+                  "benefits": "Amélioration du rendement Augmentation de la durée de vie de la charge d’huile Excellente protection contre l’usure",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_Glygoyle.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                }
+              ]
+            },
+            {
+              "id":70,
+              "name":"Compresseurs à vis à bain d'huile",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":36,
+                  "name":"Mobil SHC™ 800",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huiles entièrement synthétiques destinées à la lubrification des turbines fonctionnant dans des conditions sévères de service, que ces turbines soient à gaz, à vapeur ou bien des turbines à gaz à cycle combiné.",
+                  "benefits": "Excellente fluidité à basse température. Indice de viscosité naturel élevé et stable, d’où des propriétés viscosité / température remarquables. Exceptionnelle stabilité thermique et grande résistance à l’oxydation. Protection renforcée contre l’usure.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_SHC_800.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-shc_mobil-shc-800-series.aspx"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":27,
+          "name":"Moteurs à gaz",
+          "imageURL":"ngcp/compressorStation.png",
+          "x":63,
+          "y":-160,
+          "subcomponents":[
+            {
+              "id":71,
+              "name":"Compresseurs à vis à bain d'huile",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":44,
+                  "name":"Mobil SHC™ 1020",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huile synthétique pour compresseurs d’air à vis",
+                  "benefits": "Propriétés nettoyantes et stabilité exceptionnelles permettant de prolonger la disponibilité en service des équipements; Durée de vie importante de la charge d’huile; Réduction des dépôts; Réduction des coûts de maintenance; Excellentes propriétés anti-usure",
+                  "pdsURL": "",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                }
+              ]
+            },
+            {
+              "id":72,
+              "name":"Compresseurs d’air à pistons (refroidissement par air ou par eau)",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":45,
+                  "name":"Mobil Rarus™ 800 Series",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huiles synthétiques, destinées à la lubrification des compresseurs d’air alternatifs à pistons. Leurs performances exceptionnelles leur permettent de protéger efficacement les équipements, même lorsque ceux-ci fonctionnent dans des conditions de service très sévères.",
+                  "benefits": "Durée de vie importante de la charge d’huile en service. Contribue à réduire la formation de dépôts. Favorise la réduction des coûts de maintenance. Aide à limiter l’usure des composants.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_Rarus_800.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-rarus-800-series.aspx"
+                }
+              ]
+            },
+            {
+              "id":73,
+              "name":"Moteurs électriques Roulements lubrifiés à la graisse",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":42,
+                  "name":"Mobilith SHC™ 100",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Graisses synthétiques hautes performances, pour la lubrification des roulements. Leur épaississant est un savon de lithium complexe.",
+                  "benefits": "Excellente protection contre l’usure. Démarrages facilités à basse température. Les Mobilith SHC™ favorisent un allongement des intervalles de regraissage, ce qui contribue à réduire les coûts de maintenance.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRGRSMOMobilith_SHC.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_greases_mobilith-shc-grease-series.aspx"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":28,
+          "name":"Traitement du gaz naturel - Moteurs à Gaz",
+          "imageURL":"ngcp/naturalGasPlant.png",
+          "x":108,
+          "y":-160,
+          "subcomponents":[
+            {
+              "id":74,
+              "name":"Moteur à gaz 4 Temps rapides turbo-chargés",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":32,
+                  "name":"Mobil Pegasus™ 1",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Lubrifiant synthétique pour moteurs fonctionnant au gaz naturel",
+                  "benefits": "Faible dépôt de cendre et minimisation de formation de dépôts sur les pistons, la zone de segmentation, les chemises et les têtes/sièges de soupapes; Lubrification efficace à froid (démarrages facilités) grâce à un point d’écoulement inférieur à -40 ºC",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_SHC_Pegasus.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-shc_mobil-shc-pegasus-series.aspx"
+                },
+                {
+                  "id":33,
+                  "name":"Mobil Pegasus™ 1005",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huile pour moteurs fonctionnant au gaz naturel. Hautes performances",
+                  "benefits": "Longue durée de vie en service, d’où la possibilité d’allonger les intervalles de vidange, par rapport à l’huile Mobil Pegasus™ 905. Du fait de la réduction du nombre de vidanges, cela contribue à diminuer les coûts opérationnels et à augmenter la productivité. Par ailleurs, cette huile favorise la réduction des dépôts dans les chambres de combustion et sur les pistons, d’où une efficacité et une fiabilité optimales des moteurs. Mobil Pegasus™ 1005 contribue aussi à limiter la formation de dépôts dans les échangeurs thermiques, ce qui favorise une production de chaleur optimisée. Enfin, la réduction des dépôts sur les systèmes de traitement des gaz d’échappements contribue à une durée de vie accrue des pots catalytiques. Ainsi, Mobil Pegasus™ 1005 aide à optimiser la fiabilité et les performances des moteurs.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_Pegasus_1005.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-pegasus-1005.aspx"
+                }
+              ]
+            },
+            {
+              "id":75,
+              "name":"Moteur – 2/4-Temps – Vitesse lente",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":35,
+                  "name":"Mobil Pegasus™ 801",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huile pour moteurs fonctionnant au gaz naturel (Stations de compression du gaz naturel seulement)",
+                  "benefits": "Excellente protection contre l’usure; Fiabilité optimisée et réduction des coûts de maintenance",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_Pegasus_801.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-shc_mobil-shc-pegasus-series.aspx"
+                }
+              ]
+            },
+            {
+              "id":76,
+              "name":"Compresseurs à vis à bain d'huile",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":36,
+                  "name":"Mobil SHC™ 800",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huiles entièrement synthétiques destinées à la lubrification des turbines fonctionnant dans des conditions sévères de service, que ces turbines soient à gaz, à vapeur ou bien des turbines à gaz à cycle combiné.",
+                  "benefits": "Excellente fluidité à basse température. Indice de viscosité naturel élevé et stable, d’où des propriétés viscosité / température remarquables. Exceptionnelle stabilité thermique et grande résistance à l’oxydation. Protection renforcée contre l’usure.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_SHC_800.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-shc_mobil-shc-800-series.aspx"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":29,
+          "name":"Traitement du gaz naturel - Compresseurs",
+          "imageURL":"ngcp/naturalGasPlant2.png",
+          "x":118,
+          "y":-160,
+          "subcomponents":[
+            {
+              "id":77,
+              "name":"Compresseurs à vis à bain d'huile",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":37,
+                  "name":"Mobil SHC™ 600",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huiles synthétiques industrielles pour réducteurs, engrenages, roulements et systèmes de lubrification par circulation.",
+                  "benefits": "Les Mobil SHC™ 600 contribuent à l’amélioration de la productivité des équipements grâce à la réduction potentielle du nombre d’arrêts, imprévus ou programmés dans le cadre des opérations de maintenance. Grande durée de vie des engrenages et des roulements, même dans des conditions de fonctionnement extrêmes. Allongement possible des intervalles de vidange, grâce à la grande durée de vie en service des charges d’huile. Réduction des frottements, ce qui favorise une amélioration de l’efficacité et du rendement énergétique, par rapport aux huiles minérales.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_SHC_600_Series.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-shc_mobil-shc-600-series.aspx"
+                }
+              ]
+            },
+            {
+              "id":78,
+              "name":"Compresseur Alternatif Cylindres",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":33,
+                  "name":"Mobil Pegasus™ 1005",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huile pour moteurs fonctionnant au gaz naturel. Hautes performances",
+                  "benefits": "Performances améliorées par rapport à Mobil Pegasus™ 905; Réduction du nombre de vidanges, d’où une diminution des volumes annuels d’huiles consommés; Contribue à la baisse des coûts d’exploitation et à l’amélioration de la productivité; Réduction des dépôts dans la chambre de combustion et sur les pistons; Fiabilité et rendement accrus; Meilleur contrôle des dépôts dans les échangeurs, pou",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_Pegasus_1005.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-pegasus-1005.aspx"
+                }
+              ]
+            },
+            {
+              "id":79,
+              "name":"Compresseur Alternatif Cylindres",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":33,
+                  "name":"Mobil Pegasus™ 1005",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huile pour moteurs fonctionnant au gaz naturel. Hautes performances",
+                  "benefits": "Performances améliorées par rapport à Mobil Pegasus™ 905; Réduction du nombre de vidanges, d’où une diminution des volumes annuels d’huiles consommés; Contribue à la baisse des coûts d’exploitation et à l’amélioration de la productivité; Réduction des dépôts dans la chambre de combustion et sur les pistons; Fiabilité et rendement accrus; Meilleur contrôle des dépôts dans les échangeurs, pou",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_Pegasus_1005.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-pegasus-1005.aspx"
+                },
+                {
+                  "id":35,
+                  "name":"Mobil Pegasus™ 801",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huile pour moteurs fonctionnant au gaz naturel (Stations de compression du gaz naturel seulement)",
+                  "benefits": "Excellente protection contre l’usure; Fiabilité optimisée et réduction des coûts de maintenance",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_Pegasus_801.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-shc_mobil-shc-pegasus-series.aspx"
+                },
+                {
+                  "id":39,
+                  "name":"Mobil DTE™ 205",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huile  pour cylindres",
+                  "benefits": "Excellente résistance au délavage par l’eau et autres liquides; Lubrification efficace avec de faibles fréquences d’alimentation; extension de la durée de vie des segments et des gorges de segment",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/NAUSENINDMOMobil_DTE_Oil_205.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                },
+                {
+                  "id":41,
+                  "name":"Mobil Glygoyle™",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huile synthétique pour engrenages, roulements et compresseurs (Stations de compression de gaz naturel et site de production seulement)",
+                  "benefits": "Amélioration du rendement Augmentation de la durée de vie de la charge d’huile Excellente protection contre l’usure",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_Glygoyle.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                }
+              ]
+            },
+            {
+              "id":80,
+              "name":"Compresseurs à vis à bain d'huile",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":36,
+                  "name":"Mobil SHC™ 800",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huiles entièrement synthétiques destinées à la lubrification des turbines fonctionnant dans des conditions sévères de service, que ces turbines soient à gaz, à vapeur ou bien des turbines à gaz à cycle combiné.",
+                  "benefits": "Excellente fluidité à basse température. Indice de viscosité naturel élevé et stable, d’où des propriétés viscosité / température remarquables. Exceptionnelle stabilité thermique et grande résistance à l’oxydation. Protection renforcée contre l’usure.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_SHC_800.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-shc_mobil-shc-800-series.aspx"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":30,
+          "name":"Compresseurs d'air pour le démarrage",
+          "imageURL":"ngcp/naturalGasPlant3.png",
+          "x":129,
+          "y":-160,
+          "subcomponents":[
+            {
+              "id":81,
+              "name":"Compresseurs à vis à bain d'huile",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":44,
+                  "name":"Mobil SHC™ 1020",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huile synthétique pour compresseurs d’air à vis",
+                  "benefits": "Propriétés nettoyantes et stabilité exceptionnelles permettant de prolonger la disponibilité en service des équipements; Durée de vie importante de la charge d’huile; Réduction des dépôts; Réduction des coûts de maintenance; Excellentes propriétés anti-usure",
+                  "pdsURL": "",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                }
+              ]
+            },
+            {
+              "id":82,
+              "name":"Compresseurs d’air à pistons (refroidissement par air ou par eau)",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":45,
+                  "name":"Mobil Rarus™ 800 Series",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huiles synthétiques, destinées à la lubrification des compresseurs d’air alternatifs à pistons. Leurs performances exceptionnelles leur permettent de protéger efficacement les équipements, même lorsque ceux-ci fonctionnent dans des conditions de service très sévères.",
+                  "benefits": "Durée de vie importante de la charge d’huile en service. Contribue à réduire la formation de dépôts. Favorise la réduction des coûts de maintenance. Aide à limiter l’usure des composants.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_Rarus_800.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-rarus-800-series.aspx"
+                }
+              ]
+            },
+            {
+              "id":83,
+              "name":"Moteurs électriques Roulements lubrifiés à la graisse",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":42,
+                  "name":"Mobilith SHC™ 100",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Graisses synthétiques hautes performances, pour la lubrification des roulements. Leur épaississant est un savon de lithium complexe.",
+                  "benefits": "Excellente protection contre l’usure. Démarrages facilités à basse température. Les Mobilith SHC™ favorisent un allongement des intervalles de regraissage, ce qui contribue à réduire les coûts de maintenance.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRGRSMOMobilith_SHC.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_greases_mobilith-shc-grease-series.aspx"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":31,
+          "name":"Traitement du gaz naturel - Moteurs à Gaz",
+          "imageURL":"ngcp/naturalGasTransmission2.png",
+          "x":154,
+          "y":-165,
+          "subcomponents":[
+            {
+              "id":84,
+              "name":"Moteur à gaz 4 Temps rapides turbo-chargés",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":32,
+                  "name":"Mobil Pegasus™ 1",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Lubrifiant synthétique pour moteurs fonctionnant au gaz naturel",
+                  "benefits": "Faible dépôt de cendre et minimisation de formation de dépôts sur les pistons, la zone de segmentation, les chemises et les têtes/sièges de soupapes; Lubrification efficace à froid (démarrages facilités) grâce à un point d’écoulement inférieur à -40 ºC",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_SHC_Pegasus.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-shc_mobil-shc-pegasus-series.aspx"
+                },
+                {
+                  "id":33,
+                  "name":"Mobil Pegasus™ 1005",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huile pour moteurs fonctionnant au gaz naturel. Hautes performances",
+                  "benefits": "Performances améliorées par rapport à Mobil Pegasus™ 905; Réduction du nombre de vidanges, d’où une diminution des volumes annuels d’huiles consommés; Contribue à la baisse des coûts d’exploitation et à l’amélioration de la productivité; Réduction des dépôts dans la chambre de combustion et sur les pistons; Fiabilité et rendement accrus; Meilleur contrôle des dépôts dans les échangeurs, pou",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_Pegasus_1005.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-pegasus-1005.aspx"
+                }
+              ]
+            },
+            {
+              "id":85,
+              "name":"Moteur – 2/4-Temps – Vitesse lente",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":35,
+                  "name":"Mobil Pegasus™ 801",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huile pour moteurs fonctionnant au gaz naturel (Stations de compression du gaz naturel seulement)",
+                  "benefits": "Excellente protection contre l’usure; Fiabilité optimisée et réduction des coûts de maintenance",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_Pegasus_801.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-shc_mobil-shc-pegasus-series.aspx"
+                }
+              ]
+            },
+            {
+              "id":86,
+              "name":"Compresseurs à vis à bain d'huile",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":36,
+                  "name":"Mobil SHC™ 800",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huiles entièrement synthétiques destinées à la lubrification des turbines fonctionnant dans des conditions sévères de service, que ces turbines soient à gaz, à vapeur ou bien des turbines à gaz à cycle combiné.",
+                  "benefits": "Excellente fluidité à basse température. Indice de viscosité naturel élevé et stable, d’où des propriétés viscosité / température remarquables. Exceptionnelle stabilité thermique et grande résistance à l’oxydation. Protection renforcée contre l’usure.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_SHC_800.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-shc_mobil-shc-800-series.aspx"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":32,
+          "name":"Compresseurs de gaz naturel",
+          "imageURL":"ngcp/naturalGasTransmission4.png",
+          "x":165,
+          "y":-165,
+          "subcomponents":[
+            {
+              "id":87,
+              "name":"Compresseurs à vis à bain d'huile",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":37,
+                  "name":"Mobil SHC™ 600",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huiles synthétiques industrielles pour réducteurs, engrenages, roulements et systèmes de lubrification par circulation.",
+                  "benefits": "Les Mobil SHC™ 600 contribuent à l’amélioration de la productivité des équipements grâce à la réduction potentielle du nombre d’arrêts, imprévus ou programmés dans le cadre des opérations de maintenance. Grande durée de vie des engrenages et des roulements, même dans des conditions de fonctionnement extrêmes. Allongement possible des intervalles de vidange, grâce à la grande durée de vie en service des charges d’huile. Réduction des frottements, ce qui favorise une amélioration de l’efficacité et du rendement énergétique, par rapport aux huiles minérales.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_SHC_600_Series.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-shc_mobil-shc-600-series.aspx"
+                }
+              ]
+            },
+            {
+              "id":88,
+              "name":"Compresseur alternatif Cylindres",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":33,
+                  "name":"Mobil Pegasus™ 1005",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huile pour moteurs fonctionnant au gaz naturel. Hautes performances",
+                  "benefits": "Performances améliorées par rapport à Mobil Pegasus™ 905; Réduction du nombre de vidanges, d’où une diminution des volumes annuels d’huiles consommés; Contribue à la baisse des coûts d’exploitation et à l’amélioration de la productivité; Réduction des dépôts dans la chambre de combustion et sur les pistons; Fiabilité et rendement accrus; Meilleur contrôle des dépôts dans les échangeurs, pou",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_Pegasus_1005.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-pegasus-1005.aspx"
+                }
+              ]
+            },
+            {
+              "id":89,
+              "name":"Compresseur alternatif Cylindres",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":33,
+                  "name":"Mobil Pegasus™ 1005",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huile pour moteurs fonctionnant au gaz naturel. Hautes performances",
+                  "benefits": "Performances améliorées par rapport à Mobil Pegasus™ 905; Réduction du nombre de vidanges, d’où une diminution des volumes annuels d’huiles consommés; Contribue à la baisse des coûts d’exploitation et à l’amélioration de la productivité; Réduction des dépôts dans la chambre de combustion et sur les pistons; Fiabilité et rendement accrus; Meilleur contrôle des dépôts dans les échangeurs, pou",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_Pegasus_1005.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-pegasus-1005.aspx"
+                },
+                {
+                  "id":35,
+                  "name":"Mobil Pegasus™ 801",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huile pour moteurs fonctionnant au gaz naturel (Stations de compression du gaz naturel seulement)",
+                  "benefits": "Excellente protection contre l’usure; Fiabilité optimisée et réduction des coûts de maintenance",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_Pegasus_801.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-shc_mobil-shc-pegasus-series.aspx"
+                },
+                {
+                  "id":39,
+                  "name":"Mobil DTE™ 205",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huile  pour cylindres",
+                  "benefits": "Excellente résistance au délavage par l’eau et autres liquides; Lubrification efficace avec de faibles fréquences d’alimentation; extension de la durée de vie des segments et des gorges de segment",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/NAUSENINDMOMobil_DTE_Oil_205.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                },
+                {
+                  "id":41,
+                  "name":"Mobil Glygoyle™",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huile synthétique pour engrenages, roulements et compresseurs (Stations de compression de gaz naturel et site de production seulement)",
+                  "benefits": "Amélioration du rendement Augmentation de la durée de vie de la charge d’huile Excellente protection contre l’usure",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_Glygoyle.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                }
+              ]
+            },
+            {
+              "id":90,
+              "name":"Compresseurs à vis à bain d'huile",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":36,
+                  "name":"Mobil SHC™ 800",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huiles entièrement synthétiques destinées à la lubrification des turbines fonctionnant dans des conditions sévères de service, que ces turbines soient à gaz, à vapeur ou bien des turbines à gaz à cycle combiné.",
+                  "benefits": "Excellente fluidité à basse température. Indice de viscosité naturel élevé et stable, d’où des propriétés viscosité / température remarquables. Exceptionnelle stabilité thermique et grande résistance à l’oxydation. Protection renforcée contre l’usure.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_SHC_800.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-shc_mobil-shc-800-series.aspx"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":33,
+          "name":"Compresseurs de gaz naturel",
+          "imageURL":"ngcp/naturalGasTransmission3.png",
+          "x":176,
+          "y":-165,
+          "subcomponents":[
+            {
+              "id":91,
+              "name":"Compresseurs à vis à bain d'huile",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":44,
+                  "name":"Mobil SHC™ 1020",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huile synthétique pour compresseurs d’air à vis",
+                  "benefits": "Propriétés nettoyantes et stabilité exceptionnelles permettant de prolonger la disponibilité en service des équipements; Durée de vie importante de la charge d’huile; Réduction des dépôts; Réduction des coûts de maintenance; Excellentes propriétés anti-usure",
+                  "pdsURL": "",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                }
+              ]
+            },
+            {
+              "id":92,
+              "name":"Compresseurs d’air à pistons (refroidissement par air ou par eau)",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":45,
+                  "name":"Mobil Rarus™ 800 Series",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huiles synthétiques, destinées à la lubrification des compresseurs d’air alternatifs à pistons. Leurs performances exceptionnelles leur permettent de protéger efficacement les équipements, même lorsque ceux-ci fonctionnent dans des conditions de service très sévères.",
+                  "benefits": "Durée de vie importante de la charge d’huile en service. Contribue à réduire la formation de dépôts. Favorise la réduction des coûts de maintenance. Aide à limiter l’usure des composants.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_Rarus_800.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-rarus-800-series.aspx"
+                }
+              ]
+            },
+            {
+              "id":93,
+              "name":"Moteurs électriques Roulements lubrifiés à la graisse",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":42,
+                  "name":"Mobilith SHC™ 100",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Graisses synthétiques hautes performances, pour la lubrification des roulements. Leur épaississant est un savon de lithium complexe.",
+                  "benefits": "Excellente protection contre l’usure. Démarrages facilités à basse température. Les Mobilith SHC™ favorisent un allongement des intervalles de regraissage, ce qui contribue à réduire les coûts de maintenance.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRGRSMOMobilith_SHC.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_greases_mobilith-shc-grease-series.aspx"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":34,
+          "name":"Compresseurs de gaz naturel",
+          "imageURL":"ngcp/compressorStation2.png",
+          "x":205,
+          "y":-160,
+          "subcomponents":[
+            {
+              "id":94,
+              "name":"Moteur à gaz 4 Temps rapides turbo-chargés",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":32,
+                  "name":"Mobil Pegasus™ 1",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Lubrifiant synthétique pour moteurs fonctionnant au gaz naturel",
+                  "benefits": "Faible dépôt de cendre et minimisation de formation de dépôts sur les pistons, la zone de segmentation, les chemises et les têtes/sièges de soupapes; Lubrification efficace à froid (démarrages facilités) grâce à un point d’écoulement inférieur à -40 ºC",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_SHC_Pegasus.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-shc_mobil-shc-pegasus-series.aspx"
+                },
+                {
+                  "id":33,
+                  "name":"Mobil Pegasus™ 1005",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huile pour moteurs fonctionnant au gaz naturel. Hautes performances",
+                  "benefits": "Performances améliorées par rapport à Mobil Pegasus™ 905; Réduction du nombre de vidanges, d’où une diminution des volumes annuels d’huiles consommés; Contribue à la baisse des coûts d’exploitation et à l’amélioration de la productivité; Réduction des dépôts dans la chambre de combustion et sur les pistons; Fiabilité et rendement accrus; Meilleur contrôle des dépôts dans les échangeurs, pou",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_Pegasus_1005.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-pegasus-1005.aspx"
+                }
+              ]
+            },
+            {
+              "id":95,
+              "name":"Moteur – 2/4-Temps – Vitesse lente",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":35,
+                  "name":"Mobil Pegasus™ 801",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huile pour moteurs fonctionnant au gaz naturel (Stations de compression du gaz naturel seulement)",
+                  "benefits": "Excellente protection contre l’usure; Fiabilité optimisée et réduction des coûts de maintenance",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_Pegasus_801.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-shc_mobil-shc-pegasus-series.aspx"
+                }
+              ]
+            },
+            {
+              "id":96,
+              "name":"Compresseurs à vis à bain d'huile",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":36,
+                  "name":"Mobil SHC™ 800",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huiles entièrement synthétiques destinées à la lubrification des turbines fonctionnant dans des conditions sévères de service, que ces turbines soient à gaz, à vapeur ou bien des turbines à gaz à cycle combiné.",
+                  "benefits": "Excellente fluidité à basse température. Indice de viscosité naturel élevé et stable, d’où des propriétés viscosité / température remarquables. Exceptionnelle stabilité thermique et grande résistance à l’oxydation. Protection renforcée contre l’usure.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_SHC_800.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-shc_mobil-shc-800-series.aspx"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":35,
+          "name":"Compresseurs de gaz naturel",
+          "imageURL":"ngcp/compressorStation3.png",
+          "x":216,
+          "y":-160,
+          "subcomponents":[
+            {
+              "id":97,
+              "name":"Compresseurs à vis à bain d'huile",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":37,
+                  "name":"Mobil SHC™ 600",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huiles synthétiques industrielles pour réducteurs, engrenages, roulements et systèmes de lubrification par circulation.",
+                  "benefits": "Les Mobil SHC™ 600 contribuent à l’amélioration de la productivité des équipements grâce à la réduction potentielle du nombre d’arrêts, imprévus ou programmés dans le cadre des opérations de maintenance. Grande durée de vie des engrenages et des roulements, même dans des conditions de fonctionnement extrêmes. Allongement possible des intervalles de vidange, grâce à la grande durée de vie en service des charges d’huile. Réduction des frottements, ce qui favorise une amélioration de l’efficacité et du rendement énergétique, par rapport aux huiles minérales.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_SHC_600_Series.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-shc_mobil-shc-600-series.aspx"
+                }
+              ]
+            },
+            {
+              "id":98,
+              "name":"Compresseur alternatif Cylindres",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":33,
+                  "name":"Mobil Pegasus™ 1005",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huile pour moteurs fonctionnant au gaz naturel. Hautes performances",
+                  "benefits": "Performances améliorées par rapport à Mobil Pegasus™ 905; Réduction du nombre de vidanges, d’où une diminution des volumes annuels d’huiles consommés; Contribue à la baisse des coûts d’exploitation et à l’amélioration de la productivité; Réduction des dépôts dans la chambre de combustion et sur les pistons; Fiabilité et rendement accrus; Meilleur contrôle des dépôts dans les échangeurs, pou",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_Pegasus_1005.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-pegasus-1005.aspx"
+                }
+              ]
+            },
+            {
+              "id":99,
+              "name":"Compresseur alternatif Cylindres",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":33,
+                  "name":"Mobil Pegasus™ 1005",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huile pour moteurs fonctionnant au gaz naturel. Hautes performances",
+                  "benefits": "Performances améliorées par rapport à Mobil Pegasus™ 905; Réduction du nombre de vidanges, d’où une diminution des volumes annuels d’huiles consommés; Contribue à la baisse des coûts d’exploitation et à l’amélioration de la productivité; Réduction des dépôts dans la chambre de combustion et sur les pistons; Fiabilité et rendement accrus; Meilleur contrôle des dépôts dans les échangeurs, pou",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_Pegasus_1005.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-pegasus-1005.aspx"
+                },
+                {
+                  "id":35,
+                  "name":"Mobil Pegasus™ 801",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huile pour moteurs fonctionnant au gaz naturel (Stations de compression du gaz naturel seulement)",
+                  "benefits": "Excellente protection contre l’usure; Fiabilité optimisée et réduction des coûts de maintenance",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_Pegasus_801.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-shc_mobil-shc-pegasus-series.aspx"
+                },
+                {
+                  "id":39,
+                  "name":"Mobil DTE™ 205",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huile  pour cylindres",
+                  "benefits": "Excellente résistance au délavage par l’eau et autres liquides; Lubrification efficace avec de faibles fréquences d’alimentation; extension de la durée de vie des segments et des gorges de segment",
+                  "pdsURL": "http://www.mobil.com/USA-English/Lubes/PDS/NAUSENINDMOMobil_DTE_Oil_205.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                },
+                {
+                  "id":41,
+                  "name":"Mobil Glygoyle™",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huile synthétique pour engrenages, roulements et compresseurs (Stations de compression de gaz naturel et site de production seulement)",
+                  "benefits": "Amélioration du rendement Augmentation de la durée de vie de la charge d’huile Excellente protection contre l’usure",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_Glygoyle.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                }
+              ]
+            },
+            {
+              "id":100,
+              "name":"Compresseurs à vis à bain d'huile",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":36,
+                  "name":"Mobil SHC™ 800",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huiles entièrement synthétiques destinées à la lubrification des turbines fonctionnant dans des conditions sévères de service, que ces turbines soient à gaz, à vapeur ou bien des turbines à gaz à cycle combiné.",
+                  "benefits": "Excellente fluidité à basse température. Indice de viscosité naturel élevé et stable, d’où des propriétés viscosité / température remarquables. Exceptionnelle stabilité thermique et grande résistance à l’oxydation. Protection renforcée contre l’usure.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_SHC_800.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-shc_mobil-shc-800-series.aspx"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":36,
+          "name":"Compresseurs de gaz naturel",
+          "imageURL":"ngcp/compressorStation.png",
+          "x":226,
+          "y":-160,
+          "subcomponents":[
+            {
+              "id":101,
+              "name":"Compresseurs à vis à bain d'huile",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":44,
+                  "name":"Mobil SHC™ 1020",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huile synthétique pour compresseurs d’air à vis",
+                  "benefits": "Propriétés nettoyantes et stabilité exceptionnelles permettant de prolonger la disponibilité en service des équipements; Durée de vie importante de la charge d’huile; Réduction des dépôts; Réduction des coûts de maintenance; Excellentes propriétés anti-usure",
+                  "pdsURL": "",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                }
+              ]
+            },
+            {
+              "id":102,
+              "name":"Compresseurs d’air à pistons (refroidissement par air ou par eau)",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":45,
+                  "name":"Mobil Rarus™ 800 Series",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huiles synthétiques, destinées à la lubrification des compresseurs d’air alternatifs à pistons. Leurs performances exceptionnelles leur permettent de protéger efficacement les équipements, même lorsque ceux-ci fonctionnent dans des conditions de service très sévères.",
+                  "benefits": "Durée de vie importante de la charge d’huile en service. Contribue à réduire la formation de dépôts. Favorise la réduction des coûts de maintenance. Aide à limiter l’usure des composants.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_Rarus_800.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-rarus-800-series.aspx"
+                }
+              ]
+            },
+            {
+              "id":103,
+              "name":"Moteurs électriques Roulements lubrifiés à la graisse",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":42,
+                  "name":"Mobilith SHC™ 100",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Graisses synthétiques hautes performances, pour la lubrification des roulements. Leur épaississant est un savon de lithium complexe.",
+                  "benefits": "Excellente protection contre l’usure. Démarrages facilités à basse température. Les Mobilith SHC™ favorisent un allongement des intervalles de regraissage, ce qui contribue à réduire les coûts de maintenance.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRGRSMOMobilith_SHC.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_greases_mobilith-shc-grease-series.aspx"
+                }
+              ]
+            }
+          ]
+        }
+    ]
+  }
+}

@@ -1,0 +1,167 @@
+/* =================================================================================================
+	Function: include IE proprietary styles / hacks.
+	Created:  Summer 2007 - for GSIR Project
+	Updated:  March 17, 2008 - BDE (ExxonMobil IT)
+		New style #searchCntrNoLangSelect pushdown.  
+		Comes into effect only for country web sites with no language selector.
+   ================================================================================================= */
+#searchCntrNoLangSelect { margin-top:39px; }
+
+/* ie min-width, max-width emulation */
+#container { width: 914px; } /* in case JS is off, set a fallback width. default is auto */ 
+/*#container {
+	width: expression( Math.max( Math.min( document.body.clientWidth - 80, 914) , 710 )+'px' );
+}*/
+
+
+.clrfix {display: inline-block;}
+/* Hides from IE-mac \*/
+* html .clrfix {height: 1%;}
+.clrfix {display: block;}
+/* End hide from IE-mac */
+
+.contentWrapper {display: inline-block;}
+/* Hides from IE-mac \*/
+* html .contentWrapper {height: 1%;}
+.contentWrapper {display: block;}
+/* End hide from IE-mac */
+.contentWrapper { zoom:1; }
+
+#mainPanel .clrboth { clear:left; line-height:1%; font-size:1%;  }
+.endHoverDefContainer { clear:left; line-height:1%; font-size:1%;  }
+
+
+/* older versions of IE use "hand" instead of "pointer" */
+input.middleSubmitBtn { cursor:hand; }
+
+#mainContent hr { margin:-5px 0; } 
+
+.subnav li a { zoom:1; }
+				
+.callwhiteBR .callwhitepad .content { zoom:1; }
+.callblueBR .callbluepad .content { zoom:1; }
+
+#mainPanel { zoom:1; }
+#sideBar { zoom:1; }
+#mainContent { zoom:1; }
+
+* html #sideBar { overflow:visible; }
+* html #toolbar { overflow:visible; }
+* html #mainContent { overflow:visible; }
+* html .item { overflow:visible; }
+
+* html a.hoverdef { zoom:1; }
+a.hoverdef { margin-bottom:-.4em; }
+
+
+/* 
+.home #mainFeature { zoom:1; }
+.landing div#mainFeature { margin-bottom:30px; } */
+
+.nosubfeatures div#mainFeature { min-height:170px; } 
+* html .nosubfeatures .featureRow div#mainFeature { height:201px; zoom:1; } 
+.nosubfeatures .featureRow div#mainFeatureFlash {  width:101.5%; margin:0 0 -8px -.7%; }
+
+
+.home .featureRow #mainFeatureFlash { zoom:1; } 
+
+
+#mainFeatureHeightSet { zoom:1; }
+#subFeatureHeightSet { zoom:1; }
+#mainFeatureHeightCheck { zoom:1; }
+#subFeatureHeightCheck { zoom:1; }
+.home .frame01BR .frame01pad { zoom:1; }
+
+* html #globalHeader { margin-top:1px; }
+* html #navPanel { }	/* minimum height */
+
+* html .home .frame01BL, * html .home .frame01BR { height:195px; }
+
+.layoutRow { float:none; }
+.tabRow, .linkindex, .countryListing { float:none; width:auto; }
+.countryListing { padding-bottom:15px; }
+
+#container a b,
+#container a strong,  
+#container a i,  
+#container a em
+	{ color: #1a4a7a; }
+#container a:visited b,
+#container a:visited strong,  
+#container a:visited i,  
+#container a:visited em
+	{ color: #2e4b68; }
+
+.headerbar h3 a  { zoom:1; }
+
+.subfeature table { 
+	width:77%; 		/* all browsers see this rule */
+	w\idth:100%;	/* all browsers EXCEPT IE 5.5 see this one - 5.5 keeps value above */
+	}
+
+.cdouble .item ul  {
+	float:none;		/* all browsers see this rule */
+	f\loat:left;	/* all browsers EXCEPT IE 5.5 see this one - 5.5 keeps value above */
+	}
+
+* html .home .callout .content { height:100px; }
+#globalNav {
+	float:right;
+	clear:right;
+	margin-top:-30px;
+	margin-right:120px;
+}
+#globalNav ul , #globallang ul  { float:right; font-size: 1em;  }
+#globalNav ul li , #globallang ul li { float:left; padding: 1px 0 1px 16px;  white-space:nowrap; }
+#globalNav li a { background: transparent; font-weight:bold; }
+.cdouble .itemgroup { zoom:1; }
+.cdouble .item { zoom:1; }
+.cdouble .item .padding { zoom:1; }
+
+.csingle .item { zoom:1; }
+.csingle .item .padding { zoom:1; }
+
+.padTop20 { clear:both; zoom:1; }
+
+.mc3column div.item { margin-right:15px; }
+#mainContent ul.sidelinks li { zoom:1; }
+
+* html .formHolder label,
+* html .formHolder input,
+* html .formHolder select 
+	{ height:1.5em; }
+* html .fieldHolder { height:3em; }
+* html .contactus .fieldHolder { overflow:visible;}
+.formHolder input.text { width:220px;  } 
+
+.search #mainContent .padding { zoom:1; }
+.search #mainContent .url {  word-wrap:break-word; zoom:1; }
+
+* html .search .fieldHolder { height:3em; }
+.graph1bar { margin-right:-10px; }
+
+.psmain #mainPanel .formHolder .fieldHolder { padding-bottom:30px;}
+.psmain #mainPanel .formHolder .fieldGroup .fieldHolder { padding-bottom:15px;}
+
+* html .advert .linebox { height:278px;  }
+
+#mainPanel .formHolder input.middleSubmitBtn { height:18px; }
+	
+#mainContent .formHolder .button { width:12em; }
+#mainContent .formHolder div.right { margin-left:150px; }
+
+.list .itemgroup {float:none;}
+.list .mc1column .item { float:none;}
+.psresult .itemgroup {clear:left; float:none;}
+
+* html .psresult .item { height:60px; }
+
+.search #mainPanel .clrboth { clear:left; line-height:100%; font-size:100%; }
+#globallang {
+	width:400px;
+}
+#navPanel hr{ margin:0px; padding: 0px; border: 1px solid #CCCCCC; float:left; clear:both; }
+@media print 
+{
+    div#container #mainContent div.item h3 a img { position:relative; top:-1.5em; }
+}

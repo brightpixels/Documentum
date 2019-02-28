@@ -1,0 +1,34 @@
+﻿/* Start Over section */
+.looble-logo_EN{
+    text-align:left;
+    width:62px;
+    background:url("../images/looble_EN.png") no-repeat;
+    height:27px;
+}
+.back_btn_ILS,
+.back_btn_ILS_EN,
+.back_btn_ILS_ZH,
+.back_btn_ILS_DE{
+    width:69px;
+    float:right;
+    border-width:0;
+    height:18px;
+    margin-left:10px;
+    cursor:pointer;
+}
+.back_btn_ILS,
+.back_btn_ILS_EN{
+    background:url(../images/startover_btn_EN.png) no-repeat 0px 0px
+}
+.back_btn_ILS_ZH{
+    background:url(../images/startover_btn_ZH.png) no-repeat 0px 0px
+}
+.back_btn_ILS_DE{
+    background:url(../images/startover_btn_DE.png) no-repeat 0px 0px
+}
+.back_btn_ILS:hover,
+.back_btn_ILS_EN:hover,
+.back_btn_ILS_ZH:hover,
+.back_btn_ILS_DE:hover{
+    background-position:0px -18px
+}

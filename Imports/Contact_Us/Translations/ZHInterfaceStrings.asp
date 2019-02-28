@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- ===================================================================================================================
+		Created: 2005+ - for Contact Us Application - WCM Team			(Simplified Chinese?)
+		Updated: February 11, 2011 - BDE - WCM Team
+			Added new tags at end for PA/LCW after CloseText tag.
+		Updated: December 13, 2013 - BDE - WCM Team - WO0000001593584
+			Added tags for new captcha control on Contact Us forms
+======================================================================================================================== 
+-->
+<root>
+		<ThankYouMessage>&lt;b&gt;谢谢！&lt;/b&gt;
+		您的信息已成功发送。
+		我们会尽快与您取得联系。
+		</ThankYouMessage>
+		<ErrorMessage>很抱歉，您的信息未能成功发送。&lt;br/&gt;
+		失败的原因有很多，比如服务器问题，系统兼容性问题。&lt;br/&gt;
+		请稍候再尝试写邮件给我们或者通过电话与我们取得联系。&lt;br/&gt;
+		对此造成的不便，再次抱歉。
+		</ErrorMessage>
+	<PageTitle>
+		<P>联系我们</P>
+	</PageTitle>
+	<RequiredText>
+		<P>为必填项</P>
+	</RequiredText>
+	<SubjectText>
+		<P>主题</P>
+	</SubjectText>
+	<SelectSubjectText>
+		<P>请从以下列表中选择一个主题</P>
+	</SelectSubjectText>
+	<FirstNameText>
+		<P>名</P>
+	</FirstNameText>
+	<SurnameNameText>
+		<P>姓</P>
+	</SurnameNameText>
+	<PositionTitleText>
+		<P>职务</P>
+	</PositionTitleText>
+	<EmailText>
+		<P>电子邮件地址</P>
+	</EmailText>
+	<CompanyText>
+		<P>公司</P>
+	</CompanyText>
+	<AddressText>
+		<P>地址</P>
+	</AddressText>
+	<CityTownText>
+		<P>城市/镇</P>
+	</CityTownText>
+	<ProvinceStateText>
+		<P>省/州</P>
+	</ProvinceStateText>
+	<CountryText>
+		<P>公司所在的国家</P>
+	</CountryText>
+	<SelectCountryText>
+		<P>选择您的国家</P>
+	</SelectCountryText>
+	<PostalCodeText>
+		<P>邮政编码</P>
+	</PostalCodeText>
+	<PhoneNumberText>
+		<P>电话号码</P>
+	</PhoneNumberText>
+	<FaxNumberText>
+		<P>传真号码（用于回复MSDS请求）</P>
+	</FaxNumberText>
+	<CurrentCustomerText>
+		<P>您是注册客户吗？</P>
+	</CurrentCustomerText>
+	<YesText>
+		<P>是</P>
+	</YesText>
+	<NoText>
+		<P>否</P>
+	</NoText>
+	<QuestionText>
+		<P>你的请求或疑问</P>
+	</QuestionText>
+	<TermsConditionsText>
+		<P>请查看并确认接受以下表格中所列条款</P>
+	</TermsConditionsText>
+	<TermsConditionsLink>
+		<P>http://www.exxonmobil.com/Global-All/Legal/TC_CN_Simplified.asp</P>
+	</TermsConditionsLink>
+	<TermsConditionsLinkText>
+		<P>我接受相关条款</P>
+	</TermsConditionsLinkText>
+	<SendText>
+		<P>发送</P>
+	</SendText>
+	<ClearFormText>
+		<P>清空</P>
+	</ClearFormText>
+	<EnterEmailText>
+		<P>请在下面的空格中输入您的电子邮件  姓名@公司名称.com</P>
+	</EnterEmailText>
+	<ChooseSubjectText>
+		<P>请从以下列表中选择一个主题</P>
+	</ChooseSubjectText>
+	<SelectCountryText>
+		<P>请选择您的国家</P>
+	</SelectCountryText>
+	<ValidPhone>
+		<P>请输入您的电话号码 （数字），不要包含破折号，空白或其他符号。</P>
+	</ValidPhone>
+	<ValidFax>
+		<P>请输入您的传真号码 （数字），不要包含破折号，空白或其他符号。</P>
+	</ValidFax>
+	<EnterCustomer>
+		<P>请说明您现在是否是美孚客户</P>
+	</EnterCustomer>
+	<EnterQuestion>
+		<P>請輸入您的訊息。</P>
+	</EnterQuestion>
+	<CloseText>
+		<P>关闭窗口</P>
+	</CloseText>
+	<TermsConditionsErrorText>
+		<P>请接受相关条款</P>
+	</TermsConditionsErrorText>
+	<CheckboxText1>请查看并确认接受以下表格中所列条款:</CheckboxText1>
+	<CheckboxLabel1>我接受相关条款</CheckboxLabel1>
+	<CheckboxError1>请接受相关条款!!</CheckboxError1>
+	<CheckboxText2/>
+	<CheckboxLabel2/>
+	<CheckboxError2/>
+	<CheckboxText3/>
+	<CheckboxLabel3/>
+	<CheckboxError3/>
+	<ErrorCaptchaTimeOut>表单被提交太快。请几秒钟后重试。</ErrorCaptchaTimeOut>
+	<ErrorCaptchaHidden>验证失败 - 可能不安全的表单提交。</ErrorCaptchaHidden>
+</root>

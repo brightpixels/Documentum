@@ -1,0 +1,503 @@
+{
+  "lang": {
+    "fullscreen":                 "Plein écran",
+    "exitFullscreen":             "Quitter le mode “Plein écran”",
+    "visit":                      "Démarrer la visite",
+    "equipment":                  "Equipement",
+    "viewDetails":                "Voir les détails",
+    "dontShowMeThisMessageAgain": "Ne plus afficher ce message",
+    "directions":                 "Cliquez sur un point rouge dans le schéma ou sur l’un des items contenus dans le menu « Equipement » pour découvrir les informations relatives au lubrifiant Mobil™ correspondant. Pour parcourir l’ensemble du schéma, cliquez et déplacez la souris ou utilisez les flèches de déplacement situées sur votre clavier d’ordinateur.",
+    "continue":                   "Continuer",
+    "pds":                        "Fiche technique produit (FTP)",
+    "whereToBuy":                 "Où acheter ?",
+    "productInformation":         "Description du produit",
+    "benefits":                   "Avantages",
+    "refineYourSearchWithLooble": "Affiner votre recherche avec le guide de sélection Looble℠",
+    "products":                   "Produits",
+    "back":                       "Retour",
+    "equipmentType":              "Type d’équipement",
+    "getMoreInfo":                "Pour avoir plus d’informations",
+    "productDataSheets":          "Fiches techniques produits (FTP)",
+    "downloadSellSheet":          "Télécharger ce document",
+    "emailPageLink":              "Lien pour envoyer un message électronique",
+    "findADistributor":           "Trouver un Distributeur",
+    "components":                 "Composants",
+    "touchModeQuestion":          "Il apparaît que vous êtes en train d’utiliser une tablette ou un appareil à touches tactiles. Souhaitez-vous utiliser une interface tactile optimisée ?",
+    "yesUseTheTouchVersion":      "Oui, je préfère utiliser la version tactile",
+    "no":                         "Non"
+  },
+  
+  "schematic": {
+    "name":"Schéma de turbines à gaz",
+    "tileset":"gasturbines",
+    "minZoom": 1,
+    "maxZoom": 4,
+    "components":[
+        {
+          "id":42,
+          "name":"Compresseurs de gaz",
+          "imageURL":"gasturbines/gasCompressor.png",
+          "x":125,
+          "y":-76,
+          "subcomponents":[
+            {
+              "id":113,
+              "name":"Compresseurs",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":53,
+                  "name":"Mobil SHC™ 600",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huiles synthétiques industrielles pour réducteurs, engrenages, roulements et systèmes de lubrification par circulation.",
+                  "benefits": "Les Mobil SHC™ 600 contribuent à l’amélioration de la productivité des équipements grâce à la réduction potentielle du nombre d’arrêts, imprévus ou programmés dans le cadre des opérations de maintenance. Grande durée de vie des engrenages et des roulements, même dans des conditions de fonctionnement extrêmes. Allongement possible des intervalles de vidange, grâce à la grande durée de vie en service des charges d’huile. Réduction des frottements, ce qui favorise une amélioration de l’efficacité et du rendement énergétique, par rapport aux huiles minérales.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_SHC_600_Series.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-shc_mobil-shc-600-series.aspx"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":43,
+          "name":"Boucle vapeur / Pompes d'alimentation en eau",
+          "imageURL":"gasturbines/steamLoop.png",
+          "x":175,
+          "y":-186,
+          "subcomponents":[
+            {
+              "id":114,
+              "name":"Pompes",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":53,
+                  "name":"Mobil SHC™ 600",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huiles synthétiques industrielles pour réducteurs, engrenages, roulements et systèmes de lubrification par circulation.",
+                  "benefits": "Les Mobil SHC™ 600 contribuent à l’amélioration de la productivité des équipements grâce à la réduction potentielle du nombre d’arrêts, imprévus ou programmés dans le cadre des opérations de maintenance. Grande durée de vie des engrenages et des roulements, même dans des conditions de fonctionnement extrêmes. Allongement possible des intervalles de vidange, grâce à la grande durée de vie en service des charges d’huile. Réduction des frottements, ce qui favorise une amélioration de l’efficacité et du rendement énergétique, par rapport aux huiles minérales.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_SHC_600_Series.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-shc_mobil-shc-600-series.aspx"
+                },
+                {
+                  "id":54,
+                  "name":"Mobil DTE™ 700",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huiles principalement conçues pour la lubrification des turbines à vapeur et à gaz, lorsque ces dernières fonctionnent en service modéré et ne comportent pas d’engrenages.",
+                  "benefits": "Rationalisation des stocks possible grâce à l’utilisation d’un seul et même produit susceptible de lubrifier une large gamme de turbines. Simplification du nombre de qualité d’huiles différentes à gérer et diminution du risque d’erreur au niveau des applications. Bonne stabilité thermique et grande résistance à la dégradation, ce qui contribue à réduire la formation de dépôts.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_DTE_700.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-dte-700-series.aspx"
+                }
+              ]
+            },
+            {
+              "id":115,
+              "name":"Moteurs électriques",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":54,
+                  "name":"Mobil DTE™ 700",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huiles principalement conçues pour la lubrification des turbines à vapeur et à gaz, lorsque ces dernières fonctionnent en service modéré et ne comportent pas d’engrenages.",
+                  "benefits": "Rationalisation des stocks possible grâce à l’utilisation d’un seul et même produit susceptible de lubrifier une large gamme de turbines. Simplification du nombre de qualité d’huiles différentes à gérer et diminution du risque d’erreur au niveau des applications. Bonne stabilité thermique et grande résistance à la dégradation, ce qui contribue à réduire la formation de dépôts.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_DTE_700.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-dte-700-series.aspx"
+                },
+                {
+                  "id":55,
+                  "name":"Mobil Polyrex™ EM",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Graisse minérale de haute qualité, pour la lubrification des roulements de moteurs électriques.",
+                  "benefits": "Mobil Polyrex™ EM contribue à accroître la longévité des roulements et à optimiser la fiabilité des moteurs électriques.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRGRSMOMobil_Polyrex_EM.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-polyrex-em.aspx"
+                }
+              ]
+            },
+            {
+              "id":116,
+              "name":"Roulements des moteurs électriques",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":56,
+                  "name":"Mobil DTE™ Nommées",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huiles de circulation",
+                  "benefits": "En raison de la grande polyvalence des Mobil DTE™ nommées, ces huiles peuvent être choisies pour une multitude d’applications industrielles",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/EUXXFRINDMOMobil_DTE_Named.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.exxonmobil.com/MarineLubes-En/products_auxiliary-machinery_circulating-and-gear-oils_mobil-dte-named-series.aspx"
+                }
+              ]
+            },
+            {
+              "id":117,
+              "name":"Roulements des moteurs électriques",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":57,
+                  "name":"Mobilith SHC™",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Graisses synthétiques hautes performances, pour la lubrification des roulements. Leur épaississant est un savon de lithium complexe",
+                  "benefits": "Excellente protection contre l’usure. Démarrages facilités à basse température. Les Mobilith SHC™ favorisent un allongement des intervalles de regraissage, ce qui contribue à réduire les coûts de maintenance.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRGRSMOMobilith_SHC.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_greases_mobilith-shc-grease-series.aspx"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":44,
+          "name":"Tours de refroidissement",
+          "imageURL":"gasturbines/coolingTower.png",
+          "x":53,
+          "y":-195,
+          "subcomponents":[
+            {
+              "id":118,
+              "name":"Réducteur",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":53,
+                  "name":"Mobil SHC™ 600",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huiles synthétiques industrielles pour réducteurs, engrenages, roulements et systèmes de lubrification par circulation.",
+                  "benefits": "Les Mobil SHC™ 600 contribuent à l’amélioration de la productivité des équipements grâce à la réduction potentielle du nombre d’arrêts, imprévus ou programmés dans le cadre des opérations de maintenance. Grande durée de vie des engrenages et des roulements, même dans des conditions de fonctionnement extrêmes. Allongement possible des intervalles de vidange, grâce à la grande durée de vie en service des charges d’huile. Réduction des frottements, ce qui favorise une amélioration de l’efficacité et du rendement énergétique, par rapport aux huiles minérales.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_SHC_600_Series.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-shc_mobil-shc-600-series.aspx"
+                }
+              ]
+            },
+            {
+              "id":119,
+              "name":"Moteurs électriques",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":55,
+                  "name":"Mobil Polyrex™ EM",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Graisse minérale de haute qualité, pour la lubrification des roulements de moteurs électriques.",
+                  "benefits": "Mobil Polyrex™ EM contribue à accroître la longévité des roulements et à optimiser la fiabilité des moteurs électriques.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRGRSMOMobil_Polyrex_EM.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-polyrex-em.aspx"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":45,
+          "name":"Compresseurs d’air",
+          "imageURL":"gasturbines/airCompressor.png",
+          "x":209,
+          "y":-159,
+          "subcomponents":[
+            {
+              "id":120,
+              "name":"Compresseurs à vis rotatifs",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":58,
+                  "name":"Mobil Rarus SHC™ 1020 (compresseurs à vis)",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huiles synthétiques pour compresseurs d’air rotatifs à vis",
+                  "benefits": "Maintien de la propreté des composants. Stabilité exceptionnelle permettant de prolonger la disponibilité en service des équipements. Durée de vie importante de la charge d’huile. Formation de dépôts réduite. Favorise la réduction des coûts de maintenance. Excellentes propriétés anti-usure.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_Rarus_SHC_1020.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-shc_mobil-rarus-shc-1020-series.aspx"
+                }
+              ]
+            },
+            {
+              "id":121,
+              "name":"Compresseurs",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":59,
+                  "name":"Mobil Rarus™ serie 800 (compresseurs à piston)",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huiles synthétiques pour compresseurs d’air",
+                  "benefits": "Compresseurs d’air à pistons et à vis (grades de viscosité plus faibles pour les compresseurs à vis et plus élevés pour les compresseurs à pistons); Réduction des dépôts sur les clapets; Réduction des risques d’incendie et d’explosion, par rapport aux huiles minérales",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_Rarus_800.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-rarus-800-series.aspx"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":46,
+          "name":"Générateurs de secours Pompes incendie",
+          "imageURL":"gasturbines/generatorWaterPump.png",
+          "x":209,
+          "y":-112,
+          "subcomponents":[
+            {
+              "id":122,
+              "name":"Moteurs Diesel",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":60,
+                  "name":"Mobil Delvac™ 1300 Super",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huile hautes performances pour moteurs Diesel; elle contribue à augmenter la durée de vie des moteurs exploités dans des conditions de service difficiles sur route et chantiers. Excellentes performances en terme de réduction des émissions de gaz polluants en présence de systèmes de Recirculation des Gaz d’Echappement (EGR), de Filtres à Particules Diesel (FAP / DPF) et de catalyseurs d’oxydation Diesel (DOC)",
+                  "benefits": "Amélioration du rendement énergétique par rapport aux huiles minérales; Réduction des boues à basse température et des dépôts aux températures élevées; Réduction des appoints; Excellente pompabilité à basse température; Augmentation de la durée de vie des organes lubrifiés",
+                  "pdsURL": "http://www.mobil.fr/France-French-LCW/heavydutyengineoils_products.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobil.com/USA-English-LCW/heavydutyengineoils_products_engine-oils_mobil-delvac-1300-super.aspx"
+                },
+                {
+                  "id":61,
+                  "name":"Mobil Delvac™ 1600",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huiles monogrades hautes performances pour moteurs Diesel formulées à partir d'huiles de base améliorées et d'un système d'additifs équilibré. Elles sont tout particulièrement formulées pour assurer les performances exceptionnelles des moteurs suralimentés, avec intercooler, utilisés dans des conditions sévères sur route et dans les équipements de chantier",
+                  "benefits": "Excellente protection contre l'épaississement de l'huile, la formation de dépôts et de boues, la dégradation del'huile et la corrosion; Protection exceptionelle contre l'usure; Prévient la formation d'acides en cas d'utilisation du carburant à haute teneur en soufre",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRCVLMOMobil_Delvac_1600_Monogrades.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.exxonmobil.com/MarineLubes-En/products_medium-speed-distillate-use_mobil-delvac-1600-series.aspx"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":47,
+          "name":"Turbine à gaz Générateur",
+          "imageURL":"gasturbines/gasTurbineGeneratorUnit.png",
+          "x":99,
+          "y":-103,
+          "subcomponents":[
+            {
+              "id":123,
+              "name":"Turbine Réservoir",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":54,
+                  "name":"Mobil DTE™ 700",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huiles principalement conçues pour la lubrification des turbines à vapeur et à gaz, lorsque ces dernières fonctionnent en service modéré et ne comportent pas d’engrenages.",
+                  "benefits": "Rationalisation des stocks possible grâce à l’utilisation d’un seul et même produit susceptible de lubrifier une large gamme de turbines. Simplification du nombre de qualité d’huiles différentes à gérer et diminution du risque d’erreur au niveau des applications. Bonne stabilité thermique et grande résistance à la dégradation, ce qui contribue à réduire la formation de dépôts.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_DTE_700.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-dte-700-series.aspx"
+                },
+                {
+                  "id":62,
+                  "name":"Mobil DTE™ 800",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huiles destinées à la lubrification des turbines fonctionnant dans des conditions sévères de service. Les Mobil DTE™ 800 sont adaptées tout aussi bien aux turbines à gaz, à vapeur ou bien encore aux turbines à gaz à cycle combiné.",
+                  "benefits": "Longue durée de vie des charges d’huile en service. Les Mobil DTE™ 800 aident à réduire la formation de dépôts et favorisent une diminution des coûts de maintenance.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_DTE_800.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-dte-800-series.aspx"
+                },
+                {
+                  "id":63,
+                  "name":"Mobil SHC™ 800",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huiles entièrement synthétiques destinées à la lubrification des turbines fonctionnant dans des conditions sévères de service, que ces turbines soient à gaz, à vapeur ou bien des turbines à gaz à cycle combiné.",
+                  "benefits": "Excellente fluidité à basse température. Indice de viscosité naturel élevé et stable, d’où des propriétés viscosité / température remarquables. Exceptionnelle stabilité thermique et grande résistance à l’oxydation. Protection renforcée contre l’usure.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_SHC_800.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-shc_mobil-shc-800-series.aspx"
+                }
+              ]
+            },
+            {
+              "id":124,
+              "name":"Générateur Roulements",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":54,
+                  "name":"Mobil DTE™ 700",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huiles principalement conçues pour la lubrification des turbines à vapeur et à gaz, lorsque ces dernières fonctionnent en service modéré et ne comportent pas d’engrenages.",
+                  "benefits": "Rationalisation des stocks possible grâce à l’utilisation d’un seul et même produit susceptible de lubrifier une large gamme de turbines. Simplification du nombre de qualité d’huiles différentes à gérer et diminution du risque d’erreur au niveau des applications. Bonne stabilité thermique et grande résistance à la dégradation, ce qui contribue à réduire la formation de dépôts.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_DTE_700.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-dte-700-series.aspx"
+                },
+                {
+                  "id":62,
+                  "name":"Mobil DTE™ 800",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huiles destinées à la lubrification des turbines fonctionnant dans des conditions sévères de service. Les Mobil DTE™ 800 sont adaptées tout aussi bien aux turbines à gaz, à vapeur ou bien encore aux turbines à gaz à cycle combiné.",
+                  "benefits": "Longue durée de vie des charges d’huile en service. Les Mobil DTE™ 800 aident à réduire la formation de dépôts et favorisent une diminution des coûts de maintenance.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_DTE_800.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-dte-800-series.aspx"
+                },
+                {
+                  "id":63,
+                  "name":"Mobil SHC™ 800",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huiles entièrement synthétiques destinées à la lubrification des turbines fonctionnant dans des conditions sévères de service, que ces turbines soient à gaz, à vapeur ou bien des turbines à gaz à cycle combiné.",
+                  "benefits": "Excellente fluidité à basse température. Indice de viscosité naturel élevé et stable, d’où des propriétés viscosité / température remarquables. Exceptionnelle stabilité thermique et grande résistance à l’oxydation. Protection renforcée contre l’usure.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_SHC_800.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-shc_mobil-shc-800-series.aspx"
+                }
+              ]
+            },
+            {
+              "id":125,
+              "name":"Système EHC",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":54,
+                  "name":"Mobil DTE™ 700",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huiles principalement conçues pour la lubrification des turbines à vapeur et à gaz, lorsque ces dernières fonctionnent en service modéré et ne comportent pas d’engrenages.",
+                  "benefits": "Rationalisation des stocks possible grâce à l’utilisation d’un seul et même produit susceptible de lubrifier une large gamme de turbines. Simplification du nombre de qualité d’huiles différentes à gérer et diminution du risque d’erreur au niveau des applications. Bonne stabilité thermique et grande résistance à la dégradation, ce qui contribue à réduire la formation de dépôts.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_DTE_700.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-dte-700-series.aspx"
+                },
+                {
+                  "id":62,
+                  "name":"Mobil DTE™ 800",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huiles destinées à la lubrification des turbines fonctionnant dans des conditions sévères de service. Les Mobil DTE™ 800 sont adaptées tout aussi bien aux turbines à gaz, à vapeur ou bien encore aux turbines à gaz à cycle combiné.",
+                  "benefits": "Longue durée de vie des charges d’huile en service. Les Mobil DTE™ 800 aident à réduire la formation de dépôts et favorisent une diminution des coûts de maintenance.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_DTE_800.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-dte-800-series.aspx"
+                },
+                {
+                  "id":64,
+                  "name":"Mobil Pyrotec™ HFD 46",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Fluide hydraulique difficilement inflammable, de nature synthétique, destiné à la lubrification des systèmes de contrôle des commandes électro-hydrauliques équipant les turbines à gaz et à vapeur.",
+                  "benefits": "Sa nature lui confère une bonne résistance intrinsèque aux risques d’incendie. Grande longévité des composants grâce à ses excellentes propriétés anti-usure. Grande durée de vie en service du fait de sa remarquable résistance à l’oxydation.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_Pyrotec_HFC_46.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                } 
+              ]
+            }
+          ]
+        },
+        {
+          "id":48,
+          "name":"Arbre de la turbine à gaz",
+          "imageURL":"gasturbines/open.png",
+          "x":162,
+          "y":-37,
+          "subcomponents":[
+            {
+              "id":126,
+              "name":"Turbine Réservoir",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":54,
+                  "name":"Mobil DTE™ 700",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huiles principalement conçues pour la lubrification des turbines à vapeur et à gaz, lorsque ces dernières fonctionnent en service modéré et ne comportent pas d’engrenages.",
+                  "benefits": "Rationalisation des stocks possible grâce à l’utilisation d’un seul et même produit susceptible de lubrifier une large gamme de turbines. Simplification du nombre de qualité d’huiles différentes à gérer et diminution du risque d’erreur au niveau des applications. Bonne stabilité thermique et grande résistance à la dégradation, ce qui contribue à réduire la formation de dépôts.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_DTE_700.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-dte-700-series.aspx"
+                },
+                {
+                  "id":62,
+                  "name":"Mobil DTE™ 800",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huiles destinées à la lubrification des turbines fonctionnant dans des conditions sévères de service. Les Mobil DTE™ 800 sont adaptées tout aussi bien aux turbines à gaz, à vapeur ou bien encore aux turbines à gaz à cycle combiné.",
+                  "benefits": "Longue durée de vie des charges d’huile en service. Les Mobil DTE™ 800 aident à réduire la formation de dépôts et favorisent une diminution des coûts de maintenance.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_DTE_800.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-dte-800-series.aspx"
+                },
+                {
+                  "id":63,
+                  "name":"Mobil SHC™ 800",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huiles entièrement synthétiques destinées à la lubrification des turbines fonctionnant dans des conditions sévères de service, que ces turbines soient à gaz, à vapeur ou bien des turbines à gaz à cycle combiné.",
+                  "benefits": "Excellente fluidité à basse température. Indice de viscosité naturel élevé et stable, d’où des propriétés viscosité / température remarquables. Exceptionnelle stabilité thermique et grande résistance à l’oxydation. Protection renforcée contre l’usure.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_SHC_800.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-shc_mobil-shc-800-series.aspx"
+                }
+              ]
+            },
+            {
+              "id":127,
+              "name":"Générateur Roulements",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":54,
+                  "name":"Mobil DTE™ 700",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huiles principalement conçues pour la lubrification des turbines à vapeur et à gaz, lorsque ces dernières fonctionnent en service modéré et ne comportent pas d’engrenages.",
+                  "benefits": "Rationalisation des stocks possible grâce à l’utilisation d’un seul et même produit susceptible de lubrifier une large gamme de turbines. Simplification du nombre de qualité d’huiles différentes à gérer et diminution du risque d’erreur au niveau des applications. Bonne stabilité thermique et grande résistance à la dégradation, ce qui contribue à réduire la formation de dépôts.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_DTE_700.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-dte-700-series.aspx"
+                },
+                {
+                  "id":62,
+                  "name":"Mobil DTE™ 800",
+                  "type": "Lubrifiant Minéral",
+                  "information": "Huiles destinées à la lubrification des turbines fonctionnant dans des conditions sévères de service. Les Mobil DTE™ 800 sont adaptées tout aussi bien aux turbines à gaz, à vapeur ou bien encore aux turbines à gaz à cycle combiné.",
+                  "benefits": "Longue durée de vie des charges d’huile en service. Les Mobil DTE™ 800 aident à réduire la formation de dépôts et favorisent une diminution des coûts de maintenance.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_DTE_800.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-dte-800-series.aspx"
+                },
+                {
+                  "id":63,
+                  "name":"Mobil SHC™ 800",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Huiles entièrement synthétiques destinées à la lubrification des turbines fonctionnant dans des conditions sévères de service, que ces turbines soient à gaz, à vapeur ou bien des turbines à gaz à cycle combiné.",
+                  "benefits": "Excellente fluidité à basse température. Indice de viscosité naturel élevé et stable, d’où des propriétés viscosité / température remarquables. Exceptionnelle stabilité thermique et grande résistance à l’oxydation. Protection renforcée contre l’usure.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_SHC_800.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": "http://www.mobilindustrial.com/ind/French/products_mobil-shc_mobil-shc-800-series.aspx"
+                }
+              ]
+            },
+            {
+              "id":128,
+              "name":"Système EHC",
+              "loobleURL": "",
+              "products":[
+                {
+                  "id":64,
+                  "name":"Mobil Pyrotec™ HFD 46",
+                  "type": "Lubrifiant Synthétique",
+                  "information": "Fluide hydraulique difficilement inflammable, de nature synthétique, destiné à la lubrification des systèmes de contrôle des commandes électro-hydrauliques équipant les turbines à gaz et à vapeur.",
+                  "benefits": "Sa nature lui confère une bonne résistance intrinsèque aux risques d’incendie. Grande longévité des composants grâce à ses excellentes propriétés anti-usure. Grande durée de vie en service du fait de sa remarquable résistance à l’oxydation.",
+                  "pdsURL": "http://www.mobil.com/France-French/Lubes/PDS/GLXXFRINDMOMobil_Pyrotec_HFC_46.aspx",
+                  "sellSheetURL": "",
+                  "moreInfoURL": ""
+                }
+              ]
+            }
+          ]
+        }
+    ]
+  }
+}

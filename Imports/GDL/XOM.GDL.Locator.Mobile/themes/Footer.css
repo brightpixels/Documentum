@@ -1,0 +1,51 @@
+﻿body
+{
+
+}
+
+/******************************************************************************************************
+
+	FOOTER
+			
+*******************************************************************************************************/
+#footer
+{
+	clear: both;
+	position: relative;
+	bottom: 0;
+	width: 100%;
+	margin: 0px;
+	text-align: center;
+	border-top: 1px solid #f0f0f0;
+	font-family: Helvetica, Arial, sans-serif color: ffffff;
+	background-color: #FFFFFF;
+}
+               
+        #footer ul {
+				display: 		block;
+				padding:		0 0 0 0;
+        }
+
+        #footer li {
+            display: 		inline;
+        }
+        
+		 #footer a {
+            display: 		inline;
+            padding: 		0 9px 0 10px;
+            line-height:	12px;
+            color: 			#6b6b6b;
+            border-left:	1px dashed #a8a9a4;
+        }
+        #footer a:hover {
+            color: 			#2c2c2c;
+        }
+        
+        #footer li.first a {
+            border-left:	none;
+        }
+   
+        #footer #footer-contact-us {
+            padding-left:	33px;
+            background:	url('images/footer-icon-contact.gif') no-repeat 10px center;
+        }

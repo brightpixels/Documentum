@@ -1,0 +1,331 @@
+<!--///////////////////////////////////////////////////////////////////////////
+ DESKTOP UI FOR YOUR INDUSTRY
+////////////////////////////////////////////////////////////////////////////-->
+
+<script type="text/html" id="msa-container">
+  <!-- It is important that css come first so appropriate styles are applied first for each mode -->
+  <div id="msa-container" data-bind="css: { 'msa-fullscreen': isFullscreen, 'msa-desktop': desktopMode(), 'msa-touch': touchMode() },
+                                          template: { name: template, afterRender: templateRendered },
+                                          fullscreen: isFullscreen">
+  </div> <!-- /.msa-container -->
+</script>
+
+<script type="text/html" id="msa-desktop-your-industry">
+  <div class="msa-titlebar clearfix">
+    <h1 data-bind="text: name"></h1>
+    <button class="msa-fullscreen-button msa-loud" data-bind="text: fullscreenText, click: toggleFullscreen"></button>
+  </div>
+
+  <div class="msa-details-layover" data-bind="visible: selectedProduct()">
+    <!--ko with: selectedComponent -->
+    <div class="msa-close-button" data-bind="click: navigate">&times;</div>
+
+    <div class="msa-subcomponent-menu" data-bind="visible: sortedSubcomponents().length">
+      <ul data-bind="foreach: sortedSubcomponents">
+        <li data-bind="css: { selected: $root.selectedSubcomponent() === $data }">
+          <span data-bind="text: name"></span>
+
+          <ul data-bind="foreach: sortedProducts">
+            <li>
+              <a data-bind="text: name, attr: { href: hash }, css: { selected: $root.selectedProduct() === $data }"></a>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </div><!-- /.msa-subcomponent-menu -->
+    <!-- /ko -->
+
+    <div class="msa-layover-inner">
+      <div class="msa-layover-top">
+        <div class="msa-top-inner" data-bind="with: selectedComponent">
+          <h2 data-bind="text: name"></h2>
+          <!-- ko if: imageURL().length -->
+          <img data-bind="attr: { src: imageURL, alt: name }">
+          <!-- /ko -->
+        </div>
+      </div>
+      <div class="msa-layover-bottom">
+        <div class="msa-bottom-inner">
+          <div class="msa-bottom-relative">
+            <div class="msa-scroll-box" data-bind="with: selectedProduct">
+              <h3 data-bind="text: name"></h3>
+
+              <div class="msa-product-links">
+                <ul>
+                  <li data-bind="visible: pdsURL">
+                    <a data-bind="text: MobilSchematics.i18n.t('pds'), attr: { href: pdsURL }"></a>
+                  </li>
+                  <li data-bind="visible: sellSheetURL">
+                    <a data-bind="text: MobilSchematics.i18n.t('downloadSellSheet'), visible: sellSheetURL, attr: { href: sellSheetURL }"></a>
+                  </li>
+                  <li data-bind="visible: moreInfoURL">
+                    <a data-bind="text: MobilSchematics.i18n.t('getMoreInfo'), visible: moreInfoURL, attr: { href: moreInfoURL }"></a>
+                  </li>
+                  <li>
+                    <a href="http://www.mobilindustrial.com/ind/english/distributorlocator.aspx" data-bind="text: MobilSchematics.i18n.t('whereToBuy')"></a>
+                  </li>
+                </ul>
+              </div><!-- /.msa-product-links -->
+
+              <div class="msa-product-info">
+                <p>
+                  <span class="msa-icon" data-bind="text: type, css: typeClass"></span>
+                </p>
+
+                <p>
+                  <strong><!--ko text: MobilSchematics.i18n.t('productInformation')--><!--/ko-->:</strong>
+                  <span data-bind="text: information"></span>
+                </p>
+
+                <p>
+                  <strong><!--ko text: MobilSchematics.i18n.t('benefits')--><!--/ko-->:</strong>
+                  <span data-bind="text: benefits"></span>
+                </p>
+
+                <p>
+                  <a href="http://www.mobilindustrial.com/ind/english/productselector.aspx" data-bind="text: MobilSchematics.i18n.t('refineYourSearchWithLooble')" class="msa-button"></a>
+                </p>
+              </div><!-- /.msa-product-info -->
+            </div><!-- /.msa-scroll-box -->
+          </div><!-- /.msa-bottom-inner -->
+        </div>
+      </div><!-- /.msa-layover-bottom -->
+    </div><!-- /.msa-layover-inner -->
+  </div><!-- /.msa-details-layover -->
+
+  <div class="msa-viewer-container">
+    <div style="display: none;" data-bind="template: { name: componentTemplateMode, foreach: components }"></div>
+
+    <div class="msa-component-menu" data-bind="updateMenu: menuOpen, css: { 'msa-open': menuOpen }">
+      <div class="msa-handle" data-bind="click: toggleMenu, html: menuState"></div>
+      <div class="msa-menu-title" data-bind="text: MobilSchematics.i18n.t('equipment')"></div>
+      <ul data-bind="foreach: uniqueComponents">
+        <li>
+          <a data-bind="text: name, attr: { href: hash }, css: { inspected: $root.selectedComponent() === $data }"></a>
+        </li>
+      </ul>
+    </div> <!-- /.msa-component-menu -->
+
+    <div class="msa-dialog msa-directions" data-bind="visible: showDirectionsDialog">
+      <p data-bind="text: MobilSchematics.i18n.t('directions')"></p>
+
+      <p class="clearfix">
+        <label><input type="checkbox" name="msa-directions-pref" value="1"> <!--ko text: MobilSchematics.i18n.t('dontShowMeThisMessageAgain')--><!--/ko--></label>
+        <button data-bind="click: dismissDirectionsDialog, text: MobilSchematics.i18n.t('continue')"></button>
+      </p>
+    </div> <!-- /.msa-directions-dialog -->
+
+    <div class="msa-dialog msa-mode" data-bind="visible: showModeDialog">
+      <p data-bind="text: MobilSchematics.i18n.t('touchModeQuestion')"></p>
+
+      <p class="clearfix">
+        <button data-bind="text: MobilSchematics.i18n.t('yesUseTheTouchVersion'), click: dismissModeDialogAndEnableTouchMode"></button>
+        <button data-bind="text: MobilSchematics.i18n.t('no'), click: dismissModeDialog"></button>
+      </p>
+    </div> <!-- /.msa-mode-dialog -->
+
+    <div id="msa-viewer"></div>
+  </div><!-- /.msa-viewer-container -->
+</script>
+
+<!--///////////////////////////////////////////////////////////////////////////
+ DESKTOP COMPONENT
+////////////////////////////////////////////////////////////////////////////-->
+
+<script type="text/html" id="msa-desktop-component-template">
+  <div data-bind="attr: { id: domID }">
+    <h2 data-bind="text: name"></h2>
+
+    <div>
+      <h3>Products</h3>
+
+      <ul data-bind="foreach: uniqueProducts">
+        <li><a data-bind="text: name, attr: { href: hash }"></a></li>
+      </ul>
+
+      <p data-bind="with: firstProduct">
+        <a class="msa-button" data-bind="text: MobilSchematics.i18n.t('viewDetails'), attr: { href: hash }"></a>
+      </p>
+    </div>
+  </div>
+</script>
+
+<!--///////////////////////////////////////////////////////////////////////////
+ DESKTOP CROSS-LINKING COMPONENT
+////////////////////////////////////////////////////////////////////////////-->
+
+<script type="text/html" id="msa-desktop-link-component-template">
+  <div data-bind="attr: { id: domID }">
+    <h2 data-bind="text: name"></h2>
+
+    <p>
+      <a class="msa-button" data-bind="text: visitName, attr: { href: schematicURL }"></a>
+    </p>
+  </div>
+</script>
+
+<!--///////////////////////////////////////////////////////////////////////////
+ DESKTOP UI FOR LOOBLE
+////////////////////////////////////////////////////////////////////////////-->
+
+<script type="text/html" id="msa-desktop-looble">
+  <div class="msa-titlebar clearfix">
+    <h1 data-bind="text: name"></h1>
+  </div>
+
+  <div class="msa-viewer-container">
+    <div style="display: none;" data-bind="foreach: components">
+      <div data-bind="attr: { id: domID }">
+        <h2 data-bind="text: name"></h2>
+
+        <h3 data-bind="text: MobilSchematics.i18n.t('components')"></h3>
+
+        <ul data-bind="foreach: sortedSubcomponents">
+          <li>
+            <a data-bind="text: name, attr: { href: loobleURL }"></a>
+          </li>
+        </ul>
+      </div>
+    </div> <!-- /foreach: components (leaflet popup) -->
+
+    <div class="msa-component-menu" data-bind="updateMenu: menuOpen, css: { 'msa-open': menuOpen } ">
+      <div class="msa-handle" data-bind="click: toggleMenu, html: menuState"></div>
+
+      <div class="msa-menu-title" data-bind="text: MobilSchematics.i18n.t('equipment')"></div>
+
+      <ul data-bind="foreach: uniqueComponents">
+        <li>
+          <a data-bind="text: name, attr: { href: hash }, css: { inspected: $root.selectedComponent() === $data }"></a>
+        </li>
+      </ul>
+    </div> <!-- /.msa-component-menu -->
+
+    <div class="msa-directions" data-bind="visible: showDirectionsDialog">
+      <p data-bind="text: MobilSchematics.i18n.t('directions')"></p>
+
+      <p class="clearfix">
+        <label><input type="checkbox" name="msa-directions-pref" value="1"> <!--ko text: MobilSchematics.i18n.t('dontShowMeThisMessageAgain')--><!--/ko--></label>
+        <button data-bind="click: dismissDirectionsDialog, text: MobilSchematics.i18n.t('continue')"></button>
+      </p>
+    </div><!-- /.msa-directions -->
+
+    <div id="msa-viewer"></div>
+  </div><!-- /.msa-viewer-container -->
+</script>
+
+<!--///////////////////////////////////////////////////////////////////////////
+ TOUCH UI FOR YOUR INDUSTRY
+////////////////////////////////////////////////////////////////////////////-->
+
+<script type="text/html" id="msa-touch-your-industry">
+  <div class="msa-header" data-bind="click: enableDesktopMode">
+    <h1 class="ir">Mobil Industrial Lubricants</h1>
+    <div class="touch-exit"><img src="../../Imports/schematics/images/close/close.png" height="16" width="16">Exit touch version</div>
+  </div><!-- /.msa-header -->
+
+  <div class="msa-body-container" data-bind="visible: !selectedComponent()">
+    <div class="msa-row">
+      <div class="msa-location-bar">
+        <h2 data-bind="text: name"></h2>
+      </div><!-- /.msa-location-bar -->
+    </div><!-- /.msa-row -->
+
+    <div class="msa-tab-nav-content msa-row msa-fill">
+      <div class="msa-item-list">
+        <ul data-bind="template: { name: componentTemplateMode, foreach: uniqueComponents }"></ul>
+      </div><!-- /.msa-component-list -->
+    </div>
+  </div><!-- /.msa-body-container -->
+
+  <!-- ko with: selectedComponent -->
+  <div class="msa-body-container" data-bind="visible: !$root.selectedSubcomponent()">
+    <div class="msa-row">
+      <div class="msa-location-bar">
+        <a class="msa-left-button" data-bind="text: MobilSchematics.i18n.t('back'), attr: { href: schematic.hash }"></a>
+        <h2 data-bind="text: name"></h2>
+      </div><!-- /.msa-location-bar -->
+    </div><!-- /.msa-row -->
+
+    <div class="msa-row msa-fill">
+      <div class="msa-item-list">
+        <ul data-bind="template: { name: 'msa-touch-component-template', foreach: sortedSubcomponents }"></ul>
+      </div> <!-- /.msa-item-list -->
+    </div><!-- /.msa-row -->
+  </div><!-- /.msa-body-container -->
+  <!-- /ko -->
+
+  <!-- ko with: selectedSubcomponent -->
+  <div class="msa-body-container" data-bind="visible: products().length">
+    <div class="msa-row">
+      <div class="msa-location-bar">
+        <a class="msa-left-button" data-bind="text: MobilSchematics.i18n.t('back'), attr: { href: component.hash }"></a>
+        <h2 data-bind="text: name"></h2>
+      </div><!-- /.msa-location-bar -->
+    </div><!-- /.msa-row -->
+
+    <div class="msa-row msa-fill">
+      <div class="msa-item-list">
+        <ul data-bind="template: { name: 'msa-touch-product-template', foreach: products }"></ul>
+      </div> <!-- /.msa-item-list -->
+    </div><!-- /.msa-row msa-fill -->
+  </div><!-- /.msa-body-container -->
+  <!-- /ko -->
+</script>
+
+<!--///////////////////////////////////////////////////////////////////////////
+ TOUCH COMPONENT
+////////////////////////////////////////////////////////////////////////////-->
+
+<script type="text/html" id="msa-touch-component-template">
+  <li class="msa-list-item msa-component" data-bind="css: { current: $root.selectedComponent() === $data }">
+    <h3>
+      <a data-bind="text: name, attr: { href: hash }"></a>
+    </h3>
+  </li>
+</script>
+
+<!--///////////////////////////////////////////////////////////////////////////
+ TOUCH CROSS-LINKING COMPONENT
+////////////////////////////////////////////////////////////////////////////-->
+
+<script type="text/html" id="msa-touch-link-component-template">
+  <li class="msa-list-item msa-component">
+    <h3>
+      <a data-bind="text: name, attr: { href: schematicURL }"></a>
+    </h3>
+  </li>
+</script>
+
+<!--///////////////////////////////////////////////////////////////////////////
+ TOUCH PRODUCT
+////////////////////////////////////////////////////////////////////////////-->
+
+<script type="text/html" id="msa-touch-product-template">
+  <li>
+    <div class="msa-list-item msa-product" data-bind="click: toggleInspected">
+      <h3 data-bind="text: name"></h3>
+      <span class="msa-icon" data-bind="text: type, css: typeClass"></span>
+      <div class="msa-expand-button" data-bind="css: { 'msa-open': inspected }">&#x25bc;</div>
+    </div>
+
+    <div class="msa-product-details" data-bind="visible: inspected">
+      <h4 data-bind="text: MobilSchematics.i18n.t('productInformation')"></h4>
+      <p data-bind="text: information"></p>
+
+      <h4 data-bind="text: MobilSchematics.i18n.t('benefits')"></h4>
+      <p data-bind="text: benefits"></p>
+
+      <h4 data-bind="text: MobilSchematics.i18n.t('equipmentType')"></h4>
+      <p data-bind="text: $parent.name"></p>
+
+      <div class="msa-button-grid">
+        <a href="http://www.mobilindustrial.com/ind/english/productselector.aspx" class="msa-button" data-bind="text: MobilSchematics.i18n.t('refineYourSearchWithLooble')"></a>
+        <a class="msa-button" data-bind="text: MobilSchematics.i18n.t('getMoreInfo'), visible: moreInfoURL, attr: { href: moreInfoURL }"></a>
+        <a class="msa-button" data-bind="text: MobilSchematics.i18n.t('productDataSheets'), visible: pdsURL, attr: { href: pdsURL }"></a>
+        <a class="msa-button" data-bind="text: MobilSchematics.i18n.t('downloadSellSheet'), visible: sellSheetURL, attr: { href: sellSheetURL }"></a>
+        <a class="msa-button" data-bind="attr: { href: mailToLink() }, text: MobilSchematics.i18n.t('emailPageLink')"></a>
+        <a href="http://www.mobilindustrial.com/ind/english/distributorlocator.aspx" class="msa-button" data-bind="text: MobilSchematics.i18n.t('findADistributor')"></a>
+      </div>
+    </div>
+  </li>
+</script>

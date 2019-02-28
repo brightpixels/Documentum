@@ -1,0 +1,21 @@
+/* ===================================================================================================================
+	Created:  August 25, 2010 - Brian D. Elley and Diego R. Cobelo (ExxonMobil IT) for LCW Template Refresh Project
+		Based on testing with IE7, we need a separate "tweaks" file for this version of the browser.
+==================================================================================================================== */
+
+#navPanel	{	/* Silver bar in Header has several problems without this tweak. */
+	margin-bottom:		0px; 		/* DRC: -15px in LCW_xom_ie.css */
+	padding-bottom:	10px;		/* DRC:   0px in LCW_xom_ie.css */
+}
+
+#navTitle {
+	margin-top:			15px;		/* BDE: -15px in LCW_xom_ie.css */
+}
+
+#mainContent_thin #divTabs {
+	margin-top: 		20px;		/* DRC: no property in LCW_xom_ie.css */
+}
+
+#mainContent_thin #divTabs ul {
+	margin-top:			-23px;	/* DRC: 20px in LCW_xom_ie.css */
+}

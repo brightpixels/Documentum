@@ -76,7 +76,7 @@
 
                         <h1 xmlns="">Produits Mobil Delvac&trade;</h1>
 
-                        <p xmlns="">Mobil&trade; se spécialise dans les lubrifiants à service intense depuis plus de 80 ans. Mobil Delvac respecte et dépasse souvent les besoins des fabricants de matériel d&rsquo;origine (OEM) et des professionnels de véhicules commerciaux (VC) d&rsquo;aujourd&rsquo;hui. Mobil Delvac est la marque choisie par plusieurs des plus grands constructeurs de moteurs de camions à gros tonnage pour les premiers remplissages ou pour les remplissages d'appoint. Par conséquent, vous trouverez sûrement un lubrifiant qui répondra aux besoins de votre véhicule, et ce, peu importe vos conditions d&rsquo;exploitation. Consultez <a title="" target="" onclick="trackClick(this);" href="http://lubes.mobil.ca/Canada-French-LCW/heavydutyengineoils_mobil-delvac_bumper-to-bumper.aspx" class="">le guide</a>
+                        <p xmlns="">Mobil&trade; se spécialise dans les lubrifiants à service intense depuis plus de 80 ans. Mobil Delvac respecte et dépasse souvent les besoins des fabricants de matériel d&rsquo;origine (OEM) et des professionnels de véhicules commerciaux (VC) d&rsquo;aujourd&rsquo;hui. Mobil Delvac est la marque choisie par plusieurs des plus grands constructeurs de moteurs de camions à gros tonnage pour les premiers remplissages ou pour les remplissages d'appoint. Par conséquent, vous trouverez sûrement un lubrifiant qui répondra aux besoins de votre véhicule, et ce, peu importe vos conditions d&rsquo;exploitation. Consultez <a title="" target="" onclick="trackClick(this);" href="http://lubes.mobil.com/Canada-French-LCW/heavydutyengineoils_mobil-delvac_bumper-to-bumper.aspx" class="">le guide</a>
                         </p> </div>
             <div id="subfeatureCallouts">
                     <div style="background-image:url(/Shared-Images-LCW/callout_224x135_map_gbl.jpg);" class="callout top">
@@ -102,7 +102,7 @@
                             <div class="frame01BR clrfix">
                                 <div style="padding-right: 55px;" class="content">
                                     <h2>
-                                        <a xmlns="" title="This link will open a new window." target="_blank" onclick="trackClick(this);" href="http://lubes.mobil.ca/Canada-French-LCW/heavydutyengineoils_ck4-ou-fa4.aspx">CK-4 ou FA-4?<span></span></a>
+                                        <a xmlns="" title="This link will open a new window." target="_blank" onclick="trackClick(this);" href="http://lubes.mobil.com/Canada-French-LCW/heavydutyengineoils_ck4-ou-fa4.aspx">CK-4 ou FA-4?<span></span></a>
                                     </h2>
                                     <p xmlns="">Nous souhaitons que<br>
 vous tiriez le maximum <br>
@@ -180,11 +180,11 @@ diesel adaptée à vos camions.</p>
                         <div class="subfeature csingle cright">
                             <div xmlns="" class="headerbar">
                                 <h3>
-                                    <a title="This link will open a new window." target="_blank" onclick="trackClick(this);" href="http://lubes.mobil.ca/Canada-French-LCW/heavydutyengineoils_mobil-delvac_bumper-to-bumper.aspx">Lubrifants et graisses recommandés pour votre camion<span></span></a>
+                                    <a title="This link will open a new window." target="_blank" onclick="trackClick(this);" href="http://lubes.mobil.com/Canada-French-LCW/heavydutyengineoils_mobil-delvac_bumper-to-bumper.aspx">Lubrifants et graisses recommandés pour votre camion<span></span></a>
                                 </h3>
                             </div>
                             <div xmlns="" class="padding">
-                                <div class="img60 left"><a href="http://lubes.mobil.ca/Canada-French-LCW/heavydutyengineoils_mobil-delvac_bumper-to-bumper.aspx" title="Lubrifants et graisses recommandés pour votre camion" target="_blank" onclick="trackClick(this);"><img title="Rear Axle" src="../Canada-English-LCW/Images/bumper_to_bumper.png" longdesc="" class="floatimgleft" border="0" alt="Rear Axle"></a></div>
+                                <div class="img60 left"><a href="http://lubes.mobil.com/Canada-French-LCW/heavydutyengineoils_mobil-delvac_bumper-to-bumper.aspx" title="Lubrifants et graisses recommandés pour votre camion" target="_blank" onclick="trackClick(this);"><img title="Rear Axle" src="../Canada-English-LCW/Images/bumper_to_bumper.png" longdesc="" class="floatimgleft" border="0" alt="Rear Axle"></a></div>
                                 <p>Découvrez comment Mobil Delvac&trade; contribue à allonger la durée de vie de votre équipement à usage intensif.</p>
                             </div>
                         </div>

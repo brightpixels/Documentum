@@ -97,7 +97,7 @@
                     <script type="text/javascript">quickEditForm('0915881d81f0fd83', '/Content',false,'../forms/LCWProductDetails','','825px','750px','Product Detail Overview','','pencil.gif','200px');</script><!-- googleon: all -->
                     <div id="topSec">
                         <div style="float:left" id="flash">
-                            <img xmlns="" src="http://lubes.mobil.ca/Canada-English-LCW/Images/Mobil_Delvac_1_Trans_Fluid_40_1gal_front_120x150px.jpg" height="150" width="120"> </div>
+                            <img xmlns="" src="http://lubes.mobil.com/Canada-English-LCW/Images/Mobil_Delvac_1_Trans_Fluid_40_1gal_front_120x150px.jpg" height="150" width="120"> </div>
                         <h1>Mobil Delvac&trade; 1&nbsp;Fluide pour transmission 40</h1>
                         <p xmlns="">Le fluide Mobil Delvac&trade; 1 Transmission Fluid 40 est un lubrifiant entièrement synthétique pour boîte de vitesse manuelle, approuvé par Eaton par rapport à la spécification PS-386 et conçu pour respecter les plus rigoureuses spécifications en matière d'intervalle de vidange et les exigences de garantie des équipementiers. Il est recommandé pour la lubrification toute l'année des boîtes de vitesses manuelles, tant pour le service léger à intense, sur la route ou hors route et dans un vaste éventail d'environnements. Conçu pour offrir aux boîtes de vitesses d'utilisation intense une protection maximum et une durée de fonctionnement accrue, le fluide Mobil Delvac 1 Transmission Fluid 40 offre un rendement remarquable à température élevée, une stabilité à l'oxydation et une protection contre l'usure et la corrosion.</p>
                     </div>

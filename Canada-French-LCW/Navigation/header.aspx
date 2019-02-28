@@ -126,7 +126,7 @@ string isCurrent(string url){
                     <a target="" onclick="trackClick(this);" href="/Canada-French-LCW/where-to-buy.aspx" id="buy">comment acheter</a>
                 </li>
                 <li>
-                    <a target="" onclick="trackClick(this);" href="http://lubes.mobil.ca/Canada-French-LCW/mobil-brands.aspx" id="brands">marques Mobil</a>
+                    <a target="" onclick="trackClick(this);" href="http://lubes.mobil.com/Canada-French-LCW/mobil-brands.aspx" id="brands">marques Mobil</a>
                 </li>
             </ul>
         </div>

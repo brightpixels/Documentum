@@ -14,7 +14,7 @@
 						<p>
 						Voor een betere beleving van onze website hebben we uw toelating nodig om cookies te gebruiken.
 						</p>
-						<A style="" href="http://www.exxonmobil.com/Global-All/Legal/cookies_dutch.aspx" target="blank">
+						<A style="" href="https://www.exxonmobil.be/nl-be/cookiestatement" target="blank">
 	Meer over weten
 						</A>
 					</DIV>

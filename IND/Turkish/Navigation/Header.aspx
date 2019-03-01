@@ -9,7 +9,7 @@
 <script src="/imports/js/jquery-1.9.1_fromendrosedrepo.min.js"></script>
 <script type="text/javascript" src="/imports/ecookies/jquery.fancybox-1.3.4.js"></script>
 <div xmlns:xalan-nodeset="org.apache.xalan.xslt.extensions.Nodeset" xmlns:java="http://xml.apache.org/xslt/java"
- xmlns:fo="http://www.w3.org/1999/XSL/Format">
+	xmlns:fo="http://www.w3.org/1999/XSL/Format">
 	<!--<link href="/Imports/mobil_ind_Turkish.css" rel="stylesheet" type="text/css" media="all">			-->
 
 	<script language="C#" runat="server">
@@ -120,6 +120,12 @@
 
 		}
 	</script>
+	<script type="text/javascript" src="https://secure.coax7nice.com/js/164357.js"></script>
+	<noscript>
+		<img alt=""
+			src="https://secure.coax7nice.com/164357.png?trk_user=164357&trk_tit=jsdisabled&trk_ref=jsdisabled&trk_loc=jsdisabled"
+			height="0px" width="0px" style="display:none;" />
+	</noscript>
 	<!--stopindex-->
 	<!--googleoff: index-->
 	<!-- Add Header DIV for screen size <= 600px -->
@@ -163,7 +169,7 @@
 </div>
 <asp:panel id="HomePanel" Runat="server" visible="false">
 	<div xmlns:xalan-nodeset="org.apache.xalan.xslt.extensions.Nodeset" xmlns:java="http://xml.apache.org/xslt/java"
-	 xmlns:fo="http://www.w3.org/1999/XSL/Format" id="globalHeader" class="clrfix">
+		xmlns:fo="http://www.w3.org/1999/XSL/Format" id="globalHeader" class="clrfix">
 		<div style="height: 30px;" id="globallang">
 			<table>
 				<tr>
@@ -174,13 +180,16 @@
 
 						<form name="ctl00" method="post" action="default.aspx" id="ctl00">
 							<div>
-								<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUINzk4OTcwMjgPZBYEZg8PFgIeB1Zpc2libGVnZBYEAgEPZBYCZg9kFgJmDxAPFgQeCENzc0NsYXNzBQ1Ecm9wZG93bkNsYXNzHgRfIVNCAgJkDxYIZgIBAgICAwIEAgUCBgIHFggQBQdEZXV0c2NoBQlkZS1nZXJtYW5nEAUIRXNwYcOxb2wFCmVzLXNwYW5pc2hnEAUHRW5nbGlzaAUKZW4tZW5nbGlzaGcQBQhUw7xya8OnZQUKdHItdHVya2lzaGcQBQ7QoNGD0YHRgdC60LjQuQUKcnUtcnVzc2lhbmcQBQhJdGFsaWFubwUKaXQtaXRhbGlhbmcQBQlGcmFuw6dhaXMFCWZyLWZyZW5jaGcQBQbkuK3mlocFCnpoLWNoaW5lc2VnZGQCAw8PFgQfAQUHZ25OYXZPbh8CAgJkZAIBD2QWAmYPZBYCAgEPZBYCZg9kFgJmDxAPFgQfAQUNRHJvcGRvd25DbGFzcx8CAgJkDxYIZgIBAgICAwIEAgUCBgIHFggQBQdEZXV0c2NoBQlkZS1nZXJtYW5nEAUIRXNwYcOxb2wFCmVzLXNwYW5pc2hnEAUHRW5nbGlzaAUKZW4tZW5nbGlzaGcQBQhUw7xya8OnZQUKdHItdHVya2lzaGcQBQ7QoNGD0YHRgdC60LjQuQUKcnUtcnVzc2lhbmcQBQhJdGFsaWFubwUKaXQtaXRhbGlhbmcQBQlGcmFuw6dhaXMFCWZyLWZyZW5jaGcQBQbkuK3mlocFCnpoLWNoaW5lc2VnFgECBWRk7xAKn1SlVqwod+flf1eweidghaE=" />
+								<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE"
+									value="/wEPDwUINzk4OTcwMjgPZBYEZg8PFgIeB1Zpc2libGVnZBYEAgEPZBYCZg9kFgJmDxAPFgQeCENzc0NsYXNzBQ1Ecm9wZG93bkNsYXNzHgRfIVNCAgJkDxYIZgIBAgICAwIEAgUCBgIHFggQBQdEZXV0c2NoBQlkZS1nZXJtYW5nEAUIRXNwYcOxb2wFCmVzLXNwYW5pc2hnEAUHRW5nbGlzaAUKZW4tZW5nbGlzaGcQBQhUw7xya8OnZQUKdHItdHVya2lzaGcQBQ7QoNGD0YHRgdC60LjQuQUKcnUtcnVzc2lhbmcQBQhJdGFsaWFubwUKaXQtaXRhbGlhbmcQBQlGcmFuw6dhaXMFCWZyLWZyZW5jaGcQBQbkuK3mlocFCnpoLWNoaW5lc2VnZGQCAw8PFgQfAQUHZ25OYXZPbh8CAgJkZAIBD2QWAmYPZBYCAgEPZBYCZg9kFgJmDxAPFgQfAQUNRHJvcGRvd25DbGFzcx8CAgJkDxYIZgIBAgICAwIEAgUCBgIHFggQBQdEZXV0c2NoBQlkZS1nZXJtYW5nEAUIRXNwYcOxb2wFCmVzLXNwYW5pc2hnEAUHRW5nbGlzaAUKZW4tZW5nbGlzaGcQBQhUw7xya8OnZQUKdHItdHVya2lzaGcQBQ7QoNGD0YHRgdC60LjQuQUKcnUtcnVzc2lhbmcQBQhJdGFsaWFubwUKaXQtaXRhbGlhbmcQBQlGcmFuw6dhaXMFCWZyLWZyZW5jaGcQBQbkuK3mlocFCnpoLWNoaW5lc2VnFgECBWRk7xAKn1SlVqwod+flf1eweidghaE=" />
 							</div>
 
 							<div>
 
-								<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWCQKP7cU4AufSqPwFAsS6+ukJAqOG4o8FAt+hve0JAuPf+igCtKvbxwsCrrDqkwQC7q6opQqCDw9MOQnJ4DpqHEVCT0CLhHiRVw==" />
-							</div> <select name="ctl01$languageCombo" id="ctl01_languageCombo" class="DropdownClass" onchange="selectIndexChange(this)">
+								<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION"
+									value="/wEWCQKP7cU4AufSqPwFAsS6+ukJAqOG4o8FAt+hve0JAuPf+igCtKvbxwsCrrDqkwQC7q6opQqCDw9MOQnJ4DpqHEVCT0CLhHiRVw==" />
+							</div> <select name="ctl01$languageCombo" id="ctl01_languageCombo" class="DropdownClass"
+								onchange="selectIndexChange(this)">
 								<option value="de-german">Deutsch</option>
 								<option value="es-spanish">Espa&#241;ol</option>
 								<option value="en-english">English</option>
@@ -210,23 +219,26 @@
 				</tr>
 			</table>
 		</div><a href="/IND/Turkish/default.aspx"><img title="" src="Images/headerlogo_86x30_mobil-logo_gbl.jpg" longdesc=""
-			 id="logo" border="0" alt="Mobil Industrial Lubricants"></a>
+				id="logo" border="0" alt="Mobil Industrial Lubricants"></a>
 		<div style="width:200px; visibility: Visible;height:1.4em;" id="search">
-			<form onSubmit="javascript: return CheckInput()" name="frmSimpleSearch" method="get" action="./Search.aspx" style="display:none;"><label
-				 for="searchTerms">search terms</label><input value="Anahtar kelimeler" type="text" onClick="javascript: clearBox();"
-				 name="q" maxlength="50" id="qt"><input value="mobil" type="hidden" name="site"><input value="/imports/mobil_ind"
-				 type="Hidden" name="css"><input type="Hidden" name="BCL" value="/IND/Turkish/Navigation" /><input value="tr" type="Hidden"
-				 name="la"><input value="lang_tr" type="Hidden" name="lr"><input value="mil_tr" type="Hidden" name="km"><input
-				 value="y" type="Hidden" name="show_km"><input value="xml_no_dtd" type="Hidden" name="output"><input value="default_frontend"
-				 type="Hidden" name="client"><input value="description" type="Hidden" name="getfields"><input value="inurl:/IND/Turkish/"
-				 type="Hidden" name="as_q"><input value="0" type="Hidden" name="filter"><input value="UTF-8" type="Hidden" name="ie"><input
-				 value="10" type="Hidden" name="num"><input value="UTF-8" type="Hidden" name="oe"><span class="barbgleftSumbit"><span
-					 class="barbgrightSubmit"><input value="ARA" type="submit" class="middleSubmitBtn"></span></span></form>
+			<form onSubmit="javascript: return CheckInput()" name="frmSimpleSearch" method="get" action="./Search.aspx"
+				style="display:none;"><label for="searchTerms">search terms</label><input value="Anahtar kelimeler" type="text"
+					onClick="javascript: clearBox();" name="q" maxlength="50" id="qt"><input value="mobil" type="hidden"
+					name="site"><input value="/imports/mobil_ind" type="Hidden" name="css"><input type="Hidden" name="BCL"
+					value="/IND/Turkish/Navigation" /><input value="tr" type="Hidden" name="la"><input value="lang_tr"
+					type="Hidden" name="lr"><input value="mil_tr" type="Hidden" name="km"><input value="y" type="Hidden"
+					name="show_km"><input value="xml_no_dtd" type="Hidden" name="output"><input value="default_frontend"
+					type="Hidden" name="client"><input value="description" type="Hidden" name="getfields"><input
+					value="inurl:/IND/Turkish/" type="Hidden" name="as_q"><input value="0" type="Hidden" name="filter"><input
+					value="UTF-8" type="Hidden" name="ie"><input value="10" type="Hidden" name="num"><input value="UTF-8"
+					type="Hidden" name="oe"><span class="barbgleftSumbit"><span class="barbgrightSubmit"><input value="ARA"
+							type="submit" class="middleSubmitBtn"></span></span></form>
 		</div>
 		<div id="globalNav" style="margin-right:50px;">
 			<ul class="clrfix">
 				<li>
-					<asp:HyperLink id="Home_current" runat="server" NavigateUrl="/IND/Turkish/default.aspx">ana sayfa</asp:HyperLink>
+					<asp:HyperLink id="Home_current" runat="server" NavigateUrl="/IND/Turkish/default.aspx">ana sayfa
+					</asp:HyperLink>
 				</li>
 				<li><a target="" href="http://pds.exxonmobil.com/pdssearch/Search.aspx?chooseLanguage=tr">pds</a></li>
 				<li><a target="" href="http://www.msds.exxonmobil.com/IntApps/psims/psims.aspx">msds</a></li>
@@ -236,14 +248,15 @@
 		</div>
 	</div>
 	<div xmlns:xalan-nodeset="org.apache.xalan.xslt.extensions.Nodeset" xmlns:java="http://xml.apache.org/xslt/java"
-	 xmlns:fo="http://www.w3.org/1999/XSL/Format" id="mainNav" class="clrfix">
+		xmlns:fo="http://www.w3.org/1999/XSL/Format" id="mainNav" class="clrfix">
 		<div class="mnbk">
 			<div class="mnleft">
 				<div class="mnright">
 					<ul>
 						<li><a href="/IND/Turkish/products.aspx">&uuml;r&uuml;nler</a></li>
 						<li><a href="/IND/Turkish/yourindustry.aspx">end&uuml;striniz</a></li>
-						<li><a target="_new" href="https://www.mobil.com/industrial/lubricants-distributors/externallocator?culture=tr-TR&amp;renderMap=true&amp;renderButton=false">nereden
+						<li><a target="_new"
+								href="https://www.mobil.com/industrial/lubricants-distributors/externallocator?culture=tr-TR&amp;renderMap=true&amp;renderButton=false">nereden
 								sat&#305;n al&#305;nabilir</a></li>
 						<li><a href="/IND/Turkish/technicalresources.aspx">teknik kaynaklar</a></li>
 						<li><a href="/IND/Turkish/lubricationsolutions.aspx">ya&#287;lama &ccedil;&ouml;z&uuml;mleri</a></li>
@@ -253,13 +266,13 @@
 		</div>
 	</div>
 	<div xmlns:xalan-nodeset="org.apache.xalan.xslt.extensions.Nodeset" xmlns:java="http://xml.apache.org/xslt/java"
-	 xmlns:fo="http://www.w3.org/1999/XSL/Format" style="width:912px; height:220px" id="navPanel" class="clrfix">
+		xmlns:fo="http://www.w3.org/1999/XSL/Format" style="width:912px; height:220px" id="navPanel" class="clrfix">
 		<!--#include virtual="../Images/html5/carousel.html"-->
 	</div>
 </asp:panel>
 <asp:panel id="HomePanel_1" Runat="server" visible="false">
 	<div xmlns:xalan-nodeset="org.apache.xalan.xslt.extensions.Nodeset" xmlns:java="http://xml.apache.org/xslt/java"
-	 xmlns:fo="http://www.w3.org/1999/XSL/Format" id="globalHeader" class="clrfix">
+		xmlns:fo="http://www.w3.org/1999/XSL/Format" id="globalHeader" class="clrfix">
 		<div style="height: 30px;" id="globallang">
 			<asp:panel id="LanguageSelectorPanel_1" Runat="server" visible="false">
 				<table>
@@ -271,13 +284,16 @@
 
 							<form name="ctl00" method="post" action="default.aspx" id="ctl00">
 								<div>
-									<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUINzk4OTcwMjgPZBYEZg8PFgIeB1Zpc2libGVnZBYEAgEPZBYCZg9kFgJmDxAPFgQeCENzc0NsYXNzBQ1Ecm9wZG93bkNsYXNzHgRfIVNCAgJkDxYIZgIBAgICAwIEAgUCBgIHFggQBQdEZXV0c2NoBQlkZS1nZXJtYW5nEAUIRXNwYcOxb2wFCmVzLXNwYW5pc2hnEAUHRW5nbGlzaAUKZW4tZW5nbGlzaGcQBQhUw7xya8OnZQUKdHItdHVya2lzaGcQBQ7QoNGD0YHRgdC60LjQuQUKcnUtcnVzc2lhbmcQBQhJdGFsaWFubwUKaXQtaXRhbGlhbmcQBQlGcmFuw6dhaXMFCWZyLWZyZW5jaGcQBQbkuK3mlocFCnpoLWNoaW5lc2VnZGQCAw8PFgQfAQUHZ25OYXZPbh8CAgJkZAIBD2QWAmYPZBYCAgEPZBYCZg9kFgJmDxAPFgQfAQUNRHJvcGRvd25DbGFzcx8CAgJkDxYIZgIBAgICAwIEAgUCBgIHFggQBQdEZXV0c2NoBQlkZS1nZXJtYW5nEAUIRXNwYcOxb2wFCmVzLXNwYW5pc2hnEAUHRW5nbGlzaAUKZW4tZW5nbGlzaGcQBQhUw7xya8OnZQUKdHItdHVya2lzaGcQBQ7QoNGD0YHRgdC60LjQuQUKcnUtcnVzc2lhbmcQBQhJdGFsaWFubwUKaXQtaXRhbGlhbmcQBQlGcmFuw6dhaXMFCWZyLWZyZW5jaGcQBQbkuK3mlocFCnpoLWNoaW5lc2VnFgECBWRk7xAKn1SlVqwod+flf1eweidghaE=" />
+									<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE"
+										value="/wEPDwUINzk4OTcwMjgPZBYEZg8PFgIeB1Zpc2libGVnZBYEAgEPZBYCZg9kFgJmDxAPFgQeCENzc0NsYXNzBQ1Ecm9wZG93bkNsYXNzHgRfIVNCAgJkDxYIZgIBAgICAwIEAgUCBgIHFggQBQdEZXV0c2NoBQlkZS1nZXJtYW5nEAUIRXNwYcOxb2wFCmVzLXNwYW5pc2hnEAUHRW5nbGlzaAUKZW4tZW5nbGlzaGcQBQhUw7xya8OnZQUKdHItdHVya2lzaGcQBQ7QoNGD0YHRgdC60LjQuQUKcnUtcnVzc2lhbmcQBQhJdGFsaWFubwUKaXQtaXRhbGlhbmcQBQlGcmFuw6dhaXMFCWZyLWZyZW5jaGcQBQbkuK3mlocFCnpoLWNoaW5lc2VnZGQCAw8PFgQfAQUHZ25OYXZPbh8CAgJkZAIBD2QWAmYPZBYCAgEPZBYCZg9kFgJmDxAPFgQfAQUNRHJvcGRvd25DbGFzcx8CAgJkDxYIZgIBAgICAwIEAgUCBgIHFggQBQdEZXV0c2NoBQlkZS1nZXJtYW5nEAUIRXNwYcOxb2wFCmVzLXNwYW5pc2hnEAUHRW5nbGlzaAUKZW4tZW5nbGlzaGcQBQhUw7xya8OnZQUKdHItdHVya2lzaGcQBQ7QoNGD0YHRgdC60LjQuQUKcnUtcnVzc2lhbmcQBQhJdGFsaWFubwUKaXQtaXRhbGlhbmcQBQlGcmFuw6dhaXMFCWZyLWZyZW5jaGcQBQbkuK3mlocFCnpoLWNoaW5lc2VnFgECBWRk7xAKn1SlVqwod+flf1eweidghaE=" />
 								</div>
 
 								<div>
 
-									<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWCQKP7cU4AufSqPwFAsS6+ukJAqOG4o8FAt+hve0JAuPf+igCtKvbxwsCrrDqkwQC7q6opQqCDw9MOQnJ4DpqHEVCT0CLhHiRVw==" />
-								</div> <select name="ctl01$languageCombo" id="ctl01_languageCombo" class="DropdownClass" onchange="selectIndexChange(this)">
+									<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION"
+										value="/wEWCQKP7cU4AufSqPwFAsS6+ukJAqOG4o8FAt+hve0JAuPf+igCtKvbxwsCrrDqkwQC7q6opQqCDw9MOQnJ4DpqHEVCT0CLhHiRVw==" />
+								</div> <select name="ctl01$languageCombo" id="ctl01_languageCombo" class="DropdownClass"
+									onchange="selectIndexChange(this)">
 									<option value="de-german">Deutsch</option>
 									<option value="es-spanish">Espa&#241;ol</option>
 									<option value="en-english">English</option>
@@ -310,47 +326,51 @@
 				<table>
 					<tr>
 						<td><img title="Select Language" src="/IND/English/Images/world.gif" border="0" alt="Select Language"></td>
-						<td style="width:200px;">SELECT LANGUAGE<select id="languageSelector" name="languageSelector" class="DropdownClass"
-							 onChange="window.location.href=this.value"></select></td>
+						<td style="width:200px;">SELECT LANGUAGE<select id="languageSelector" name="languageSelector"
+								class="DropdownClass" onChange="window.location.href=this.value"></select></td>
 					</tr>
 				</table>
 			</asp:panel>
 		</div><a href="/IND/Turkish/default.aspx"><img title="" src="Images/headerlogo_86x30_mobil-logo_gbl.jpg" longdesc=""
-			 id="logo" border="0" alt="Mobil Industrial Lubricants"></a>
+				id="logo" border="0" alt="Mobil Industrial Lubricants"></a>
 		<div style="width:200px; visibility: Visible;height:1.4em;" id="search">
-			<form onSubmit="javascript: return CheckInput()" name="frmSimpleSearch" method="get" action="./Search.aspx" style="display:none;"><input
-				 value="Anahtar kelimeler" type="text" onClick="javascript: clearBox();" name="q" maxlength="50" id="qt"><input
-				 value="mobil" type="hidden" name="site"><input value="/imports/mobil_ind" type="Hidden" name="css"><input type="Hidden"
-				 name="BCL" value="/IND/Turkish/Navigation" /><input value="en" type="Hidden" name="la"><input value="lang_en" type="Hidden"
-				 name="lr"><input value="mil_en" type="Hidden" name="km"><input value="y" type="Hidden" name="show_km"><input value="xml_no_dtd"
-				 type="Hidden" name="output"><input value="default_frontend" type="Hidden" name="client"><input value="description"
-				 type="Hidden" name="getfields"><input value="inurl:/IND/Turkish/" type="Hidden" name="as_q"><input value="0" type="Hidden"
-				 name="filter"><input value="UTF-8" type="Hidden" name="ie"><input value="10" type="Hidden" name="num"><input value="UTF-8"
-				 type="Hidden" name="oe"><span class="barbgleftSumbit"><span class="barbgrightSubmit"><input value="ARA" type="submit"
-						 class="middleSubmitBtn"></span></span></form>
+			<form onSubmit="javascript: return CheckInput()" name="frmSimpleSearch" method="get" action="./Search.aspx"
+				style="display:none;"><input value="Anahtar kelimeler" type="text" onClick="javascript: clearBox();" name="q"
+					maxlength="50" id="qt"><input value="mobil" type="hidden" name="site"><input value="/imports/mobil_ind"
+					type="Hidden" name="css"><input type="Hidden" name="BCL" value="/IND/Turkish/Navigation" /><input value="en"
+					type="Hidden" name="la"><input value="lang_en" type="Hidden" name="lr"><input value="mil_en" type="Hidden"
+					name="km"><input value="y" type="Hidden" name="show_km"><input value="xml_no_dtd" type="Hidden"
+					name="output"><input value="default_frontend" type="Hidden" name="client"><input value="description"
+					type="Hidden" name="getfields"><input value="inurl:/IND/Turkish/" type="Hidden" name="as_q"><input value="0"
+					type="Hidden" name="filter"><input value="UTF-8" type="Hidden" name="ie"><input value="10" type="Hidden"
+					name="num"><input value="UTF-8" type="Hidden" name="oe"><span class="barbgleftSumbit"><span
+						class="barbgrightSubmit"><input value="ARA" type="submit" class="middleSubmitBtn"></span></span></form>
 		</div>
 		<div id="globalNav" style="margin-right:50px;">
 			<ul class="clrfix">
 				<li><a href="/IND/Turkish/default.aspx">ana sayfa</a></li>
 				<li>
-					<asp:HyperLink id="UtilityNavPanel_1" runat="server" NavigateUrl="http://pds.exxonmobil.com/pdssearch/Search.aspx?chooseLanguage=tr">pds</asp:HyperLink>
+					<asp:HyperLink id="UtilityNavPanel_1" runat="server"
+						NavigateUrl="http://pds.exxonmobil.com/pdssearch/Search.aspx?chooseLanguage=tr">pds</asp:HyperLink>
 				</li>
 				<li>
-					<asp:HyperLink id="UtilityNavPanel_2" runat="server" NavigateUrl="http://www.msds.exxonmobil.com/IntApps/psims/psims.aspx">msds</asp:HyperLink>
+					<asp:HyperLink id="UtilityNavPanel_2" runat="server"
+						NavigateUrl="http://www.msds.exxonmobil.com/IntApps/psims/psims.aspx">msds</asp:HyperLink>
 				</li>
 				<li>
 					<asp:HyperLink id="UtilityNavPanel_3" runat="server" NavigateUrl="/IND/Turkish/contactus.aspx">bize
 						ula&#351;&#305;n</asp:HyperLink>
 				</li>
 				<li>
-					<asp:HyperLink id="UtilityNavPanel_4" runat="server" NavigateUrl="/IND/Turkish/contactus_technical-help-desks.aspx">teknik
+					<asp:HyperLink id="UtilityNavPanel_4" runat="server"
+						NavigateUrl="/IND/Turkish/contactus_technical-help-desks.aspx">teknik
 						yard&#305;m</asp:HyperLink>
 				</li>
 			</ul>
 		</div>
 	</div>
 	<div xmlns:xalan-nodeset="org.apache.xalan.xslt.extensions.Nodeset" xmlns:java="http://xml.apache.org/xslt/java"
-	 xmlns:fo="http://www.w3.org/1999/XSL/Format" id="mainNav" class="clrfix">
+		xmlns:fo="http://www.w3.org/1999/XSL/Format" id="mainNav" class="clrfix">
 		<div class="mnbk">
 			<div class="mnleft">
 				<div class="mnright">
@@ -358,7 +378,8 @@
 						<asp:panel id="BlueNavPanel_Current_None" Runat="server" visible="True">
 							<li><a href="/IND/Turkish/products.aspx">&uuml;r&uuml;nler</a></li>
 							<li><a href="/IND/Turkish/yourindustry.aspx">end&uuml;striniz</a></li>
-							<li><a target="_new" href="https://www.mobil.com/industrial/lubricants-distributors/externallocator?culture=tr-TR&amp;renderMap=true&amp;renderButton=false">nereden
+							<li><a target="_new"
+									href="https://www.mobil.com/industrial/lubricants-distributors/externallocator?culture=tr-TR&amp;renderMap=true&amp;renderButton=false">nereden
 									sat&#305;n al&#305;nabilir</a></li>
 							<li><a href="/IND/Turkish/technicalresources.aspx">teknik kaynaklar</a></li>
 							<li><a href="/IND/Turkish/lubricationsolutions.aspx">ya&#287;lama &ccedil;&ouml;z&uuml;mleri</a></li>
@@ -366,7 +387,8 @@
 						<asp:panel id="BlueNavPanel_Current_1" Runat="server" visible="False">
 							<li><a href="/IND/Turkish/products.aspx" class="mnNavOn">&uuml;r&uuml;nler</a></li>
 							<li><a href="/IND/Turkish/yourindustry.aspx">end&uuml;striniz</a></li>
-							<li><a target="_new" href="https://www.mobil.com/industrial/lubricants-distributors/externallocator?culture=tr-TR&amp;renderMap=true&amp;renderButton=false">nereden
+							<li><a target="_new"
+									href="https://www.mobil.com/industrial/lubricants-distributors/externallocator?culture=tr-TR&amp;renderMap=true&amp;renderButton=false">nereden
 									sat&#305;n al&#305;nabilir</a></li>
 							<li><a href="/IND/Turkish/technicalresources.aspx">teknik kaynaklar</a></li>
 							<li><a href="/IND/Turkish/lubricationsolutions.aspx">ya&#287;lama &ccedil;&ouml;z&uuml;mleri</a></li>
@@ -374,7 +396,8 @@
 						<asp:panel id="BlueNavPanel_Current_2" Runat="server" visible="False">
 							<li><a href="/IND/Turkish/products.aspx">&uuml;r&uuml;nler</a></li>
 							<li><a href="/IND/Turkish/yourindustry.aspx" class="mnNavOn">end&uuml;striniz</a></li>
-							<li><a target="_new" href="https://www.mobil.com/industrial/lubricants-distributors/externallocator?culture=tr-TR&amp;renderMap=true&amp;renderButton=false">nereden
+							<li><a target="_new"
+									href="https://www.mobil.com/industrial/lubricants-distributors/externallocator?culture=tr-TR&amp;renderMap=true&amp;renderButton=false">nereden
 									sat&#305;n al&#305;nabilir</a></li>
 							<li><a href="/IND/Turkish/technicalresources.aspx">teknik kaynaklar</a></li>
 							<li><a href="/IND/Turkish/lubricationsolutions.aspx">ya&#287;lama &ccedil;&ouml;z&uuml;mleri</a></li>
@@ -382,15 +405,17 @@
 						<asp:panel id="BlueNavPanel_Current_3" Runat="server" visible="False">
 							<li><a href="/IND/Turkish/products.aspx">&uuml;r&uuml;nler</a></li>
 							<li><a href="/IND/Turkish/yourindustry.aspx">end&uuml;striniz</a></li>
-							<li><a href="https://www.mobil.com/industrial/lubricants-distributors/externallocator?culture=tr-TR&amp;renderMap=true&amp;renderButton=false"
-								 class="mnNavOn">nereden sat&#305;n al&#305;nabilir</a></li>
+							<li><a
+									href="https://www.mobil.com/industrial/lubricants-distributors/externallocator?culture=tr-TR&amp;renderMap=true&amp;renderButton=false"
+									class="mnNavOn">nereden sat&#305;n al&#305;nabilir</a></li>
 							<li><a href="/IND/Turkish/technicalresources.aspx">teknik kaynaklar</a></li>
 							<li><a href="/IND/Turkish/lubricationsolutions.aspx">ya&#287;lama &ccedil;&ouml;z&uuml;mleri</a></li>
 						</asp:panel>
 						<asp:panel id="BlueNavPanel_Current_4" Runat="server" visible="False">
 							<li><a href="/IND/Turkish/products.aspx">&uuml;r&uuml;nler</a></li>
 							<li><a href="/IND/Turkish/yourindustry.aspx">end&uuml;striniz</a></li>
-							<li><a target="_new" href="https://www.mobil.com/industrial/lubricants-distributors/externallocator?culture=tr-TR&amp;renderMap=true&amp;renderButton=false">nereden
+							<li><a target="_new"
+									href="https://www.mobil.com/industrial/lubricants-distributors/externallocator?culture=tr-TR&amp;renderMap=true&amp;renderButton=false">nereden
 									sat&#305;n al&#305;nabilir</a></li>
 							<li><a href="/IND/Turkish/technicalresources.aspx" class="mnNavOn">teknik kaynaklar</a></li>
 							<li><a href="/IND/Turkish/lubricationsolutions.aspx">ya&#287;lama &ccedil;&ouml;z&uuml;mleri</a></li>
@@ -398,10 +423,12 @@
 						<asp:panel id="BlueNavPanel_Current_5" Runat="server" visible="False">
 							<li><a href="/IND/Turkish/products.aspx">&uuml;r&uuml;nler</a></li>
 							<li><a href="/IND/Turkish/yourindustry.aspx">end&uuml;striniz</a></li>
-							<li><a target="_new" href="https://www.mobil.com/industrial/lubricants-distributors/externallocator?culture=tr-TR&amp;renderMap=true&amp;renderButton=false">nereden
+							<li><a target="_new"
+									href="https://www.mobil.com/industrial/lubricants-distributors/externallocator?culture=tr-TR&amp;renderMap=true&amp;renderButton=false">nereden
 									sat&#305;n al&#305;nabilir</a></li>
 							<li><a href="/IND/Turkish/technicalresources.aspx">teknik kaynaklar</a></li>
-							<li><a href="/IND/Turkish/lubricationsolutions.aspx" class="mnNavOn">ya&#287;lama &ccedil;&ouml;z&uuml;mleri</a></li>
+							<li><a href="/IND/Turkish/lubricationsolutions.aspx" class="mnNavOn">ya&#287;lama
+									&ccedil;&ouml;z&uuml;mleri</a></li>
 						</asp:panel>
 					</ul>
 				</div>
@@ -409,7 +436,7 @@
 		</div>
 	</div>
 	<div xmlns:xalan-nodeset="org.apache.xalan.xslt.extensions.Nodeset" xmlns:java="http://xml.apache.org/xslt/java"
-	 xmlns:fo="http://www.w3.org/1999/XSL/Format" id="navPanelBg">
+		xmlns:fo="http://www.w3.org/1999/XSL/Format" id="navPanelBg">
 		<div id="navPanel" class="clrfix">
 			<div id="navTitle">
 				<%=HeaderText%>

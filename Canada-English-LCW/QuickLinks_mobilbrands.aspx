@@ -30,7 +30,7 @@
             <a target="" onclick="trackClick(this);" href="http://lubes.mobil.com/Canada-English-LCW/carengineoils_products_mobil-1.aspx">Mobil Super&trade;</a>
         </li>
         <li>
-            <a target="" onclick="trackClick(this);" href="http://lubes.mobil.ca/Canada-English-LCW/heavydutyengineoils_products.aspx">Mobil Delvac&trade;</a>
+            <a target="" onclick="trackClick(this);" href="http://lubes.mobil.com/Canada-English-LCW/heavydutyengineoils_products.aspx">Mobil Delvac&trade;</a>
         </li>
     </ul>
 </div>

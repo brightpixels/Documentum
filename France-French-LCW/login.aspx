@@ -82,14 +82,14 @@
                         <div class="subfeature csingle cleft"><!-- googleoff: all -->
                             <script type="text/javascript">quickEditForm("0915881d81d73ca5", "/Content/SLeftColumn/Section",true,"../forms/LCWLandingColumns","20px","820px","700px","Left Landing Page Column","","pencil.gif","");</script><!-- googleon: all --><div xmlns="" class="headerbar">
                                 <h3>
-                                    <a title="This link will open a new window." target="_blank" onclick="trackClick(this);" href="http://portal.exxonmobil.com/">DNet<span></span></a>
+                                    <a title="This link will open a new window." target="_blank" onclick="trackClick(this);" href="https://dnet.mobil.com/fr/">DNet<span></span></a>
                                 </h3>
                             </div>
                             <div xmlns="" class="padding">
-                                <div class="img60 left"><a href="http://portal.exxonmobil.com/" title="DNet" target="_blank" onclick="trackClick(this);"><img title="DNet" src="../Shared-Images-LCW/teaser_60x60_dnet-logo_gbl.jpg" longdesc="" class="floatimgleft" border="0" alt="DNet"></a></div>
+                                <div class="img60 left"><a href="https://dnet.mobil.com/fr/" title="DNet" target="_blank" onclick="trackClick(this);"><img title="DNet" src="../Shared-Images-LCW/teaser_60x60_dnet-logo_gbl.jpg" longdesc="" class="floatimgleft" border="0" alt="DNet"></a></div>
                                 <p>DNet est le portail ExxonMobil réservé aux distributeurs sur lequel figurent toutes les informations nécessaires pour commercialiser les produits des marques Exxon et Mobil&trade;.<br>
                                     <br>
-                                    <a title="" target="" onclick="trackClick(this);" href="http://portal.exxonmobil.com/" class="">Cliquez ici pour accéder à DNet</a>.</p>
+                                    <a title="" target="" onclick="trackClick(this);" href="https://dnet.mobil.com/fr/" class="">Cliquez ici pour accéder à DNet</a>.</p>
                             </div>
                         </div>
                         <div class="subfeature csingle cright"><!-- googleoff: all -->
@@ -100,31 +100,31 @@
                             </div>
                             <div xmlns="" class="padding">
                                 <div class="img60 left"><a href="https://mobilserv.mobil.com/en/" title="analyse d&rsquo;huile signumSM [EN]" target="_blank" onclick="trackClick(this);"><img title="analyse d&rsquo;huile signum" src="../Shared-Images-LCW/teaser_60x60_signum-oil-pour_gbl.jpg" longdesc="" class="floatimgleft" border="0" alt="analyse d&rsquo;huile signum"></a></div>
-                                <p>Baptisés Signum, nos programmes d&rsquo;analyse de pointe des huiles usagées vous permettent de mieux appréhender l&rsquo;état des lubrifiants et des équipements de votre entreprise. Cliquez ici pour accéder à l&rsquo;outil <a title="" target="_blank" onclick="trackClick(this);" href="http://www.signumoilanalysis.com/signum-english/" class="">d&rsquo;analyse d&rsquo;huile Signum</a>. Si vous avez déjà un identifiant, connectez-vous ici.</p>
+                                <p>Baptisés Signum, nos programmes d&rsquo;analyse de pointe des huiles usagées vous permettent de mieux appréhender l&rsquo;état des lubrifiants et des équipements de votre entreprise. Cliquez ici pour accéder à l&rsquo;outil <a title="" target="_blank" onclick="trackClick(this);" href="http://www.signumoilanalysis.com/signum-english/" class="">d&rsquo;analyse d&rsquo;huile Signum</a>. Si vous avez déjà un identifiant, <a title="" target="" onclick="trackClick(this);" href="https://ucld.us/Account/Login.aspx?brand=xom" class="">connectez-vous ici.</a></p>
                             </div>
                         </div>
                     </div>
                     <div class="layoutRow clrfix">
                         <div class="subfeature csingle cleft">
                             <div xmlns="" class="headerbar">
-                                <h3>
-                                    <a title="This link will open a new window." target="_blank" onclick="trackClick(this);" href="http://portal.exxonmobil.com/">partenaires déjà inscrits<span></span></a>
+                                <h3>    
+                                    <a title="This link will open a new window." target="_blank" onclick="trackClick(this);" href="https://dnet.mobil.com/fr/">partenaires déjà inscrits<span></span></a>
                                 </h3>
                             </div>
                             <div xmlns="" class="padding">
-                                <div class="img60 left"><a href="http://portal.exxonmobil.com/" title="partenaires déjà inscrits" target="_blank" onclick="trackClick(this);"><img title="Partenaires déjà inscrits" src="../Shared-Images-LCW/teaser_60x60_group-of-people_eame.jpg" longdesc="" class="floatimgleft" border="0" alt="Partenaires déjà inscrits"></a></div>
-                                <p>Les clients et fournisseurs ExxonMobil déjà inscrits peuvent accéder ici à leur <a title="" target="" onclick="trackClick(this);" href="http://portal.exxonmobil.com/" class="">portail personnalisé</a>.</p>
+                                <div class="img60 left"><a href="https://dnet.mobil.com/fr/" title="partenaires déjà inscrits" target="_blank" onclick="trackClick(this);"><img title="Partenaires déjà inscrits" src="../Shared-Images-LCW/teaser_60x60_group-of-people_eame.jpg" longdesc="" class="floatimgleft" border="0" alt="Partenaires déjà inscrits"></a></div>
+                                <p>Les clients et fournisseurs ExxonMobil déjà inscrits peuvent accéder ici à leur <a title="" target="" onclick="trackClick(this);" href="https://dnet.mobil.com/fr/" class="">portail personnalisé</a>.</p>
                             </div>
                         </div>
                         <div class="subfeature csingle cright">
                             <div xmlns="" class="headerbar">
                                 <h3>
-                                    <a title="" target="_self" onclick="trackClick(this);" href="../France-French-LCW/contactus_contact.aspx?CountryCode=FR&amp;Language=French">vous souhaitez vous inscrire ?<span></span></a>
+                                    <a title="" target="_self" onclick="trackClick(this);" href="https://www.mobil.com/contact-us?lang=fr-FR">vous souhaitez vous inscrire ?<span></span></a>
                                 </h3>
                             </div>
                             <div xmlns="" class="padding">
-                                <div class="img60 left"><a href="../France-French-LCW/contactus_contact.aspx?CountryCode=FR&amp;Language=French" title="vous souhaitez vous inscrire ?" target="_self" onclick="trackClick(this);"><img title="vous souhaitez vous inscrire?" src="../Shared-Images-LCW/teaser_60x60_customer-support_gbl.jpg" longdesc="" class="floatimgleft" border="0" alt="vous souhaitez vous inscrire?"></a></div>
-                                <p>Pas encore inscrit? C&rsquo;est dommage, vous vous privez d&rsquo;une foule d&rsquo;informations importantes! Demandez à la personne décisionnaire au sein de <a title="" target="" onclick="trackClick(this);" href="/France-French-LCW/contactus_contact.aspx?CountryCode=FR&amp;Language=French" class="">votre entreprise de vous inscrire dès aujourd&rsquo;hui</a>.</p>
+                                <div class="img60 left"><a href="https://www.mobil.com/contact-us?lang=fr-FR" title="vous souhaitez vous inscrire ?" target="_self" onclick="trackClick(this);"><img title="vous souhaitez vous inscrire?" src="../Shared-Images-LCW/teaser_60x60_customer-support_gbl.jpg" longdesc="" class="floatimgleft" border="0" alt="vous souhaitez vous inscrire?"></a></div>
+                                <p>Pas encore inscrit? C&rsquo;est dommage, vous vous privez d&rsquo;une foule d&rsquo;informations importantes! Demandez à la personne décisionnaire au sein de <a title="" target="" onclick="trackClick(this);" href="https://www.mobil.com/contact-us?lang=fr-FR" class="">votre entreprise de vous inscrire dès aujourd&rsquo;hui</a>.</p>
                             </div>
                         </div>
                     </div>

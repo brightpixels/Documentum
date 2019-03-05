@@ -65,7 +65,7 @@
 					</div>
 					<div class="rightblock">
 						<p class="LiveText2">
-						<a href="http://corporate.exxonmobil.com/en/global-legal-pages/privacy-policy" class="linkz">Gizlilik Politikas&#305;</a>&nbsp;&nbsp;&#183;&nbsp;&nbsp;<a href="http://corporate.exxonmobil.com/en/global-legal-pages/terms-and-conditions" class="linkz">&#350;artlar ve Ko&#351;ullar</a><br />&#169; Copyright 2019 Exxon Mobil Corporation. All Rights Reserved
+						<a href="https://corporate.exxonmobil.com/global-legal-pages/privacy-policy_turkey-turkish" class="linkz">Gizlilik Politikas&#305;</a>&nbsp;&nbsp;&#183;&nbsp;&nbsp;<a href="https://corporate.exxonmobil.com/global-legal-pages/terms-and-conditions_turkey-turkish" class="linkz">&#350;artlar ve Ko&#351;ullar</a><br />&#169; Copyright 2019 Exxon Mobil Corporation. All Rights Reserved
 						</p>
 					</div>
 				</div>

@@ -183,10 +183,6 @@
                                 </div>
                                 <div style="width:415px; white-space:normal; padding-top:10px;display:none " class="divTabContent" id="Specifiche Content">
                                     <p xmlns="">
-                                        <strong>Mobil Super 3000 Formula P 0W-30 incontra o supera i requisiti delle seguenti specifiche dell'industria:&nbsp;</strong>&nbsp; <br>
-ACEA C2</p>
-
-                                    <p xmlns="">
                                         <strong>Mobil Super 3000 Formula P 0W-30 possiede le seguenti approvazioni dei costruttori:&nbsp;&nbsp; <br>
 
                                         </strong>Peugeot Citroën Automobiles PSA B71 2312</p>

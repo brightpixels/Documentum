@@ -204,7 +204,6 @@
                                     <p xmlns="">
                                         <strong>Mobil Super 2000 X1 møter eller ovegår kravene til: 10W-40 </strong>
                                         <br>
-ACEA A3/B3 <br>
 API SL <br>
 AAE (STO 003) Group B5</p>
 

@@ -100,7 +100,7 @@
                     </div>
                     <div class="related">
                         <div style="float:left">
-                            <a xmlns="" target="_self" onclick="trackClick(this);" href="../Canada-English-LCW/where-to-buy.aspx"><img width="60" title="" src="../Canada-English-LCW/Images/teaser_60x60_where-to-buy.png" longdesc="" height="60" border="0" alt="Where to buy"></a>ï¿½</div>
+                            <a xmlns="" target="_self" onclick="trackClick(this);" href="../Canada-English-LCW/where-to-buy.aspx"><img width="60" title="" src="../Canada-English-LCW/Images/teaser_60x60_where-to-buy.png" longdesc="" height="60" border="0" alt="Where to buy"></a></div>
                         <h2>
                             <a title="" target="_self" href="/Canada-English-LCW/where-to-buy.aspx">Buy this product</a>
                         </h2>
@@ -109,7 +109,7 @@
                     </div>
                     <div class="related">
                         <div style="float:left">
-                            <a xmlns="" target="_self" onclick="trackClick(this);" href="../Canada-English-LCW/heavydutyengineoils_products_rear-axle_mobil-delvac-synthetic-gear-oil-75w90.aspx"><img width="60" title="" src="../Canada-English-LCW/Images/teaser_60x60_mobil-delvac-synthetic-gear-lubricant-75w-90.jpg" longdesc="" height="60" border="0" alt="Mobil Delvac Synthetic Gear Oil 75W-90"></a>ï¿½</div>
+                            <a xmlns="" target="_self" onclick="trackClick(this);" href="../Canada-English-LCW/heavydutyengineoils_products_rear-axle_mobil-delvac-synthetic-gear-oil-75w90.aspx"><img width="60" title="" src="../Canada-English-LCW/Images/teaser_60x60_mobil-delvac-synthetic-gear-lubricant-75w-90.jpg" longdesc="" height="60" border="0" alt="Mobil Delvac Synthetic Gear Oil 75W-90"></a></div>
                         <h2>
                             <a title="" target="_self" href="/Canada-English-LCW/heavydutyengineoils_products_rear-axle_mobil-delvac-synthetic-gear-oil-75w90.aspx">Mobil Delvac&trade; Synthetic Gear Oil 75W-90</a>
                         </h2>
@@ -118,7 +118,7 @@
                     </div>
                     <div class="related">
                         <div style="float:left">
-                            <a xmlns="" target="_self" onclick="trackClick(this);" href="../Canada-English-LCW/heavydutyengineoils_products_mobil-delvac-synthetic-transmission-fluid-50.aspx"><img width="60" title="" src="../Canada-English-LCW/Images/teaser_60x60_mobil-delvac-synthetic-transmission-fluid-50.jpg" longdesc="" height="60" border="0" alt="Mobil Delvac Synthetic Transmission Fluid 50"></a>ï¿½</div>
+                            <a xmlns="" target="_self" onclick="trackClick(this);" href="../Canada-English-LCW/heavydutyengineoils_products_mobil-delvac-synthetic-transmission-fluid-50.aspx"><img width="60" title="" src="../Canada-English-LCW/Images/teaser_60x60_mobil-delvac-synthetic-transmission-fluid-50.jpg" longdesc="" height="60" border="0" alt="Mobil Delvac Synthetic Transmission Fluid 50"></a></div>
                         <h2>
                             <a title="" target="_self" href="/Canada-English-LCW/heavydutyengineoils_products_mobil-delvac-synthetic-transmission-fluid-50.aspx">Mobil Delvac&trade; Synthetic Transmission Fluid 50</a>
                         </h2>
@@ -130,7 +130,7 @@
                     <script type="text/javascript">quickEditForm('0915881d82055b23', '/Content',false,'../forms/LCWProductDetails','','825px','750px','Product Detail Overview','','pencil.gif','200px');</script><!-- googleon: all -->
                     <div id="topSec">
                         <div style="float:left" id="flash">
-                            <img xmlns="" src="../Canada-English-LCW/Images/product_120x150_mobil_delvac_1_sgo_80w-140.png" height="150" width="120" alt="Mobil Delvac 1 Gear Oil 80W-140" title="Mobil Delvac 1 Gear Oil 80W-140" border="0" hspace="0">ï¿½</div>
+                            <img xmlns="" src="../Canada-English-LCW/Images/product_120x150_mobil_delvac_1_sgo_80w-140.png" height="150" width="120" alt="Mobil Delvac 1 Gear Oil 80W-140" title="Mobil Delvac 1 Gear Oil 80W-140" border="0" hspace="0"></div>
                         <h1>Mobil Delvac 1&trade; Gear Oil 80W-140</h1>
                         <p xmlns="">Mobil Delvac 1&trade; Gear Oil 80W-140 are synthetic drivetrain lubricants engineered to meet the most demanding extended drain and warranty requirements. These products are designed for use in heavy-duty drivetrains that require gear lubricants with relatively high viscosity and excellent load-carrying capability and where extreme pressures and shock loading are expected. Mobil Delvac 1 Gear Oil 80W-140 incorporate the latest technology in synthetic basestocks and advanced additives providing significant advantages over mineral gear oils.</p>
 
@@ -247,22 +247,22 @@ DANA SHAES 256<br>
                                             <td width="" height="" class="standard">Viscosity, ASTM D 445</td><td width="" height="" class="standard">&nbsp;</td>
                                         </tr>
                                         <tr>
-                                            <td width="" height="" class="standard">cSt @ 40ï¿½C</td><td width="" height="" class="standard">244</td>
+                                            <td width="" height="" class="standard">cSt @ 40ºC</td><td width="" height="" class="standard">244</td>
                                         </tr>
                                         <tr>
-                                            <td width="" height="" class="standard">cSt @ 100ï¿½C</td><td width="" height="" class="standard">27.9</td>
+                                            <td width="" height="" class="standard">cSt @ 100ºC</td><td width="" height="" class="standard">27.9</td>
                                         </tr>
                                         <tr>
                                             <td width="" height="" class="standard">Viscosity Index, ASTM D 2270</td><td width="" height="" class="standard">150</td>
                                         </tr>
                                         <tr>
-                                            <td width="" height="" class="standard">Pour Point, ï¿½C, ASTM D 97</td><td width="" height="" class="standard">-47</td>
+                                            <td width="" height="" class="standard">Pour Point, ºC, ASTM D 97</td><td width="" height="" class="standard">-47</td>
                                         </tr>
                                         <tr>
-                                            <td width="" height="" class="standard">Flash Point, ï¿½C, ASTM D 92</td><td width="" height="" class="standard">210</td>
+                                            <td width="" height="" class="standard">Flash Point, ºC, ASTM D 92</td><td width="" height="" class="standard">210</td>
                                         </tr>
                                         <tr>
-                                            <td width="" height="" class="standard">Density @ 15ï¿½C kg/l, ASTM D 4052</td><td width="" height="" class="standard">0.870</td>
+                                            <td width="" height="" class="standard">Density @ 15ºC kg/l, ASTM D 4052</td><td width="" height="" class="standard">0.870</td>
                                         </tr></tbody></table>
                                 </div>
                             </td>
@@ -274,7 +274,7 @@ DANA SHAES 256<br>
                             <td valign="top" style="width: 10px; height: 10px;" id="tabsLowerLeft">
                                 <img src="/Images/Tabs/box_LeftLower.png" alt=""/>
                             </td>
-                            <td valign="top" style="width: 435px; background-image:url('/Images/Tabs/box_Lower.png'); background-repeat: repeat-x;" id="tabsLowerMiddle">ï¿½</td>
+                            <td valign="top" style="width: 435px; background-image:url('/Images/Tabs/box_Lower.png'); background-repeat: repeat-x;" id="tabsLowerMiddle"></td>
                             <td valign="top" style="width: 10px; height: 10px;" id="tabsLowerRight">
                                 <img src="/Images/Tabs/box_RightLower.png" alt=""/>
                             </td>

@@ -184,9 +184,6 @@
                                 </div>
                                 <div style="width:415px; white-space:normal; padding-top:10px;display:none " class="divTabContent" id="Approbations Content">
                                     <p xmlns="">
-                                        <strong>Mobil Super 3000 Formula P 0W-30 satisfait ou dépasse les spécifications suivantes de l'industrie :&nbsp;</strong>&nbsp; <br>
-ACEA C2</p>
-                                    <p xmlns="">
                                         <strong>Mobil Super 3000 Formula P 0W-30 satisfait ou dépasse les normes des constructeurs suivants :&nbsp;&nbsp;</strong>
                                         <br>
 Automobiles Peugeot/Citroën PSA B71 2312</p>

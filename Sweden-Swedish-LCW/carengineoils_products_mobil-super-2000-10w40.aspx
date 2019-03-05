@@ -186,8 +186,7 @@ Mobil Super 2000 X1 ger:</p>
                                 <div style="width:415px; white-space:normal; padding-top:10px;display:none " class="divTabContent" id="Specs Content">
                                     <p xmlns="">
                                         <strong>Mobil Super 2000 X1 10W-40 uppfyller eller överträffar kraven enligt: 10W-40 <br>
-                                        </strong>API SL/SJ <br>
-ACEA A3/B3</p>
+                                        </strong>API SL/SJ</p>
                                     <p xmlns="">
                                         <strong>Mobil Super 2000 X1 10W-40 har följande maskinbyggares godkännanden: 10W-40 <br>
                                         </strong>VW 501 01 / 505 00 <br>

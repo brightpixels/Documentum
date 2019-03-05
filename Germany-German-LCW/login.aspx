@@ -111,7 +111,7 @@
                             </div>
                             <div class="padding">
                                 <div class="img60 left"><a href="http://www.signumoilanalysis.com/" title="Signum &Ouml;lanalyse" target="_blank" onclick="trackClick(this);"><img title="Signum" src="../Shared-Images-LCW/teaser_60x60_signum-oil-pour_gbl.jpg" longdesc="" class="floatimgleft" border="0" alt="Signum"></a></div>
-                                <p>Das online gest&uuml;tzte Signum &Ouml;l-Analyse-Programm bietet die Erkenntnisse, die sie ben&ouml;tigen, um den Zustand ihrer Schmierstoffe und Anlagen in Ihrem Unternehmen besser zu verstehen. Klicken Sie hier, um zur <a title="" target="" onclick="trackClick(this);" href="http://www.signumoilanalysis.com/" class="">Signum<sup>SM </sup>&Ouml;lanalyse </a>zu gelangen, oder loggen Sie sich als registrierter Nutzer <a title="" target="" onclick="trackClick(this);" href="https://ucld.us/Account/Login.aspx?brand=xom" class="">hier</a> ein.</p>
+                                <p>Das online gest&uuml;tzte Signum &Ouml;l-Analyse-Programm bietet die Erkenntnisse, die sie ben&ouml;tigen, um den Zustand ihrer Schmierstoffe und Anlagen in Ihrem Unternehmen besser zu verstehen. Klicken Sie hier, um zur <a title="" target="" onclick="trackClick(this);" href="http://www.signumoilanalysis.com/" class="">Signum<sup>SM </sup>&Ouml;lanalyse </a>zu gelangen, oder loggen Sie sich als registrierter Nutzer <a title="This link will open a new window." target="_blank" onclick="trackClick(this);" href="https://ucld.us/Account/Login.aspx?brand=xom" class="">hier</a> ein.</p>
                             </div>
                         </div>
                         <div class="subfeature csingle cright">
@@ -136,7 +136,7 @@ Schweiz - 0800 561 576</p>
                             </div>
                             <div class="padding">
                                 <div class="img60 left"><a href="https://dnet.mobil.com/de/" title="Bereits registrierte Partner" target="_blank" onclick="trackClick(this);"><img title="Bereits registrierte Partner" src="../Shared-Images-LCW/teaser_60x60_group-of-people_eame.jpg" longdesc="" class="floatimgleft" border="0" alt="Bereits registrierte Partner"></a></div>
-                                <p>Wenn Sie bereits registrierter Kunde oder Lieferant von ExxonMobil sind, k&ouml;nnen <a title="" target="" onclick="trackClick(this);" href="https://dnet.mobil.com/de/" class="">Sie hier</a> auf Ihr individuelles Portal zugreifen.</p>
+                                <p>Wenn Sie bereits registrierter Kunde oder Lieferant von ExxonMobil sind, k&ouml;nnen <a title="This link will open a new window." target="_blank" onclick="trackClick(this);" href="https://dnet.mobil.com/de/" class="">Sie hier</a> auf Ihr individuelles Portal zugreifen.</p>
                             </div>
                         </div>
                     </div>

@@ -211,7 +211,7 @@ Etsi sopiva öljy raskaaseen ajoneuvoosi <a title="" target="" onclick="trackClic
                                     <div class="callbluepad">
                                         <div style="background-image: url(../Egypt-English-LCW/Images/teaser_90x90_globe.png);" class="content img90">
                                             <h2>
-                                                <a title="" target="_self" onclick="trackClick(this);" href="../finland-finnish-lcw/contactus_contact.aspx?CountryCode=FI&amp;Language=Finnish">Tuotetekninen neuvonta<span></span></a>
+                                                <a title="" target="_self" onclick="trackClick(this);" href="http://www.mobil.com/contact-us?lang=fi-FI">Tuotetekninen neuvonta<span></span></a>
                                             </h2>
                                             <p>Saat meihin yhteyden «Ota yhteyttä» -sivun kautta tai soittamalla:<br>
 &nbsp;<em>0800 114 181</em>
@@ -224,7 +224,7 @@ Etsi sopiva öljy raskaaseen ajoneuvoosi <a title="" target="" onclick="trackClic
                                                 </div>
                                                 <div class="buttonBR clrfix">
                                                     <div class="bttnpad">
-                                                        <a title="" target="_self" onclick="trackClick(this);" href="../finland-finnish-lcw/contactus_contact.aspx?CountryCode=FI&amp;Language=Finnish">Ota yhteyttä<span></span></a>
+                                                        <a title="" target="_self" onclick="trackClick(this);" href="http://www.mobil.com/contact-us?lang=fi-FI">Ota yhteyttä<span></span></a>
                                                     </div>
                                                 </div>
                                             </div>

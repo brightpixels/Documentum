@@ -75,7 +75,7 @@
 
                         <h1 xmlns="">Points de vente</h1>
 
-                        <p xmlns="">Nous vous remercions de vous intéresser aux lubrifiants Mobil&trade;. Veuillez sélectionner le mode d&rsquo;achat qui vous convient le mieux. Si aucune solution ne vous satisfait, n&rsquo;hésitez pas à <a title="" target="" onclick="trackClick(this);" href="/France-French-LCW/contactus_contact.aspx?CountryCode=FR&amp;Language=French" class="">nous contacter</a>. Nous sommes à votre entière disposition.</p>
+                        <p xmlns="">Nous vous remercions de vous intéresser aux lubrifiants Mobil&trade;. Veuillez sélectionner le mode d&rsquo;achat qui vous convient le mieux. Si aucune solution ne vous satisfait, n&rsquo;hésitez pas à <a title="" target="" onclick="trackClick(this);" href="http://www.mobil.com/contact-us?lang=fr-FR" class="">nous contacter</a>. Nous sommes à votre entière disposition.</p>
 
                         <p xmlns="">Si vous êtes l&rsquo;un de nos partenaires déjà inscrits, <a title="" target="" onclick="trackClick(this);" href="/France-French-LCW/login.aspx" class="">connectez-vous ici</a>.</p> </div>
             <div id="subfeatureCallouts">

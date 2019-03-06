@@ -86,13 +86,13 @@
                         <div class="subfeature csingle cleft"><!-- googleoff: all -->
                             <script type="text/javascript">quickEditForm("0915881d81418209", "/Content/SLeftColumn/Section",true,"../forms/LCWLandingColumns","20px","820px","700px","Left Landing Page Column","","pencil.gif","");</script><!-- googleon: all --><div xmlns="" class="headerbar">
                                 <h3>
-                                    <a title="" target="_self" onclick="trackClick(this);" href="https://portal.exxonmobil.com/login/login.aspx">DNet<span></span></a>
+                                    <a title="" target="_blank" onclick="trackClick(this);" href="https://dnet.mobil.com/it/">DNet<span></span></a>
                                 </h3>
                             </div>
                             <div xmlns="" class="padding">
-                                <div class="img60 left"><a href="https://portal.exxonmobil.com/login/login.aspx" title="DNet" target="_self" onclick="trackClick(this);"><a title="" target="_self" onclick="trackClick(this);" href="https://portal.exxonmobil.com"><img title="" src="../Shared-Images-LCW/teaser_60x60_euro-truck_eame.jpg" longdesc="" class="floatimgleft" border="0" alt="Camion europeo"></a></a></div>
+                                <div class="img60 left"><a href="https://dnet.mobil.com/it/" title="DNet" target="_blank" onclick="trackClick(this);"><a title="" target="_blank" onclick="trackClick(this);" href="https://dnet.mobil.com/it/"><img title="" src="../Shared-Images-LCW/teaser_60x60_euro-truck_eame.jpg" longdesc="" class="floatimgleft" border="0" alt="Camion europeo"></a></a></div>
                                 <p>DNet è il portale dedicato agli Authorized Distributors ExxonMobil, dove è disponibile tutta una serie di materiali per commercializzare con successo i prodotti a marchio Mobil&trade;. <br>
-Utilizzate il seguente collegamento&nbsp; per accedere a <a title="" target="_self" onclick="trackClick(this);" href="https://portal.exxonmobil.com/login/login.aspx?TYPE=33554433&amp;REALMOID=06-f6f6a31e-f0df-4ec3-bb5b-fe0b391d3df3&amp;GUID=&amp;SMAUTHREASON=0&amp;METHOD=GET&amp;SMAGENTNAME=portalw2k81-081_agent&amp;TARGET=-SM-https%3a%2f%2fportal%2eexxonmobil%2ecom%2fxomportal%2fserver%2ept%3f" class="">DNet</a>
+Utilizzate il seguente collegamento&nbsp; per accedere a <a title="" target="_blank" onclick="trackClick(this);" href="https://dnet.mobil.com/it/" class="">DNet</a>
                                 </p>
                             </div>
                         </div>
@@ -106,7 +106,7 @@ Utilizzate il seguente collegamento&nbsp; per accedere a <a title="" target="_se
                                 <div class="img60 left"><a href="http://www.signumoilanalysis.com" title="Signum oil analysis (EN)" target="_self" onclick="trackClick(this);"><a title="" target="_self" onclick="trackClick(this);" href="http://www.signumoilanalysis.com"><img title="" src="../Shared-Images-LCW/teaser_60x60_signum-oil-pour_gbl.jpg" longdesc="" class="floatimgleft" border="0" alt="Signum oil analysis"></a></a></div>
                                 <p>Il nostro programma &ldquo;<a title="" target="_self" onclick="trackClick(this);" href="http://www.signumoilanalysis.com/signum-english/" class="">Signum<sup>SM</sup> oil analysis</a>&rdquo; è uno strumento all'avanguardia che consente di monitorare lo stato dei lubrificanti&nbsp; e fornisce gli elementi per una migliore analisi delle condizioni del lubrificante e dei macchinari.<br>
 &nbsp;<br>
-Per approfondimenti su&nbsp;Signum oil analysis gli utenti registrati possono <a title="" target="_self" onclick="trackClick(this);" href="https://portal.exxonmobil.com/login/login.aspx" class="">accedere qui.</a>
+Per approfondimenti su&nbsp;Signum oil analysis gli utenti registrati possono <a title="" target="_blank" onclick="trackClick(this);" href="hhttps://ucld.us/Account/Login.aspx?brand=xom" class="">accedere qui.</a>
                                 </p>
                             </div>
                         </div>
@@ -115,24 +115,24 @@ Per approfondimenti su&nbsp;Signum oil analysis gli utenti registrati possono <a
                         <div class="subfeature csingle cleft">
                             <div xmlns="" class="headerbar">
                                 <h3>
-                                    <a title="This link will open a new window." target="_blank" onclick="trackClick(this);" href="https://portal.exxonmobil.com/login/login.aspx?TYPE=33554433&amp;REALMOID=06-f6f6a31e-f0df-4ec3-bb5b-fe0b391d3df3&amp;GUID=&amp;SMAUTHREASON=0&amp;METHOD=GET&amp;SMAGENTNAME=portalw2k81-081_agent&amp;TARGET=-SM-https%3a%2f%2fportal%2eexxonmobil%2ecom%2fxomportal%2fserver%2ept%3f">utenti già registrati<span></span></a>
+                                    <a title="This link will open a new window." target="_blank" onclick="trackClick(this);" href="https://dnet.mobil.com/it/">utenti già registrati<span></span></a>
                                 </h3>
                             </div>
                             <div xmlns="" class="padding">
-                                <div class="img60 left"><a href="https://portal.exxonmobil.com/login/login.aspx?TYPE=33554433&amp;REALMOID=06-f6f6a31e-f0df-4ec3-bb5b-fe0b391d3df3&amp;GUID=&amp;SMAUTHREASON=0&amp;METHOD=GET&amp;SMAGENTNAME=portalw2k81-081_agent&amp;TARGET=-SM-https%3a%2f%2fportal%2eexxonmobil%2ecom%2fxomportal%2fserver%2ept%3f" title="utenti già registrati" target="_blank" onclick="trackClick(this);"><img title="Gruppo di persone" src="../Shared-Images-LCW/teaser_60x60_group-of-people_eame.jpg" longdesc="" class="floatimgleft" border="0" alt="Gruppo di persone"></a></div>
-                                <p>Se siete utenti già registrati, potete&nbsp; accedere al vostro <a title="" target="" onclick="trackClick(this);" href="https://portal.exxonmobil.com/login/login.aspx?TYPE=33554433&amp;REALMOID=06-f6f6a31e-f0df-4ec3-bb5b-fe0b391d3df3&amp;GUID=&amp;SMAUTHREASON=0&amp;METHOD=GET&amp;SMAGENTNAME=portalw2k81-081_agent&amp;TARGET=-SM-https%3a%2f%2fportal%2eexxonmobil%2ecom%2fxomportal%2fserver%2ept%3f" class="">portale personalizzato.</a>
+                                <div class="img60 left"><a href="https://dnet.mobil.com/it/" title="utenti già registrati" target="_blank" onclick="trackClick(this);"><img title="Gruppo di persone" src="../Shared-Images-LCW/teaser_60x60_group-of-people_eame.jpg" longdesc="" class="floatimgleft" border="0" alt="Gruppo di persone"></a></div>
+                                <p>Se siete utenti già registrati, potete&nbsp; accedere al vostro <a title="" target="_blank" onclick="trackClick(this);" href="https://dnet.mobil.com/it/" class="">portale personalizzato.</a>
                                 </p>
                             </div>
                         </div>
                         <div class="subfeature csingle cright">
                             <div xmlns="" class="headerbar">
                                 <h3>
-                                    <a title="" target="_self" onclick="trackClick(this);" href="http://www.esso.com/Italy-Italian/PA/Imports/contactus_contact.aspx">per contattarci<span></span></a>
+                                    <a title="" target="_blank" onclick="trackClick(this);" href="https://www.mobil.com/contact-us?lang=it-IT">per contattarci<span></span></a>
                                 </h3>
                             </div>
                             <div xmlns="" class="padding">
-                                <div class="img60 left"><a href="http://www.esso.com/Italy-Italian/PA/Imports/contactus_contact.aspx" title="per contattarci" target="_self" onclick="trackClick(this);"><img title="Assistenza clienti" src="../Shared-Images-LCW/teaser_60x60_customer-support_gbl.jpg" longdesc="" class="floatimgleft" border="0" alt="Assistenza clienti"></a></div>
-                                <p>Per saperne di più potete inviare una richiesta utilizzando la funzione <a title="" target="_self" onclick="trackClick(this);" href="http://www.esso.com/Italy-Italian/PA/Imports/contactus_contact.aspx" class="">per contattarci.</a>
+                                <div class="img60 left"><a href="https://www.mobil.com/contact-us?lang=it-IT" title="per contattarci" target="_blank" onclick="trackClick(this);"><img title="Assistenza clienti" src="../Shared-Images-LCW/teaser_60x60_customer-support_gbl.jpg" longdesc="" class="floatimgleft" border="0" alt="Assistenza clienti"></a></div>
+                                <p>Per saperne di più potete inviare una richiesta utilizzando la funzione <a title="" target="_blank" onclick="trackClick(this);" href="https://www.mobil.com/contact-us?lang=it-IT" class="">per contattarci.</a>
                                 </p>
                             </div>
                         </div>

@@ -106,7 +106,7 @@ Utilizzate il seguente collegamento&nbsp; per accedere a <a title="" target="_bl
                                 <div class="img60 left"><a href="http://www.signumoilanalysis.com" title="Signum oil analysis (EN)" target="_self" onclick="trackClick(this);"><a title="" target="_self" onclick="trackClick(this);" href="http://www.signumoilanalysis.com"><img title="" src="../Shared-Images-LCW/teaser_60x60_signum-oil-pour_gbl.jpg" longdesc="" class="floatimgleft" border="0" alt="Signum oil analysis"></a></a></div>
                                 <p>Il nostro programma &ldquo;<a title="" target="_self" onclick="trackClick(this);" href="http://www.signumoilanalysis.com/signum-english/" class="">Signum<sup>SM</sup> oil analysis</a>&rdquo; è uno strumento all'avanguardia che consente di monitorare lo stato dei lubrificanti&nbsp; e fornisce gli elementi per una migliore analisi delle condizioni del lubrificante e dei macchinari.<br>
 &nbsp;<br>
-Per approfondimenti su&nbsp;Signum oil analysis gli utenti registrati possono <a title="" target="_blank" onclick="trackClick(this);" href="hhttps://ucld.us/Account/Login.aspx?brand=xom" class="">accedere qui.</a>
+Per approfondimenti su&nbsp;Signum oil analysis gli utenti registrati possono <a title="" target="_blank" onclick="trackClick(this);" href="https://ucld.us/Account/Login.aspx?brand=xom" class="">accedere qui.</a>
                                 </p>
                             </div>
                         </div>

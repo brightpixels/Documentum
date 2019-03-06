@@ -77,7 +77,7 @@
                             <h3>Systèmes Danfreight</h3>
                             <div class="">
                                 <p xmlns="">
-                                    <a title=":: :: width: 680, height: 550 " target="_parent" onclick="trackClick(this);" href="http://www.mobil.ca/Canada-French-LCW/Flash/media_800x600_delvac-video-fr.mp4 " class="lightview"><img src="../Shared-Images-LCW/teaser_60x60_danfreight.png" height="60" width="60" align="left" border="0" hspace="0" class="imgFloatLeft"></a>
+                                    <a title=":: :: width: 680, height: 550 " target="_parent" onclick="trackClick(this);" href="http://lubes.mobil.com/Canada-French-LCW/Flash/media_800x600_delvac-video-fr.mp4 " class="lightview"><img src="../Shared-Images-LCW/teaser_60x60_danfreight.png" height="60" width="60" align="left" border="0" hspace="0" class="imgFloatLeft"></a>
                                 </p>
                                 <p xmlns="">Cliquez ici pour visionner les dernières vidéos démontrant &ndash; en action &ndash; les performances certifiées de Mobil Delvac&trade;.</p>
                             </div>
@@ -86,7 +86,7 @@
                             <h3>Lesmeister Transportation</h3>
                             <div class="">
                                 <p xmlns="">
-                                    <a title=":: :: width: 680, height: 550" target="_parent" onclick="trackClick(this);" href="http://www.mobil.com/canada-french-LCW/flash/media_442x280_lesmeister-transportation.mp4" class="lightview"><img src="../Canada-English-LCW/Flash/teaser_60x60_lesmeister-transportation.png" height="60" width="60" align="left" border="0" hspace="0" class="imgFloatLeft"></a>
+                                    <a title=":: :: width: 680, height: 550" target="_parent" onclick="trackClick(this);" href="http://lubes.mobil.com/canada-french-LCW/flash/media_442x280_lesmeister-transportation.mp4" class="lightview"><img src="../Canada-English-LCW/Flash/teaser_60x60_lesmeister-transportation.png" height="60" width="60" align="left" border="0" hspace="0" class="imgFloatLeft"></a>
                                 </p>
                                 <p xmlns="">Cliquez ici pour visionner les dernières vidéos démontrant &ndash; en action &ndash; les performances certifiées de Mobil Delvac&trade;.</p>
                             </div>
@@ -95,7 +95,7 @@
                             <h3>Schneider National</h3>
                             <div class="">
                                 <p xmlns="">
-                                    <a title=":: :: width: 680, height: 550" target="_parent" onclick="trackClick(this);" href="http://www.mobil.ca/canada-french-lcw/flash/media_442x280_schneider-national.mp4" class="lightview"><img src="../Canada-English-LCW/Flash/teaser_60x60_schneider-national.png" height="60" width="60" align="left" border="0" hspace="0" class="imgFloatLeft"></a>
+                                    <a title=":: :: width: 680, height: 550" target="_parent" onclick="trackClick(this);" href="http://lubes.mobil.com/canada-french-lcw/flash/media_442x280_schneider-national.mp4" class="lightview"><img src="../Canada-English-LCW/Flash/teaser_60x60_schneider-national.png" height="60" width="60" align="left" border="0" hspace="0" class="imgFloatLeft"></a>
                                 </p>
                                 <p xmlns="">Cliquez ici pour visionner les dernières vidéos démontrant &ndash; en action &ndash; les performances certifiées de Mobil Delvac&trade;.</p>
                             </div>

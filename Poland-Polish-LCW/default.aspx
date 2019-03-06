@@ -348,7 +348,7 @@
                                                     href="https://goo.gl/forms/l6bfQTFpP1Fquvjb2"
                                                     class="">Og&#243;lnopolskie Mistrzostwa Mechanik&#243;w</a><span></span></a>
                                         </h2>
-                                        <p>Rozwi&#261;&#380; test dla M&#322;odych Mechanik&#243;w i zr&#243;b krok w stron&#281; fina&#322;u na targach Pozna&#324; Motor Show 2019.</p>
+                                        <p>Rozwi&#261;&#380; test dla M&#322;odych Mechanik&#243;w i zr&#243;b krok <br>w stron&#281; fina&#322;u na targach Pozna&#324; Motor Show 2019.</p>
                                     </div>
                                     <div class="callpadButton">
                                         <div class="buttonBL">

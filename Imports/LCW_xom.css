@@ -932,7 +932,7 @@ images will fill box. */
 #container #mainPanel .callout .img75 { padding-top:10px; padding-right: 85px; margin:0; width:auto; }
 #container #mainPanel .callout .img80 { padding-top:10px; padding-right: 90px; margin:0; width:auto; }
 #container #mainPanel .callout .img85 { padding-top:10px; padding-right: 95px; margin:0; width:auto; }
-#container #mainPanel .callout .img90 { padding-top:10px; padding-right:103px; margin:0; width:auto; }
+#container #mainPanel .callout .img90 { padding-top:10px; padding-right:130px; margin:0; width:auto; background-size: 50%; background-position: right;}
 
 /* begin Expando feature (basic transparent) v2.0 */
 .featuretransTL { background:transparent url(LCW_Images/navigation/transBox1000.gif) no-repeat top left;   }

@@ -86,25 +86,25 @@
                         <div class="subfeature csingle cleft"><!-- googleoff: all -->
                             <script type="text/javascript">quickEditForm("0915881d813260be", "/Content/SLeftColumn/Section",true,"../forms/LCWLandingColumns","20px","820px","700px","Left Landing Page Column","","pencil.gif","");</script><!-- googleon: all --><div xmlns="" class="headerbar">
                                 <h3>
-                                    <a title="This link will open a new window." target="_blank" onclick="trackClick(this);" href="http://portal.exxonmobil.com/">DNet<span></span></a>
+                                    <a title="This link will open a new window." target="_blank" onclick="trackClick(this);" href="https://dnet.mobil.com/pl/">DNet<span></span></a>
                                 </h3>
                             </div>
                             <div xmlns="" class="padding">
-                                <div class="img60 left"><a href="http://portal.exxonmobil.com/" title="DNet" target="_blank" onclick="trackClick(this);"><img title="DNet" src="../Shared-Images-LCW/teaser_60x60_dnet-logo_gbl.jpg" longdesc="" class="floatimgleft" border="0" alt="DNet"></a></div>
+                                <div class="img60 left"><a href="https://dnet.mobil.com/pl/" title="DNet" target="_blank" onclick="trackClick(this);"><img title="DNet" src="../Shared-Images-LCW/teaser_60x60_dnet-logo_gbl.jpg" longdesc="" class="floatimgleft" border="0" alt="DNet"></a></div>
                                 <p>DNet to miejsce, w którym zarejestrowani dystrybutorzy ExxonMobil mog&#261; znale&#378;&#263; to, co jest potrzebne, aby pomy&#347;lnie prowadzi&#263; sprzeda&#380; produktów marki Exxon i Mobil.&nbsp;<br>
                                     <br>
-Kliknij, aby uzyska&#263; dost&#281;p do <a title="" target="" onclick="trackClick(this);" href="http://portal.exxonmobil.com/" class="">DNet</a>.</p>
+Kliknij, aby uzyska&#263; dost&#281;p do <a title="" target="_blank" onclick="trackClick(this);" href="https://dnet.mobil.com/pl/" class="">DNet</a>.</p>
                             </div>
                         </div>
                         <div class="subfeature csingle cright"><!-- googleoff: all -->
                             <script type="text/javascript">quickEditForm("0915881d813260be", "/Content/SRightColumn/Section",true,"../forms/LCWLandingColumns","20px","820px","700px","Right Landing Page Column","","pencil.gif","");</script><!-- googleon: all --><div xmlns="" class="headerbar">
                                 <h3>
-                                    <a title="This link will open a new window." target="_blank" onclick="trackClick(this);" href="http://www.signumoilanalysis.com/signum-english/">analiza oleju za pomoc&#261; programu Signum<span></span></a>
+                                    <a title="This link will open a new window." target="_blank" onclick="trackClick(this);" href="https://mobilserv.mobil.com/en/">analiza oleju za pomoc&#261; programu Signum<span></span></a>
                                 </h3>
                             </div>
                             <div xmlns="" class="padding">
-                                <div class="img60 left"><a href="http://www.signumoilanalysis.com/signum-english/" title="analiza oleju za pomoc&#261; programu Signum" target="_blank" onclick="trackClick(this);"><img title="Analiza oleju za pomoc&#261; programu Signum" src="../Shared-Images-LCW/teaser_60x60_signum-oil-pour_gbl.jpg" longdesc="" class="floatimgleft" border="0" alt="Analiza oleju za pomoc&#261; programu Signum"></a></div>
-                                <p>Nasze nowoczesne programy do analizy oleju &mdash; np. Signum<sup>SM&nbsp;- </sup>zapewniaj&#261; wiedz&#281; niezb&#281;dn&#261; do lepszego monitorowania w eksploatacji stanu &#347;rodków smarnych i smarowanych maszyn&nbsp; i urz&#261;dze&#324; w Waszej firmie. Kliknij, aby uzyska&#263; dost&#281;p do <a title="" target="_blank" onclick="trackClick(this);" href="http://www.signumoilanalysis.com/signum-english/" class="">analizy oleju Signum</a>. Zarejestrowani u&#380;ytkownicy mog&#261; si&#281; zalogowa&#263; <a title="" target="" onclick="trackClick(this);" href="http://portal.exxonmobil.com/" class="">tutaj.</a>
+                                <div class="img60 left"><a href="https://mobilserv.mobil.com/en/" title="analiza oleju za pomoc&#261; programu Signum" target="_blank" onclick="trackClick(this);"><img title="Analiza oleju za pomoc&#261; programu Signum" src="../Shared-Images-LCW/teaser_60x60_signum-oil-pour_gbl.jpg" longdesc="" class="floatimgleft" border="0" alt="Analiza oleju za pomoc&#261; programu Signum"></a></div>
+                                <p>Nasze nowoczesne programy do analizy oleju &mdash; np. Signum<sup>SM&nbsp;- </sup>zapewniaj&#261; wiedz&#281; niezb&#281;dn&#261; do lepszego monitorowania w eksploatacji stanu &#347;rodków smarnych i smarowanych maszyn&nbsp; i urz&#261;dze&#324; w Waszej firmie. Kliknij, aby uzyska&#263; dost&#281;p do <a title="" target="_blank" onclick="trackClick(this);" href="https://mobilserv.mobil.com/en/" class="">analizy oleju Signum</a>. Zarejestrowani u&#380;ytkownicy mog&#261; si&#281; zalogowa&#263; <a title="" target="_blank" onclick="trackClick(this);" href="https://ucld.us/Account/Login.aspx?brand=xom" class="">tutaj.</a>
                                 </p>
                             </div>
                         </div>
@@ -113,12 +113,12 @@ Kliknij, aby uzyska&#263; dost&#281;p do <a title="" target="" onclick="trackCli
                         <div class="subfeature csingle cleft">
                             <div xmlns="" class="headerbar">
                                 <h3>
-                                    <a title="This link will open a new window." target="_blank" onclick="trackClick(this);" href="http://portal.exxonmobil.com/">zarejestrowani partnerzy<span></span></a>
+                                    <a title="This link will open a new window." target="_blank" onclick="trackClick(this);" href="https://dnet.mobil.com/pl/">zarejestrowani partnerzy<span></span></a>
                                 </h3>
                             </div>
                             <div xmlns="" class="padding">
-                                <div class="img60 left"><a href="http://portal.exxonmobil.com/" title="zarejestrowani partnerzy" target="_blank" onclick="trackClick(this);"><img title="Zarejestrowani partnerzy" src="../Shared-Images-LCW/teaser_60x60_group-of-people_eame.jpg" longdesc="" class="floatimgleft" border="0" alt="Zarejestrowani partnerzy"></a></div>
-                                <p>Zarejestrowani partnerzy lub dostawcy ExxonMobil mog&#261; uzyska&#263; dost&#281;p do <a title="" target="" onclick="trackClick(this);" href="http://portal.exxonmobil.com/" class="">indywidualnie dostosowanego portalu</a>.</p>
+                                <div class="img60 left"><a href="https://dnet.mobil.com/pl/" title="zarejestrowani partnerzy" target="_blank" onclick="trackClick(this);"><img title="Zarejestrowani partnerzy" src="../Shared-Images-LCW/teaser_60x60_group-of-people_eame.jpg" longdesc="" class="floatimgleft" border="0" alt="Zarejestrowani partnerzy"></a></div>
+                                <p>Zarejestrowani partnerzy lub dostawcy ExxonMobil mog&#261; uzyska&#263; dost&#281;p do <a title="" target="_blank" onclick="trackClick(this);" href="https://dnet.mobil.com/pl/" class="">indywidualnie dostosowanego portalu</a>.</p>
                             </div>
                         </div>
                         <div class="subfeature csingle cright">

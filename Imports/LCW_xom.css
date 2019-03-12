@@ -4165,9 +4165,6 @@ input:focus[type="text"] {
     #lauguaeSelectorContainer.open{
 	    display:block;
     }
-    #slides {
-      z-index: -1;
-    }
     .header_globe_container{
 	    position: absolute;
         right: 12px;

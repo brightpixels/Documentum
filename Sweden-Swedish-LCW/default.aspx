@@ -204,7 +204,7 @@ Hitta rätt Mobil&trade;-olja för ditt fordon</p>
                                     <div class="callbluepad">
                                         <div style="background-image: url(../Egypt-English-LCW/Images/teaser_90x90_globe.png);" class="content img90">
                                             <h2>
-                                                <a title="" target="_self" onclick="trackClick(this);" href="../sweden-swedish-lcw/contactus_contact.aspx?CountryCode=SE&amp;Language=Swedish">Teknisk Helpdesk<span></span></a>
+                                                <a title="" target="_self" onclick="trackClick(this);" href="http://www.mobil.com/contact-us?lang=sv-SE">Teknisk Helpdesk<span></span></a>
                                             </h2>
                                             <p>Kontakta oss genom att fylla i formuläret, eller ring:<br>
 
@@ -220,7 +220,7 @@ Hitta rätt Mobil&trade;-olja för ditt fordon</p>
                                                 </div>
                                                 <div class="buttonBR clrfix">
                                                     <div class="bttnpad">
-                                                        <a title="" target="_self" onclick="trackClick(this);" href="../sweden-swedish-lcw/contactus_contact.aspx?CountryCode=SE&amp;Language=Swedish">Kontakta oss<span></span></a>
+                                                        <a title="" target="_self" onclick="trackClick(this);" href="http://www.mobil.com/contact-us?lang=sv-SE">Kontakta oss<span></span></a>
                                                     </div>
                                                 </div>
                                             </div>

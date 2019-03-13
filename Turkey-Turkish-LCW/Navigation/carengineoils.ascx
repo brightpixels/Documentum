@@ -41,7 +41,7 @@
                             <li>
                                 <asp:HyperLink runat="server" id="aL1_2_L2_1" NavigateUrl="/Turkey-Turkish-LCW/carengineoils_products_mobil-1.aspx">Mobil 1</asp:HyperLink>
                             </li>
-                            <asp:panel visible="false" id="L1_2_L2_1_L3_1" Runat="server">
+                            <asp:panel visible="false" id="L1_2_L2_1_L3_1" Runat="server" style="display:none;">
                                 <ul>
                                     <li class="endpoint">
                                         <asp:HyperLink runat="server" id="aL1_2_L2_1_L3_1" NavigateUrl="/Turkey-Turkish-LCW/carengineoils_products_mobil-1-esp-0w40.aspx">Mobil 1 ESP 0W-40</asp:HyperLink>

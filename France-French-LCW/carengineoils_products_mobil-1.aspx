@@ -112,10 +112,6 @@
                         <p xmlns="">
                             <a title="" target="" onclick="trackClick(this);" href="/France-French-LCW/carengineoils_products_mobil-1-esp-0w30.aspx" class=""><img src="../France-French-LCW/Images/teaser_60x60_mobil-1-ESP-0w-30.png" height="60" width="60" alt="Mobil 1 ESP 0W-30" title="Mobil 1 ESP 0W-30" align="middle" border="0" hspace="0"></a>&nbsp;<a title="" target="" onclick="trackClick(this);" href="/France-French-LCW/carengineoils_products_mobil-1-esp-0w30.aspx" class="">Mobil 1&trade; ESP 0W-30</a>
                         </p>
-
-                        <p xmlns="">
-                            <a title="" target="" onclick="trackClick(this);" href="/France-French-LCW/carengineoils_products_mobil-1-esp-0w40.aspx" class=""><img src="../Shared-Images-LCW/teaser_60x60_mobil-1-esp-0w40.png" height="60" width="60" alt="Mobil 1 ESP 0W-30" title="Mobil 1 ESP 0W-30" align="middle" border="0" hspace="0"></a>&nbsp;<a title="" target="" onclick="trackClick(this);" href="/France-French-LCW/carengineoils_products_mobil-1-esp-0w40.aspx" class="">Mobil 1&trade; ESP 0W-40</a>
-                        </p>
                     </div>
                 </div>
             </div><!--#include file="Navigation/Footer.aspx" --></div>

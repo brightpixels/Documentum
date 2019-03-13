@@ -15,7 +15,7 @@
             <a title="" target="_blank" onclick="trackClick(this);" href="https://www.exxonmobil.com/pds/?language=en" class="">Product Data Sheets</a>
         </li>
         <li>
-            <a target="_blank" onclick="trackClick(this);" href="http://www.msds.exxonmobil.com/psims/psims.aspx?brand=iol">Material Safety Data Sheets</a>
+            <a target="_blank" onclick="trackClick(this);" href="https://www.exxonmobil.com/sds">Material Safety Data Sheets</a>
         </li>
         <li>
             <a title="" target="" onclick="trackClick(this);" href="/Canada-English-LCW/where-to-buy_distributor.aspx" class="">find an Imperial Oil Distributor</a>

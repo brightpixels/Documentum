@@ -160,7 +160,7 @@
                             </li>
     
                             <li>
-                                <a title="" target="_self" onclick="trackClick(this);" href="http://www.msds.exxonmobil.com/psims/psims.aspx?brand=iol" class="">Material Safety Data Sheets</a>
+                                <a title="" target="_self" onclick="trackClick(this);" href="https://www.exxonmobil.com/sds" class="">Material Safety Data Sheets</a>
                             </li>
 
                         </ul></div><div class="lowerSection"></div></div></div>

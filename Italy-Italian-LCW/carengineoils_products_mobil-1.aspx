@@ -101,10 +101,6 @@
                         </p>
 
                         <p xmlns="">
-                            <a title="" target="_self" onclick="trackClick(this);" href="/Italy-Italian-LCW/carengineoils_products_mobil-1_esp-0w40.aspx" class=""><img src="../Shared-Images-LCW/teaser_60x60_mobil-1-esp-0w40.png" height="60" width="60" alt="Mobil 1 ESP 0W-40" title="Mobil 1 ESP 0W-40" align="middle" border="0" hspace="0">Mobil 1&trade; ESP 0W-40</a>
-                        </p>
-
-                        <p xmlns="">
                             <a title="" target="_self" onclick="trackClick(this);" href="/Italy-Italian-LCW/carengineoils_products_mobil-1_0w20.aspx" class=""><img src="../Shared-Images-LCW/teaser_60x60_mobil-1-0w20_eame.jpg" height="60" width="60" alt="Mobil 1 0W-20" title="Mobil 1 0W-20" align="middle" border="0" hspace="0">Mobil 1&trade; 0W-20</a>
                         </p>
 

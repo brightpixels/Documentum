@@ -378,7 +378,7 @@
                                     </tr>
                                     <tr>
                                         <td width="" height="" class="standard">Densité @15ºC kg/l, ASTM D 4052</td>
-                                        <td width="" height="" class="standard">Densité @15ºC kg/l, ASTM D 4052</td>
+                                        <td width="" height="" class="standard">0.851</td>
                                     </tr>
                                 </tbody>
                             </table>

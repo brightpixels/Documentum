@@ -277,9 +277,9 @@
                             class="divTabContent" id="Specs Content">
                             <p xmlns="">
                                 <strong>According to ExxonMobil, this product is of the following quality level:</strong><br>
-                                API ?CF<br>
-                                VW ?503 01<br>
-                                FIAT ?FIAT 9.55535-M2
+                                API CF<br>
+                                VW 503 01<br>
+                                FIAT FIAT 9.55535-M2
                             </p>
 
                             <p xmlns="">
@@ -287,19 +287,19 @@
                                 MB-Approval 229.3<br>
                                 MB-Approval 229.5<br>
                                 Porsche A40<br>
-                                VW ?502 00<br>
-                                VW ?505 00<br>
-                                NISSAN ?Genuine Performances
+                                VW 502 00<br>
+                                VW 505 00<br>
+                                NISSAN Genuine Performances
                             </p>
 
                             <p xmlns="">
                                 <strong>This product meets or exceeds the requirements of:</strong><br>
-                                API ?SN<br>
-                                API ?SM<br>
-                                API ?SL<br>
-                                API ?SJ<br>
-                                ACEA ?A3/B3-16<br>
-                                ACEA ?A3/B4-16
+                                API SN<br>
+                                API SM<br>
+                                API SL<br>
+                                API SJ<br>
+                                ACEA A3/B3-16<br>
+                                ACEA A3/B4-16
                             </p>
                         </div>
                         <div style="width:415px; white-space:normal; padding-top:10px;display:none "

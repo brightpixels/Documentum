@@ -21,7 +21,7 @@
             <a target="_blank" onclick="trackClick(this);" href="https://www.exxonmobil.com/pds?language=fr-FR">fiches techniques</a>
         </li>
         <li>
-            <a target="_self" onclick="trackClick(this);" href="http://www.msds.exxonmobil.com/psims/psims.aspx?language=FR&amp;brand=iol&amp;lstext=French&amp;languageselectedvalue=1">fiches signalétiques</a>
+            <a target="_self" onclick="trackClick(this);" href="https://www.exxonmobil.com/sds?language=fr-FR">fiches signalétiques</a>
         </li>
         <li>
             <a target="_new" onclick="trackClick(this);" href="https://www.mobil.com/industrial/lubricants-distributors/externallocator?culture=fr-CA&amp;renderMap=true&amp;renderButton=false">distributeurs de la Pétrolière Impériale</a>

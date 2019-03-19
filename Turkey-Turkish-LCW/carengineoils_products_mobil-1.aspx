@@ -86,10 +86,6 @@
                         </p>
 
                         <p xmlns="">
-                            <a title="" target="" onclick="trackClick(this);" href="/Turkey-Turkish-LCW/carengineoils_products_mobil-1-esp-0w40.aspx" class=""><img src="../Shared-Images-LCW/teaser_60x60_mobil-1-esp-0w40.png" height="60" width="60" alt="Mobil 1 ESP 0W-40" title="Mobil 1 ESP 0W-40" align="middle" border="0" hspace="0">Mobil 1&trade; ESP 0W-40</a>
-                        </p>
-
-                        <p xmlns="">
                             <a title="" target="" onclick="trackClick(this);" href="/Turkey-Turkish-LCW/carengineoils_products_mobil-1-esp-5w30.aspx" class=""><img src="../Shared-Images-LCW/teaser_60x60_mobil-1-esp-5w30_eame.jpg" height="60" width="60" alt="Mobil 1 ESP Formula 5W-30" title="Mobil 1 ESP Formula 5W-30" align="middle" border="0" hspace="0">Mobil 1&trade; ESP 5W-30</a>
                         </p>
 

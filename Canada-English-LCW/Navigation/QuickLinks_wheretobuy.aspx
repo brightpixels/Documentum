@@ -12,7 +12,7 @@
             <a title="" target="_blank" onclick="trackClick(this);" href="https://www.exxonmobil.com/pds/?language=en" class="">Product Data Sheets</a>
         </li>
         <li>
-            <a target="_self" onclick="trackClick(this);" href="http://www.msds.exxonmobil.com/psims/psims.aspx?brand=iol">Material Safety Data Sheets</a>
+            <a target="_self" onclick="trackClick(this);" href="https://www.exxonmobil.com/sds">Material Safety Data Sheets</a>
         </li>
         <li>
             <a target="_new" onclick="trackClick(this);" href="https://www.mobil.com/industrial/lubricants-distributors/externallocator?culture=en-CA&amp;renderMap=true&amp;renderButton=false">find an Imperial Oil Distributor</a>

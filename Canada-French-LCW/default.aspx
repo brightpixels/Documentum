@@ -169,7 +169,7 @@ Que vous soyez intéressé par <a title="" target="" onclick="trackClick(this);" h
                             </li>
     
                             <li>
-                                <a title="" target="" onclick="trackClick(this);" href="http://www.msds.exxonmobil.com/psims/psims.aspx?language=FR&amp;brand=iol&amp;lstext=French&amp;languageselectedvalue" class="">fiches signalétiques </a>
+                                <a title="" target="" onclick="trackClick(this);" href="https://www.exxonmobil.com/sds?language=fr-FR" class="">fiches signalétiques </a>
                             </li>
 
                         </ul></div><div class="lowerSection"></div></div></div>

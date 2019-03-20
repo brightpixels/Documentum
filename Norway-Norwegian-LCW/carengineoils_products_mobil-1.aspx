@@ -102,10 +102,6 @@
                         </p>
 
                         <p xmlns="">
-                            <a title="" target="" onclick="trackClick(this);" href="/Norway-Norwegian-LCW/carengineoils_products_mobil-1-fuel-economy-0w30.aspx" class=""><img src="../Shared-Images-LCW/teaser_60x60_mobil-1-fuel-economy-0w30_eame.jpg" height="60" width="60" alt="Mobil 1 Fuel Economy 0W-30" title="Mobil 1 Fuel Economy 0W-30" align="middle" border="0" hspace="0">Mobil 1&trade; Fuel Economy 0W-30</a>
-                        </p>
-
-                        <p xmlns="">
                             <a title="" target="" onclick="trackClick(this);" href="/Norway-Norwegian-LCW/carengineoils_products_mobil-1-0w20.aspx" class=""><img src="../Shared-Images-LCW/teaser_60x60_mobil-1-0w20_eame.jpg" height="60" width="60" alt="Mobil 1 0W-20" title="Mobil 1 0W-20" align="middle" border="0" hspace="0">Mobil 1&trade; 0W-20</a>
                         </p>
                     </div>

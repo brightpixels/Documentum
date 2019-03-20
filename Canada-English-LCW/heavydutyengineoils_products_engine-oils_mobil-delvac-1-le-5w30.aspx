@@ -175,19 +175,10 @@
                 <div style="float:left" id="flash"><img xmlns=""
                         src="../Canada-English-LCW/Images/MD1_ESP_5W-30_120x150px.jpg"> </div>
                 <h1>Mobil Delvac 1&trade;&nbsp;ESP 5W-30</h1>
-                <p xmlns="">
-                    <strong>Synthetic Heavy-Duty Diesel Engine Oil<br>
-
-                    </strong>Mobil Delvac 1&trade;&nbsp;ESP 5W-30 is a synthetic, heavy-duty diesel engine oil that
-                    combines advanced engine protection for modern low emissions vehicles with enhanced fuel economy
-                    potential<sup>1</sup> and other sustainability-related benefits such as engine durability, emissions
-                    system protection and extended drain capability.</p>
-
-                <p xmlns="">Mobil Delvac 1&nbsp;ESP 5W-30 utilizes state-of-the-art technology to deliver exceptional
-                    performance and is well suited for an extensive array of diesel-powered commercial vehicles for both
-                    on- and off-highway use in industries such as transportation, mining, construction and agriculture.
-                    Mobil Delvac 1&nbsp;ESP 5W-30 meets or exceeds an extremely broad range of industry and manufacturer
-                    specifications from around the world.</p>
+                <p xmlns=""><strong>High Performance Advanced Synthetic Formula Low Ash Diesel Engine Oil</strong></p>
+                <p>
+                    Mobil Delvac 1&trade;&nbsp;ESP 5W-30 is an advanced synthetic heavy duty diesel engine oil for long and reliable service. The development of this product summarizes more than 90 years of ExxonMobil's research and development knowledge. The goal was to define a product that addresses all features required with modern on-highway truck applications, including those with emission control systems.<sup>1</sup> This top performance product offers unsurpassed oxidation stability<sup>3</sup> which results in engine cleanliness promoting efficient and smooth engine operation. The robustness of Mobil Delvac 1&trade;&nbsp;ESP 5W-30 meets or exceeds the longest oil drain intervals defined by major global manufacturers, offering protection during extended oil drains up to 100,000 miles<sup>1</sup>. It was also developed and tested to protect the engine with the use of biofuel components to consider different diesel fuel qualities and future, sustainability related fuel components. The advanced lubricant formulation helps to gain fuel economy benefits in modern engine applications<sup>2</sup>. The outstanding wear protection performance of Mobil Delvac 1 ESP 5W-30 is the result of extensive and close cooperative development work of ExxonMobil with major equipment builders. As a result, this product meets or exceeds the requirements of the latest API and ACEA industry specifications for diesel engine oils, as well as the requirements of many major American, and European engine manufacturers.
+                </p>    
             </div>
             <table style="width: 454px   " id="tblTabs" cellspacing="0px" cellpadding="0" border="0">
                 <tr id="tabNav">
@@ -287,7 +278,7 @@
 
                             </ul>
 
-                            <p xmlns=""><sup>1</sup> Please refer to the owners handbook for OEM application requirements and oil drain intervals for your vehicle or equipment.2 Compared to an SAE 15W-40 engine oil. Actual savings are dependent on vehicle engine type, outside temperature, driving conditions, and your current engine oil viscosity.3 Based on PC-11 industry test data.</p>
+                            <p xmlns=""><sup>1</sup> Please refer to the owners handbook for OEM application requirements and oil drain intervals for your vehicle or equipment.<sup>2</sup> Compared to an SAE 15W-40 engine oil. Actual savings are dependent on vehicle engine type, outside temperature, driving conditions, and your current engine oil viscosity.<sup>3</sup> Based on PC-11 industry test data.</p>
                         </div>
                         <div style="width:415px; white-space:normal; padding-top:10px;display:none "
                             class="divTabContent" id="Specs Content">

@@ -71,7 +71,7 @@
                                         <asp:HyperLink runat="server" id="aL1_2_L2_1_L3_5" NavigateUrl="/Benelux-Dutch-LCW/carengineoils_products_mobil-1-x1-5w-30.aspx">Mobil 1 X1 5W-30</asp:HyperLink>
                                     </li>
                                 </ul><% Response.Write((aL1_2_L2_1_L3_5.CssClass == "selected") ? "<script type=\"text/javascript\">addFallback(3,\"carengineoils_products_mobil-1-x1-5w-30.aspx\")</script>" : ""); %></asp:panel>
-                            <asp:panel visible="false" id="L1_2_L2_1_L3_6" Runat="server">
+                            <asp:panel visible="false" id="L1_2_L2_1_L3_6" Runat="server" style="display:none;">
                                 <ul>
                                     <li class="endpoint">
                                         <asp:HyperLink runat="server" id="aL1_2_L2_1_L3_6" NavigateUrl="/Benelux-Dutch-LCW/carengineoils_products_mobil-1-extended-life-10w60.aspx">Mobil 1 Extended Life 10W-60</asp:HyperLink>

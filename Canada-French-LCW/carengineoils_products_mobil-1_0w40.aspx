@@ -139,7 +139,7 @@
                     <script type="text/javascript">quickEditForm('0915881d8144a241', '/Content',false,'../forms/LCWProductDetails','','825px','750px','Product Detail Overview','','pencil.gif','200px');</script><!-- googleon: all -->
                     <div id="topSec">
                         <div style="float:left" id="flash"> </div>
-                        <h1>Mobil 1&trade;&nbsp;FS 0W-40</h1>
+                        <h1>Mobil 1&trade;&nbsp; FS 0W-40</h1>
                         <p xmlns="" align="left">
                             <a title="" target="" onclick="trackClick(this);" href="/Canada-English-LCW/Images/product_640x800_mobil-1-0w-40.jpg" class="lightview"><img src="../Canada-French-LCW/Images/product_120x150_mobil-1-0w40.jpg" height="150" width="120" alt="Mobil 1 0W-40" title="Mobil 1 0W-40" align="left" border="15" hspace="5"></a>
                         </p>

@@ -166,8 +166,7 @@ MB-Approval 229.1<br>
 MB-Approval 229.3<br>
 VW 502 00/505 00<br>
 PORSCHE A40<br>
-Nissan Genuine Perfomances<br>
-AUTOVAZ (LADA&nbsp;Cars) Approved</p>
+Nissan Genuine Perfomances</p>
 
                                     <p xmlns="">
                                         <strong>According to ExxonMobil, Mobil 1 FS 0W-40 is of the following quality:</strong>

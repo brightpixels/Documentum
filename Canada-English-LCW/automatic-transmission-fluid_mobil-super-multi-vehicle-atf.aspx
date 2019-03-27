@@ -150,135 +150,353 @@
 Mobil Multi-Vehicle ATF is a premium synthetic blend lubricant formulated for use in a wide variety of North American, European and Asian vehicles.<br>
 &nbsp;</p>
                     </div>
-                    <table style="width: 454px   " id="tblTabs" cellspacing="0px" cellpadding="0" border="0">
-                        <tr id="tabNav">
-                            <td style="height:1px; padding-bottom:-10px; " colspan="5"><!-- googleoff: all -->
-                                <script type="text/javascript">quickEditForm('0915881d81715117', '/Content/Tabs',true,'../forms/LCWProductDetailsTabs','','790px','775px','Product Detail Tabs','','pencil.gif','220px');</script><!-- googleon: all -->
-                                <div style="z-index:100; " id="divTabs">
-                                    <ul>
-                                        <li onmouseover="if(this.className!='current')this.className='highlight';" onmouseout="if(this.className!='current')this.className=''" class="current" id="Features &amp; Benefits">
-                                            <a href="#" onclick="javascript:showTab('Features &amp; Benefits');">Features &amp; Benefits</a>
-                                        </li>
-                                        <li onmouseover="if(this.className!='current')this.className='highlight'" onmouseout="if(this.className!='current')this.className=''" id="Applications">
-                                            <a href="#" onclick="javascript:showTab('Applications');">Applications</a>
-                                        </li>
-                                        <li onmouseover="if(this.className!='current')this.className='highlight'" onmouseout="if(this.className!='current')this.className=''" id="Specs">
-                                            <a href="#" onclick="javascript:showTab('Specs');">Specs</a>
-                                        </li>
-                                        <li onmouseover="if(this.className!='current')this.className='highlight'" onmouseout="if(this.className!='current')this.className=''" id="Tech Details">
-                                            <a href="#" onclick="javascript:showTab('Tech Details');">Tech Details</a>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </td>
-                        </tr>
-                        <tr id="trTabContent">
-                            <td valign="top" style="width: 10px; background-image:url('/Images/Tabs/box_Left.png'); background-repeat: repeat-y; background-color: #ffffff;">
-                                <img src="/Images/Tabs/box_LeftUpper.png" class="leftUpperImg" alt=""/>
-                            </td>
-                            <td valign="top" style="width: 435px; background-image:url('/Images/Tabs/boxNoFade_Upper.png'); background-repeat: repeat-x; background-color: #ffffff;" class="midBorder">
-                                <div style="width:434px; white-space:normal; padding-top:10px;display:block " class="divTabContent" id="Features &amp; Benefits Content">
-                                    <p xmlns="">
-                                        <strong>Advantages offered by Mobil Multi-Vehicle ATF over transmission fluids of lower quality are:</strong>
-                                    </p>
-
-                                    <ul xmlns="">
-    
-                                        <li>Long fluid life and long transmission life</li>
-    
-                                        <li>Exceptional oxidation stability and resistance to chemical deterioration</li>
-    
-                                        <li>Excellent flow properties at low start-up temperatures and high operating temperatures</li>
-    
-                                        <li>Excellent lubricating characteristics for quiet operation, smooth shifting, and excellent wear protection</li>
-    
-                                        <li>Excellent viscosity stability (high viscosity index) to help assure adequate lubrication without excessive thinning in severe high-temperature service or thickening at low starting temperatures</li>
-    
-                                        <li>Dependable protection against rust and corrosion</li>
-
-                                    </ul>
-                                </div>
-                                <div style="width:415px; white-space:normal; padding-top:10px;display:none " class="divTabContent" id="Applications Content">
-                                    <ul xmlns="">
-    
-                                        <li>Mobil Multi-Vehicle ATF is recommended by Imperial Oil for use in applications requiring Ford MERCON V, Allison C-4, MERCON , GM DEXRON, DEXRON IIIH, DEXRON IIIG, DEXRON IIE, DEXRON IID, DEXRON II, JASO 1-A, and Volvo 97340 / 97341.</li>
-    
-                                        <li>Mobil Multi-Vehicle ATF is not recommended for applications requiring Ford MERCON LV, MERCON SP, or GM DEXRON VI</li>
-    
-                                        <li>Always check your owner&rsquo;s manual for the required type of ATF</li>
-    
-                                        <li>Good maintenance practice dictates that automatic transmissions be checked for proper fluid levels at regular intervals, and that the fluid be drained and replaced at intervals recommended by the manufacturer. Some manufacturers recommend more frequent changes of transmission fluid under severe driving conditions such as those that occur in heavy traffic, in hot weather, or when pulling a trailer.</li>
-
-                                    </ul>
-                                </div>
-                                <div style="width:415px; white-space:normal; padding-top:10px;display:none " class="divTabContent" id="Specs Content">
-                                    <p xmlns="">
-                                        <strong>Mobil Multi-Vehicle ATF meets or exceeds the requirements of:&nbsp;&nbsp;<br>
-
-                                        </strong>Voith H55.6335.3X <br>
-MAN 339 V1</p>
-
-                                    <p xmlns="">
-                                        <strong>According to Imperial Oil , Mobil Multi-Vehicle ATF is of the following quality level:&nbsp;&nbsp; <br>
-
-                                        </strong>Allison C4 <br>
-Ford MERCON<br>
-GM DEXRON IIIH <br>
-GM DEXRON IIIG <br>
-GM DEXRON IIE<br>
-GM DEXRON IID <br>
-GM DEXRON II <br>
-GM DEXRON <br>
-JASO 1-A <br>
-Volvo 97340 <br>
-Volvo 97341</p>
-                                </div>
-                                <div style="width:415px; white-space:normal; padding-top:10px;display:none " class="divTabContent" id="Tech Details Content">
-                                    <table xmlns="" width="100%" summary="" class="standard" cellspacing="0" border="0">
-                                        <thead>
-                                            <tr>
-                                                <th width="" scope="col" height="" class="standard">Mobil Super Multi-Vehicle ATF</th><th width="" scope="col" height="" class="standard">Value</th>
-                                            </tr>
-                                        </thead><tbody><tr>
-                                            <td width="" height="" class="standard">Viscosity&nbsp;&nbsp;</td><td width="" height="" class="standard">&nbsp;</td>
-                                        </tr>
-                                        <tr>
-                                            <td width="" height="" class="standard">cSt @ 40ºC</td><td width="" height="" class="standard">34.1</td>
-                                        </tr>
-                                        <tr>
-                                            <td width="" height="" class="standard">cSt @ 100ºC</td><td width="" height="" class="standard">7.42</td>
-                                        </tr>
-                                        <tr>
-                                            <td width="" height="" class="standard">cP @ -40ºC</td><td width="" height="" class="standard">9260</td>
-                                        </tr>
-                                        <tr>
-                                            <td width="" height="" class="standard">Viscosity Index</td><td width="" height="" class="standard">193</td>
-                                        </tr>
-                                        <tr>
-                                            <td width="" height="" class="standard">Flash Point, ºC (ºF)</td><td width="" height="" class="standard">180 (356)</td>
-                                        </tr>
-                                        <tr>
-                                            <td width="" height="" class="standard">Gravity, API</td><td width="" height="" class="standard">34.7</td>
-                                        </tr>
-                                        <tr>
-                                            <td width="" height="" class="standard">Color</td><td width="" height="" class="standard">Red</td>
-                                        </tr></tbody></table>
-                                </div>
-                            </td>
-                            <td valign="top" style="width: 10px; background-image:url('/Images/Tabs/box_Right.png'); background-repeat: repeat-y; background-color: #ffffff;" class="rightBorder">
-                                <img src="/Images/Tabs/boxNoFade_RightUpper.png" alt=""/>
-                            </td>
-                        </tr>
-                        <tr id="tabsLower">
-                            <td valign="top" style="width: 10px; height: 10px;" id="tabsLowerLeft">
-                                <img src="/Images/Tabs/box_LeftLower.png" alt=""/>
-                            </td>
-                            <td valign="top" style="width: 435px; background-image:url('/Images/Tabs/box_Lower.png'); background-repeat: repeat-x;" id="tabsLowerMiddle"> </td>
-                            <td valign="top" style="width: 10px; height: 10px;" id="tabsLowerRight">
-                                <img src="/Images/Tabs/box_RightLower.png" alt=""/>
-                            </td>
-                        </tr>
-                    </table>
+                    <table
+                    style="width: 454px   "
+                    id="tblTabs"
+                    cellspacing="0px"
+                    cellpadding="0"
+                    border="0"
+                  >
+                    <tr id="tabNav">
+                      <td style="height:1px; padding-bottom:-10px; " colspan="5">
+                        <!-- googleoff: all -->
+                        <script type="text/javascript">
+                          quickEditForm(
+                            "0915881d81715117",
+                            "/Content/Tabs",
+                            true,
+                            "../forms/LCWProductDetailsTabs",
+                            "",
+                            "790px",
+                            "775px",
+                            "Product Detail Tabs",
+                            "",
+                            "pencil.gif",
+                            "220px"
+                          );
+                        </script>
+                        <!-- googleon: all -->
+                        <div style="z-index:100; " id="divTabs">
+                          <ul>
+                            <li
+                              onmouseover="if(this.className!='current')this.className='highlight';"
+                              onmouseout="if(this.className!='current')this.className=''"
+                              class="current"
+                              id="Features &amp; Benefits"
+                            >
+                              <a
+                                href="#"
+                                onclick="javascript:showTab('Features &amp; Benefits');"
+                                >Features &amp; Benefits</a
+                              >
+                            </li>
+                            <li
+                              onmouseover="if(this.className!='current')this.className='highlight'"
+                              onmouseout="if(this.className!='current')this.className=''"
+                              id="Applications"
+                            >
+                              <a href="#" onclick="javascript:showTab('Applications');"
+                                >Applications</a
+                              >
+                            </li>
+                            <li
+                              onmouseover="if(this.className!='current')this.className='highlight'"
+                              onmouseout="if(this.className!='current')this.className=''"
+                              id="Specs"
+                            >
+                              <a href="#" onclick="javascript:showTab('Specs');">Specs</a>
+                            </li>
+                            <li
+                              onmouseover="if(this.className!='current')this.className='highlight'"
+                              onmouseout="if(this.className!='current')this.className=''"
+                              id="Tech Details"
+                            >
+                              <a href="#" onclick="javascript:showTab('Tech Details');"
+                                >Tech Details</a
+                              >
+                            </li>
+                          </ul>
+                        </div>
+                      </td>
+                    </tr>
+                    <tr id="trTabContent">
+                      <td
+                        valign="top"
+                        style="width: 10px; background-image:url('/Images/Tabs/box_Left.png'); background-repeat: repeat-y; background-color: #ffffff;"
+                      >
+                        <img
+                          src="/Images/Tabs/box_LeftUpper.png"
+                          class="leftUpperImg"
+                          alt=""
+                        />
+                      </td>
+                      <td
+                        valign="top"
+                        style="width: 435px; background-image:url('/Images/Tabs/boxNoFade_Upper.png'); background-repeat: repeat-x; background-color: #ffffff;"
+                        class="midBorder"
+                      >
+                        <div
+                          style="width:434px; white-space:normal; padding-top:10px;display:block "
+                          class="divTabContent"
+                          id="Features &amp; Benefits Content"
+                        >
+                          <p xmlns="">
+                            <strong
+                              >Advantages offered by Mobil Multi-Vehicle ATF over
+                              transmission fluids of lower quality are:</strong
+                            >
+                          </p>
+          
+                          <ul xmlns="">
+                            <li>Long fluid life and long transmission life</li>
+          
+                            <li>
+                              Exceptional oxidation stability and resistance to chemical
+                              deterioration
+                            </li>
+          
+                            <li>
+                              Excellent flow properties at low start-up temperatures and
+                              high operating temperatures
+                            </li>
+          
+                            <li>
+                              Excellent lubricating characteristics for quiet operation,
+                              smooth shifting, and excellent wear protection
+                            </li>
+          
+                            <li>
+                              Excellent viscosity stability (high viscosity index) to help
+                              assure adequate lubrication without excessive thinning in
+                              severe high-temperature service or thickening at low
+                              starting temperatures
+                            </li>
+          
+                            <li>Dependable protection against rust and corrosion</li>
+                          </ul>
+                        </div>
+                        <div
+                          style="width:415px; white-space:normal; padding-top:10px;display:none "
+                          class="divTabContent"
+                          id="Applications Content"
+                        >
+                          <p>
+                            Mobil Multi-Vehicle ATF is a synthetic-blend automatic
+                            transmission fluid designed to meet the needs of a broad range
+                            of transmission designs and power steering applications. Mobil
+                            Multi-Vehicle ATF is not recommended for use in CVT or DCT
+                            transmissions.Mobil Multi-Vehicle ATF is a synthetic-blend
+                            automatic transmission fluid designed to meet the needs of a
+                            broad range of transmission designs and power steering
+                            applications. Mobil Multi-Vehicle ATF is not recommended for
+                            use in CVT or DCT transmissions.
+                          </p>
+                          <p>
+                            Good maintenance practice dictates that automatic
+                            transmissions be checked for proper fluid levels at regular
+                            intervals, and that the fluid be drained and replaced at
+                            intervals recommended by the manufacturer. Some manufacturers
+                            recommend more frequent changes of transmission fluid under
+                            severe driving conditions such as those that occur in heavy
+                            traffic, in hot weather, or when pulling a trailer.
+                          </p>
+                          <p>
+                            Recommended by Imperial Oil for use in applications requiring
+                            Dexron III, Allison C-4, Ford Mercon and Mercon V.
+                          </p>
+                          <p>
+                            Mobil Multi-Vehicle ATF is recommended by Imperial Oil as
+                            suitable for use in many automatic transmission applications,
+                            power steering applications, and vehicle manufacturers
+                            including:
+                          </p>
+                          <ul xmlns="">
+                            <li>Aisin Warner transmissions: JWS 3309; JWS 3324; AW-1</li>
+                            <li>
+                              Audi/VW: G 052 162; G 052 990; G 055 025; G 055 005; G 055
+                              162; G 055 540
+                            </li>
+                            <li>BMW: 7045E (3 Series); 5 Series; LA 2634; LT 71141</li>
+                            <li>
+                              Chrysler: ATF+2; ATF+3; ATF+4; MOPAR AS68RC; MS-1872;
+                              MS-5931; MS-9602; MS-10838
+                            </li>
+                            <li>
+                              Ford: Mercon LV; WSS-M2C924-A; WSS-M2C138; WSS-M2C922;
+                              WSS-M2C195-A; XL-12 Transfer Case
+                            </li>
+                            <li>
+                              GM: T-IV; ATF Saturn T-IV; AW-1; WS-ATF; GM Auto-Trak II
+                              Transfer Case
+                            </li>
+                            <li>Honda: ATF-Z1, ATF DW-1</li>
+                            <li>
+                              Hyundai/Kia: SP- II; SP III; SP-IV M;SP-IV; SP-IV-RR;
+                              SPH-IV; NWS 9638; Kia Red-1; JWS 3314; JWS 3317; PSF-3;
+                              PSF-4
+                            </li>
+                            <li>Isuzu: SCS</li>
+                            <li>Mazda: ATF-M III; ATF-MV</li>
+                            <li>
+                              Mitsubishi: SP-II; SP-III; SP-IV; DiaQueen ATF J3; DiaQueen
+                              ATF-PA; DiaQueen ATF J2; PS Fluid, Diamond SP III
+                            </li>
+                            <li>
+                              Nissan: Matic D; Matic J; Matic K; Matic S; Matic W; PSF-II;
+                              Nissan 402
+                            </li>
+                            <li>Subaru: Subaru ATF; Subaru ATF-HP</li>
+                            <li>
+                              Toyota: T; T-I; T-II; T-III; WS (JWS 3324); PSF Type EH
+                            </li>
+                            <li>Voith transmissions: H55.6335; H55.6336</li>
+                          </ul>
+                          <p>
+                            Always check your owner's manual and/or warranty for the
+                            required or approved type of ATF, as applicable.
+                          </p>
+                          <p>
+                            Mobil Multi-Vehicle ATF recommendations are based on a
+                            combination of independent field and laboratory testing.
+                            Imperial Oil recommends Mobil Multi-Vehicle ATF in a broad
+                            range of transmissions. The list of manufacturers and
+                            specifications above is just a sample of applications where
+                            Imperial Oil supports the use of Mobil Multi-Vehicle ATF. It
+                            is important to note that the respective vehicle manufacturers
+                            have neither evaluated nor approved Mobil Multi-Vehicle ATF in
+                            the applications identified in this document.
+                          </p>
+                        </div>
+                        <div
+                          style="width:415px; white-space:normal; padding-top:10px;display:none "
+                          class="divTabContent"
+                          id="Specs Content"
+                        >
+                          <p xmlns="">
+                            <strong>
+                              Mobil Multi-Vehicle ATF meets or exceeds the requirements
+                              of:&nbsp;&nbsp;<br />
+                            </strong>
+                            Ford MERCON V <br />
+                            MAN 339 V1
+                          </p>
+          
+                          <p xmlns="">
+                            <strong>
+                              According to Imperial Oil , Mobil Multi-Vehicle ATF is of
+                              the following quality level:&nbsp;&nbsp; <br />
+                            </strong>
+                            Allison C4 <br />
+                            Ford MERCON<br />
+                            GM DEXRON IIIH <br />
+                            GM DEXRON IIIG <br />
+                            GM DEXRON IIE<br />
+                            GM DEXRON IID <br />
+                            GM DEXRON II <br />
+                            GM DEXRON <br />
+                            JASO 1-A <br />
+                            Volvo 97340 <br />
+                            Volvo 97341
+                          </p>
+                        </div>
+                        <div
+                          style="width:415px; white-space:normal; padding-top:10px;display:none "
+                          class="divTabContent"
+                          id="Tech Details Content"
+                        >
+                          <table
+                            xmlns=""
+                            width="100%"
+                            summary=""
+                            class="standard"
+                            cellspacing="0"
+                            border="0"
+                          >
+                            <thead>
+                              <tr>
+                                <th width="" scope="col" height="" class="standard">
+                                  Property
+                                </th>
+                                <th width="" scope="col" height="" class="standard">
+                                  &nbsp;
+                                </th>
+                              </tr>
+                            </thead>
+                            <tbody>
+                              <tr>
+                                <td width="" height="" class="standard">
+                                  Brookfield Viscosity @ -40 C, mPa.s, ASTM D2983
+                                </td>
+                                <td width="" height="" class="standard">9260</td>
+                              </tr>
+                              <tr>
+                                <td width="" height="" class="standard">Color, Visual</td>
+                                <td width="" height="" class="standard">Red</td>
+                              </tr>
+                              <tr>
+                                <td width="" height="" class="standard">
+                                  Density @ 15.6 C, g/ml, ASTM D4052
+                                </td>
+                                <td width="" height="" class="standard">0.851</td>
+                              </tr>
+                              <tr>
+                                <td width="" height="" class="standard">
+                                  Flash Point, Cleveland Open Cup, °C, ASTM D92
+                                </td>
+                                <td width="" height="" class="standard">180 (356)</td>
+                              </tr>
+                              <tr>
+                                <td width="" height="" class="standard">
+                                  Kinematic Viscosity @ 100 C, mm2/s, ASTM D445
+                                </td>
+                                <td width="" height="" class="standard">7.42</td>
+                              </tr>
+                              <tr>
+                                <td width="" height="" class="standard">
+                                  Kinematic Viscosity @ 40 C, mm2/s, ASTM D445
+                                </td>
+                                <td width="" height="" class="standard">34.1</td>
+                              </tr>
+                              <tr>
+                                <td width="" height="" class="standard">
+                                  Viscosity Index, ASTM D2270
+                                </td>
+                                <td width="" height="" class="standard">193</td>
+                              </tr>
+                            </tbody>
+                          </table>
+                        </div>
+                      </td>
+                      <td
+                        valign="top"
+                        style="width: 10px; background-image:url('/Images/Tabs/box_Right.png'); background-repeat: repeat-y; background-color: #ffffff;"
+                        class="rightBorder"
+                      >
+                        <img src="/Images/Tabs/boxNoFade_RightUpper.png" alt="" />
+                      </td>
+                    </tr>
+                    <tr id="tabsLower">
+                      <td
+                        valign="top"
+                        style="width: 10px; height: 10px;"
+                        id="tabsLowerLeft"
+                      >
+                        <img src="/Images/Tabs/box_LeftLower.png" alt="" />
+                      </td>
+                      <td
+                        valign="top"
+                        style="width: 435px; background-image:url('/Images/Tabs/box_Lower.png'); background-repeat: repeat-x;"
+                        id="tabsLowerMiddle"
+                      ></td>
+                      <td
+                        valign="top"
+                        style="width: 10px; height: 10px;"
+                        id="tabsLowerRight"
+                      >
+                        <img src="/Images/Tabs/box_RightLower.png" alt="" />
+                      </td>
+                    </tr>
+                  </table>
                 </div>
             </div>
             <div style="clear:both;width:100%;position:relative;"><!--#include file="Navigation/Footer.aspx" --></div>

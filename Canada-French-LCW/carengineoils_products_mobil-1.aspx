@@ -85,8 +85,8 @@
                     <div class="mc2column">
                         <div class="itemgroup clrfix">
                             <div class="item left">
-                                <a xmlns="" target="_self" onclick="trackClick(this);" href="../Canada-French-LCW/carengineoils_products_mobil-1_0w40.aspx"><img width="60" title="Mobil 1 0W-40" src="../Canada-french-LCW/Images/teaser_60x60_mobil-1-0w40.jpg" longdesc="" height="60" border="0" alt="Mobil 1 0W-40"></a>
-                                <h3><a xmlns="" title="" target="_self" onclick="trackClick(this);" href="../Canada-French-LCW/carengineoils_products_mobil-1_0w40.aspx">Mobil 1&trade; 0W-40<span></span></a>
+                                <a xmlns="" target="_self" onclick="trackClick(this);" href="../Canada-French-LCW/carengineoils_products_mobil-1_0w40.aspx"><img width="60" title="Mobil 1 FS 0W-40" src="../Canada-french-LCW/Images/teaser_60x60_mobil-1-0w40.jpg" longdesc="" height="60" border="0" alt="Mobil 1 FS 0W-40"></a>
+                                <h3><a xmlns="" title="" target="_self" onclick="trackClick(this);" href="../Canada-French-LCW/carengineoils_products_mobil-1_0w40.aspx">Mobil 1&trade; FS 0W-40<span></span></a>
                                 </h3>
                             </div>
                             <div class="item right"><a xmlns="" target="_self" onclick="trackClick(this);" href="../Canada-French-LCW/carengineoils_products_mobil-1_5w20.aspx"><img width="60" title="" src="../Canada-french-LCW/Images/teaser_60x60_mobil-1-5w20.jpg" longdesc="" height="60" border="0" alt="Mobil 1 5W-20"></a>

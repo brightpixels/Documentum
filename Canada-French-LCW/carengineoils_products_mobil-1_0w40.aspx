@@ -177,135 +177,257 @@
                             </td>
                             <td valign="top" style="width: 435px; background-image:url('/Images/Tabs/boxNoFade_Upper.png'); background-repeat: repeat-x; background-color: #ffffff;" class="midBorder">
                                 <div style="width:434px; white-space:normal; padding-top:10px;display:block " class="divTabContent" id="Vue D'ensemble Content">
-                                    <p xmlns="">L'huile Mobil 1 0W-40 est fabriquée à partir d&rsquo;un mélange breveté d&rsquo;huiles de base synthétiques haute performance, auquel on a ajouté une combinaison de composantes parfaitement équilibrée. La vaste plage de viscosité de l'huile Mobil 1 0W-40 permet d'offrir des niveaux inégalés de protection. Mobil 1 0W-40 aide à assurer une excellente protection du moteur aussi bien à basse qu'à haute température. M1 0W-40 contribue à une plus grande propreté du moteur en minimisant les dépôts, les boues et les vernis qui se forment souvent aux hautes températures d'exploitation. Elle satisfait ou dépasse les exigences des normes de l'industrie et des grands constructeurs. Ses états de service sont à la base du rendement de réserve qui permet à Mobil 1 0W-40 d'avoir une excellente tenue là où l'huile ordinaire ne suffit pas à la tâche. Principales caractéristiques et avantages potentiels:</p>
-
-                                    <table xmlns="" width="100%" summary="" class="standard" cellspacing="0" border="0">
-                                        <thead>
-                                            <tr>
-                                                <th width="" scope="col" height="" class="standard">Caractéristiques</th><th width="" scope="col" height="" class="standard">Avantages et améliorations potentielles</th>
-                                            </tr>
-                                        </thead><tbody><tr>
-                                            <td width="" height="" class="standard">Agents nettoyants actifs</td><td width="" height="" class="standard">Contrôle des dépôts et de l'accumulation de boues qui maintient le moteur propre et en prolonge la durée de vie</td>
+                                    <p xmlns="">L'huile Mobil 1 FS 0W-40 est formulée à partir d'un mélange propriétaire d'huiles de base synthétiques à très haute performance, renforcé d'un système de composants précisément équilibrés.</p>
+                                    <table style="width: 454px" id="tblTabs" cellspacing="0px" cellpadding="0" border="0">
+                                        <tr id="tabNav">
+                                          <td style="height:1px; padding-bottom:-10px; " colspan="5">
+                                            <!-- googleoff: all -->
+                                            <script type="text/javascript">
+                                              quickEditForm(
+                                                '0915881d8144a241',
+                                                '/Content/Tabs',
+                                                true,
+                                                '../forms/LCWProductDetailsTabs',
+                                                '',
+                                                '790px',
+                                                '775px',
+                                                'Product Detail Tabs',
+                                                '',
+                                                'pencil.gif',
+                                                '220px',
+                                              );
+                                            </script>
+                                            <!-- googleon: all -->
+                                            <div style="z-index:100; " id="divTabs">
+                                              <ul>
+                                                <li
+                                                  onmouseover="if(this.className!='current')this.className='highlight';"
+                                                  onmouseout="if(this.className!='current')this.className=''"
+                                                  class="current"
+                                                  id="Vue D'ensemble"
+                                                >
+                                                  <a href="#" onclick="javascript:showTab('Vue D\'ensemble');">Vue D'ensemble</a>
+                                                </li>
+                                                <li
+                                                  onmouseover="if(this.className!='current')this.className='highlight'"
+                                                  onmouseout="if(this.className!='current')this.className=''"
+                                                  id="Applications"
+                                                >
+                                                  <a href="#" onclick="javascript:showTab('Applications');">Applications</a>
+                                                </li>
+                                                <li
+                                                  onmouseover="if(this.className!='current')this.className='highlight'"
+                                                  onmouseout="if(this.className!='current')this.className=''"
+                                                  id="Spécs"
+                                                >
+                                                  <a href="#" onclick="javascript:showTab('Spécs');">Spécs</a>
+                                                </li>
+                                                <li
+                                                  onmouseover="if(this.className!='current')this.className='highlight'"
+                                                  onmouseout="if(this.className!='current')this.className=''"
+                                                  id="Caractéristiques"
+                                                >
+                                                  <a href="#" onclick="javascript:showTab('Caractéristiques');">Caractéristiques</a>
+                                                </li>
+                                              </ul>
+                                            </div>
+                                          </td>
                                         </tr>
-                                        <tr>
-                                            <td width="" height="" class="standard">Résistance remarquable à la chaleur et à l'oxydation</td><td width="" height="" class="standard">Longue durée de vie de l'huile assurant une protection sur des intervalles étendus entre vidanges</td>
+                                        <tr id="trTabContent">
+                                          <td
+                                            valign="top"
+                                            style="width: 10px; background-image:url('/Images/Tabs/box_Left.png'); background-repeat: repeat-y; background-color: #ffffff;"
+                                          >
+                                            <img src="/Images/Tabs/box_LeftUpper.png" class="leftUpperImg" alt="" />
+                                          </td>
+                                          <td
+                                            valign="top"
+                                            style="width: 435px; background-image:url('/Images/Tabs/boxNoFade_Upper.png'); background-repeat: repeat-x; background-color: #ffffff;"
+                                            class="midBorder"
+                                          >
+                                            <div style="width:434px; white-space:normal; padding-top:10px;display:block " class="divTabContent" id="Vue D'ensemble Content">
+                                              <p xmlns="">
+                                                L'huile Mobil 1 FS 0W-40 est formulée à partir d'un mélange propriétaire d'huiles de base synthétiques à très haute performance,
+                                                renforcé d'un système de composants précisément équilibrés.
+                                              </p>
+                                              <ul>
+                                                <li>
+                                                  Respecte la plupart des spécifications des équipementiers et de l'industrie
+                                                </li>
+                                                <li>Offre un excellent rendement général</li>
+                                                <li>
+                                                  Présente d'excellentes caractéristiques à basse température pour protéger rapidement le moteur au démarrage
+                                                </li>
+                                                <li>
+                                                  Offre une protection insurpassée, réduisant l'usure du moteur et la formation de dépôts, même dans les conditions de conduite les
+                                                  plus difficiles
+                                                </li>
+                                                <li>
+                                                  Pouvoir nettoyant exceptionnel pour les moteurs encrassés
+                                                </li>
+                                              </ul>
+                                            </div>
+                                            <div style="width:415px; white-space:normal; padding-top:10px;display:none " class="divTabContent" id="Applications Content">
+                                              <p xmlns="">
+                                                Grâce à une collaboration approfondie de mise au point avec les principaux fabricants et à l'utilisation de la plus récente
+                                                technologie de lubrification, l'huile Mobil 1 FS 0W-40 est recommandée pour de nombreux types de véhicules modernes, auxquels elle
+                                                offrira un rendement inégalé, même dans les conditions de conduite les plus difficiles.
+                                              </p>
+                              
+                                              <ul xmlns="">
+                                                <li>
+                                                  Plus récentes technologies de moteur, dont les turbocompresseurs, l'injection directe et le diesel (sans filtre à particules) et
+                                                  les moteurs hybrides
+                                                </li>
+                              
+                                                <li>
+                                                  Moteurs de haute performance
+                                                </li>
+                                                <li>
+                                                  Convient à la plupart des conditions d'utilisation, de clémentes à extrêmes
+                                                </li>
+                                              </ul>
+                                              <p>
+                                                Consultez toujours votre manuel d'utilisation pour vérifier le grade de viscosité et le niveau de performance recommandés pour votre
+                                                véhicule.
+                                              </p>
+                                            </div>
+                                            <div style="width:415px; white-space:normal; padding-top:10px;display:none " class="divTabContent" id="Spécs Content">
+                                              <p xmlns="">
+                                                <strong>L'huile Mobil 1 FS 0W-40 respecte ou surpasse les exigences des spécifications:</strong>
+                                                <br />
+                                                API SN, SM, SL, SJ
+                                                <br />
+                                                ACEA A3/B3, A3/B4
+                                              </p>
+                              
+                                              <p xmlns="">
+                                                <strong>L'huile Mobil 1 FS 0W-40 a reçu les homologations d'équipementiers suivantes: </strong>
+                                                <br />
+                                                MB-Approval 229.3
+                                                <br />
+                                                MB-Approval 229.5
+                                                <br />
+                                                VW 502 00/505 00
+                                                <br />
+                                                PORSCHE A40
+                                                <br />
+                                                Nissan Genuine Performances
+                                              </p>
+                              
+                                              <p xmlns="">
+                                                <strong>
+                                                  Selon ExxonMobil, l'huile Mobil 1 FS 0W-40 atteint les niveaux de qualité suivants:
+                                                  <br />
+                                                </strong>
+                                                API CF
+                                                <br />
+                                                VW 503 01 / 505 00
+                                                <br />
+                                                FIAT 9.55535-M2
+                                              </p>
+                                            </div>
+                                            <div style="width:415px; white-space:normal; padding-top:10px;display:none " class="divTabContent" id="Caractéristiques Content">
+                                              <table xmlns="" width="100%" summary="" class="standard" cellspacing="0" border="0">
+                                                <thead>
+                                                  <tr>
+                                                    <th width="" scope="col" height="" class="standard">
+                                                      <p>Mobil 1 FS 0W-40</p>
+                                                    </th>
+                                                    <th width="" scope="col" height="" class="standard">
+                                                      <p>Valeur</p>
+                                                    </th>
+                                                  </tr>
+                                                </thead>
+                                                <tbody>
+                                                  <tr>
+                                                    <td width="" height="" class="standard">
+                                                      Viscosité, cSt (ASTM D445)
+                                                    </td>
+                                                    <td width="" height="" class="standard">&nbsp;</td>
+                                                  </tr>
+                                                  <tr>
+                                                    <td width="" height="" class="standard">@ 40ºC </td>
+                                                    <td width="" height="" class="standard">70,8</td>
+                                                  </tr>
+                                                  <tr>
+                                                    <td width="" height="" class="standard">@ 100ºC</td>
+                                                    <td width="" height="" class="standard">12,9</td>
+                                                  </tr>
+                                                  <tr>
+                                                    <td width="" height="" class="standard">
+                                                      Indice de viscosité
+                                                    </td>
+                                                    <td width="" height="" class="standard">186</td>
+                                                  </tr>
+                                                  <tr>
+                                                    <td width="" height="" class="standard">
+                                                      MRV à -40ºC, cP (ASTM D4684)
+                                                    </td>
+                                                    <td width="" height="" class="standard">21600</td>
+                                                  </tr>
+                                                  <tr>
+                                                    <td width="" height="" class="standard">
+                                                      Viscosité HTHS, mPa s @ 150ºC (ASTM D4683)
+                                                    </td>
+                                                    <td width="" height="" class="standard">3,6</td>
+                                                  </tr>
+                                                  <tr>
+                                                    <td width="" height="" class="standard">
+                                                      Indice de base, ASTM D 2896
+                                                    </td>
+                                                    <td width="" height="" class="standard">12,6</td>
+                                                  </tr>
+                                                  <tr>
+                                                    <td width="" height="" class="standard">
+                                                      Cendres sulfatées, %pds (ASTM D 874)
+                                                    </td>
+                                                    <td width="" height="" class="standard">1,34</td>
+                                                  </tr>
+                                                  <tr>
+                                                    <td width="" height="" class="standard">
+                                                      Phosphore, %pds (ASTM D4981)
+                                                    </td>
+                                                    <td width="" height="" class="standard">0,1</td>
+                                                  </tr>
+                                                  <tr>
+                                                    <td width="" height="" class="standard">
+                                                      Point d'éclair (ºC, ASTM D 92)
+                                                    </td>
+                                                    <td width="" height="" class="standard">226</td>
+                                                  </tr>
+                                                  <tr>
+                                                    <td width="" height="" class="standard">
+                                                      Masse volumique @15ºC (ASTM D 4052)
+                                                    </td>
+                                                    <td width="" height="" class="standard">0,8456</td>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                            </div>
+                                          </td>
+                                          <td
+                                            valign="top"
+                                            style="width: 10px; background-image:url('/Images/Tabs/box_Right.png'); background-repeat: repeat-y; background-color: #ffffff;"
+                                            class="rightBorder"
+                                          >
+                                            <img src="/Images/Tabs/boxNoFade_RightUpper.png" alt="" />
+                                          </td>
                                         </tr>
-                                        <tr>
-                                            <td width="" height="" class="standard">Faible consommation d'huile</td><td width="" height="" class="standard">Moins de pollution par les hydrocarbures</td>
+                                        <tr id="tabsLower">
+                                          <td valign="top" style="width: 10px; height: 10px;" id="tabsLowerLeft">
+                                            <img src="/Images/Tabs/box_LeftLower.png" alt="" />
+                                          </td>
+                                          <td
+                                            valign="top"
+                                            style="width: 435px; background-image:url('/Images/Tabs/box_Lower.png'); background-repeat: repeat-x;"
+                                            id="tabsLowerMiddle"
+                                          ></td>
+                                          <td valign="top" style="width: 10px; height: 10px;" id="tabsLowerRight">
+                                            <img src="/Images/Tabs/box_RightLower.png" alt="" />
+                                          </td>
                                         </tr>
-                                        <tr>
-                                            <td width="" height="" class="standard">Caractéristiques de frottement optimales</td><td width="" height="" class="standard">Économie de carburant</td>
-                                        </tr>
-                                        <tr>
-                                            <td width="" height="" class="standard">Excellente tenue à basse température</td><td width="" height="" class="standard">Démarrage plus facile du moteur à basse température<br>
-            Contribue à étendre la durée de vie du moteur</td>
-                                        </tr>
-                                        <tr>
-                                            <td width="" height="" class="standard">Indice de viscosité élevé et technologie éprouvée sur le terrain</td><td width="" height="" class="standard">Excellent niveau de lubrification générale et de protection contre l'usure pour tous les styles de conduite et dans toutes les conditions, faciles ou difficiles</td>
-                                        </tr></tbody></table>
-                                </div>
-                                <div style="width:415px; white-space:normal; padding-top:10px;display:none " class="divTabContent" id="Applications Content">
-                                    <p xmlns="">Mobil 1 0W-40 est préconisée pour tous les types de véhicules modernes, en particulier pour les moteurs à essence et diesel turbocompressés et suralimentés à injection multisoupapes haute performance des voitures particulières, VUS, fourgonnettes et camionnettes.</p>
-
-                                    <ul xmlns="">
-    
-                                        <li>Mobil 1 0W-40 convient particulièrement bien aux conditions extrêmes, pour lesquelles une huile ordinaire est souvent insuffisante.</li>
-    
-                                        <li>Les produits Mobil 1 ne sont pas conseillés pour les moteurs à deux temps ni les moteurs d'avion, sauf s'ils sont expressément approuvées par le constructeur.</li>
-
-                                    </ul>
-                                </div>
-                                <div style="width:415px; white-space:normal; padding-top:10px;display:none " class="divTabContent" id="Spécs Content">
-                                    <p xmlns="">
-                                        <strong>Mobil 1 0W-40 satisfait ou dépasse les exigences : 0W-40 <br>
-
-                                        </strong>API SN, SM, SL, SJ <br>
-ACEA A3/B3, A3/B4 <br>
-Nissan GT-R</p>
-
-                                    <p xmlns="">
-                                        <strong>Mobil 1 0W-40 est homologuée par les constructeurs suivants : 0W-40 <br>
-
-                                        </strong>MB-Approval 229.3 <br>
-MB-Approval 229.5 <br>
-BMW LONGLIFE OIL 01 <br>
-VW 502.00/505.00 <br>
-PORSCHE A40</p>
-
-                                    <p xmlns="">
-                                        <strong>Selon l'Impériale, l'huile Mobil 1 0W-40 est du niveau de qualité : 0W-40 <br>
-
-                                        </strong>API CF <br>
-SAAB <br>
-OPEL Long Life Service Fill GM-LL-A-025 <br>
-OPEL Diesel Service Fill GM-LL-B-025 <br>
-FIAT FIAT 9.55535 - M2 <br>
-FIAT FIAT 9.55535 - N2 <br>
-FIAT FIAT 9.55535 - Z2</p>
-                                </div>
-                                <div style="width:415px; white-space:normal; padding-top:10px;display:none " class="divTabContent" id="Caractéristiques Content">
-                                    <table xmlns="" width="100%" summary="" class="standard" cellspacing="0" border="0">
-                                        <thead>
-                                            <tr>
-                                                <th width="" scope="col" height="" class="standard">
-            
-                                                    <p>Mobil 1 0W-40</p>
-            
-                                                </th><th width="" scope="col" height="" class="standard">
-            
-                                                    <p>Valeur</p>
-            
-                                                </th>
-                                            </tr>
-                                        </thead><tbody><tr>
-                                            <td width="" height="" class="standard">Viscosité, cSt, ASTM D 445</td><td width="" height="" class="standard">&nbsp;</td>
-                                        </tr>
-                                        <tr>
-                                            <td width="" height="" class="standard">à 40 ºC</td><td width="" height="" class="standard">75</td>
-                                        </tr>
-                                        <tr>
-                                            <td width="" height="" class="standard">à 100 ºC</td><td width="" height="" class="standard">13,5</td>
-                                        </tr>
-                                        <tr>
-                                            <td width="" height="" class="standard">Indice de viscosité</td><td width="" height="" class="standard">185</td>
-                                        </tr>
-                                        <tr>
-                                            <td width="" height="" class="standard">MRV à -40 ºC, cP, ASTM D 4684 (viscosité apparente)</td><td width="" height="" class="standard">35 000</td>
-                                        </tr>
-                                        <tr>
-                                            <td width="" height="" class="standard">Viscosité HTHS, mPa·s à 150 °C, ASTM D 4683</td><td width="" height="" class="standard">3,8</td>
-                                        </tr>
-                                        <tr>
-                                            <td width="" height="" class="standard">Indice d'alcalinité totale, ASTM D 2896</td><td width="" height="" class="standard">11,8</td>
-                                        </tr>
-                                        <tr>
-                                            <td width="" height="" class="standard">Cendres sulfatées, % massique, ASTM D 874</td><td width="" height="" class="standard">1,3</td>
-                                        </tr>
-                                        <tr>
-                                            <td width="" height="" class="standard">Phosphore, % massique, ASTM D 4981</td><td width="" height="" class="standard">0,1</td>
-                                        </tr>
-                                        <tr>
-                                            <td width="" height="" class="standard">Point d'éclair, °C, ASTM D 92</td><td width="" height="" class="standard">230</td>
-                                        </tr>
-                                        <tr>
-                                            <td width="" height="" class="standard">Masse volumique à 15,6 °C, g/ml, ASTM D 4052</td><td width="" height="" class="standard">0,85</td>
-                                        </tr></tbody></table>
-                                </div>
-                            </td>
-                            <td valign="top" style="width: 10px; background-image:url('/Images/Tabs/box_Right.png'); background-repeat: repeat-y; background-color: #ffffff;" class="rightBorder">
-                                <img src="/Images/Tabs/boxNoFade_RightUpper.png" alt=""/>
-                            </td>
-                        </tr>
-                        <tr id="tabsLower">
-                            <td valign="top" style="width: 10px; height: 10px;" id="tabsLowerLeft">
-                                <img src="/Images/Tabs/box_LeftLower.png" alt=""/>
-                            </td>
-                            <td valign="top" style="width: 435px; background-image:url('/Images/Tabs/box_Lower.png'); background-repeat: repeat-x;" id="tabsLowerMiddle"> </td>
-                            <td valign="top" style="width: 10px; height: 10px;" id="tabsLowerRight">
-                                <img src="/Images/Tabs/box_RightLower.png" alt=""/>
-                            </td>
-                        </tr>
-                    </table>
+                                      </table>
                 </div>
             </div>
             <div style="clear:both;width:100%;position:relative;"><!--#include file="Navigation/Footer.aspx" --></div>

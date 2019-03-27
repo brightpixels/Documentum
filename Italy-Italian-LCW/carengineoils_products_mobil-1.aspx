@@ -89,10 +89,6 @@
                         </p>
 
                         <p xmlns="">
-                            <a title="" target="" onclick="trackClick(this);" href="/Italy-Italian-LCW/carengineoils_products_mobil-1_fuel-economy-0w30.aspx" class=""><img src="../Shared-Images-LCW/teaser_60x60_mobil-1_fe_0w30.png" height="60" width="60" alt="Mobil 1 FE 0W-30" title="Mobil 1 FE 0W-30" align="middle" border="0" hspace="0">Mobil 1&trade; FE 0W-30</a>
-                        </p>
-
-                        <p xmlns="">
                             <a title="" target="_self" onclick="trackClick(this);" href="/Italy-Italian-LCW/carengineoils_products_mobil-1_esp-0w30.aspx" class=""><strong><img src="../Shared-Images-LCW/teaser_60x60_mobil-1-esp-0w30.png" height="60" width="60" alt="Mobil 1 ESP 0W-30" title="Mobil 1 ESP 0W-30" align="middle" border="0" hspace="0"></strong>Mobil 1&trade; ESP 0W-30</a>
                         </p>
 

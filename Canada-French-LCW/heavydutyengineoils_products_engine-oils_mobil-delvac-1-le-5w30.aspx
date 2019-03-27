@@ -174,20 +174,9 @@
                 <div style="float:left" id="flash"><img xmlns=""
                         src="../Canada-English-LCW/Images/MD1_ESP_5W-30_120x150px.jpg"> </div>
                 <h1>Mobil Delvac 1&trade;&nbsp;ESP 5W-30</h1>
-                <p xmlns="">
-                    <strong>Huile pour moteur diesel service intense synthétique<br>
-
-                    </strong>Mobil Delvac 1&trade;&nbsp;ESP 5W-30 est une huile pour moteur diesel service intense
-                    synthétique qui combine la protection améliorée pour les moteurs modernes à faibles émissions
-                    polluantes avec le potentiel d'économie de carburant<sup>1</sup> et d&rsquo;autres avantages tels
-                    que la durabilité du moteur, la protection du système antipollution et des intervalles de vidange
-                    prolongés.</p>
-
-                <p xmlns="">Mobil Delvac 1&nbsp;ESP 5W-30 emploie une technologie de pointe pour offrir un rendement
-                    exceptionnel et convient parfaitement à une large gamme de véhicules commerciaux à moteur diesel
-                    pour l'utilisation routière ou tout-terrain dans des secteurs tels que l'industrie minière, la
-                    construction et l'agriculture. L'huile Mobil Delvac 1&nbsp;ESP 5W-30 est conforme ou supérieure à
-                    une extrêmement vaste gamme de spécifications de l'industrie et de fabricants partout dans le monde.
+                <p xmlns=""><strong>HUILE SYNTHÉTIQUE ÉVOLUÉE À FAIBLE TENEUR EN CENDRES HAUTE PERFORMANCE POUR MOTEURS DIESEL</strong></p>
+                <p>
+                    Mobil Delvac 1&trade;&nbsp;ESP 5W-30 est une huile synthétique évoluée pour moteurs diesel à service intensif qui assure une durée de vie longue et fiable du moteur 15148059093 L'élaboration de ce produit est la somme de plus de 90 ans d'expertise en recherche et développement. L'objectif était de définir un produit qui répond à toutes les caractéristiques exigées pour les moteurs modernes de transport routier, notamment ceux dotés de systèmes de contrôle des émissions?.<sup>1</sup> Ce produit à très haute performance offre une stabilité à l'oxydation inégalée<sup>3</sup> qui résulte en la propreté du moteur, favorisant ainsi un fonctionnement efficace et en douceur du moteur. La robustesse de Mobil Delvac 1&trade;&nbsp;ESP 5W-30 satisfait ou dépasse les plus longs intervalles de vidange définis par les principaux équipementiers internationaux, offrant une protection pendant des intervalles de vidange jusqu'à 160 000 kilomètres?.<sup>1</sup> Cette huile a également été élaborée et testée pour protéger le moteur à l'aide de composants de biocarburant pour considérer différentes qualités de carburant diesel et de futurs composants de carburant en matière de durabilité. La formulation évoluée du lubrifiant permet d'obtenir des économies de carburant dans les applications de moteurs modernes.<sup>2</sup> La remarquable performance de protection contre l'usure de l'huile Mobil Delvac ESP 5W-30 est le résultat d'une étroite coopération extensive du travail de développement d'ExxonMobil avec les grands équipementiers. Par conséquent, ce produit satisfait ou dépasse les exigences des plus récentes spécifications API et ACEA relatives aux huiles pour moteurs diesel, ainsi que les exigences de nombreux motoristes américains et européens.
                 </p>
             </div>
             <table style="width: 454px   " id="tblTabs" cellspacing="0px" cellpadding="0" border="0">

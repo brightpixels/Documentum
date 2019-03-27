@@ -73,25 +73,19 @@
           </div>
           <p xmlns="">&nbsp;</p>
           <p xmlns="">
-            <b><span style=" font-size: x-large;">Mobil Serv</span></b>
-            <sup>
-              <b><span style=" font-size: x-large;">SM</span></b>
-            </sup>
-          </p>
-          <p xmlns="">
-            <b><span style=" font-size: x-large;">taraf&#305;ndan desteklenen</span></b>
-          </p>
-          <p xmlns="">
-            <b><span style=" font-size: x-large;">ya&#287;lama çözÿmleri</span></b>
+            <b>
+              <span style=" font-size: x-large;">
+                Mobil Serv<sup>SM</sup>
+                taraf&#305;ndan desteklenen ya&#287;lama çözÿmleri
+              </span>
+            </b>
           </p>
           <p xmlns="">
             150 y&#305;ll&#305;k ya&#287;lama uzmanl&#305;&#287;&#305;m&#305;z sayesinde, ticari ve endÿstriyel mÿ&#351;terilerimizin bak&#305;m
             programlar&#305;n&#305; ve makine kullan&#305;labilirli&#287;ini optimize etmesine yard&#305;mc&#305; olan geni&#351; kapsaml&#305; teknik
             hizmetlerimiz ile dÿnya çap&#305;nda bir itibar elde ettik. Benzersiz ya&#287;lama hizmetlerimizi,
             ba&#287;l&#305;l&#305;&#287;&#305;m&#305;z&#305;n sÿrdÿ&#287;ÿnÿn bir göstergesi olarak sa&#287;lamak için, hepsini yeni bir global marka
-            alt&#305;nda bir araya getiriyoruz. &nbsp;&ndash; Mobil Serv
-            <sup>SM</sup>
-            .
+            alt&#305;nda bir araya getiriyoruz. &nbsp;&ndash; Mobil Serv<sup>SM</sup>.
           </p>
           <p xmlns="">
             Hizmetlerimiz, dÿnya standardlar&#305;ndaki Mobil&trade; ya&#287;lar&#305;n&#305; tamamlayacak &#351;ekilde tasarlanmaktad&#305;r. Bunlar
@@ -176,7 +170,8 @@
             <b>
               <i><a title="This link will open a new window." target="_new" href="https://mobilserv.mobil.com/en/">Mobil Serv Ya&#287; Analizi</a></i>
             </b>
-            &ndash; önemli derecede geli&#351;tirilmi&#351; özellikleri ve yetenekleri ile SignumSM Ya&#287; Analizinin yerini almaktad&#305;r.
+            &ndash; önemli derecede geli&#351;tirilmi&#351; özellikleri ve yetenekleri ile Signum<sup>SM</sup>
+            Ya&#287; Analizinin yerini almaktad&#305;r.
           </p>
           <p xmlns="">&nbsp;</p>
           <p xmlns="">

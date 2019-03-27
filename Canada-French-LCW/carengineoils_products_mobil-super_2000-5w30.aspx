@@ -251,6 +251,15 @@
                         class="midBorder">
                         <div style="width:434px; white-space:normal; padding-top:10px;display:block "
                             class="divTabContent" id="Vue D'ensemble Content">
+                            <p xmlns="">
+                                **Le rendement accru et la protection garantie s&rsquo;appliquent aux véhicules
+                                pour lesquels des intervalles de vidange de 10 000 km ou moins sont préconisés. À
+                                l&rsquo;exclusion d&rsquo;applications en service sévère comme : la course automobile,
+                                l&rsquo;usage commercial de véhicules, les remorquages et transports fréquents, la
+                                conduite en milieu extrêmement poussiéreux ou sale, ou la marche au ralenti excessive.
+                                Quand le véhicule est sous garantie, faire la vidange aux intervalles prescrits par le
+                                constructeur.
+                            </p>
                             <ul xmlns="">
                                 <li>Contribue à allonger la vie du moteur</li>
                                 <li>Contient un conditionneur de joints afin d&rsquo;aider à prévenir ou à contrôler les
@@ -265,13 +274,6 @@
                                 </li>
                                 <li>Satisfait les plus récentes exigences en matière de consommation de carburant.</li>
                             </ul>
-                            <p xmlns="">**Le rendement accru et la protection garantie s&rsquo;appliquent aux véhicules
-                                pour lesquels des intervalles de vidange de 10 000 km ou moins sont préconisés. À
-                                l&rsquo;exclusion d&rsquo;applications en service sévère comme : la course automobile,
-                                l&rsquo;usage commercial de véhicules, les remorquages et transports fréquents, la
-                                conduite en milieu extrêmement poussiéreux ou sale, ou la marche au ralenti excessive.
-                                Quand le véhicule est sous garantie, faire la vidange aux intervalles prescrits par le
-                                constructeur.</p>
                         </div>
                         <div style="width:415px; white-space:normal; padding-top:10px;display:none "
                             class="divTabContent" id="Applications Content">

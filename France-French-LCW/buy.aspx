@@ -133,7 +133,7 @@ et en Europe.</p>
                             <div xmlns="" class="padding">
                                 <div class="img60 left">
                                     <img title="revendeurs en ligne" src="../Shared-Images-LCW/teaser_60x60_hand-on-mouse_gbl.jpg" longdesc="" class="floatimgleft" border="0" alt="revendeurs en ligne"></div>
-                                <p>Nous mettons à la disposition de nos clients inscrits un système de commande en ligne, baptisé eOM. Ce système permet d&rsquo;accélérer et de faciliter les relations commerciales avec ExxonMobil. Passez vos commandes de lubrifiants et gérez vos comptes en ligne 24 heures sur 24, 7 jours sur 7. Obtenez en un seul clic et en temps réel toutes les informations qui vous intéressent. <a title="" target="" onclick="trackClick(this);" href="/France-French-LCW/contactus_contact.aspx?CountryCode=FR&amp;Language=French" class="">Contactez-nous</a> pour en savoir plus ou pour vous inscrire.</p>
+                                <p>Nous mettons à la disposition de nos clients inscrits un système de commande en ligne, baptisé eOM. Ce système permet d&rsquo;accélérer et de faciliter les relations commerciales avec ExxonMobil. Passez vos commandes de lubrifiants et gérez vos comptes en ligne 24 heures sur 24, 7 jours sur 7. Obtenez en un seul clic et en temps réel toutes les informations qui vous intéressent. <a title="" target="" onclick="trackClick(this);" href="http://www.mobil.com/contact-us?lang=fr-FR" class="">Contactez-nous</a> pour en savoir plus ou pour vous inscrire.</p>
                             </div>
                         </div>
                     </div>

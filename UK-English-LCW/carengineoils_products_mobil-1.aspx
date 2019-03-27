@@ -102,10 +102,6 @@
                         </p>
 
                         <p xmlns="">
-                            <a title="" target="_self" onclick="trackClick(this);" href="/UK-English-LCW/carengineoils_products_mobil-1-extended-life-10w60.aspx" class=""><img src="../Shared-Images-LCW/teaser_60x60_mobil-1-extended-life-10w60_eame.jpg" height="60" width="60" alt="Mobil 1 Extended Life 10W-60" title="Mobil 1 Extended Life 10W-60" align="middle" border="0" hspace="0">Mobil 1 Extended Life&trade; 10W-60</a>
-                        </p>
-
-                        <p xmlns="">
                             <a title="" target="_self" onclick="trackClick(this);" href="/UK-English-LCW/carengineoils_products_mobil-1-0w20.aspx" class=""><img src="../Shared-Images-LCW/teaser_60x60_mobil-1-0w20_eame.jpg" height="60" width="60" alt="Mobil 1 0W-20" title="Mobil 1 0W-20" align="middle" border="0" hspace="0">Mobil 1&trade; 0W-20</a>
                         </p>
 

@@ -139,45 +139,15 @@
                     <script type="text/javascript">quickEditForm('0915881d8144a241', '/Content',false,'../forms/LCWProductDetails','','825px','750px','Product Detail Overview','','pencil.gif','200px');</script><!-- googleon: all -->
                     <div id="topSec">
                         <div style="float:left" id="flash"> </div>
-                        <h1>Mobil 1&trade;&nbsp;0W-40</h1>
+                        <h1>Mobil 1&trade;&nbsp;FS 0W-40</h1>
                         <p xmlns="" align="left">
                             <a title="" target="" onclick="trackClick(this);" href="/Canada-English-LCW/Images/product_640x800_mobil-1-0w-40.jpg" class="lightview"><img src="../Canada-French-LCW/Images/product_120x150_mobil-1-0w40.jpg" height="150" width="120" alt="Mobil 1 0W-40" title="Mobil 1 0W-40" align="left" border="15" hspace="5"></a>
                         </p>
 
                         <p xmlns="">
-                            <strong>Huile moteur synthétique avancée de haute tenue<br>
-
-                            </strong>L'huile Mobil 1 0W-40 est une huile moteur synthétique de pointe de haute tenue conçue pour offrir un degré exceptionnel de pouvoir nettoyant, de protection contre l'usure et de performances globales. Mobil 1 0W-40, formule pour voitures européennes (AN) ou formule protectrice (UE), dépasse les exigences des normes des grands constructeurs de voitures et des membres de l'industrie pour les nouveaux moteurs automobiles essence et diesel. La technologie Mobil 1&trade;&nbsp;a été testée sur piste et c&rsquo;est le choix de l'écurie NASCAR.</p>
+                            Mobil 1 est l'une des meilleures huiles moteur synthétiques au monde, fournissant un niveau exceptionnel de performance et de protection. L'huile Mobil 1™ FS 0W-40 formule pour voitures européennes (Amérique du Nord) ou formule de protection (reste du monde) est une huile à moteur synthétique évoluée conçue pour offrir aux plus récentes technologies de moteur à essence et diesel (sans filtre à particules) un excellent rendement général. Elle offre des caractéristiques exceptionnelles de pouvoir nettoyant, de résistance à l'usure et de rendement général. Avec l'huile Mobil 1 FS 0W-40, votre moteur tourne comme un neuf.
+                          </p>
                     </div>
-                    <table style="width: 454px   " id="tblTabs" cellspacing="0px" cellpadding="0" border="0">
-                        <tr id="tabNav">
-                            <td style="height:1px; padding-bottom:-10px; " colspan="5"><!-- googleoff: all -->
-                                <script type="text/javascript">quickEditForm('0915881d8144a241', '/Content/Tabs',true,'../forms/LCWProductDetailsTabs','','790px','775px','Product Detail Tabs','','pencil.gif','220px');</script><!-- googleon: all -->
-                                <div style="z-index:100; " id="divTabs">
-                                    <ul>
-                                        <li onmouseover="if(this.className!='current')this.className='highlight';" onmouseout="if(this.className!='current')this.className=''" class="current" id="Vue D'ensemble">
-                                            <a href="#" onclick="javascript:showTab('Vue D\'ensemble');">Vue D'ensemble</a>
-                                        </li>
-                                        <li onmouseover="if(this.className!='current')this.className='highlight'" onmouseout="if(this.className!='current')this.className=''" id="Applications">
-                                            <a href="#" onclick="javascript:showTab('Applications');">Applications</a>
-                                        </li>
-                                        <li onmouseover="if(this.className!='current')this.className='highlight'" onmouseout="if(this.className!='current')this.className=''" id="Spécs">
-                                            <a href="#" onclick="javascript:showTab('Spécs');">Spécs</a>
-                                        </li>
-                                        <li onmouseover="if(this.className!='current')this.className='highlight'" onmouseout="if(this.className!='current')this.className=''" id="Caractéristiques">
-                                            <a href="#" onclick="javascript:showTab('Caractéristiques');">Caractéristiques</a>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </td>
-                        </tr>
-                        <tr id="trTabContent">
-                            <td valign="top" style="width: 10px; background-image:url('/Images/Tabs/box_Left.png'); background-repeat: repeat-y; background-color: #ffffff;">
-                                <img src="/Images/Tabs/box_LeftUpper.png" class="leftUpperImg" alt=""/>
-                            </td>
-                            <td valign="top" style="width: 435px; background-image:url('/Images/Tabs/boxNoFade_Upper.png'); background-repeat: repeat-x; background-color: #ffffff;" class="midBorder">
-                                <div style="width:434px; white-space:normal; padding-top:10px;display:block " class="divTabContent" id="Vue D'ensemble Content">
-                                    <p xmlns="">L'huile Mobil 1 FS 0W-40 est formulée à partir d'un mélange propriétaire d'huiles de base synthétiques à très haute performance, renforcé d'un système de composants précisément équilibrés.</p>
                                     <table style="width: 454px" id="tblTabs" cellspacing="0px" cellpadding="0" border="0">
                                         <tr id="tabNav">
                                           <td style="height:1px; padding-bottom:-10px; " colspan="5">
@@ -427,7 +397,7 @@
                                             <img src="/Images/Tabs/box_RightLower.png" alt="" />
                                           </td>
                                         </tr>
-                                      </table>
+                                    </table>
                 </div>
             </div>
             <div style="clear:both;width:100%;position:relative;"><!--#include file="Navigation/Footer.aspx" --></div>

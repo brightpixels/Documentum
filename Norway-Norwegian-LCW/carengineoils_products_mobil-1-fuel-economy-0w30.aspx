@@ -118,9 +118,9 @@ Mobil 1 Fuel Economy 0W-30, motorolje, smøring, smøremiddel, mobil 1 esp, mobile
                     </div>
                     <div class="related">
                         <div style="float:left">
-                            <a xmlns="" target="_self" onclick="trackClick(this);" href="../Norway-Norwegian-LCW/carengineoils_products_mobil-1-esp-formula-5w30.aspx"><img width="60" title="ESP Formula 5W-30" src="../Shared-Images-LCW/teaser_60x60_mobil-1-esp-5w30_eame.jpg" longdesc="" height="60" border="0" alt="ESP Formula 5W-30"></a> </div>
+                            <a xmlns="" target="_self" onclick="trackClick(this);" href="../Norway-Norwegian-LCW/carengineoils_products_mobil-1-esp-5w30.aspx"><img width="60" title="ESP 5W-30" src="../Shared-Images-LCW/teaser_60x60_mobil-1-esp-5w30_eame.jpg" longdesc="" height="60" border="0" alt="ESP 5W-30"></a> </div>
                         <h2>
-                            <a title="" target="_self" href="/Norway-Norwegian-LCW/carengineoils_products_mobil-1-esp-formula-5w30.aspx">Mobil 1&trade; ESP Formula 5W-30</a>
+                            <a title="" target="_self" href="/Norway-Norwegian-LCW/carengineoils_products_mobil-1-esp-5w30.aspx">Mobil 1&trade; ESP 5W-30</a>
                         </h2>
                         <div class="relatedContent">
                             <p xmlns="">&nbsp;&nbsp;</p>&#160;</div>

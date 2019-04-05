@@ -248,6 +248,13 @@
                         class="midBorder">
                         <div style="width:434px; white-space:normal; padding-top:10px;display:block "
                             class="divTabContent" id="Features &amp; Benefits Content">
+                            <p xmlns="">
+                                **The extended performance and guaranteed protection applies to vehicles
+                                recommending oil drain intervals 10,000 km or less. Excludes severe service applications
+                                involving: racing and commercial use; frequent towing or hauling; extremely dusty or
+                                dirty conditions; or excessive idling. While under warranty change oil at the
+                                manufacturer&rsquo;s recommended interval.
+                            </p>
                             <ul xmlns="">
                                 <li>Helps extend engine life</li>
                                 <li>Contains seal conditioner to help prevent or control leaks and reduce oil
@@ -260,11 +267,6 @@
                                 <li>Meets or exceeds the latest industry specifications</li>
                                 <li>Satisfies the latest fuel efficiency requirements</li>
                             </ul>
-                            <p xmlns="">**The extended performance and guaranteed protection applies to vehicles
-                                recommending oil drain intervals 10,000 km or less. Excludes severe service applications
-                                involving: racing and commercial use; frequent towing or hauling; extremely dusty or
-                                dirty conditions; or excessive idling. While under warranty change oil at the
-                                manufacturer&rsquo;s recommended interval.</p>
                         </div>
                         <div style="width:415px; white-space:normal; padding-top:10px;display:none "
                             class="divTabContent" id="Applications Content">
@@ -333,7 +335,7 @@
                                         <td width="" height="" class="standard">X</td>
                                     </tr>
                                     <tr>
-                                        <td width="" height="" class="standard">API SJ/td>
+                                        <td width="" height="" class="standard">API SL</td>
                                         <td width="" height="" class="standard">X</td>
                                         <td width="" height="" class="standard">X</td>
                                         <td width="" height="" class="standard">X</td>
@@ -447,7 +449,7 @@
                                     </tr>
                                     <tr>
                                         <td width="" height="" class="standard">Kinematic Viscosity @ 100 C, mm2/s, ASTM D445</td>
-                                        <td width="" height="" class="standard">8.5</td>
+                                        <td width="" height="" class="standard">8.3</td>
                                         <td width="" height="" class="standard">10.3</td>
                                         <td width="" height="" class="standard">10.3</td>
                                     </tr>

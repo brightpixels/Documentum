@@ -1,5 +1,5 @@
 
-			
+
   <%@ Page Language="C#" AutoEventWireup="false" Inherits="XOM.Common.Web.XOMPage" %>
   <%@ Register TagPrefix="XOM" Namespace="XOM.Common.Web" Assembly="XOMCommon" %>
 
@@ -32,7 +32,7 @@
       <script type="text/javascript" src="/Imports/js/scriptaculous.js"></script>
       <script type="text/javascript" src="/Imports/js/lightview.js"></script>
       <script type="text/javascript" src="/Imports/js/toggleContent.js"></script>
-    
+
         <script type="text/javascript">
     var PAGE_ID="0915881d808c7087";
     </script>
@@ -96,11 +96,11 @@
                     </div><!-- googleon: all -->
                     <img src="/Images/relatedProducts.png"/>
                     <div class="related_Title">
-                        <p xmlns="">Liens associés</p>
+                        <p xmlns="">Liens associï¿½s</p>
                     </div>
                     <div class="related">
                         <div style="float:left">
-                            <a xmlns="" target="_self" onclick="trackClick(this);" href="../Canada-French-LCW/where-to-buy.aspx"><img width="60" title="" src="../Canada-French-LCW/Images/teaser_60x60_where-to-buy.png" longdesc="" height="60" border="0" alt="Comment acheter"></a> </div>
+                            <a xmlns="" target="_self" onclick="trackClick(this);" href="../Canada-French-LCW/where-to-buy.aspx"><img width="60" title="" src="../Canada-French-LCW/Images/teaser_60x60_where-to-buy.png" longdesc="" height="60" border="0" alt="Comment acheter"></a>ï¿½</div>
                         <h2>
                             <a title="" target="_self" href="/Canada-French-LCW/where-to-buy.aspx">Comment acheter</a>
                         </h2>
@@ -109,7 +109,7 @@
                     </div>
                     <div class="related">
                         <div style="float:left">
-                            <a xmlns="" target="_self" onclick="trackClick(this);" href="../Canada-French-LCW/automatic-transmission-fluid_mobil-1-synthetic-atf.aspx"><img width="60" title="Mobil 1 Synthetic ATF" src="../Canada-french-LCW/Images/teaser_60x60_mobil-1-synthetic-atf.jpg" longdesc="" height="60" border="0" alt="Mobil 1 Synthetic ATF"></a> </div>
+                            <a xmlns="" target="_self" onclick="trackClick(this);" href="../Canada-French-LCW/automatic-transmission-fluid_mobil-1-synthetic-atf.aspx"><img width="60" title="Mobil 1 Synthetic ATF" src="../Canada-french-LCW/Images/teaser_60x60_mobil-1-synthetic-atf.jpg" longdesc="" height="60" border="0" alt="Mobil 1 Synthetic ATF"></a>ï¿½</div>
                         <h2>
                             <a title="" target="_self" href="/Canada-French-LCW/automatic-transmission-fluid_mobil-1-synthetic-atf.aspx">Mobil 1&trade; Synthetic ATF</a>
                         </h2>
@@ -118,7 +118,7 @@
                     </div>
                     <div class="related">
                         <div style="float:left">
-                            <a xmlns="" target="_self" onclick="trackClick(this);" href="../Canada-French-LCW/automatic-transmission-fluid_mobil-super-atf-dm.aspx"><img width="60" title="Mobil Super ATF D/M" src="../Canada-french-LCW/Images/teaser_60x60_mobil-super-atf-dm.jpg" longdesc="" height="60" border="0" alt="Mobil Super ATF D/M"></a> </div>
+                            <a xmlns="" target="_self" onclick="trackClick(this);" href="../Canada-French-LCW/automatic-transmission-fluid_mobil-super-atf-dm.aspx"><img width="60" title="Mobil Super ATF D/M" src="../Canada-french-LCW/Images/teaser_60x60_mobil-super-atf-dm.jpg" longdesc="" height="60" border="0" alt="Mobil Super ATF D/M"></a>ï¿½</div>
                         <h2>
                             <a title="" target="_self" href="/Canada-French-LCW/automatic-transmission-fluid_mobil-super-atf-dm.aspx">Mobil Super&trade; ATF D/M</a>
                         </h2>
@@ -127,7 +127,7 @@
                     </div>
                     <div class="related">
                         <div style="float:left">
-                            <a xmlns="" target="" onclick="trackClick(this);" href="../Canada-French-LCW/automatic-transmission-fluid_mobil-super-dexron-vi-atf.aspx"><img width="60" title="Mobil Super ATF Dexron-VI" src="../Canada-french-LCW/Images/teaser_60x60_mobil-super-dexron-vi-atf.jpg" longdesc="" height="60" border="0" alt="Mobil Super ATF Dexron-VI"></a> </div>
+                            <a xmlns="" target="" onclick="trackClick(this);" href="../Canada-French-LCW/automatic-transmission-fluid_mobil-super-dexron-vi-atf.aspx"><img width="60" title="Mobil Super ATF Dexron-VI" src="../Canada-french-LCW/Images/teaser_60x60_mobil-super-dexron-vi-atf.jpg" longdesc="" height="60" border="0" alt="Mobil Super ATF Dexron-VI"></a>ï¿½</div>
                         <h2>
                             <a title="" target="" href="/Canada-French-LCW/automatic-transmission-fluid_mobil-super-dexron-vi-atf.aspx">Mobil Super&trade; ATF Dexron-VI</a>
                         </h2>
@@ -138,8 +138,8 @@
                 <div id="mainContent_thin"><!-- googleoff: all -->
                     <script type="text/javascript">quickEditForm('0915881d81715161', '/Content',false,'../forms/LCWProductDetails','','825px','750px','Product Detail Overview','','pencil.gif','200px');</script><!-- googleon: all -->
                     <div id="topSec">
-                        <div style="float:left" id="flash"> </div>
-                        <h1>FTA Mobil pour véhicules multiples</h1>
+                        <div style="float:left" id="flash">ï¿½</div>
+                        <h1>FTA Mobil pour vï¿½hicules multiples</h1>
                         <p xmlns="" align="left">
                             <a title="" target="" onclick="trackClick(this);" href="/Shared-Images-LCW/product_640x800_Multi_ATF_1L.jpg" class="lightview"><img src="../Shared-Images-LCW/product_120x150_Multi_ATF_1L.jpg" height="150" width="120" alt="Mobil Super Multi Vehicle ATF" title="Mobil Super Multi Vehicle ATF" align="left" border="15" hspace="5"></a>
                         </p>
@@ -147,7 +147,7 @@
                         <p xmlns="">
                             <strong>Fluide pour transmissions automatiques<br>
 
-                            </strong>Le FTA Mobil pour véhicules multiples est un lubrifiant synthétique mélangé de qualité supérieure qui convient à nombre de véhicules nord-américains, européens et asiatiques.</p>
+                            </strong>Le FTA Mobil pour vï¿½hicules multiples est un lubrifiant synthï¿½tique mï¿½langï¿½ de qualitï¿½ supï¿½rieure qui convient ï¿½ nombre de vï¿½hicules nord-amï¿½ricains, europï¿½ens et asiatiques.</p>
                     </div>
                     <table style="width: 454px   " id="tblTabs" cellspacing="0px" cellpadding="0" border="0">
                         <tr id="tabNav">
@@ -161,11 +161,11 @@
                                         <li onmouseover="if(this.className!='current')this.className='highlight'" onmouseout="if(this.className!='current')this.className=''" id="Applications">
                                             <a href="#" onclick="javascript:showTab('Applications');">Applications</a>
                                         </li>
-                                        <li onmouseover="if(this.className!='current')this.className='highlight'" onmouseout="if(this.className!='current')this.className=''" id="Spécs">
-                                            <a href="#" onclick="javascript:showTab('Spécs');">Spécs</a>
+                                        <li onmouseover="if(this.className!='current')this.className='highlight'" onmouseout="if(this.className!='current')this.className=''" id="Spï¿½cs">
+                                            <a href="#" onclick="javascript:showTab('Spï¿½cs');">Spï¿½cs</a>
                                         </li>
-                                        <li onmouseover="if(this.className!='current')this.className='highlight'" onmouseout="if(this.className!='current')this.className=''" id="Caractéristiques">
-                                            <a href="#" onclick="javascript:showTab('Caractéristiques');">Caractéristiques</a>
+                                        <li onmouseover="if(this.className!='current')this.className='highlight'" onmouseout="if(this.className!='current')this.className=''" id="Caractï¿½ristiques">
+                                            <a href="#" onclick="javascript:showTab('Caractï¿½ristiques');">Caractï¿½ristiques</a>
                                         </li>
                                     </ul>
                                 </div>
@@ -177,42 +177,42 @@
                             </td>
                             <td valign="top" style="width: 435px; background-image:url('/Images/Tabs/boxNoFade_Upper.png'); background-repeat: repeat-x; background-color: #ffffff;" class="midBorder">
                                 <div style="width:434px; white-space:normal; padding-top:10px;display:block " class="divTabContent" id="Vue D'ensemble Content">
-                                    <p xmlns="">Avantages offerts par le FTA Mobil pour véhicules multiples par rapport aux autres fluides de transmission de moindre qualité :</p>
+                                    <p xmlns="">Avantages offerts par le FTA Mobil pour vï¿½hicules multiples par rapport aux autres fluides de transmission de moindre qualitï¿½ :</p>
 
                                     <ul xmlns="">
-    
-                                        <li>Longue durée de vie du fluide et de la transmission</li>
-    
-                                        <li>Résistance à l&rsquo;oxydation et à la dégradation par les produits chimiques</li>
-    
-                                        <li>Excellentes caractéristiques d&rsquo;écoulement à basse température de démarrage et à température élevée de service</li>
-    
-                                        <li>Excellentes propriétés lubrifiantes qui garantissent un fonctionnement silencieux de la transmission, un passage en douceur des vitesses et une excellente protection contre l&rsquo;usure</li>
-    
-                                        <li>Excellente stabilité de la plage des viscosités (indice de viscosité élevé) qui contribue à assurer une bonne lubrification sans diminution excessive de la pellicule lubrifiante à température élevée de service ou épaississement de celle-ci à basse température de démarrage</li>
-    
-                                        <li>Protection assurée contre la rouille et la corrosion</li>
+
+                                        <li>Longue durï¿½e de vie du fluide et de la transmission</li>
+
+                                        <li>Rï¿½sistance ï¿½ l&rsquo;oxydation et ï¿½ la dï¿½gradation par les produits chimiques</li>
+
+                                        <li>Excellentes caractï¿½ristiques d&rsquo;ï¿½coulement ï¿½ basse tempï¿½rature de dï¿½marrage et ï¿½ tempï¿½rature ï¿½levï¿½e de service</li>
+
+                                        <li>Excellentes propriï¿½tï¿½s lubrifiantes qui garantissent un fonctionnement silencieux de la transmission, un passage en douceur des vitesses et une excellente protection contre l&rsquo;usure</li>
+
+                                        <li>Excellente stabilitï¿½ de la plage des viscositï¿½s (indice de viscositï¿½ ï¿½levï¿½) qui contribue ï¿½ assurer une bonne lubrification sans diminution excessive de la pellicule lubrifiante ï¿½ tempï¿½rature ï¿½levï¿½e de service ou ï¿½paississement de celle-ci ï¿½ basse tempï¿½rature de dï¿½marrage</li>
+
+                                        <li>Protection assurï¿½e contre la rouille et la corrosion</li>
 
                                     </ul>
                                 </div>
                                 <div style="width:415px; white-space:normal; padding-top:10px;display:none " class="divTabContent" id="Applications Content">
-                                    <p xmlns="">Le fluide FTA Mobil pour véhicules multiples est recommandé par l&rsquo;Impériale pour usage dans les applications exigeant Ford MERCON V, Allison C-4, MERCON , GM DEXRON, DEXRON IIIH, DEXRON IIIG, DEXRON IIE, DEXRON IID, DEXRON II, JASO 1-A, et Volvo 97340/97341.</p>
+                                    <p xmlns="">Le fluide FTA Mobil pour vï¿½hicules multiples est recommandï¿½ par l&rsquo;Impï¿½riale pour usage dans les applications exigeant Ford MERCON V, Allison C-4, MERCON , GM DEXRON, DEXRON IIIH, DEXRON IIIG, DEXRON IIE, DEXRON IID, DEXRON II, JASO 1-A, et Volvo 97340/97341.</p>
 
-                                    <p xmlns="">Le fluide FTA Mobil pour véhicules multiples n&rsquo;est pas recommandé pour les applications exigeant Ford MERCON LV, MERCON SP, ou GM DEXRON VI.</p>
+                                    <p xmlns="">Le fluide FTA Mobil pour vï¿½hicules multiples n&rsquo;est pas recommandï¿½ pour les applications exigeant Ford MERCON LV, MERCON SP, ou GM DEXRON VI.</p>
 
-                                    <p xmlns="">Toujours consulter le manuel du propriétaire du véhicule pour connaître le type de fluide pour transmission automatique préconisé.</p>
+                                    <p xmlns="">Toujours consulter le manuel du propriï¿½taire du vï¿½hicule pour connaï¿½tre le type de fluide pour transmission automatique prï¿½conisï¿½.</p>
 
-                                    <p xmlns="">Pour de bonnes pratiques d&rsquo;entretien, il convient de vérifier le niveau du fluide de la transmission automatique régulièrement et de remplacer le fluide à la fréquence préconisée par le constructeur. Certains constructeurs conseillent de remplacer le fluide de la transmission plus souvent en utilisation intensive, comme lorsque la circulation est intense, que le temps est chaud ou qu&rsquo;il faut tirer une remorque.</p>
+                                    <p xmlns="">Pour de bonnes pratiques d&rsquo;entretien, il convient de vï¿½rifier le niveau du fluide de la transmission automatique rï¿½guliï¿½rement et de remplacer le fluide ï¿½ la frï¿½quence prï¿½conisï¿½e par le constructeur. Certains constructeurs conseillent de remplacer le fluide de la transmission plus souvent en utilisation intensive, comme lorsque la circulation est intense, que le temps est chaud ou qu&rsquo;il faut tirer une remorque.</p>
                                 </div>
-                                <div style="width:415px; white-space:normal; padding-top:10px;display:none " class="divTabContent" id="Spécs Content">
+                                <div style="width:415px; white-space:normal; padding-top:10px;display:none " class="divTabContent" id="Spï¿½cs Content">
                                     <p xmlns="">
-                                        <strong>FTA Mobil pour véhicules multiples satisfait ou dépasse les exigences:&nbsp;&nbsp; <br>
+                                        <strong>FTA Mobil pour vï¿½hicules multiples satisfait ou dï¿½passe les exigences:&nbsp;&nbsp; <br>
 
-                                        </strong>Voith H55.6335.3<br>
+                                        </strong>Ford MERCON V<br>
 MAN 339 V1</p>
 
                                     <p xmlns="">
-                                        <strong>Selon l&rsquo;Impériale, le fluide FTA Mobil pour véhicules multiples est du niveau de qualité:&nbsp;&nbsp;</strong>
+                                        <strong>Selon l&rsquo;Impï¿½riale, le fluide FTA Mobil pour vï¿½hicules multiples est du niveau de qualitï¿½:&nbsp;&nbsp;</strong>
                                         <br>
 Allison C4 <br>
 Ford MERCON<br>
@@ -226,32 +226,32 @@ JASO 1-A <br>
 Volvo 97340 <br>
 Volvo 97341</p>
                                 </div>
-                                <div style="width:415px; white-space:normal; padding-top:10px;display:none " class="divTabContent" id="Caractéristiques Content">
+                                <div style="width:415px; white-space:normal; padding-top:10px;display:none " class="divTabContent" id="Caractï¿½ristiques Content">
                                     <table xmlns="" width="100%" summary="" class="standard" cellspacing="0" border="0">
                                         <thead>
                                             <tr>
-                                                <th width="" scope="col" height="" class="standard">Mobil Super FTA Multi-Véhicules</th><th width="" scope="col" height="" class="standard">Valeur</th>
+                                                <th width="" scope="col" height="" class="standard">Mobil Super FTA Multi-Vï¿½hicules</th><th width="" scope="col" height="" class="standard">Valeur</th>
                                             </tr>
                                         </thead><tbody><tr>
-                                            <td width="" height="" class="standard">Viscosité&nbsp;&nbsp;</td><td width="" height="" class="standard">&nbsp;</td>
+                                            <td width="" height="" class="standard">Viscositï¿½&nbsp;&nbsp;</td><td width="" height="" class="standard">&nbsp;</td>
                                         </tr>
                                         <tr>
-                                            <td width="" height="" class="standard">cSt à 40 °C</td><td width="" height="" class="standard">34.1</td>
+                                            <td width="" height="" class="standard">cSt ï¿½ 40 ï¿½C</td><td width="" height="" class="standard">34.1</td>
                                         </tr>
                                         <tr>
-                                            <td width="" height="" class="standard">cSt à 100 °C</td><td width="" height="" class="standard">7.42</td>
+                                            <td width="" height="" class="standard">cSt ï¿½ 100 ï¿½C</td><td width="" height="" class="standard">7.42</td>
                                         </tr>
                                         <tr>
-                                            <td width="" height="" class="standard">cP à -40 °C</td><td width="" height="" class="standard">9260</td>
+                                            <td width="" height="" class="standard">cP ï¿½ -40 ï¿½C</td><td width="" height="" class="standard">9260</td>
                                         </tr>
                                         <tr>
-                                            <td width="" height="" class="standard">Indice de viscosité</td><td width="" height="" class="standard">193</td>
+                                            <td width="" height="" class="standard">Indice de viscositï¿½</td><td width="" height="" class="standard">193</td>
                                         </tr>
                                         <tr>
-                                            <td width="" height="" class="standard">Point d&rsquo;éclair, °C (°F)</td><td width="" height="" class="standard">180 (356)</td>
+                                            <td width="" height="" class="standard">Point d&rsquo;ï¿½clair, ï¿½C (ï¿½F)</td><td width="" height="" class="standard">180 (356)</td>
                                         </tr>
                                         <tr>
-                                            <td width="" height="" class="standard">Densité API</td><td width="" height="" class="standard">34.7</td>
+                                            <td width="" height="" class="standard">Densitï¿½ API</td><td width="" height="" class="standard">34.7</td>
                                         </tr>
                                         <tr>
                                             <td width="" height="" class="standard">Couleur</td><td width="" height="" class="standard">Rouge</td>
@@ -266,7 +266,7 @@ Volvo 97341</p>
                             <td valign="top" style="width: 10px; height: 10px;" id="tabsLowerLeft">
                                 <img src="/Images/Tabs/box_LeftLower.png" alt=""/>
                             </td>
-                            <td valign="top" style="width: 435px; background-image:url('/Images/Tabs/box_Lower.png'); background-repeat: repeat-x;" id="tabsLowerMiddle"> </td>
+                            <td valign="top" style="width: 435px; background-image:url('/Images/Tabs/box_Lower.png'); background-repeat: repeat-x;" id="tabsLowerMiddle">ï¿½</td>
                             <td valign="top" style="width: 10px; height: 10px;" id="tabsLowerRight">
                                 <img src="/Images/Tabs/box_RightLower.png" alt=""/>
                             </td>
@@ -275,15 +275,15 @@ Volvo 97341</p>
                 </div>
             </div>
             <div style="clear:both;width:100%;position:relative;"><!--#include file="Navigation/Footer.aspx" --></div>
-        </div><script type="text/javascript">  
+        </div><script type="text/javascript">
         var tabsdiv = document.getElementById("divTabs");
         var tabs, tabId;
- 
+
         //Get parameter
         var parameters = location.search;
         var index = parameters.indexOf('tabIndex=');
         if (index != -1){
-          
+
           var tabIndex = parameters.charAt(index+9);
           if(tabsdiv.childNodes.length == 1)
           {
@@ -295,7 +295,7 @@ Volvo 97341</p>
           if(tabs.childNodes.length >= tabIndex)
           {
             tabId = tabs.childNodes[tabIndex-1].id;
-            showTab(tabId);        
+            showTab(tabId);
             location.href = location.href+"#"+ tabId;
           }
         }

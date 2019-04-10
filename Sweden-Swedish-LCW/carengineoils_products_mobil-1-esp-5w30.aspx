@@ -1,13 +1,13 @@
 
-			
+
   <%@ Page Language="C#" AutoEventWireup="false" Inherits="XOM.Common.Web.XOMPage" %>
   <%@ Register TagPrefix="XOM" Namespace="XOM.Common.Web" Assembly="XOMCommon" %>
 
 <%@ Register Src="Navigation/carengineoils.ascx" TagName="Navigation" TagPrefix="xom" %><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
     <head><meta http-equiv="X-UA-Compatible" content="IE=8">
         <title>Mobil&trade; i Sverige | Bilmotoroljor | Mobil 1&trade; ESP Formula 5W-30</title>
-        <meta name="keywords" content="ESP Formula 5W-30, motorolja, motorsmörjmedel, mobil 1 esp, syntetisk, syntetiska, syntetsmörjmedel, smörjmedel, smörjning, oljor, fett, mobil, exxonmobil, exxon, Mobil1, Mobil 1, BP, Shell, motorsport, F1, Formel 1, Lewis Hamilton, McLaren, castrol"/>
-        <meta name="description" content="Ta reda på mer om Mobil 1&trade; ESP Formula 5W-30"/>
+        <meta name="keywords" content="ESP Formula 5W-30, motorolja, motorsmï¿½rjmedel, mobil 1 esp, syntetisk, syntetiska, syntetsmï¿½rjmedel, smï¿½rjmedel, smï¿½rjning, oljor, fett, mobil, exxonmobil, exxon, Mobil1, Mobil 1, BP, Shell, motorsport, F1, Formel 1, Lewis Hamilton, McLaren, castrol"/>
+        <meta name="description" content="Ta reda pï¿½ mer om Mobil 1&trade; ESP Formula 5W-30"/>
         <meta name="date" content="2011-10-01"/>
         <meta name="language" content="en"/>
         <meta http-equiv="Content-Language" content="en"/>
@@ -31,7 +31,7 @@
       <script type="text/javascript" src="/Imports/js/scriptaculous.js"></script>
       <script type="text/javascript" src="/Imports/js/lightview.js"></script>
       <script type="text/javascript" src="/Imports/js/toggleContent.js"></script>
-    
+
         <script type="text/javascript">
     var PAGE_ID="0915881d80be24c4";
     </script>
@@ -95,20 +95,20 @@
                     </div><!-- googleon: all -->
                     <img src="/Images/relatedProducts.png"/>
                     <div class="related_Title">
-                        <p xmlns="">Relaterade länkar</p>
+                        <p xmlns="">Relaterade lï¿½nkar</p>
                     </div>
                     <div class="related">
                         <div style="float:left">
-                            <a xmlns="" target="_self" onclick="trackClick(this);" href="../Sweden-Swedish-LCW/carengineoils_mobil-lubricant-selector.aspx"><img width="60" title="Motoroljeväljare" src="../Norway-Norwegian-LCW/Images/teaser_60x60_which-oil_nord.jpg" longdesc="" height="60" border="0" alt="Motoroljeväljare"></a> </div>
+                            <a xmlns="" target="_self" onclick="trackClick(this);" href="../Sweden-Swedish-LCW/carengineoils_mobil-lubricant-selector.aspx"><img width="60" title="Motoroljevï¿½ljare" src="../Norway-Norwegian-LCW/Images/teaser_60x60_which-oil_nord.jpg" longdesc="" height="60" border="0" alt="Motoroljevï¿½ljare"></a>ï¿½</div>
                         <h2>
                             <a title="" target="_self" href="/Sweden-Swedish-LCW/carengineoils_mobil-lubricant-selector.aspx">Vilken olja?</a>
                         </h2>
                         <div class="relatedContent">
-                            <p xmlns="">Kontrollera vilken Mobil&trade;-olja som är rätt för din bil</p>&#160;</div>
+                            <p xmlns="">Kontrollera vilken Mobil&trade;-olja som ï¿½r rï¿½tt fï¿½r din bil</p>&#160;</div>
                     </div>
                     <div class="related">
                         <div style="float:left">
-                            <a xmlns="" target="_self" onclick="trackClick(this);" href="../Sweden-Swedish-LCW/carengineoils_products_mobil-1-new-life-0w40.aspx"><img width="60" title="Mobil 1 New Life 0W-40" src="../Shared-Images-LCW/teaser_60x60_mobil-1-new-life-0w40_eame.jpg" longdesc="" height="60" border="0" alt="Mobil 1 New Life 0W-40"></a> </div>
+                            <a xmlns="" target="_self" onclick="trackClick(this);" href="../Sweden-Swedish-LCW/carengineoils_products_mobil-1-new-life-0w40.aspx"><img width="60" title="Mobil 1 New Life 0W-40" src="../Shared-Images-LCW/teaser_60x60_mobil-1-new-life-0w40_eame.jpg" longdesc="" height="60" border="0" alt="Mobil 1 New Life 0W-40"></a>ï¿½</div>
                         <h2>
                             <a title="" target="_self" href="/Sweden-Swedish-LCW/carengineoils_products_mobil-1-new-life-0w40.aspx">Mobil 1 New Life&trade; 0W-40</a>
                         </h2>
@@ -117,7 +117,7 @@
                     </div>
                     <div class="related">
                         <div style="float:left">
-                            <a xmlns="" target="_self" onclick="trackClick(this);" href="../Sweden-Swedish-LCW/carengineoils_products_mobil-1-fuel-economy-0w30.aspx"><img width="60" title="Mobil 1 Fuel Economy 0W-30" src="../Shared-Images-LCW/teaser_60x60_mobil-1-fuel-economy-0w30_eame.jpg" longdesc="" height="60" border="0" alt="Mobil 1 Fuel Economy 0W-30"></a> </div>
+                            <a xmlns="" target="_self" onclick="trackClick(this);" href="../Sweden-Swedish-LCW/carengineoils_products_mobil-1-fuel-economy-0w30.aspx"><img width="60" title="Mobil 1 Fuel Economy 0W-30" src="../Shared-Images-LCW/teaser_60x60_mobil-1-fuel-economy-0w30_eame.jpg" longdesc="" height="60" border="0" alt="Mobil 1 Fuel Economy 0W-30"></a>ï¿½</div>
                         <h2>
                             <a title="" target="_self" href="/Sweden-Swedish-LCW/carengineoils_products_mobil-1-fuel-economy-0w30.aspx">Mobil 1&trade; Fuel Economy 0W-30</a>
                         </h2>
@@ -129,11 +129,11 @@
                     <script type="text/javascript">quickEditForm('0915881d820783e6', '/Content',false,'../forms/LCWProductDetails','','825px','750px','Product Detail Overview','','pencil.gif','200px');</script><!-- googleon: all -->
                     <div id="topSec">
                         <div style="float:left" id="flash">
-                            <img xmlns="" src="../Sweden-Swedish-LCW/Images/151x226_esp_5w30_de.png" alt="Mobil 1 ESP Formula 5W-30" title="Mobil 1 ESP Formula 5W-30" border="0" hspace="0"> </div>
+                            <img xmlns="" src="../Sweden-Swedish-LCW/Images/151x226_esp_5w30_de.png" alt="Mobil 1 ESP Formula 5W-30" title="Mobil 1 ESP Formula 5W-30" border="0" hspace="0">ï¿½</div>
                         <h1>Mobil 1&trade; ESP 5W-30</h1>
                         <p xmlns="">
                             <br>
-Mobil 1&trade; ESP 5W-30 är en avancerad högpresterande syntetisk motorolja som framställts för att ge exceptionell rengöringsförmåga, slitageskydd och prestanda. Mobil 1 ESP 5W-30 har framställts av experter för att bidra till ökad livslängd och bättre effektivitet för utsläppssystem i både bensin- och dieseldrivna bilar. Mobil 1 ESP 5W-30 uppfyller eller överträffar kraven för många ledande industri- och biltillverkarstandarder, som krävs för nyare moderna diesel- och bensindrivna personbilsmotorer.</p>
+Mobil 1&trade; ESP 5W-30 ï¿½r en avancerad hï¿½gpresterande syntetisk motorolja som framstï¿½llts fï¿½r att ge exceptionell rengï¿½ringsfï¿½rmï¿½ga, slitageskydd och prestanda. Mobil 1 ESP 5W-30 har framstï¿½llts av experter fï¿½r att bidra till ï¿½kad livslï¿½ngd och bï¿½ttre effektivitet fï¿½r utslï¿½ppssystem i bï¿½de bensin- och dieseldrivna bilar. Mobil 1 ESP 5W-30 uppfyller eller ï¿½vertrï¿½ffar kraven fï¿½r mï¿½nga ledande industri- och biltillverkarstandarder, som krï¿½vs fï¿½r nyare moderna diesel- och bensindrivna personbilsmotorer.</p>
                     </div>
                     <table style="width: 454px   " id="tblTabs" cellspacing="0px" cellpadding="0" border="0">
                         <tr id="tabNav">
@@ -141,11 +141,11 @@ Mobil 1&trade; ESP 5W-30 är en avancerad högpresterande syntetisk motorolja som 
                                 <script type="text/javascript">quickEditForm('0915881d820783e6', '/Content/Tabs',true,'../forms/LCWProductDetailsTabs','','790px','775px','Product Detail Tabs','','pencil.gif','220px');</script><!-- googleon: all -->
                                 <div style="z-index:100; " id="divTabs">
                                     <ul>
-                                        <li onmouseover="if(this.className!='current')this.className='highlight';" onmouseout="if(this.className!='current')this.className=''" class="current" id="Fördelar">
-                                            <a href="#" onclick="javascript:showTab('Fördelar');">Fördelar</a>
+                                        <li onmouseover="if(this.className!='current')this.className='highlight';" onmouseout="if(this.className!='current')this.className=''" class="current" id="Fï¿½rdelar">
+                                            <a href="#" onclick="javascript:showTab('Fï¿½rdelar');">Fï¿½rdelar</a>
                                         </li>
-                                        <li onmouseover="if(this.className!='current')this.className='highlight'" onmouseout="if(this.className!='current')this.className=''" id="Användningsområden">
-                                            <a href="#" onclick="javascript:showTab('Användningsområden');">Användningsområden</a>
+                                        <li onmouseover="if(this.className!='current')this.className='highlight'" onmouseout="if(this.className!='current')this.className=''" id="Anvï¿½ndningsomrï¿½den">
+                                            <a href="#" onclick="javascript:showTab('Anvï¿½ndningsomrï¿½den');">Anvï¿½ndningsomrï¿½den</a>
                                         </li>
                                         <li onmouseover="if(this.className!='current')this.className='highlight'" onmouseout="if(this.className!='current')this.className=''" id="Specs">
                                             <a href="#" onclick="javascript:showTab('Specs');">Specs</a>
@@ -162,76 +162,96 @@ Mobil 1&trade; ESP 5W-30 är en avancerad högpresterande syntetisk motorolja som 
                                 <img src="/Images/Tabs/box_LeftUpper.png" class="leftUpperImg" alt=""/>
                             </td>
                             <td valign="top" style="width: 435px; background-image:url('/Images/Tabs/boxNoFade_Upper.png'); background-repeat: repeat-x; background-color: #ffffff;" class="midBorder">
-                                <div style="width:434px; white-space:normal; padding-top:10px;display:block " class="divTabContent" id="Fördelar Content">
+                                <div style="width:434px; white-space:normal; padding-top:10px;display:block " class="divTabContent" id="Fï¿½rdelar Content">
                                     <p xmlns="">
                                         <br>
-Mobil 1 ESP 5W-30 tillverkas med en äganderättsskyddad blandning av avancerade komponenter som framställts för att vara helt kompatibla med de senaste dieselpartikelfiltren (DPF) och katalysatorerna för bensinmotorer (CAT). Mobil 1 ESP 5W-30 har utvecklats för att leverera enastående prestanda och skydd och samtidigt ge avancerade bränsleekonomifördelar. Viktiga egenskaper och möjliga fördelar inkluderar:<br>
+Mobil 1 ESP 5W-30 tillverkas med en ï¿½ganderï¿½ttsskyddad blandning av avancerade komponenter som framstï¿½llts fï¿½r att vara helt kompatibla med de senaste dieselpartikelfiltren (DPF) och katalysatorerna fï¿½r bensinmotorer (CAT). Mobil 1 ESP 5W-30 har utvecklats fï¿½r att leverera enastï¿½ende prestanda och skydd och samtidigt ge avancerade brï¿½nsleekonomifï¿½rdelar. Viktiga egenskaper och mï¿½jliga fï¿½rdelar inkluderar:<br>
 
                                         <br>
 
                                         <table width="100%" summary="" class="standard" cellspacing="0" border="0">
                                             <thead>
                                                 <tr>
-                                                    <th width="" scope="col" height="" class="standard">Egenskaper</th><th width="" scope="col" height="" class="standard">Fördelar och möjlig nytta</th>
+                                                    <th width="" scope="col" height="" class="standard">Egenskaper</th><th width="" scope="col" height="" class="standard">Fï¿½rdelar och mï¿½jlig nytta</th>
                                                 </tr>
                                             </thead><tbody><tr>
-                                                <td width="" height="" class="standard">Låg askhalt</td><td width="" height="" class="standard">Bidrar till att minska partikelbildning i dieselpartikelfilter</td>
+                                                <td width="" height="" class="standard">Lï¿½g askhalt</td><td width="" height="" class="standard">Bidrar till att minska partikelbildning i dieselpartikelfilter</td>
                                             </tr>
                                             <tr>
-                                                <td width="" height="" class="standard">Låg svavel- och fosforhalt</td><td width="" height="" class="standard">Bidrar till reducera förgiftning av bensinkatalysatorer</td>
+                                                <td width="" height="" class="standard">Lï¿½g svavel- och fosforhalt</td><td width="" height="" class="standard">Bidrar till reducera fï¿½rgiftning av bensinkatalysatorer</td>
                                             </tr>
                                             <tr>
-                                                <td width="" height="" class="standard">Aktiva rengöringsmedel</td><td width="" height="" class="standard">Bidrar till att minska avlagringar och slambildning för att möjliggöra en lång och ren livslängd på motorn</td>
+                                                <td width="" height="" class="standard">Aktiva rengï¿½ringsmedel</td><td width="" height="" class="standard">Bidrar till att minska avlagringar och slambildning fï¿½r att mï¿½jliggï¿½ra en lï¿½ng och ren livslï¿½ngd pï¿½ motorn</td>
                                             </tr>
                                             <tr>
-                                                <td width="" height="" class="standard">Enastående termisk stabilitet och oxidationsbeständighet</td><td width="" height="" class="standard">Bidrar till att minska oljans åldring och möjliggör bättre skydd under förlängda oljebytesintervaller</td>
+                                                <td width="" height="" class="standard">Enastï¿½ende termisk stabilitet och oxidationsbestï¿½ndighet</td><td width="" height="" class="standard">Bidrar till att minska oljans ï¿½ldring och mï¿½jliggï¿½r bï¿½ttre skydd under fï¿½rlï¿½ngda oljebytesintervaller</td>
                                             </tr>
                                             <tr>
-                                                <td width="" height="" class="standard">Låg oljeförbrukning</td><td width="" height="" class="standard">Mindre kolväteföroreningar</td>
+                                                <td width="" height="" class="standard">Lï¿½g oljefï¿½rbrukning</td><td width="" height="" class="standard">Mindre kolvï¿½tefï¿½roreningar</td>
                                             </tr>
                                             <tr>
-                                                <td width="" height="" class="standard">Förbättrade friktionsegenskaper</td><td width="" height="" class="standard">Bidrar till förbättre bränsleekonomi</td>
+                                                <td width="" height="" class="standard">Fï¿½rbï¿½ttrade friktionsegenskaper</td><td width="" height="" class="standard">Bidrar till fï¿½rbï¿½ttre brï¿½nsleekonomi</td>
                                             </tr>
                                             <tr>
-                                                <td width="" height="" class="standard">Utmärkta lågtemperaturegenskaper</td><td width="" height="" class="standard">Snabb start i kalla väderförhållanden och ultrasnabbt skydd <br>
-            Bidrar till längre livslängd för motorn</td>
+                                                <td width="" height="" class="standard">Utmï¿½rkta lï¿½gtemperaturegenskaper</td><td width="" height="" class="standard">Snabb start i kalla vï¿½derfï¿½rhï¿½llanden och ultrasnabbt skydd <br>
+            Bidrar till lï¿½ngre livslï¿½ngd fï¿½r motorn</td>
                                             </tr></tbody></table>
 
                                     </p>
                                 </div>
-                                <div style="width:415px; white-space:normal; padding-top:10px;display:none " class="divTabContent" id="Användningsområden Content">
-                                    <p xmlns="">Mobil 1 ESP 5W-30 rekommenderas för alla typer av moderna bilmotorer, i synnerhet för de bensin- och dieselmotorer med höga prestanda som används i de senaste personbilarna, SUV-fordonen och lätta transportfordonen.</p>
+                                <div style="width:415px; white-space:normal; padding-top:10px;display:none " class="divTabContent" id="Anvï¿½ndningsomrï¿½den Content">
+                                    <p xmlns="">Mobil 1 ESP 5W-30 rekommenderas fï¿½r alla typer av moderna bilmotorer, i synnerhet fï¿½r de bensin- och dieselmotorer med hï¿½ga prestanda som anvï¿½nds i de senaste personbilarna, SUV-fordonen och lï¿½tta transportfordonen.</p>
 
                                     <ul xmlns="">
-    
-                                        <li>Mobil 1 ESP 5W-30 är speciellt lämplig för extrema förhållanden där konventionella oljors prestanda ofta är otillräckliga.</li>
-    
-                                        <li>Den rekommenderas inte för tvåtakts- eller flygplansmotorer såvida detta inte uttryckligen godkänts av tillverkaren.</li>
+
+                                        <li>Mobil 1 ESP 5W-30 ï¿½r speciellt lï¿½mplig fï¿½r extrema fï¿½rhï¿½llanden dï¿½r konventionella oljors prestanda ofta ï¿½r otillrï¿½ckliga.</li>
+
+                                        <li>Den rekommenderas inte fï¿½r tvï¿½takts- eller flygplansmotorer sï¿½vida detta inte uttryckligen godkï¿½nts av tillverkaren.</li>
 
                                     </ul>
                                 </div>
                                 <div style="width:415px; white-space:normal; padding-top:10px;display:none " class="divTabContent" id="Specs Content">
                                     <p xmlns="">
-                                        <strong>Mobil 1 ESP 5W-30 har följande maskinbyggares godkännanden:&nbsp;&nbsp; <br>
+                                        <strong>Specifikationer och godkÃ¤nnanden</strong><br/>
+                                        <strong>Enligt ExxonMobil Ã¤r Mobil 1 ESP 5W-30 av fÃ¶ljande kvalitetsnivÃ¥:&nbsp;&nbsp; <br>
 
-                                        </strong>MB-Approval 229.31 / 229.51 / 229.52<br>
-VW 504 00 / 507 00 <br>
-GM dexos2<br>
-Porsche C30<br>
-PSA B712290</p>
+                                        </strong>
+                                        API CF<br>
+VW 502 00<br>
+VW 503 00<br>
+VW 503 01<br>
+VW 505 00<br>
+VW 506 00
+
+                                      </p>
 
                                     <p xmlns="">
-                                        <strong>Mobil 1 ESP 5W-30 uppfyller eller överträffar kraven enligt:&nbsp;&nbsp; <br>
+                                        <strong>Mobil 1 ESP 5W-30 uppfyller eller Ã¶vertrÃ¤ffar kraven enligt:&nbsp;&nbsp; <br>
 
-                                        </strong>API SN, SM, SL, SJ&nbsp; <br>
-ACEA C2, C3</p>
+                                        </strong>ILSAC GF-5 ENGINE TEST REQUIREMENTS
+                                        &nbsp; <br></p>
 
                                     <p xmlns="">
-                                        <strong>Enligt ExxonMobil har Mobil 1 ESP 5W-30 följande kvalitetsnivå:&nbsp;&nbsp; <br>
-
-                                        </strong>API CF <br>
-Volkswagen (Bensin) 502 00 / 503 00 / 503 01 <br>
-Volkswagen^ (Diesel) 505 00 / 506 00</p>
+                                        <strong>Mobil 1 ESP 5W-30 har fÃ¶ljande tillverkares godkÃ¤nnanden:&nbsp;&nbsp; <br></strong>
+                                        VW 504 00<br>
+                                        VW 507 00<br>
+                                        PORSCHE C30<br>
+                                        PSA B712290<br>
+                                        GM dexos2<br>
+                                        MB-Approval 229.31<br>
+                                        MB-Approval 229.51<br>
+                                        MB-Approval 229.52
+                                    </p>
+                                    <p xmlns="">
+                                        <strong>Mobil 1 ESP 5W-30 uppfyller eller Ã¶vertrÃ¤ffar kraven enligt:
+                                            &nbsp;&nbsp; <br></strong>
+                                            API SN<br>
+                                            API SM<br>
+                                            API SL<br>
+                                            API SJ<br>
+                                            ACEA C2<br>
+                                            ACEA C3
+                                    </p>
                                 </div>
                                 <div style="width:415px; white-space:normal; padding-top:10px;display:none " class="divTabContent" id="Egenskaper Content">
                                     <p xmlns="">
@@ -239,7 +259,7 @@ Volkswagen^ (Diesel) 505 00 / 506 00</p>
                                         <table width="100%" summary="" class="standard" cellspacing="0" border="0">
                                             <thead>
                                                 <tr>
-                                                    <th width="" scope="col" height="" class="standard"><strong>Mobil 1 ESP 5W-30</strong></th><th width="" scope="col" height="" class="standard"><strong>Värde</strong></th>
+                                                    <th width="" scope="col" height="" class="standard"><strong>Mobil 1 ESP 5W-30</strong></th><th width="" scope="col" height="" class="standard"><strong>Vï¿½rde</strong></th>
                                                 </tr>
                                             </thead><tbody><tr>
                                                 <td width="" height="" class="standard">SAE klass</td><td width="" height="" class="standard">5W-30</td>
@@ -251,16 +271,16 @@ Volkswagen^ (Diesel) 505 00 / 506 00</p>
                                                 <td width="" height="" class="standard">Sulfataska, vikt-%, ASTM D 874</td><td width="" height="" class="standard">0.8</td>
                                             </tr>
                                             <tr>
-                                                <td width="" height="" class="standard">HTHS viskositet, mPa&bull;s @ 150°C, ASTM D 4683</td><td width="" height="" class="standard">3.5</td>
+                                                <td width="" height="" class="standard">HTHS viskositet, mPa&bull;s @ 150ï¿½C, ASTM D 4683</td><td width="" height="" class="standard">3.5</td>
                                             </tr>
                                             <tr>
-                                                <td width="" height="" class="standard">Lägsta flyttemp, °C, ASTM D 97</td><td width="" height="" class="standard">-48</td>
+                                                <td width="" height="" class="standard">Lï¿½gsta flyttemp, ï¿½C, ASTM D 97</td><td width="" height="" class="standard">-48</td>
                                             </tr>
                                             <tr>
-                                                <td width="" height="" class="standard">Flampunkt, °C, ASTM D 92</td><td width="" height="" class="standard">239</td>
+                                                <td width="" height="" class="standard">Flampunkt, ï¿½C, ASTM D 92</td><td width="" height="" class="standard">239</td>
                                             </tr>
                                             <tr>
-                                                <td width="" height="" class="standard">Densitet @ 15°C, kg/l, ASTM D 4052</td><td width="" height="" class="standard">0.8458</td>
+                                                <td width="" height="" class="standard">Densitet @ 15ï¿½C, kg/l, ASTM D 4052</td><td width="" height="" class="standard">0.8458</td>
                                             </tr></tbody></table>
 
                                     </p>
@@ -274,7 +294,7 @@ Volkswagen^ (Diesel) 505 00 / 506 00</p>
                             <td valign="top" style="width: 10px; height: 10px;" id="tabsLowerLeft">
                                 <img src="/Images/Tabs/box_LeftLower.png" alt=""/>
                             </td>
-                            <td valign="top" style="width: 435px; background-image:url('/Images/Tabs/box_Lower.png'); background-repeat: repeat-x;" id="tabsLowerMiddle"> </td>
+                            <td valign="top" style="width: 435px; background-image:url('/Images/Tabs/box_Lower.png'); background-repeat: repeat-x;" id="tabsLowerMiddle">ï¿½</td>
                             <td valign="top" style="width: 10px; height: 10px;" id="tabsLowerRight">
                                 <img src="/Images/Tabs/box_RightLower.png" alt=""/>
                             </td>
@@ -283,15 +303,15 @@ Volkswagen^ (Diesel) 505 00 / 506 00</p>
                 </div>
             </div>
             <div style="clear:both;width:100%;position:relative;"><!--#include file="Navigation/Footer.aspx" --></div>
-        </div><script type="text/javascript">  
+        </div><script type="text/javascript">
         var tabsdiv = document.getElementById("divTabs");
         var tabs, tabId;
- 
+
         //Get parameter
         var parameters = location.search;
         var index = parameters.indexOf('tabIndex=');
         if (index != -1){
-          
+
           var tabIndex = parameters.charAt(index+9);
           if(tabsdiv.childNodes.length == 1)
           {
@@ -303,7 +323,7 @@ Volkswagen^ (Diesel) 505 00 / 506 00</p>
           if(tabs.childNodes.length >= tabIndex)
           {
             tabId = tabs.childNodes[tabIndex-1].id;
-            showTab(tabId);        
+            showTab(tabId);
             location.href = location.href+"#"+ tabId;
           }
         }

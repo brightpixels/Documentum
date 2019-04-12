@@ -1,5 +1,5 @@
 
-			
+
   <%@ Page Language="C#" AutoEventWireup="false" Inherits="XOM.Common.Web.XOMPage" %>
   <%@ Register TagPrefix="XOM" Namespace="XOM.Common.Web" Assembly="XOMCommon" %>
 
@@ -31,7 +31,7 @@
       <script type="text/javascript" src="/Imports/js/scriptaculous.js"></script>
       <script type="text/javascript" src="/Imports/js/lightview.js"></script>
       <script type="text/javascript" src="/Imports/js/toggleContent.js"></script>
-    
+
         <script type="text/javascript">
     var PAGE_ID="0915881d81ece3a0";
     </script>
@@ -97,12 +97,12 @@
                     <script type="text/javascript">quickEditForm('0915881d8207d4cf', '/Content',false,'../forms/LCWProductDetails','','825px','750px','Product Detail Overview','','pencil.gif','200px');</script><!-- googleon: all -->
                     <div id="topSec">
                         <div style="float:left" id="flash">
-                            <img xmlns="" src="../Shared-Images-LCW/120x150_mobil-1_fs_0w40.jpg" height="150" width="120" alt="Mobil 1 FS 0W-40" title="Mobil 1 FS 0W-40" border="0" hspace="0"> </div>
+                            <img xmlns="" src="../Shared-Images-LCW/120x150_mobil-1_fs_0w40.jpg" height="150" width="120" alt="Mobil 1 FS 0W-40" title="Mobil 1 FS 0W-40" border="0" hspace="0">ï¿½</div>
                         <h1><strong xmlns="">Mobil 1&trade; FS 0W-40&nbsp;&nbsp;</strong>
                         </h1>
                         <p xmlns="">Mobil 1&trade; er verdens ledende merke innen syntetisk motorolje, og gir optimal ytelse og beskyttelse.</p>
 
-                        <p xmlns="">Mobil 1&trade; FS 0W-40 European Car Formula (Nord-Amerika) eller Protection Formula (i resten av verden) er en avansert, helsyntetisk motorolje som er utviklet for den nyeste bensin- og dieselmotorteknologien (uten dieselpartikkelfilter eller DPF-er) og leverer utmerket allsidig ytelse. Oljen gir eksepsjonell rengjøringsevne, slitasjebeskyttelse og totalytelse. Mobil 1 FS 0W-40 gjør at motoren fungerer som ny under alle kjøreforhold.<br>
+                        <p xmlns="">Mobil 1&trade; FS 0W-40 European Car Formula (Nord-Amerika) eller Protection Formula (i resten av verden) er en avansert, helsyntetisk motorolje som er utviklet for den nyeste bensin- og dieselmotorteknologien (uten dieselpartikkelfilter eller DPF-er) og leverer utmerket allsidig ytelse. Oljen gir eksepsjonell rengjï¿½ringsevne, slitasjebeskyttelse og totalytelse. Mobil 1 FS 0W-40 gjï¿½r at motoren fungerer som ny under alle kjï¿½reforhold.<br>
 &nbsp;</p>
                     </div>
                     <table style="width: 454px   " id="tblTabs" cellspacing="0px" cellpadding="0" border="0">
@@ -114,8 +114,8 @@
                                         <li onmouseover="if(this.className!='current')this.className='highlight';" onmouseout="if(this.className!='current')this.className=''" class="current" id="Fordeler">
                                             <a href="#" onclick="javascript:showTab('Fordeler');">Fordeler</a>
                                         </li>
-                                        <li onmouseover="if(this.className!='current')this.className='highlight'" onmouseout="if(this.className!='current')this.className=''" id="Bruksområder">
-                                            <a href="#" onclick="javascript:showTab('Bruksområder');">Bruksområder</a>
+                                        <li onmouseover="if(this.className!='current')this.className='highlight'" onmouseout="if(this.className!='current')this.className=''" id="Bruksomrï¿½der">
+                                            <a href="#" onclick="javascript:showTab('Bruksomrï¿½der');">Bruksomrï¿½der</a>
                                         </li>
                                         <li onmouseover="if(this.className!='current')this.className='highlight'" onmouseout="if(this.className!='current')this.className=''" id="Spesifikasjoner">
                                             <a href="#" onclick="javascript:showTab('Spesifikasjoner');">Spesifikasjoner</a>
@@ -133,46 +133,45 @@
                             </td>
                             <td valign="top" style="width: 435px; background-image:url('/Images/Tabs/boxNoFade_Upper.png'); background-repeat: repeat-x; background-color: #ffffff;" class="midBorder">
                                 <div style="width:434px; white-space:normal; padding-top:10px;display:block " class="divTabContent" id="Fordeler Content">
-                                    <p xmlns="">Mobil 1 FS 0W-40 er fremstilt med en patentert blanding av høytytende syntetiske baseoljer som er forsterket med et nøye balansert tilsetningssystem.&nbsp;</p>
+                                    <p xmlns="">Mobil 1 FS 0W-40 er fremstilt med en patentert blanding av hï¿½ytytende syntetiske baseoljer som er forsterket med et nï¿½ye balansert tilsetningssystem.&nbsp;</p>
                                     <p xmlns="">&nbsp;</p>
                                     <ul xmlns="">
-                                        <li>Møter eller overgår de nyeste OEM- og bransjegodkjenninger</li>
+                                        <li>Mï¿½ter eller overgï¿½r de nyeste OEM- og bransjegodkjenninger</li>
                                         <li>Gir utmerket totalytelse</li>
                                         <li>Har utmerkede egenskaper for hurtig oppstart ved lave temperaturer</li>
-                                        <li>Har forbedrede friksjonsegenskaper som gir god drivstofføkonomi</li>
-                                        <li>Gir rask beskyttelse for redusert motorslitasje og avleiringer, selv under de mest ekstreme kjøreforhold</li>
-                                        <li>Sørger for eksepsjonell rengjøring av skitne motorer.&nbsp;</li>
+                                        <li>Har forbedrede friksjonsegenskaper som gir god drivstoffï¿½konomi</li>
+                                        <li>Gir rask beskyttelse for redusert motorslitasje og avleiringer, selv under de mest ekstreme kjï¿½reforhold</li>
+                                        <li>Sï¿½rger for eksepsjonell rengjï¿½ring av skitne motorer.&nbsp;</li>
                                     </ul>
                                 </div>
-                                <div style="width:415px; white-space:normal; padding-top:10px;display:none " class="divTabContent" id="Bruksområder Content">
-                                    <p xmlns="">Takket være utstrakt samarbeid med større produsenter og bruk av den nyeste smøreteknologien, kan Mobil 1 FS 0W-40 anbefales til praktisk talt alle typer moderne kjøretøy, hvor den gir optimal ytelse selv under svært krevende kjøreforhold.</p>
+                                <div style="width:415px; white-space:normal; padding-top:10px;display:none " class="divTabContent" id="Bruksomrï¿½der Content">
+                                    <p xmlns="">Takket vï¿½re utstrakt samarbeid med stï¿½rre produsenter og bruk av den nyeste smï¿½reteknologien, kan Mobil 1 FS 0W-40 anbefales til praktisk talt alle typer moderne kjï¿½retï¿½y, hvor den gir optimal ytelse selv under svï¿½rt krevende kjï¿½reforhold.</p>
                                     <p xmlns="">&nbsp;</p>
                                     <ul xmlns="">
-                                        <li>Den nyeste motorteknologien, inkludert turbo-, direkte innsprøytnings-, diesel- (uten dieselpartikkelfilter) og hybridmotorer</li>
-                                        <li>Høytytende motorer</li>
+                                        <li>Den nyeste motorteknologien, inkludert turbo-, direkte innsprï¿½ytnings-, diesel- (uten dieselpartikkelfilter) og hybridmotorer</li>
+                                        <li>Hï¿½ytytende motorer</li>
                                         <li>De fleste driftsforhold, fra milde til ekstreme</li>
                                     </ul>
-                                    <p xmlns="">Les alltid brukerhåndboken for å sjekke anbefalt viskositetsgrad og spesifikasjoner for det aktuelle kjøretøyet.</p>
+                                    <p xmlns="">Les alltid brukerhï¿½ndboken for ï¿½ sjekke anbefalt viskositetsgrad og spesifikasjoner for det aktuelle kjï¿½retï¿½yet.</p>
                                 </div>
                                 <div style="width:415px; white-space:normal; padding-top:10px;display:none " class="divTabContent" id="Spesifikasjoner Content">
                                     <p xmlns="">
-                                        <strong>Mobil 1 FS 0W-40 tilfredsstiller eller overgår kravene til:</strong>
+                                        <strong>Mobil 1 FS 0W-40 tilfredsstiller eller overgï¿½r kravene til:</strong>
                                         <br>
 API, SN, SM, SL, SL<br>
 ACEA A3/B3, A3/B4</p>
 
                                     <p xmlns="">
-                                        <strong>Mobil 1 FS 0W-40 har følgende utstyrsprodusentgodkjennelser:</strong>
+                                        <strong>Mobil 1 FS 0W-40 har fï¿½lgende utstyrsprodusentgodkjennelser:</strong>
                                         <br>
 MB-godkjennelse 229.3<br>
 MB-godkjennelse 229.5<br>
 VW 502 00/505 00<br>
 PORSCHE A40<br>
-Nissan Genuine Performances<br>
-AUTOVAZ (LADA Cars) Approved</p>
+Nissan Genuine Performances</p>
 
                                     <p xmlns="">
-                                        <strong>I henhold til ExxonMobil har Mobil 1 FS 0W-40 en av følgende kvaliteter:</strong>
+                                        <strong>I henhold til ExxonMobil har Mobil 1 FS 0W-40 en av fï¿½lgende kvaliteter:</strong>
                                         <br>
 API CF<br>
 VW 503 01<br>
@@ -188,19 +187,19 @@ FIAT 9.55535-M2</p>
                                             <td width="" height="" class="standard">&nbsp;Viskositet, cSt (ASTM D445)</td><td width="" height="" class="standard">&nbsp;</td>
                                         </tr>
                                         <tr>
-                                            <td width="" height="" class="standard">&nbsp;ved 40 ºC</td><td width="" height="" class="standard">&nbsp;70.8</td>
+                                            <td width="" height="" class="standard">&nbsp;ved 40 ï¿½C</td><td width="" height="" class="standard">&nbsp;70.8</td>
                                         </tr>
                                         <tr>
-                                            <td width="" height="" class="standard">&nbsp;ved 100 ºC</td><td width="" height="" class="standard">&nbsp;12.9</td>
+                                            <td width="" height="" class="standard">&nbsp;ved 100 ï¿½C</td><td width="" height="" class="standard">&nbsp;12.9</td>
                                         </tr>
                                         <tr>
                                             <td width="" height="" class="standard">&nbsp;Viskositetsindeks</td><td width="" height="" class="standard">&nbsp;186</td>
                                         </tr>
                                         <tr>
-                                            <td width="" height="" class="standard">&nbsp;MRV ved -40 ºC, cP (ASTM D4684)</td><td width="" height="" class="standard">&nbsp;21600</td>
+                                            <td width="" height="" class="standard">&nbsp;MRV ved -40 ï¿½C, cP (ASTM D4684)</td><td width="" height="" class="standard">&nbsp;21600</td>
                                         </tr>
                                         <tr>
-                                            <td width="" height="" class="standard">&nbsp;HTHS-viskositet, mPa&bull;s ved 150 ºC (ASTM D4683)</td><td width="" height="" class="standard">&nbsp;3.6</td>
+                                            <td width="" height="" class="standard">&nbsp;HTHS-viskositet, mPa&bull;s ved 150 ï¿½C (ASTM D4683)</td><td width="" height="" class="standard">&nbsp;3.6</td>
                                         </tr>
                                         <tr>
                                             <td width="" height="" class="standard">&nbsp;Totalt basetall (ASTM D2896)</td><td width="" height="" class="standard">&nbsp;12.6</td>
@@ -212,10 +211,10 @@ FIAT 9.55535-M2</p>
                                             <td width="" height="" class="standard">&nbsp;Fosfor, wt% (ASTM D4981)</td><td width="" height="" class="standard">&nbsp;0.1</td>
                                         </tr>
                                         <tr>
-                                            <td width="" height="" class="standard">&nbsp;Flammepunkt, ºC (ASTM D 92)</td><td width="" height="" class="standard">&nbsp;226</td>
+                                            <td width="" height="" class="standard">&nbsp;Flammepunkt, ï¿½C (ASTM D 92)</td><td width="" height="" class="standard">&nbsp;226</td>
                                         </tr>
                                         <tr>
-                                            <td width="" height="" class="standard">&nbsp;Densitet ved 15 ºC g/ml (ASTM D4052)</td><td width="" height="" class="standard">&nbsp;0.8456</td>
+                                            <td width="" height="" class="standard">&nbsp;Densitet ved 15 ï¿½C g/ml (ASTM D4052)</td><td width="" height="" class="standard">&nbsp;0.8456</td>
                                         </tr></tbody></table>
                                 </div>
                             </td>
@@ -227,7 +226,7 @@ FIAT 9.55535-M2</p>
                             <td valign="top" style="width: 10px; height: 10px;" id="tabsLowerLeft">
                                 <img src="/Images/Tabs/box_LeftLower.png" alt=""/>
                             </td>
-                            <td valign="top" style="width: 435px; background-image:url('/Images/Tabs/box_Lower.png'); background-repeat: repeat-x;" id="tabsLowerMiddle"> </td>
+                            <td valign="top" style="width: 435px; background-image:url('/Images/Tabs/box_Lower.png'); background-repeat: repeat-x;" id="tabsLowerMiddle">ï¿½</td>
                             <td valign="top" style="width: 10px; height: 10px;" id="tabsLowerRight">
                                 <img src="/Images/Tabs/box_RightLower.png" alt=""/>
                             </td>
@@ -236,15 +235,15 @@ FIAT 9.55535-M2</p>
                 </div>
             </div>
             <div style="clear:both;width:100%;position:relative;"><!--#include file="Navigation/Footer.aspx" --></div>
-        </div><script type="text/javascript">  
+        </div><script type="text/javascript">
         var tabsdiv = document.getElementById("divTabs");
         var tabs, tabId;
- 
+
         //Get parameter
         var parameters = location.search;
         var index = parameters.indexOf('tabIndex=');
         if (index != -1){
-          
+
           var tabIndex = parameters.charAt(index+9);
           if(tabsdiv.childNodes.length == 1)
           {
@@ -256,7 +255,7 @@ FIAT 9.55535-M2</p>
           if(tabs.childNodes.length >= tabIndex)
           {
             tabId = tabs.childNodes[tabIndex-1].id;
-            showTab(tabId);        
+            showTab(tabId);
             location.href = location.href+"#"+ tabId;
           }
         }

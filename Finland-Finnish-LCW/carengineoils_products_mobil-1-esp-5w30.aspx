@@ -1,18 +1,18 @@
 
-			
+
   <%@ Page Language="C#" AutoEventWireup="false" Inherits="XOM.Common.Web.XOMPage" %>
   <%@ Register TagPrefix="XOM" Namespace="XOM.Common.Web" Assembly="XOMCommon" %>
 
 <%@ Register Src="Navigation/carengineoils.ascx" TagName="Navigation" TagPrefix="xom" %><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fi" lang="fi">
     <head><meta http-equiv="X-UA-Compatible" content="IE=8">
-        <title>Mobil&trade; Suomessa | Henkilöautojen moottoriöljyt | Mobil 1&trade; ESP Formula 5W-30</title>
-        <meta name="keywords" content="ESP Formula 5W-30, moottoriöljy, voiteluaine mobil 1 esp, liikkuva, moottorin voiteluaineet, mobile, synteettinen, synteettiset, voiteluaineet, voiteluöljyt, voitelu, öljyt, voitelurasva, rasva, mobil, exxonmobil, exxon, Mobil1, Mobil 1, BP, Shell, moottoriurheilu, F1, Formula 1, Lewis Hamilton, McLaren, castrol
+        <title>Mobil&trade; Suomessa | Henkilï¿½autojen moottoriï¿½ljyt | Mobil 1&trade; ESP Formula 5W-30</title>
+        <meta name="keywords" content="ESP Formula 5W-30, moottoriï¿½ljy, voiteluaine mobil 1 esp, liikkuva, moottorin voiteluaineet, mobile, synteettinen, synteettiset, voiteluaineet, voiteluï¿½ljyt, voitelu, ï¿½ljyt, voitelurasva, rasva, mobil, exxonmobil, exxon, Mobil1, Mobil 1, BP, Shell, moottoriurheilu, F1, Formula 1, Lewis Hamilton, McLaren, castrol
 Mobil 1 ESP Formula 5W-30"/>
-        <meta name="description" content="Lue lisää Mobil 1&trade; ESP Formula 5W-30 -öljystä"/>
+        <meta name="description" content="Lue lisï¿½ï¿½ Mobil 1&trade; ESP Formula 5W-30 -ï¿½ljystï¿½"/>
         <meta name="date" content="2011-12-01"/>
         <meta name="language" content="fi"/>
         <meta http-equiv="Content-Language" content="fi"/>
-        <meta name="WT.ti" content="Mobil&trade; Suomessa | Henkilöautojen moottoriöljyt | Mobil 1&trade; ESP Formula 5W-30"/>
+        <meta name="WT.ti" content="Mobil&trade; Suomessa | Henkilï¿½autojen moottoriï¿½ljyt | Mobil 1&trade; ESP Formula 5W-30"/>
         <meta name="WT.cg_n" content="ProductDetail"/>
         <meta name="WT.cg_s" content=""/>
         <meta name="WT.si_n" content="confirmation"/><link rel="canonical" href="<%="http://www.mobil.fi"+Request.ServerVariables.Get("URL")%>" />
@@ -33,7 +33,7 @@ Mobil 1 ESP Formula 5W-30"/>
       <script type="text/javascript" src="/Imports/js/scriptaculous.js"></script>
       <script type="text/javascript" src="/Imports/js/lightview.js"></script>
       <script type="text/javascript" src="/Imports/js/toggleContent.js"></script>
-    
+
         <script type="text/javascript">
     var PAGE_ID="0915881d80be4a1f";
     </script>
@@ -97,20 +97,20 @@ Mobil 1 ESP Formula 5W-30"/>
                     </div><!-- googleon: all -->
                     <img src="/Images/relatedProducts.png"/>
                     <div class="related_Title">
-                        <p xmlns="">hyödyllisiä linkkejä</p>
+                        <p xmlns="">hyï¿½dyllisiï¿½ linkkejï¿½</p>
                     </div>
                     <div class="related">
                         <div style="float:left">
-                            <a xmlns="" target="_self" onclick="trackClick(this);" href="../Finland-Finnish-LCW/carengineoils_mobil-lubricant-selector.aspx"><img width="60" title="Mikä öljy?" src="../Shared-Images-LCW/teaser_60x60_mobil-1-selector_eame.jpg" longdesc="" height="60" border="0" alt="Mikä öljy?"></a> </div>
+                            <a xmlns="" target="_self" onclick="trackClick(this);" href="../Finland-Finnish-LCW/carengineoils_mobil-lubricant-selector.aspx"><img width="60" title="Mikï¿½ ï¿½ljy?" src="../Shared-Images-LCW/teaser_60x60_mobil-1-selector_eame.jpg" longdesc="" height="60" border="0" alt="Mikï¿½ ï¿½ljy?"></a>ï¿½</div>
                         <h2>
-                            <a title="" target="_self" href="/Finland-Finnish-LCW/carengineoils_mobil-lubricant-selector.aspx">Mikä öljy?</a>
+                            <a title="" target="_self" href="/Finland-Finnish-LCW/carengineoils_mobil-lubricant-selector.aspx">Mikï¿½ ï¿½ljy?</a>
                         </h2>
                         <div class="relatedContent">
-                            <p xmlns="">Tarkista tuotevalitsimellamme, mikä Mobil&trade;-öljy sopii autoosi.</p>&#160;</div>
+                            <p xmlns="">Tarkista tuotevalitsimellamme, mikï¿½ Mobil&trade;-ï¿½ljy sopii autoosi.</p>&#160;</div>
                     </div>
                     <div class="related">
                         <div style="float:left">
-                            <a xmlns="" target="_self" onclick="trackClick(this);" href="../Finland-Finnish-LCW/carengineoils_products_mobil-1-new-life-0w40.aspx"><img width="60" title="Mobil 1 New Life 0W-40" src="../Shared-Images-LCW/teaser_60x60_mobil-1-new-life-0w40_eame.jpg" longdesc="" height="60" border="0" alt="Mobil 1 New Life 0W-40"></a> </div>
+                            <a xmlns="" target="_self" onclick="trackClick(this);" href="../Finland-Finnish-LCW/carengineoils_products_mobil-1-new-life-0w40.aspx"><img width="60" title="Mobil 1 New Life 0W-40" src="../Shared-Images-LCW/teaser_60x60_mobil-1-new-life-0w40_eame.jpg" longdesc="" height="60" border="0" alt="Mobil 1 New Life 0W-40"></a>ï¿½</div>
                         <h2>
                             <a title="" target="_self" href="/Finland-Finnish-LCW/carengineoils_products_mobil-1-new-life-0w40.aspx">Mobil 1 New Life&trade; 0W-40</a>
                         </h2>
@@ -119,7 +119,7 @@ Mobil 1 ESP Formula 5W-30"/>
                     </div>
                     <div class="related">
                         <div style="float:left">
-                            <a xmlns="" target="_self" onclick="trackClick(this);" href="../Finland-Finnish-LCW/carengineoils_products_mobil-1-fuel-economy-0w30.aspx"><img width="60" title="Mobil 1 Fuel Economy 0W-30" src="../Shared-Images-LCW/teaser_60x60_mobil-1-fuel-economy-0w30_eame.jpg" longdesc="" height="60" border="0" alt="Mobil 1 Fuel Economy 0W-30"></a> </div>
+                            <a xmlns="" target="_self" onclick="trackClick(this);" href="../Finland-Finnish-LCW/carengineoils_products_mobil-1-fuel-economy-0w30.aspx"><img width="60" title="Mobil 1 Fuel Economy 0W-30" src="../Shared-Images-LCW/teaser_60x60_mobil-1-fuel-economy-0w30_eame.jpg" longdesc="" height="60" border="0" alt="Mobil 1 Fuel Economy 0W-30"></a>ï¿½</div>
                         <h2>
                             <a title="" target="_self" href="/Finland-Finnish-LCW/carengineoils_products_mobil-1-fuel-economy-0w30.aspx">Mobil 1&trade; Fuel Economy 0W-30</a>
                         </h2>
@@ -131,9 +131,9 @@ Mobil 1 ESP Formula 5W-30"/>
                     <script type="text/javascript">quickEditForm('0915881d8207cde2', '/Content',false,'../forms/LCWProductDetails','','825px','750px','Product Detail Overview','','pencil.gif','200px');</script><!-- googleon: all -->
                     <div id="topSec">
                         <div style="float:left" id="flash">
-                            <img xmlns="" src="../Finland-Finnish-LCW/Images/151x226_esp_5w30_de.png" height="170" width="85" alt="Mobil 1 ESP Formula 5W-30" title="Mobil 1 ESP Formula 5W-30" border="0" hspace="0"> </div>
+                            <img xmlns="" src="../Finland-Finnish-LCW/Images/151x226_esp_5w30_de.png" height="170" width="85" alt="Mobil 1 ESP Formula 5W-30" title="Mobil 1 ESP Formula 5W-30" border="0" hspace="0">ï¿½</div>
                         <h1>Mobil 1&trade; ESP 5W-30</h1>
-                        <p xmlns="">Mobil 1&trade; ESP 5W-30 on edistynyt, synteettinen moottoriöljy, joka on suunniteltu tarjoamaan poikkeuksellisen hyvä puhdistusteho, kulumissuoja ja kokonaissuorituskyky. Asiantuntijat ovat suunnitelleet Mobil 1 ESP 5W-30:n pidentämään päästöjärjestelmien käyttöikää ja ylläpitämään niiden tehokkuutta sekä diesel- että bensiinimoottoreilla varustetuissa autoissa. Mobil 1 ESP 5W-30 täyttää tai ylittää useat teollisuuden ja autonvalmistajien standardit, joita vaaditaan uudemmissa diesel- ja bensiinikäyttöisissä henkilöautoissa.</p>
+                        <p xmlns="">Mobil 1&trade; ESP 5W-30 on edistynyt, synteettinen moottoriï¿½ljy, joka on suunniteltu tarjoamaan poikkeuksellisen hyvï¿½ puhdistusteho, kulumissuoja ja kokonaissuorituskyky. Asiantuntijat ovat suunnitelleet Mobil 1 ESP 5W-30:n pidentï¿½mï¿½ï¿½n pï¿½ï¿½stï¿½jï¿½rjestelmien kï¿½yttï¿½ikï¿½ï¿½ ja yllï¿½pitï¿½mï¿½ï¿½n niiden tehokkuutta sekï¿½ diesel- ettï¿½ bensiinimoottoreilla varustetuissa autoissa. Mobil 1 ESP 5W-30 tï¿½yttï¿½ï¿½ tai ylittï¿½ï¿½ useat teollisuuden ja autonvalmistajien standardit, joita vaaditaan uudemmissa diesel- ja bensiinikï¿½yttï¿½isissï¿½ henkilï¿½autoissa.</p>
                     </div>
                     <table style="width: 454px   " id="tblTabs" cellspacing="0px" cellpadding="0" border="0">
                         <tr id="tabNav">
@@ -144,8 +144,8 @@ Mobil 1 ESP Formula 5W-30"/>
                                         <li onmouseover="if(this.className!='current')this.className='highlight';" onmouseout="if(this.className!='current')this.className=''" class="current" id="Edut">
                                             <a href="#" onclick="javascript:showTab('Edut');">Edut</a>
                                         </li>
-                                        <li onmouseover="if(this.className!='current')this.className='highlight'" onmouseout="if(this.className!='current')this.className=''" id="Käyttökohteet">
-                                            <a href="#" onclick="javascript:showTab('Käyttökohteet');">Käyttökohteet</a>
+                                        <li onmouseover="if(this.className!='current')this.className='highlight'" onmouseout="if(this.className!='current')this.className=''" id="Kï¿½yttï¿½kohteet">
+                                            <a href="#" onclick="javascript:showTab('Kï¿½yttï¿½kohteet');">Kï¿½yttï¿½kohteet</a>
                                         </li>
                                         <li onmouseover="if(this.className!='current')this.className='highlight'" onmouseout="if(this.className!='current')this.className=''" id="Luokitukset">
                                             <a href="#" onclick="javascript:showTab('Luokitukset');">Luokitukset</a>
@@ -163,66 +163,83 @@ Mobil 1 ESP Formula 5W-30"/>
                             </td>
                             <td valign="top" style="width: 435px; background-image:url('/Images/Tabs/boxNoFade_Upper.png'); background-repeat: repeat-x; background-color: #ffffff;" class="midBorder">
                                 <div style="width:434px; white-space:normal; padding-top:10px;display:block " class="divTabContent" id="Edut Content">
-                                    <p xmlns="">Mobil 1 ESP 5W-30 on valmistettu yksinoikeudella huippuluokan komponenteista yhteensopivaksi uusimpien dieselhiukkassuodattimien (DPF) ja bensiinimoottoreiden katalysaattoreiden kanssa. Mobil 1 ESP 5W 0W-30 on suunniteltu edistämään erinomaista suorituskykyä ja suojaa yhdessä paremman polttoainetalouden kanssa. Tärkeimmät edut ja mahdolliset hyödyt:
+                                    <p xmlns="">Mobil 1 ESP 5W-30 on valmistettu yksinoikeudella huippuluokan komponenteista yhteensopivaksi uusimpien dieselhiukkassuodattimien (DPF) ja bensiinimoottoreiden katalysaattoreiden kanssa. Mobil 1 ESP 5W 0W-30 on suunniteltu edistï¿½mï¿½ï¿½n erinomaista suorituskykyï¿½ ja suojaa yhdessï¿½ paremman polttoainetalouden kanssa. Tï¿½rkeimmï¿½t edut ja mahdolliset hyï¿½dyt:
 <table width="100%" summary="" class="standard" cellspacing="0" border="0">
                                             <thead>
                                                 <tr>
-                                                    <th width="" scope="col" height="" class="standard">Ominaisuudet</th><th width="" scope="col" height="" class="standard">Edut ja mahdolliset hyödyt</th>
+                                                    <th width="" scope="col" height="" class="standard">Ominaisuudet</th><th width="" scope="col" height="" class="standard">Edut ja mahdolliset hyï¿½dyt</th>
                                                 </tr>
                                             </thead><tbody><tr>
-                                                <td width="" height="" class="standard">Matala tuhkapitoisuus</td><td width="" height="" class="standard">Auttaa vähentämään hiukkasten kertymistä dieselhiukkassuodattimiin</td>
+                                                <td width="" height="" class="standard">Matala tuhkapitoisuus</td><td width="" height="" class="standard">Auttaa vï¿½hentï¿½mï¿½ï¿½n hiukkasten kertymistï¿½ dieselhiukkassuodattimiin</td>
                                             </tr>
                                             <tr>
-                                                <td width="" height="" class="standard">Matala rikki- ja fosforipitoisuus</td><td width="" height="" class="standard">Auttaa vähentämään bensiinimoottoreiden katalysaattoreiden vahingoittumista</td>
+                                                <td width="" height="" class="standard">Matala rikki- ja fosforipitoisuus</td><td width="" height="" class="standard">Auttaa vï¿½hentï¿½mï¿½ï¿½n bensiinimoottoreiden katalysaattoreiden vahingoittumista</td>
                                             </tr>
                                             <tr>
-                                                <td width="" height="" class="standard">Aktiiviset puhdistusaineet</td><td width="" height="" class="standard">Auttaa vähentämään sakan ja karstan kertymistä, mikä antaa moottorille pitkän ja puhtaan käyttöiän</td>
+                                                <td width="" height="" class="standard">Aktiiviset puhdistusaineet</td><td width="" height="" class="standard">Auttaa vï¿½hentï¿½mï¿½ï¿½n sakan ja karstan kertymistï¿½, mikï¿½ antaa moottorille pitkï¿½n ja puhtaan kï¿½yttï¿½iï¿½n</td>
                                             </tr>
                                             <tr>
-                                                <td width="" height="" class="standard">Erinomainen lämmönsieto ja hapettumiskestävyys</td><td width="" height="" class="standard">Auttaa vähentämään öljyn vanhenemista ja mahdollistaa pitkät öljynvaihtovälit</td>
+                                                <td width="" height="" class="standard">Erinomainen lï¿½mmï¿½nsieto ja hapettumiskestï¿½vyys</td><td width="" height="" class="standard">Auttaa vï¿½hentï¿½mï¿½ï¿½n ï¿½ljyn vanhenemista ja mahdollistaa pitkï¿½t ï¿½ljynvaihtovï¿½lit</td>
                                             </tr>
                                             <tr>
-                                                <td width="" height="" class="standard">Pieni öljynkulutus</td><td width="" height="" class="standard">Vähemmän hiilivetypäästöjä</td>
+                                                <td width="" height="" class="standard">Pieni ï¿½ljynkulutus</td><td width="" height="" class="standard">Vï¿½hemmï¿½n hiilivetypï¿½ï¿½stï¿½jï¿½</td>
                                             </tr>
                                             <tr>
-                                                <td width="" height="" class="standard">Parannetut kitkaominaisuudet</td><td width="" height="" class="standard">Edistää polttoainetaloutta</td>
+                                                <td width="" height="" class="standard">Parannetut kitkaominaisuudet</td><td width="" height="" class="standard">Edistï¿½ï¿½ polttoainetaloutta</td>
                                             </tr>
                                             <tr>
-                                                <td width="" height="" class="standard">Erinomainen suorituskyky alhaisissa lämpötiloissa</td><td width="" height="" class="standard">Nopea kylmäkäynnistys ja huippunopea suoja <br>
-            Auttaa pidentämään moottorin käyttöikää</td>
+                                                <td width="" height="" class="standard">Erinomainen suorituskyky alhaisissa lï¿½mpï¿½tiloissa</td><td width="" height="" class="standard">Nopea kylmï¿½kï¿½ynnistys ja huippunopea suoja <br>
+            Auttaa pidentï¿½mï¿½ï¿½n moottorin kï¿½yttï¿½ikï¿½ï¿½</td>
                                             </tr></tbody></table>
 
                                     </p>
                                 </div>
-                                <div style="width:415px; white-space:normal; padding-top:10px;display:none " class="divTabContent" id="Käyttökohteet Content">
-                                    <p xmlns="">Mobil 1 ESP 5W-30 suositellaan kaikentyyppisille uudenaikaisille autonmoottoreille, erityisesti uusimpien henkilöautojen, citymaastureiden ja kevyiden pakettiautojen suorituskykyisille bensiini- ja dieselmoottoreille.</p>
+                                <div style="width:415px; white-space:normal; padding-top:10px;display:none " class="divTabContent" id="Kï¿½yttï¿½kohteet Content">
+                                    <p xmlns="">Mobil 1 ESP 5W-30 suositellaan kaikentyyppisille uudenaikaisille autonmoottoreille, erityisesti uusimpien henkilï¿½autojen, citymaastureiden ja kevyiden pakettiautojen suorituskykyisille bensiini- ja dieselmoottoreille.</p>
                                     <ul xmlns="">
-                                        <li>Mobil 1 ESP 5W-30 soveltuu erityisesti äärimmäisiin olosuhteisiin, joissa perinteisten öljyjen suorituskyky ei ehkä riitä.</li>
-                                        <li>Mobil 1 ESP 5W-30:a ei suositella 2-tahtimoottoreille eikä lentokonemoottoreille, jollei valmistaja ole tuotetta erikseen hyväksynyt.</li>
+                                        <li>Mobil 1 ESP 5W-30 soveltuu erityisesti ï¿½ï¿½rimmï¿½isiin olosuhteisiin, joissa perinteisten ï¿½ljyjen suorituskyky ei ehkï¿½ riitï¿½.</li>
+                                        <li>Mobil 1 ESP 5W-30:a ei suositella 2-tahtimoottoreille eikï¿½ lentokonemoottoreille, jollei valmistaja ole tuotetta erikseen hyvï¿½ksynyt.</li>
                                     </ul>
                                 </div>
                                 <div style="width:415px; white-space:normal; padding-top:10px;display:none " class="divTabContent" id="Luokitukset Content">
+                                    <p>
+                                      <strong>Luokitukset ja hyvÃ¤ksynnÃ¤t</strong><br>
+                                    </p>
                                     <p xmlns="">
-                                        <strong>Mobil 1 ESP 5W-30 on seuraavien valmistajien hyväksymä:&nbsp;&nbsp; <br>
-
-                                        </strong>MB-Approval 229.31 / 229.51 / 229.52<br>
-VW 504 00 / 507 00 <br>
-GM dexos2<br>
-Porsche C30<br>
-PSA B712290</p>
+                                        <strong>ExxonMobilin mukaan Mobil 1 ESP 5W-30 on seuraavaa laatutasoa:
+                                            &nbsp;&nbsp; <br></strong>
+                                            API CF<br>
+                                            VW 502 00<br>
+                                            VW 503 00<br>
+                                            VW 503 01<br>
+                                            VW 505 00<br>
+                                            VW 506 00
+                                    </p>
+                                    <p xmlns="">
+                                        <strong>Mobil 1 ESP 5W-30 tÃ¤yttÃ¤Ã¤ tai ylittÃ¤Ã¤ seuraavien spesifikaatioiden vaatimukset:&nbsp;&nbsp; <br></strong>
+                                        LSAC GF-5 ENGINE TEST REQUIREMENTS
+                                    </p>
 
                                     <p xmlns="">
-                                        <strong>Mobil 1 ESP 5W-30 täyttää tai ylittää seuraavien spesifikaatioiden vaatimukset:&nbsp;&nbsp; <br>
-
-                                        </strong>API SN, SM, SL, SJ&nbsp; <br>
-ACEA C2, C3</p>
-
-                                    <p xmlns="">
-                                        <strong>ExxonMobilin mukaan Mobil 1 ESP 5W-30 on seuraavaa laatutasoa:&nbsp;&nbsp; <br>
-
-                                        </strong>API CF <br>
-Volkswagen (Bensiini): 502 00 / 503 00 / 503 01<br>
-Volkswagen (Diesel): 505 010/ 506 00</p>
+                                        <strong>ExxonMobilin mukaan Mobil 1 ESP 5W-30 on seuraavaa laatutasoa:&nbsp;&nbsp; <br></strong>
+                                        VW 504 00<br>
+                                        VW 507 00<br>
+                                        PORSCHE C30<br>
+                                        PSA B712290<br>
+                                        GM dexos2<br>
+                                        MB-Approval 229.31<br>
+                                        MB-Approval 229.51<br>
+                                        MB-Approval 229.52
+                                    </p>
+                                    <p>
+                                      <strong>Mobil 1 ESP 0W-30 tÃ¤yttÃ¤Ã¤ tai ylittÃ¤Ã¤ vaatimukset: &nbsp;&nbsp; <br></strong>
+                                      API SN<br>
+                                      API SM<br>
+                                      API SL<br>
+                                      API SJ<br>
+                                      ACEA C2<br>
+                                      ACEA C3
+                                    </p>
                                 </div>
                                 <div style="width:415px; white-space:normal; padding-top:10px;display:none " class="divTabContent" id="Ominaisuudet Content">
                                     <p xmlns="">
@@ -241,16 +258,16 @@ Volkswagen (Diesel): 505 010/ 506 00</p>
                                                 <td width="" height="" class="standard">Tuhkapitoisuus, paino-% (ASTM D874)</td><td width="" height="" class="standard">0.8</td>
                                             </tr>
                                             <tr>
-                                                <td width="" height="" class="standard">HTHS viskositeetti, mPa&bull;s @ 150 °C (ASTM D4683)</td><td width="" height="" class="standard">3.5</td>
+                                                <td width="" height="" class="standard">HTHS viskositeetti, mPa&bull;s @ 150 ï¿½C (ASTM D4683)</td><td width="" height="" class="standard">3.5</td>
                                             </tr>
                                             <tr>
-                                                <td width="" height="" class="standard">Jähmepiste, °C, (ASTM D 97)</td><td width="" height="" class="standard">-48</td>
+                                                <td width="" height="" class="standard">Jï¿½hmepiste, ï¿½C, (ASTM D 97)</td><td width="" height="" class="standard">-48</td>
                                             </tr>
                                             <tr>
-                                                <td width="" height="" class="standard">Leimahduspiste, °C, (ASTM D92)</td><td width="" height="" class="standard">239</td>
+                                                <td width="" height="" class="standard">Leimahduspiste, ï¿½C, (ASTM D92)</td><td width="" height="" class="standard">239</td>
                                             </tr>
                                             <tr>
-                                                <td width="" height="" class="standard">Density @ 15.6 ºC, g/ml (ASTM D4052)</td><td width="" height="" class="standard">0.8458</td>
+                                                <td width="" height="" class="standard">Density @ 15.6 ï¿½C, g/ml (ASTM D4052)</td><td width="" height="" class="standard">0.8458</td>
                                             </tr></tbody></table>
                                     </p>
                                 </div>
@@ -263,7 +280,7 @@ Volkswagen (Diesel): 505 010/ 506 00</p>
                             <td valign="top" style="width: 10px; height: 10px;" id="tabsLowerLeft">
                                 <img src="/Images/Tabs/box_LeftLower.png" alt=""/>
                             </td>
-                            <td valign="top" style="width: 435px; background-image:url('/Images/Tabs/box_Lower.png'); background-repeat: repeat-x;" id="tabsLowerMiddle"> </td>
+                            <td valign="top" style="width: 435px; background-image:url('/Images/Tabs/box_Lower.png'); background-repeat: repeat-x;" id="tabsLowerMiddle">ï¿½</td>
                             <td valign="top" style="width: 10px; height: 10px;" id="tabsLowerRight">
                                 <img src="/Images/Tabs/box_RightLower.png" alt=""/>
                             </td>
@@ -272,15 +289,15 @@ Volkswagen (Diesel): 505 010/ 506 00</p>
                 </div>
             </div>
             <div style="clear:both;width:100%;position:relative;"><!--#include file="Navigation/Footer.aspx" --></div>
-        </div><script type="text/javascript">  
+        </div><script type="text/javascript">
         var tabsdiv = document.getElementById("divTabs");
         var tabs, tabId;
- 
+
         //Get parameter
         var parameters = location.search;
         var index = parameters.indexOf('tabIndex=');
         if (index != -1){
-          
+
           var tabIndex = parameters.charAt(index+9);
           if(tabsdiv.childNodes.length == 1)
           {
@@ -292,7 +309,7 @@ Volkswagen (Diesel): 505 010/ 506 00</p>
           if(tabs.childNodes.length >= tabIndex)
           {
             tabId = tabs.childNodes[tabIndex-1].id;
-            showTab(tabId);        
+            showTab(tabId);
             location.href = location.href+"#"+ tabId;
           }
         }

@@ -1,12 +1,12 @@
 
-			
+
   <%@ Page Language="C#" AutoEventWireup="false" Inherits="XOM.Common.Web.XOMPage" %>
   <%@ Register TagPrefix="XOM" Namespace="XOM.Common.Web" Assembly="XOMCommon" %>
 
 <%@ Register Src="Navigation/carengineoils.ascx" TagName="Navigation" TagPrefix="xom" %><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
     <head><meta http-equiv="X-UA-Compatible" content="IE=8">
         <title>Mobil&trade; i Norge | Motorolje for biler | Mobil 1&trade; 0W-20</title>
-        <meta name="keywords" content="Mobil 1 0W-20, motorolje, smøring, smøremiddel, mobil 1 esp, mobile, motorolje, smøremidler motor, mobile, syntetisk olje, syntetisk, helsyntetisk, fullsyntetisk, syntetiske, smøremidler, smøring, olje, smørefett, grease, mobil , exxonmobil , exxon , Mobil1 , Mobil 1 , BP , Shell , motorsport , F1 , Formel 1 , Lewis Hamilton , McLaren , Castrol"/>
+        <meta name="keywords" content="Mobil 1 0W-20, motorolje, smï¿½ring, smï¿½remiddel, mobil 1 esp, mobile, motorolje, smï¿½remidler motor, mobile, syntetisk olje, syntetisk, helsyntetisk, fullsyntetisk, syntetiske, smï¿½remidler, smï¿½ring, olje, smï¿½refett, grease, mobil , exxonmobil , exxon , Mobil1 , Mobil 1 , BP , Shell , motorsport , F1 , Formel 1 , Lewis Hamilton , McLaren , Castrol"/>
         <meta name="description" content="Finn ut mer om motoroljen Mobil 1&trade; 0W-20"/>
         <meta name="date" content="2010-06-01"/>
         <meta name="language" content="en"/>
@@ -31,7 +31,7 @@
       <script type="text/javascript" src="/Imports/js/scriptaculous.js"></script>
       <script type="text/javascript" src="/Imports/js/lightview.js"></script>
       <script type="text/javascript" src="/Imports/js/toggleContent.js"></script>
-    
+
         <script type="text/javascript">
     var PAGE_ID="0915881d80bb3ef4";
     </script>
@@ -99,17 +99,17 @@
                     </div>
                     <div class="related">
                         <div style="float:left">
-                            <a xmlns="" target="_self" onclick="trackClick(this);" href="../Norway-Norwegian-LCW/carengineoils_mobil-lubricant-selector.aspx"><img width="60" title="Mobil Oljevelger for bilen din" src="../Norway-Norwegian-LCW/Images/teaser_60x60_which-oil_nord.jpg" longdesc="" height="60" border="0" alt="Mobil Oljevelger for bilen din"></a> </div>
+                            <a xmlns="" target="_self" onclick="trackClick(this);" href="../Norway-Norwegian-LCW/carengineoils_mobil-lubricant-selector.aspx"><img width="60" title="Mobil Oljevelger for bilen din" src="../Norway-Norwegian-LCW/Images/teaser_60x60_which-oil_nord.jpg" longdesc="" height="60" border="0" alt="Mobil Oljevelger for bilen din"></a>ï¿½</div>
                         <h2>
                             <a title="" target="_self" href="/Norway-Norwegian-LCW/carengineoils_mobil-lubricant-selector.aspx">
 Mobil&trade; oljevelger?</a>
                         </h2>
                         <div class="relatedContent">
-                            <p xmlns="">Sjekk hvilken Mobil-olje som er riktig for bilen din med vårt verktøy &rdquo;Mobil Oljevelger&rdquo;.</p>&#160;</div>
+                            <p xmlns="">Sjekk hvilken Mobil-olje som er riktig for bilen din med vï¿½rt verktï¿½y &rdquo;Mobil Oljevelger&rdquo;.</p>&#160;</div>
                     </div>
                     <div class="related">
                         <div style="float:left">
-                            <a xmlns="" target="_self" onclick="trackClick(this);" href="../Norway-Norwegian-LCW/carengineoils_products_mobil-1-new-life-0w40.aspx"><img width="60" title="Mobil 1 New Life 0W-40" src="../Shared-Images-LCW/teaser_60x60_mobil-1-new-life-0w40_eame.jpg" longdesc="" height="60" border="0" alt="Mobil 1 New Life 0W-40"></a> </div>
+                            <a xmlns="" target="_self" onclick="trackClick(this);" href="../Norway-Norwegian-LCW/carengineoils_products_mobil-1-new-life-0w40.aspx"><img width="60" title="Mobil 1 New Life 0W-40" src="../Shared-Images-LCW/teaser_60x60_mobil-1-new-life-0w40_eame.jpg" longdesc="" height="60" border="0" alt="Mobil 1 New Life 0W-40"></a>ï¿½</div>
                         <h2>
                             <a title="" target="_self" href="/Norway-Norwegian-LCW/carengineoils_products_mobil-1-new-life-0w40.aspx">Mobil 1 New Life&trade; 0W-40</a>
                         </h2>
@@ -118,9 +118,9 @@ Mobil&trade; oljevelger?</a>
                     </div>
                     <div class="related">
                         <div style="float:left">
-                            <a xmlns="" target="_self" onclick="trackClick(this);" href="../Norway-Norwegian-LCW/carengineoils_products_mobil-1-esp-formula-5w30.aspx"><img width="60" title="Mobil ESP Formula 5W-30" src="../Shared-Images-LCW/teaser_60x60_mobil-1-esp-5w30_eame.jpg" longdesc="" height="60" border="0" alt="Mobil ESP Formula 5W-30"></a> </div>
+                            <a xmlns="" target="_self" onclick="trackClick(this);" href="../Norway-Norwegian-LCW/carengineoils_products_mobil-1-esp-5w30.aspx"><img width="60" title="Mobil ESP Formula 5W-30" src="../Shared-Images-LCW/teaser_60x60_mobil-1-esp-5w30_eame.jpg" longdesc="" height="60" border="0" alt="Mobil ESP Formula 5W-30"></a>ï¿½</div>
                         <h2>
-                            <a title="" target="_self" href="/Norway-Norwegian-LCW/carengineoils_products_mobil-1-esp-formula-5w30.aspx">Mobil&nbsp;1&trade; ESP Formula 5W-30</a>
+                            <a title="" target="_self" href="/Norway-Norwegian-LCW/carengineoils_products_mobil-1-esp-5w30.aspx">Mobil&nbsp;1&trade; ESP Formula 5W-30</a>
                         </h2>
                         <div class="relatedContent">
                             <p xmlns="">&nbsp;&nbsp;</p>&#160;</div>
@@ -130,9 +130,9 @@ Mobil&trade; oljevelger?</a>
                     <script type="text/javascript">quickEditForm('0915881d8207d501', '/Content',false,'../forms/LCWProductDetails','','825px','750px','Product Detail Overview','','pencil.gif','200px');</script><!-- googleon: all -->
                     <div id="topSec">
                         <div style="float:left" id="flash">
-                            <img xmlns="" src="../Shared-Images-LCW/product_120x150_mobil-1-0w20_eame.jpg" height="150" width="120" alt="Mobil 1 0W-20" title="Mobil 1 0W-20" border="0" hspace="0"> </div>
+                            <img xmlns="" src="../Shared-Images-LCW/product_120x150_mobil-1-0w20_eame.jpg" height="150" width="120" alt="Mobil 1 0W-20" title="Mobil 1 0W-20" border="0" hspace="0">ï¿½</div>
                         <h1>Mobil 1&trade; 0W-20</h1>
-                        <p xmlns="">Mobil 1&trade; 0W-20 er en helsyntetisk motorolje med avansert yteevne, utviklet for å bidra til å gi optimal motorbeskyttelse og forbedret drivstofføkonomi. Mobil 1 0W-20 møter eller overgår kravene i de nyeste industristandardene og utklasser de konvensjonelle oljetypene. Mobil 1 0W-20 anbefales for applikasjonene SAE 0W-20 og 5W-20.</p>
+                        <p xmlns="">Mobil 1&trade; 0W-20 er en helsyntetisk motorolje med avansert yteevne, utviklet for ï¿½ bidra til ï¿½ gi optimal motorbeskyttelse og forbedret drivstoffï¿½konomi. Mobil 1 0W-20 mï¿½ter eller overgï¿½r kravene i de nyeste industristandardene og utklasser de konvensjonelle oljetypene. Mobil 1 0W-20 anbefales for applikasjonene SAE 0W-20 og 5W-20.</p>
                     </div>
                     <table style="width: 454px   " id="tblTabs" cellspacing="0px" cellpadding="0" border="0">
                         <tr id="tabNav">
@@ -143,8 +143,8 @@ Mobil&trade; oljevelger?</a>
                                         <li onmouseover="if(this.className!='current')this.className='highlight';" onmouseout="if(this.className!='current')this.className=''" class="current" id="Fordeler">
                                             <a href="#" onclick="javascript:showTab('Fordeler');">Fordeler</a>
                                         </li>
-                                        <li onmouseover="if(this.className!='current')this.className='highlight'" onmouseout="if(this.className!='current')this.className=''" id="Bruksområder">
-                                            <a href="#" onclick="javascript:showTab('Bruksområder');">Bruksområder</a>
+                                        <li onmouseover="if(this.className!='current')this.className='highlight'" onmouseout="if(this.className!='current')this.className=''" id="Bruksomrï¿½der">
+                                            <a href="#" onclick="javascript:showTab('Bruksomrï¿½der');">Bruksomrï¿½der</a>
                                         </li>
                                         <li onmouseover="if(this.className!='current')this.className='highlight'" onmouseout="if(this.className!='current')this.className=''" id="Spesifikasjoner">
                                             <a href="#" onclick="javascript:showTab('Spesifikasjoner');">Spesifikasjoner</a>
@@ -162,31 +162,31 @@ Mobil&trade; oljevelger?</a>
                             </td>
                             <td valign="top" style="width: 435px; background-image:url('/Images/Tabs/boxNoFade_Upper.png'); background-repeat: repeat-x; background-color: #ffffff;" class="midBorder">
                                 <div style="width:434px; white-space:normal; padding-top:10px;display:block " class="divTabContent" id="Fordeler Content">
-                                    <p xmlns="">Mobil 1 0W-20 er laget av en syntetisk baseolje med høy yteevne, forsterket med et nøye balansert komponentsystem. Den helsyntetiske oljen med lav viskositet bidrar til økt motorytelse og forbedret drivstofføkonomi. Mobil 1 0W-20 beskytter på samme måte somhøyviskositetsoljene ved høye temperaturer og gir samtidig den beste drivstofføkonomien i Mobil 1-serien. Nøkkelegenskaper og potensielle fordeler inkluderer:</p>
+                                    <p xmlns="">Mobil 1 0W-20 er laget av en syntetisk baseolje med hï¿½y yteevne, forsterket med et nï¿½ye balansert komponentsystem. Den helsyntetiske oljen med lav viskositet bidrar til ï¿½kt motorytelse og forbedret drivstoffï¿½konomi. Mobil 1 0W-20 beskytter pï¿½ samme mï¿½te somhï¿½yviskositetsoljene ved hï¿½ye temperaturer og gir samtidig den beste drivstoffï¿½konomien i Mobil 1-serien. Nï¿½kkelegenskaper og potensielle fordeler inkluderer:</p>
                                     <table xmlns="" width="100%" summary="" class="standard" cellspacing="0" border="0">
                                         <thead>
                                             <tr>
                                                 <th width="" scope="col" height="" class="standard">Egenskaper</th><th width="" scope="col" height="" class="standard">Fordeler og potensiell nytte</th>
                                             </tr>
                                         </thead><tbody><tr>
-                                            <td width="" height="" class="standard">Lav viskositet, helsyntetisk olje med avansert yteevne</td><td width="" height="" class="standard">Bidrar til å forbedre drivstofføkonomien basert på en potensiell forbedring på 0,2-2,3 % som oppnås ved å bytte fra oljer med høyere viskositet til en 0W-20-olje. Den faktiske besparelsen er avhengig av kjøretøy/motortype, utetemperatur, kjøreforhold, og viskositeten til den nåværende motoroljen.</td>
+                                            <td width="" height="" class="standard">Lav viskositet, helsyntetisk olje med avansert yteevne</td><td width="" height="" class="standard">Bidrar til ï¿½ forbedre drivstoffï¿½konomien basert pï¿½ en potensiell forbedring pï¿½ 0,2-2,3 % som oppnï¿½s ved ï¿½ bytte fra oljer med hï¿½yere viskositet til en 0W-20-olje. Den faktiske besparelsen er avhengig av kjï¿½retï¿½y/motortype, utetemperatur, kjï¿½reforhold, og viskositeten til den nï¿½vï¿½rende motoroljen.</td>
                                         </tr>
                                         <tr>
-                                            <td width="" height="" class="standard">Unik varme- og oksidasjonsstabilitet</td><td width="" height="" class="standard">Bidrar til å redusere oljens aldring, som gir til langvarig beskyttelse</td>
+                                            <td width="" height="" class="standard">Unik varme- og oksidasjonsstabilitet</td><td width="" height="" class="standard">Bidrar til ï¿½ redusere oljens aldring, som gir til langvarig beskyttelse</td>
                                         </tr>
                                         <tr>
-                                            <td width="" height="" class="standard">Fremragende egenskaper ved lave temperaturer</td><td width="" height="" class="standard">Hurtig oppstart under kalde forhold og rask beskyttelse bidrar til å forlenge motorens levetid</td>
+                                            <td width="" height="" class="standard">Fremragende egenskaper ved lave temperaturer</td><td width="" height="" class="standard">Hurtig oppstart under kalde forhold og rask beskyttelse bidrar til ï¿½ forlenge motorens levetid</td>
                                         </tr>
                                         <tr>
-                                            <td width="" height="" class="standard">Nøye balansert komponentsystem</td><td width="" height="" class="standard">Fremragende smøring generelt og ypperlig beskyttelse mot slitasje for mange kjørestiler og forhold, fra enkle til krevende, hvor 5W-20 eller 0W-20 anbefales.</td>
+                                            <td width="" height="" class="standard">Nï¿½ye balansert komponentsystem</td><td width="" height="" class="standard">Fremragende smï¿½ring generelt og ypperlig beskyttelse mot slitasje for mange kjï¿½restiler og forhold, fra enkle til krevende, hvor 5W-20 eller 0W-20 anbefales.</td>
                                         </tr></tbody></table>
                                     <p xmlns="">&nbsp;</p>
                                 </div>
-                                <div style="width:415px; white-space:normal; padding-top:10px;display:none " class="divTabContent" id="Bruksområder Content">
+                                <div style="width:415px; white-space:normal; padding-top:10px;display:none " class="divTabContent" id="Bruksomrï¿½der Content">
                                     <p xmlns="">Mobil 1 0W-20 anbefales av ExxonMobil for applikasjonene SAE 5W-20 og 0W-20 i alle typer personbiler, SUV-er, varebiler og lette lastebiler.</p>
                                     <ul xmlns="">
-                                        <li>Mobil 1 0W-20&nbsp; er utviklet for å bidra til å gi fremragende motorbeskyttelse og forbedret drivstofføkonomi.</li>
-                                        <li>Mobil 1 0W-20 anbefales ved ekstremt kalde værforhold, for å bidra til å gi rask start og hurtig smøring.</li>
+                                        <li>Mobil 1 0W-20&nbsp; er utviklet for ï¿½ bidra til ï¿½ gi fremragende motorbeskyttelse og forbedret drivstoffï¿½konomi.</li>
+                                        <li>Mobil 1 0W-20 anbefales ved ekstremt kalde vï¿½rforhold, for ï¿½ bidra til ï¿½ gi rask start og hurtig smï¿½ring.</li>
                                         <li>Mobil 1 0W-20 anbefales ikke for 2-takts motorer eller flymotorer, med mindre det er spesifikt godkjent av produsenten.</li>
                                     </ul>
                                 </div>
@@ -194,7 +194,7 @@ Mobil&trade; oljevelger?</a>
                                     <table xmlns="" width="100%" summary="" class="standard" cellspacing="0" border="0">
                                         <thead>
                                             <tr>
-                                                <th width="" scope="col" height="" class="standard"><strong>Mobil 1 0W-20 møter eller overgår kravene til: </strong></th><th width="" scope="col" height="" class="standard">&nbsp;</th>
+                                                <th width="" scope="col" height="" class="standard"><strong>Mobil 1 0W-20 mï¿½ter eller overgï¿½r kravene til: </strong></th><th width="" scope="col" height="" class="standard">&nbsp;</th>
                                             </tr>
                                         </thead><tbody><tr>
                                             <td width="" height="" class="standard">API</td><td width="" height="" class="standard">SN,SM,SL,SJ<br>
@@ -211,7 +211,7 @@ Mobil&trade; oljevelger?</a>
                                     <table xmlns="" width="100%" summary="" class="standard" cellspacing="0" border="0">
                                         <thead>
                                             <tr>
-                                                <th width="" scope="col" height="" class="standard"><strong>I henhold til ExxonMobil har Mobil 1 0W-20 følgende kvalitetsnivå:</strong></th><th width="" scope="col" height="" class="standard">&nbsp;</th>
+                                                <th width="" scope="col" height="" class="standard"><strong>I henhold til ExxonMobil har Mobil 1 0W-20 fï¿½lgende kvalitetsnivï¿½:</strong></th><th width="" scope="col" height="" class="standard">&nbsp;</th>
                                             </tr>
                                         </thead><tbody><tr>
                                             <td width="" height="" class="standard">General Motors</td><td width="" height="" class="standard">GM 6094M</td>
@@ -223,7 +223,7 @@ Mobil&trade; oljevelger?</a>
                                     <table xmlns="" width="100%" summary="" class="standard" cellspacing="0" border="0">
                                         <thead>
                                             <tr>
-                                                <th width="" scope="col" height="" class="standard"><strong>Mobil 1 0W-20 har følgende utstyrsprodusentgodkjennelser:</strong></th><th width="" scope="col" height="" class="standard">&nbsp;</th>
+                                                <th width="" scope="col" height="" class="standard"><strong>Mobil 1 0W-20 har fï¿½lgende utstyrsprodusentgodkjennelser:</strong></th><th width="" scope="col" height="" class="standard">&nbsp;</th>
                                             </tr>
                                         </thead><tbody><tr>
                                             <td width="" height="" class="standard">General Motors Service Fill</td><td width="" height="" class="standard">dexos1&trade; Gen 2 (lisensenummer D10101GH015)</td>
@@ -239,10 +239,10 @@ Mobil&trade; oljevelger?</a>
                                             <td width="" height="" class="standard">SAE-klasse</td><td width="" height="" class="standard">0W-20</td>
                                         </tr>
                                         <tr>
-                                            <td width="" height="" class="standard">Viskositet, ved 100 ºC, cSt (ASTM D445)</td><td width="" height="" class="standard">8.7</td>
+                                            <td width="" height="" class="standard">Viskositet, ved 100 ï¿½C, cSt (ASTM D445)</td><td width="" height="" class="standard">8.7</td>
                                         </tr>
                                         <tr>
-                                            <td width="" height="" class="standard">Viskositet, ved 40 ºC, cSt (ASTM D445)</td><td width="" height="" class="standard">44.8</td>
+                                            <td width="" height="" class="standard">Viskositet, ved 40 ï¿½C, cSt (ASTM D445)</td><td width="" height="" class="standard">44.8</td>
                                         </tr>
                                         <tr>
                                             <td width="" height="" class="standard">Viskositetsindeks</td><td width="" height="" class="standard">173</td>
@@ -251,22 +251,22 @@ Mobil&trade; oljevelger?</a>
                                             <td width="" height="" class="standard">Sulfatert aske, vkt. % (ASTM D874)</td><td width="" height="" class="standard">0.8</td>
                                         </tr>
                                         <tr>
-                                            <td width="" height="" class="standard">HTHS-viskositet, mPa&bull;s ved 150 ºC (ASTM D4683)</td><td width="" height="" class="standard">2.7</td>
+                                            <td width="" height="" class="standard">HTHS-viskositet, mPa&bull;s ved 150 ï¿½C (ASTM D4683)</td><td width="" height="" class="standard">2.7</td>
                                         </tr>
                                         <tr>
                                             <td width="" height="" class="standard">Fosfor (ASTM D4951)</td><td width="" height="" class="standard">0.065</td>
                                         </tr>
                                         <tr>
-                                            <td width="" height="" class="standard">Flammepunkt, ºC (ASTM D 92)</td><td width="" height="" class="standard">224</td>
+                                            <td width="" height="" class="standard">Flammepunkt, ï¿½C (ASTM D 92)</td><td width="" height="" class="standard">224</td>
                                         </tr>
                                         <tr>
                                             <td width="" height="" class="standard">Totalt basetall (ASTM D2896)</td><td width="" height="" class="standard">8.8</td>
                                         </tr>
                                         <tr>
-                                            <td width="" height="" class="standard">MRV ved -40 ºC (ASTM D4684)</td><td width="" height="" class="standard">9200</td>
+                                            <td width="" height="" class="standard">MRV ved -40 ï¿½C (ASTM D4684)</td><td width="" height="" class="standard">9200</td>
                                         </tr>
                                         <tr>
-                                            <td width="" height="" class="standard">Tetthet ved 15,6 ºC g/ml (ASTM D4052)</td><td width="" height="" class="standard">0.841</td>
+                                            <td width="" height="" class="standard">Tetthet ved 15,6 ï¿½C g/ml (ASTM D4052)</td><td width="" height="" class="standard">0.841</td>
                                         </tr></tbody></table>
                                 </div>
                             </td>
@@ -278,7 +278,7 @@ Mobil&trade; oljevelger?</a>
                             <td valign="top" style="width: 10px; height: 10px;" id="tabsLowerLeft">
                                 <img src="/Images/Tabs/box_LeftLower.png" alt=""/>
                             </td>
-                            <td valign="top" style="width: 435px; background-image:url('/Images/Tabs/box_Lower.png'); background-repeat: repeat-x;" id="tabsLowerMiddle"> </td>
+                            <td valign="top" style="width: 435px; background-image:url('/Images/Tabs/box_Lower.png'); background-repeat: repeat-x;" id="tabsLowerMiddle">ï¿½</td>
                             <td valign="top" style="width: 10px; height: 10px;" id="tabsLowerRight">
                                 <img src="/Images/Tabs/box_RightLower.png" alt=""/>
                             </td>
@@ -287,15 +287,15 @@ Mobil&trade; oljevelger?</a>
                 </div>
             </div>
             <div style="clear:both;width:100%;position:relative;"><!--#include file="Navigation/Footer.aspx" --></div>
-        </div><script type="text/javascript">  
+        </div><script type="text/javascript">
         var tabsdiv = document.getElementById("divTabs");
         var tabs, tabId;
- 
+
         //Get parameter
         var parameters = location.search;
         var index = parameters.indexOf('tabIndex=');
         if (index != -1){
-          
+
           var tabIndex = parameters.charAt(index+9);
           if(tabsdiv.childNodes.length == 1)
           {
@@ -307,7 +307,7 @@ Mobil&trade; oljevelger?</a>
           if(tabs.childNodes.length >= tabIndex)
           {
             tabId = tabs.childNodes[tabIndex-1].id;
-            showTab(tabId);        
+            showTab(tabId);
             location.href = location.href+"#"+ tabId;
           }
         }
